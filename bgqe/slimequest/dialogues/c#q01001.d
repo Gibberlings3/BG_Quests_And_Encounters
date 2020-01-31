@@ -590,8 +590,7 @@ IF ~RandomNum(5,1)~ THEN DO ~
 	SetGlobal("C#Q01_Transformation","GLOBAL",1)
 	EndCutSceneMode()
 ~ EXIT
-IF ~RandomNum(5,2)~ THEN DO ~
-	ClearAllActions()
+IF ~RandomNum(5,2)~ THEN DO ~ClearAllActions()
 	StartCutSceneMode()
 	TakePartyItem("C#Q01004")
 	MoveToPoint([312.258])
@@ -599,10 +598,23 @@ IF ~RandomNum(5,2)~ THEN DO ~
 	ActionOverride("C#Q01003",ForceSpellPoint([357.250],RED_SWIRL))
 	Wait(1)
 	ActionOverride("C#Q01003",ForceSpellPoint([357.250],RED_SWIRL))
-	ActionOverride("C#Q01003",DestroySelf())
-	SetGlobal("C#Q01_Transformation","GLOBAL",1)
+	ForceSpellPoint([357.240],RED_SWIRL)
+	Wait(1)
+	ForceSpellPoint([357.240],RED_SWIRL)
+	DestroySelf()
+	SetGlobal("C#Q01_SlimeTransformation","GLOBAL",1)
+	ReputationInc(-1) AddexperienceParty(500) 
+	SetGlobal("C#Q01_Retransformation","GLOBAL",5) %ERASEJOURNALENTRY_10001% %ERASEJOURNALENTRY_10002% %ERASEJOURNALENTRY_10004% %ERASEJOURNALENTRY_10005%
 	EndCutSceneMode()
-~ EXIT
+ActionOverride("jaheira",LeaveParty()) ActionOverride("jaheira",Enemy())
+ActionOverride("kivan",LeaveParty()) ActionOverride("kivan",Enemy())
+ActionOverride("minsc",LeaveParty()) ActionOverride("minsc",Enemy())
+ActionOverride("khalid",LeaveParty()) ActionOverride("khalid",Enemy())
+ActionOverride("ajantis",LeaveParty()) ActionOverride("ajantis",Enemy())
+ActionOverride("dynaheir",LeaveParty()) ActionOverride("dynaheir",Enemy())
+ActionOverride("yeslick",LeaveParty()) ActionOverride("yeslick",Enemy())
+ActionOverride("rasaad",LeaveParty()) ActionOverride("rasaad",Enemy())
+~ %SOLVED_JOURNAL% @10007 EXIT
 IF ~RandomNum(5,3)~ THEN DO ~
 	ClearAllActions()
 	StartCutSceneMode()
