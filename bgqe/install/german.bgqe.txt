@@ -13,6 +13,8 @@ Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1
 
 Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen für eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
 
+Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+
 
 INHALT
 
@@ -79,7 +81,8 @@ Ungefähr drei Tage nach der ersten Begegnung trefft Ihr Noober - der arme Mann i
 Durch die Mod kann man die Hintergründe um Brages Schwert erkunden und nachweisen, dass Brage Opfer einer Intrige geworden ist und ihn so vor dem Galgen retten - wenn man das möchte. Es existieren böse Questlösungen.
 Voraussetzung ist, dass man Brage lebend nach Nashkell bringt. Hierzu fügt die Mod die Möglichkeit ein, ihn auch an Oublek auszuliefern, wie es im Originalspiel ursprünglich vorgesehen aber nicht realisiert war. (Hierzu die obige Warnung bzgl. Installationsreihenfolge beachten.)
 
-Hinweis: der Inhalt dieser Komponente ist auch in der Mod Brage's Redemption enthalten. Brage's Redemption muss nach dieser Komponente installiert werden.
+Hinweise: 
+Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
 Diese Komponente muss vor dem BG1NPC Projekt installiert werden, da sonst eingefügte Antwortoptionen für Brage und Borda verloren gehen.
 
 
@@ -169,7 +172,7 @@ Die Modifikation wurde mit einem WeiDU-Installer gepackt und überschreibt keine 
 
 BG1NPC Projekt: Die Komponente "Brages Schwert" muss vor dem BG1NPC Projekt installiert werden, damit die von BGQE neu eingefügten Antwortoptionen angezeigt werden.
 
-Brage's Redemption: Die Komponente "Brages Schwert" ist derselbe Inhalt, der auch in Barge's Redemption mit geliefert wird. BGQE sollte vor Brage's Redemption installiert werden. Es macht keinen Unterschied, ob der Quest von BGQE oder Brage's Redemption eingefügt wird.
+Brage's Redemption: Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
 
 
 Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das heißt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
