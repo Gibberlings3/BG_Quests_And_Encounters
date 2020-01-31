@@ -1,0 +1,31 @@
+
+
+/* Spawn Noober two days after he was met originally */
+IF 
+    Global("C#LCNOOB_Quest","GLOBAL",4)
+THEN
+    RESPONSE #100
+        CreateCreature("C#LCNOOB",[208.285]%FACE_0%)
+        SetGlobal("C#LCNOOB_Quest","GLOBAL",5)
+END 
+
+
+IF 
+    Exists("c#lcno01")
+    Global("C#LCNOOB_Quest","GLOBAL",10)
+THEN
+    RESPONSE #100
+        ActionOverride("c#lcno01",DestroySelf())
+END 
+
+/* spawn of "mother's voice": invisible cre */
+IF 
+    !Exists("c#lcno01")
+    GlobalGT("C#LCNOOB_Quest","GLOBAL",0)
+    !Global("C#LCNOOB_Quest","GLOBAL",10)
+THEN
+    RESPONSE #100
+        CreateCreature("c#lcno01",[164.317]%FACE_2%)
+END 
+
+

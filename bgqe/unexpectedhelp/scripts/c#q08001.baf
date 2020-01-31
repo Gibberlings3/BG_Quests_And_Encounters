@@ -1,0 +1,18 @@
+IF
+	Dead("C#Q08002")
+THEN
+	RESPONSE #100
+		Enemy()
+		EscapeArea()
+END
+
+IF 
+	GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5)
+	Global("C#Q08_TrunUnarmored","LOCALS",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q08_TrunUnarmored","LOCALS",1)
+		DestroyItem("PLAT01")
+		DestroyItem("SW1H04")
+		DestroyItem("SHLD04")
+END

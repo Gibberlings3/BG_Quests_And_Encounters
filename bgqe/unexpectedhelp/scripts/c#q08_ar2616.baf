@@ -1,0 +1,16 @@
+IF
+	Global("C#Q08_TalkedToTrun","GLOBAL",5)
+	Exists("C#Q08002")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q08002",DestroySelf()) //Linda
+END
+
+IF 
+	GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5)
+      Global("C#Q08_LindaCreationChapter6","GLOBAL",0)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q08_LindaCreationChapter6","GLOBAL",1)
+	    CreateCreature("C#Q08002",[350.498]%FACE_0%) //Linda 
+END

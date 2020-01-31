@@ -1,0 +1,93 @@
+
+IF
+	Global("C#Q03_AbandonedChildren","GLOBAL",2)
+	See([PC])
+	!StateCheck([PC],STATE_INVISIBLE)
+	!StateCheck([PC],STATE_IMPROVEDINVISIBILITY)	
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_AbandonedChildren","GLOBAL",3)
+		StartDialog("C#Q03008",[PC])
+END
+
+
+IF 
+	  Global("C#Q03_MotherSighs","LOCALS",0)
+THEN
+	RESPONSE #100
+	  SetGlobal("C#Q03_MotherSighs","LOCALS",1)
+	  SetGlobalTimer("C#Q03_MotherSighTimer","GLOBAL",2)
+END
+
+
+IF 
+	GlobalLT("C#Q03_TalkedToMother","GLOBAL",2)
+	GlobalTimerExpired("C#Q03_MotherSighTimer","GLOBAL")
+	See([PC])
+THEN
+	RESPONSE #20
+	  SetGlobalTimer("C#Q03_MotherSighTimer","GLOBAL",20)
+	  DisplayString(Myself,@0)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q03_MotherSighTimer","GLOBAL",20)
+	  DisplayString(Myself,@1)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q03_MotherSighTimer","GLOBAL",20)
+	  DisplayString(Myself,@2)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q03_MotherSighTimer","GLOBAL",20)
+	  DisplayString(Myself,@3)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q03_MotherSighTimer","GLOBAL",20)
+	  DisplayString(Myself,@4)
+END
+
+IF
+	Global("C#Q03_StageEnd","GLOBAL",2)
+	See(Player1)
+	Global("C#Q03_PCAttackedChildren","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_StageEnd","GLOBAL",5)
+		StartDialog("C#Q03008",Player1)
+END
+
+IF
+	Global("C#Q03_StageEnd","GLOBAL",2)
+	See(Player1)
+	Dead("C#Q03009")
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_StageEnd","GLOBAL",5)
+		StartDialog("C#Q03008",Player1)
+END
+
+IF
+	Global("C#Q03_StageEnd","GLOBAL",2)
+	See(Player1)
+	Dead("C#Q03010")
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_StageEnd","GLOBAL",5)
+		StartDialog("C#Q03008",Player1)
+END
+
+
+IF
+	Global("C#Q03_StageEnd","GLOBAL",2)
+	See(Player1)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_StageEnd","GLOBAL",3)
+		StartDialog("C#Q03008",Player1)
+END
+
+IF
+	Global("C#Q03_StageEnd","GLOBAL",2)
+	!See(Player1)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END
+
+

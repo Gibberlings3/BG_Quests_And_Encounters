@@ -1,0 +1,14 @@
+IF
+	Allegiance(Myself,[ENEMY])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+IF
+	GlobalLT("C#Q04_ArnimAndWyrm","GLOBAL",5)
+	!Range("C#Q04003",3)
+THEN
+	RESPONSE #100
+		MoveToObject("C#Q04003")
+END

@@ -1,0 +1,12 @@
+IF 
+      Global("C#Q03_BabysitterCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q03_BabysitterCreation","GLOBAL",1)
+	    CreateCreature("C#Q03011",[2733.3259]%FACE_0%) //potential Babysitter
+END
+
+
+
+
+

@@ -1,0 +1,313 @@
+@0    = ~Was... Was habt Ihr *getan*!~
+@1    = ~Was... Was habt Ihr *getan*! Mein Kind!~
+@2    = ~Ach, nicht schon wieder! Er ist *oben*, das solltet Ihr langsam wirklich wissen. Sagt ihm, dass er sich seinen Tee selber machen soll. Ich bin nicht seine Sklavin!~
+@3    = ~Wie bitte?~
+//@4    = 
+@5    = ~Entschuldigt die Störung, ich bin schon weg.~
+@6    = ~Wir haben gerade mit Eurem Mann gesprochen, und er...~
+@7    = ~Was ist denn hier los? Ihr seid wirklich ein seltsames Paar!~
+@8    = ~Wir hoffen, dass die Halskette nach Eurem Geschmack ist, freundlicher Helfer.~ ~Wir hoffen, dass die Halskette nach Eurem Geschmack ist, freundliche Helferin.~
+@9    = ~Wer hätte das gedacht! Es war Annie, die die Halskette genommen hatte! *schaut reuevoll* Mein armer Gemahl. Habt vielen Dank, geehrter Fremder! Ihr habt uns einen großen Dienst erwiesen.~ ~Wer hätte das gedacht! Es war Annie, die die Halskette genommen hatte! *schaut reuevoll* Mein armer Gemahl. Habt vielen Dank, geehrte Fremde! Ihr habt uns einen großen Dienst erwiesen.~
+@10   = ~Es liegt mir viel daran, dass es Euch gut geht. Habt Ihr einen ehrlichen Käufer für Eure Halskette?~
+@11   = ~Es war mir ein Vergnügen. Guten Tag.~
+@12   = ~Ja, manchmal wundert man sich, wie albern manche Erwachsene sein können.~
+@13   = ~Ich habe hier die versprochene Summe. Seid Ihr noch immer an dem Verkauf interessiert?~
+@14   = ~*schluchz* Bitte geht jetzt...~
+@15   = ~Was wollt Ihr denn nun?~
+@16   = ~Seid Ihr sicher, dass Ihr kein Geld braucht?~
+@17   = ~Euer Ehemann sagte uns, dass die vermisste Halskette Euch gehört...~
+@18   = ~Nichts, auf Wiedersehen.~
+@19   = ~Ich *sagte* bereits, wo er sich aufhält!~
+@20   = ~Ihr scheint etwas zu vermissen. Können wir Euch irgendwie helfen?~
+@21   = ~Eure Tochter erwähnte, dass Ihr eine Halskette vermisst.~
+@22   = ~Nichts. Lebt wohl.~
+@23   = ~Habt vielen, vielen Dank. Wir... wir sind zurückhaltende Leute, und vielleicht manchmal etwas zu stolz. *lächelt schwach* Ihr seid eine sehr großzügige und freundliche Person. Wir stehen in Eurer Schuld.~
+@24   = ~*Ihr gebt Herrn Dudley die 500 Goldmünzen.*~
+//@25   = 
+@26   = ~*Ihr verstaut 550 Goldmünzen in Herrn Dudleys Geldsack, sorgsam darauf bedacht, dass er die überzähligen Münzen nicht bemerkt.* Ich danke *Euch*, Ihr guten Leute.~
+//@27   = 
+@28   = ~*Ihr verstaut 600 Goldmünzen in Herrn Dudleys Geldsack, sorgsam darauf bedacht, dass er die überzähligen Münzen nicht bemerkt.* Ich wünsche Euch das beste.~
+//@29   = 
+@30   = ~Ihr habt mich sehr wohl verstanden. Wenn Ihr die Güte hättet, Eure Schuhe abzutreten, bevor Ihr nach oben geht!~
+@31   = ~Ich... Ach, was soll's.~
+@32   = ~Was auch immer. Wenn Ihr zumindest die Güte hättet, Eure Schuhe abzutreten, bevor Ihr nach oben geht!~
+@33   = ~Ich höre mir nichts weiter mehr an! Ich weiß wirklich nicht, warum er immer seine Freunde vorbeischickt. Seinetwegen glaubt mittlerweile die gesamte Straße, dass *ich* es hätte. Dabei versteckt er es doch! Das ist alles so lächerlich. Bitte lasst mich in Ruhe.~
+@34   = ~Vermisst Ihr etwas?~
+@35   = ~Ich sage nichts mehr. Geht zu ihm zurück und lasst mich in Ruhe!~
+@36   = ~Hat sie Euch das gesagt? *seufzt* Armes Mädchen. Ihr Vater macht sich einfach nicht klar, was er anrichtet. Er überlegt einfach nicht, was er uns antut, indem er den Schmuck nicht rausrückt!~
+@37   = ~Kann ich Euch irgendwie helfen?~
+@38   = ~Wie schrecklich. Ich gehe dann mal besser.~
+@39   = ~Nein, das denke ich nicht. Es tut mir leid, ich wollte Euch nicht beleidigen, aber nicht einmal unsere Freunde konnten es bewirken, dass er einlenkt... Ich muss mich für meine Unfreundlichkeit entschuldigen. Bei Eurem ersten Erscheinen dachte ich, Ihr gehört zu seinen Freunden, von denen in letzter Zeit ständig welche hier reinplatzen... Habt vielen Dank für Euer Hilfsangebot, aber es wäre besser, wenn Ihr uns nun alleine lasst.~ 
+@40   = ~Wenn es Euch nur an Gold mangelt, vielleicht kann ich Euch diesbezüglich aushelfen?~
+@41   = ~Wie Ihr wollt. Lebt wohl.~
+@42   = ~Ah... nein, nein, danke. Wir haben genug Geld. Zumindest *hätten* wir genug, wenn... Nun, wie dem auch sei. Es ist nicht Euer Problem.~ 
+@43   = ~Hat er das? Nun, zumindest scheint er sich daran zu erinnern... Trotzdem hilft es nichts, solange er sie mir nicht *gibt*!~ 
+@44   = ~Er sagte jedoch auch, dass er keinen Grund hätte, die Halskette zu verstecken, und dass Ihr einverstanden gewesen wärt, sie zu verkaufen... Aber dann hättet Ihr plötzlich Eure Meinung geändert.~
+@45   = ~Wie wahr. Ich muss gehen.~
+@46   = ~*Ich* hätte meine Meinung geändert? *Ich* hätte meine Meinung geändert? Den einen Abend besprachen wir die Notwendigkeit, die... *schluchz* die Perlenkette meiner Großmutter zu verkaufen, und am nächsten Morgen lässt er sie verschwinden! Wir werden unser Haus verlieren, weil wir die letzten Schulden nicht tilgen können. Ich mache ihn nicht dafür verantwortlich, dass er seit dem Unfall nicht mehr so viel verdient wie früher. Ich habe mit diesem meinen starrsinnigen Ehemann seit mehreren Tagen nicht mehr gesprochen. Ich... ich ertrage das nicht länger... *schluchz* Bitte, lasst mich in Ruhe...~
+@47   = ~Wir drehen uns hier doch im Kreis! Die Lösung muss woanders liegen.~
+@48   = ~Oh, bitte, nicht... nicht weinen... Argh, ich gehe besser.~
+@49   = ~Arme Annie... Was wird nur aus ihr... *schluchz*~
+@50   = ~Was... was habt Ihr getan! Annie!~
+@51   = ~Was macht Ihr hier? Geht wieder runter und erinnert sie an unsere Vereinbarung. *Oben* ist mein Bereich und *unten* ihrer. Und sagt ihr, ich möchte einen Tee! Nun los, geht schon!~
+@52   = ~Ich bitte um Verzeihung?~
+@53   = ~...In Ordnung, ich bin weg.~
+@54   = ~Wir haben eben mit Eurer Frau gesprochen, und sie sagte, dass...~
+@55   = ~Wartet, wartet! Ihr... *keuch* Ihr habt uns zu viel Geld gegeben, freundlicher Helfer. Wir hatten 500 *keuch* 500 Goldmünzen vereinbart!~ ~Wartet, wartet! Ihr... *keuch* Ihr habt uns zu viel Geld gegeben, freundliche Helferin. Wir hatten 500 *keuch* 500 Goldmünzen vereinbart!~
+@56   = ~Ah, Ihr seid es wieder! Es ist schön, ein freundliches Gesicht zu sehen. Mochte Eure Bekannte die Kette?~ 
+@57   = ~Wer hätte gedacht, dass Annie die Halskette genommen hatte!~
+@58   = ~Eure Frau sitzt unten und weint. Seid Ihr sicher, dass Ihr nicht einfach nur etwas Gold annehmen wollt, und die Sache hätte endlich ein Ende?~ 
+@59   = ~Seid Ihr sicher, dass ich Euch kein Gold geben soll?~ 
+@60   = ~Nach dem, was Eure Frau erzählt, hatte ich eher den Eindruck, dass sie denkt, *Ihr* würdet die Kette verstecken.~ 
+@61   = ~Denkt daran, sie nach dem Tee zu fragen!~ 
+@62   = ~Ihr scheint etwas zu vermissen?...~
+@63   = ~Habt Ihr was in den Ohren? Geht endlich runter zu ihr, es *ist* genug Platz unten!~ 
+@64   = ~Ich.. nun gut, lebt wohl.~
+@65   = ~*grunz* Man müsste meinen, es wäre genug Platz unten!~ 
+@66   = ~Oho, glaubt nicht, dass ich darauf reinfalle! Es ist ja wohl sonnenklar, dass *sie* es versteckt. Sagt Ihr, dass es zu nichts führt, wenn sie damit weitermacht. Wir müssen es nunmal verkaufen.~
+@67   = ~Ihr vermisst etwas?~
+@68   = ~Ha! Mittlerweile weiß es wohl die ganze Straße. Ist es denn eine Schande, wenn man Besitztümer veräußern muss, weil nicht genug Geld da ist? Ich kann nun mal nichts dafür, dass mir der dämliche Gaul auf den Fuß gestanden ist. Ich bitte Euch, Ihr Leute, geht jetzt. Ich brauche etwas Ruhe.~ 
+@69   = ~Könnten wir Euch denn irgendwie helfen?~
+@70   = ~Natürlich. Auf Wiedersehen.~
+@71   = ~Ja! Geht runter zu ihr und sagt ihr, sie soll endlich aufhören, es zu verstecken! Guten Tag.~
+@72   = ~Vermissen? Ja, wir vermissen in der Tat etwas. Meine geliebte Frau versteckt den letzten und einzigen Besitz, durch dessen Wert wir in der Lage wären, die restlichen Schulden zu bezahlen und das Haus zu halten... Bei den Göttern, jetzt rede ich mit einem kompletten Fremden über meine Geldprobleme! Besser, Ihr geht jetzt. Ich wünsche einen guten Tag.~ ~Vermissen? Ja, wir vermissen in der Tat etwas. Meine geliebte Frau versteckt den letzten und einzigen Besitz, durch dessen Wert wir in der Lage wären, die restlichen Schulden zu bezahlen und das Haus zu halten... Bei den Göttern, jetzt rede ich mit einer kompletten Fremden über meine Geldprobleme! Besser, Ihr geht jetzt. Ich wünsche einen guten Tag.~
+@73   = ~Das ist lächerlich! Warum sollte ich das tun? Es gehört ja ihr, genau gesprochen, alter Familienerbschmuck... *seufzt* Es ist nicht einfach für einen Mann, wenn er zugeben muss, dass er seine Familie nicht mehr länger versorgen kann. Sie war einverstanden, dass wir die Perlen verkaufen. Was für eine tapfere Frau sie ist, meine Margareth! Aber *seufzt* dann änderte sie wohl ihre Meinung, und nun ist das Schmuckstück weg. Ich habe seit einer Woche nicht mehr mit ihr gesprochen! Diese Situation ist nicht zum Aushalten. Bitte, lasst einen alten Mann mit seinen Sorgen allein. Ich wünsche Euch einen schönen Tag.~
+@74   = ~Wenn es nur Geld ist, das Euch fehlt, kann ich Euch dann vielleicht mit einer Gabe aushelfen?~ 
+@75   = ~Lebt wohl.~
+@76   = ~Wie? Oh, vielen Dank für diese... äh, noble Geste, aber das würde sie niemals akzeptieren, meine Margareth... Nein, niemals.~
+@77   = ~*seufzt* Es ist nicht so einfach, versteht Ihr? Es geht nicht, dass wir Geld von Fremden annehmen, nur weil wir uns nicht einigen können. Euer Angebot klingt natürlich sehr verlockend, aber es ist leider nicht so einfach... *seufzt*~ 
+@78   = ~Es waren 100 Goldmünzen zu viel in meinen Säckchen, als Ihr gingt... Ist das ein Grinsen da in Eurem Gesicht? Ihr seid sehr freundlich und spendabel, wirklich, aber wir... wir können eine Spende von so hohem Wert nicht akzeptieren.~ 
+@79   = ~Es ist keine Spende. Ich hatte Euch 600 Goldmünzen geboten, da dies genau der Betrag ist, den die Perlenkette in meinen Augen Wert ist. Ich wollte mit Euch nur in Anwesenheit Eurer Frau nicht streiten. Ich werde diese 100 Goldmünzen unter keinen Umständen zurücknehmen, da sie Euch gehören, guter Mann.~
+@80   = ~Seid Ihr sicher? Schaut, Ihr braucht das Geld, und ich habe selber mehr als genug.~
+@81   = ~Nun, dann gebt es eben wieder zurück.~
+@82   = ~Es waren 50 Goldmünzen zu viel in meinen Säckchen, als Ihr gingt... Ist das ein Grinsen da in Eurem Gesicht? Ihr seid sehr freundlich und spendabel, wirklich, aber wir... wir können eine Spende von so hohem Wert nicht akzeptieren.~
+@83   = ~Es ist keine Spende. Ich hatte Euch 600 Goldmünzen geboten, da dies genau der Betrag ist, den die Perlenkette in meinen Augen Wert ist. Nun, Euer Gegenvorschlag war 500 Goldmünzen, und nun haben wir uns genau in der Mitte getroffen. Ich wollte mit Euch nur in Anwesenheit Eurer Frau nicht streiten. Ich werde diese 50 Goldmünzen unter keinen Umständen zurücknehmen, da sie Euch gehören, guter Mann.~
+@84   = ~Wir stehen in Eurer Schuld, freundlicher Fremder. Mögen die Götter Euch beschützen.~ ~Wir stehen in Eurer Schuld, freundliche Fremde. Mögen die Götter Euch beschützen.~
+@85   = ~Nein, das kommt nicht in Frage. Wir stehen auch so bereits in Eurer Schuld, freundlicher Fremder. Hier, nehmt das Geld zurück, und mögen die Götter mit Euch sein.~ ~Nein, das kommt nicht in Frage. Wir stehen auch so bereits in Eurer Schuld, freundliche Fremde. Hier, nehmt das Geld zurück, und mögen die Götter mit Euch sein.~
+@86   = ~Ach, nein, Ihr wollt doch nicht ernsthaft... Ich meine... Wollt Ihr tatsächlich...?~
+@87   = ~Ich... ich muss beim Laufen wohl etwas Sand in die Augen bekommen haben. Das sind jedenfalls keine Tränen, die Ihr da in meinen Augen seht... *räusper* Ihr seid etwas Besonderes, junger Freund, das sage ich Euch. Und was Ihr da sagtet macht tatsächlich Sinn... Ich hoffe, ich kann es mir merken, bis ich es Margareth erzähle... Oder vielleicht erzähle ich es ihr erst gar nicht, und mache daraus eine schöne Überraschung.~ ~Ich... ich muss beim Laufen wohl etwas Sand in die Augen bekommen haben. Das sind jedenfalls keine Tränen, die Ihr da in meinen Augen seht... *räusper* Ihr seid etwas Besonderes, junge Frau, das sage ich Euch. Und was Ihr da sagtet macht tatsächlich Sinn... Ich hoffe, ich kann es mir merken, bis ich es Margareth erzähle... Oder vielleicht erzähle ich es ihr erst gar nicht, und mache daraus eine schöne Überraschung.~
+@88   = ~Wir stehen in Eurer Schuld, freundlicher Fremder. Ich werde das Geld also behalten... Mögen die Götter mit Euch sein!~ ~Wir stehen in Eurer Schuld, freundliche Fremde. Ich werde das Geld also behalten... Mögen die Götter mit Euch sein!~
+@89   = ~Nun, wir werden die Kette wohl an einen Freund verkaufen. Es ist natürlich nie ratsam, Geldgeschäfte mit Freunden zu machen, aber es...~
+@90   = ~Du liebe Zeit, wollt Ihr ihm jetzt alle Einzelheiten über unser Geldproblem darlegen?~ ~Du liebe Zeit, wollt Ihr ihr jetzt alle Einzelheiten über unser Geldproblem darlegen?~
+@91   = ~Wir sind Euch für Eure Hilfe sehr dankbar, aber wir brauchen jetzt etwas Zeit, um die weitere Vorgehensweise zu besprechen. Ich bitte um Euer Verständnis, aber die vergangenen Tage waren sehr anstrengend.~ 
+@92   = ~Es tut mir Leid, dass ich mich so in Eure Privatangelegenheiten einmische, aber ich suche tatsächlich eine schöne Perlenkette für, äh... eine Bekannte. Würdet Ihr mir die Kette verkaufen, für, sagen wir, 600 Goldmünzen?~
+@93   = ~Nun, ich hoffe, alles wird gut. Lebt wohl.~
+@94   = ~Ja, sicher. Ich muss gehen.~
+@95   = ~600 Goldmünzen?! Das ist... das ist sehr viel mehr, als wir durch den anderen Verkauf erhalten würden.~
+@96   = ~Habt vielen Dank für dieses großzügige Angebot, aber wir wollen Euch nicht mit unseren Problemen belasten. Wir...~
+@97   = ~Margareth, was sagt Ihr denn da? Habt Ihr nicht gehört, was gesagt wurde? Warum sollten wir es nicht jetzt verkaufen, von Edgar können wir den Schmuck auch nicht mehr zurückkaufen, das wisst Ihr.~
+@98   = ~Liebling, bitte. Ich bin nicht so dumm, zu glauben...~
+@99   = ~Margareth, kommt mal bitte einen kurzen Moment zur Seite, ja?~
+@100  = ~*flüsterflüster* ...das Geld direkt, und... *murmelmurmel* ...man weiß nie, ob Edgar nicht... *flüsterflüster*...~
+@101  = ~Ja, aber... *flüsterflüster*...~
+@102  = ~Margareth, bitte! Annie... *flüsterflüster*, hm?~
+@103  = ~Nun *flüsterflüster* *schluchz* Ihr habt ja Recht, Liebling, aber nur, wenn *flüsterflüster*.~
+@104  = ~Ihr seid die weiseste aller Frauen, meine wundervolle Frau. Genau so werden wir es machen.~
+@105  = ~Nun gut, ehrenwerter Helfer. Wir haben uns doch entschlossen, Euer Angebot anzunehmen, wenn auch nicht für die Summe, die Ihr uns geboten habt. Wir verkaufen Euch die Kette für 500 Goldmünzen. Das ist immer noch ein sehr guter Preis für uns, und wir sind uns sehr wohl bewusst, dass Ihr dies wisst... *räusper*.~ ~Nun gut, ehrenwerte Helferin. Wir haben uns doch entschlossen, Euer Angebot anzunehmen, wenn auch nicht für die Summe, die Ihr uns geboten habt. Wir verkaufen Euch die Kette für 500 Goldmünzen. Das ist immer noch ein sehr guter Preis für uns, und wir sind uns sehr wohl bewusst, dass Ihr dies wisst... *räusper*.~
+@106  = ~Das trifft sich ausgezeichnet. Und ich dachte schon, ich müsste noch länger nach einer schönen Perlenkette suchen!...~ 
+@107  = ~Wenn Ihr es so entschieden habt, werde ich nicht mit Euch streiten.~
+@108  = ~Ja, ja, nun lasst es uns einfach machen und fertig.~
+@109  = ~Wie es scheint, habe ich momentan nicht genug Geld dabei. Ich werde später wiederkommen.~
+//@110  = 
+@111  = ~Mama!~
+@112  = ~Papa!~
+@113  = ~Wer seid Ihr? Ihr seht gruselig aus!...~
+@114  = ~Habt Ihr die Kette noch? Kann ich sie nochmal sehen?~
+@115  = ~Mama ist gar nicht so böse, wie ich dachte! Nur leider wird die schöne Perlenkette nun verkauft...~
+@116  = ~Ich wollte niemandem wehtun!~
+@117  = ~Oh, arme Kleine. Ganz ruhig, alles wird wieder gut. Die Kette zu verstecken hilft nicht weiter, Annie. Geh' rein und gib sie zurück.~
+@118  = ~Weinst du *immer noch*?~
+@119  = ~Ihr habt wieder mit meinen Eltern gesprochen, oder?~
+@120  = ~Das habe ich, in der Tat. Bist du sicher, dass du nichts über diese verschwundene Halskette weißt, Annie?~
+@121  = ~Ich möchte nicht mit dir sprechen, Kind.~
+@122  = ~Annie, nach dem, was deine Mutter sagte, habe ich das starke Gefühl, das "jemand" die Halskette in der bestimmten Nacht von ihrem Platz genommen hat... Meinst du nicht, es ist langsam Zeit, sie wieder zurückzubringen? Hm?~
+@123  = ~*seufzt* Ich wünschte, Mama und Papa würden aufhören, sich zu streiten.~
+@124  = ~Ihr wart bei mir zu hause! Habt Ihr mit meinen Eltern gesprochen?~
+@125  = ~Ich habe tatsächlich mit deinen Eltern gesprochen... oder es zumindest versucht. Es scheint, dass sie etwas vermissen, etwas sehr Wichtiges.~
+@126  = ~Und du bist wer, bitte?~
+@127  = ~Ich habe mit deiner Mutter gesprochen... Anscheinend verstehen sich deine Eltern zur Zeit nicht so gut?~
+@128  = ~Ich habe mit deinem Vater gesprochen... Anscheinend verstehen sich deine Eltern zur Zeit nicht so gut?~
+@129  = ~Ich? Ich... ich bin Annie, warum fragst du das?~
+@130  = ~Nein, tun sie nicht... *seufzt* Ich wünschte, Mama und Papa würden aufhören, sich zu streiten!~
+@131  = ~Ja-a... Haben sie Euch das erzählt? Was haben sie gesagt?~
+@132  = ~Nein, sie haben es mir ehrlich gesagt nicht erzählt. Ich habe es mir nur aus dem, was sie sagten, zusammengereimt. Weißt du etwas darüber?~
+@133  = ~Ja, haben sie. Jetzt sage du mir, was du darüber weißt!~
+@134  = ~Ist auch egal. Ich will nicht mit dir sprechen.~
+@135  = ~Mama sagte, wir brauchen Geld, um das Haus zu bezahlen. Aber wir haben die Kette verloren, die sie dafür verkaufen wollte.~
+@136  = ~Ah, es handelt sich also um eine *Kette*! Nun, deine Mutter und dein Vater scheinen sich gegenseitig zu verdächtigen. Du weißt nicht zufälligerweise, wo sich die Kette befindet, oder?~
+@137  = ~Ich? Nein... nein, warum sollte ich?~
+@138  = ~Nun, nun, wie auch immer, ich muss gehen.~
+@139  = ~Das glaube ich Euch nicht! Sie erzählen es keinem Fremden!~ ~Das glaube ich Euch nicht! Sie erzählen es keiner Fremden!~
+@140  = ~Gut, ja, du hast Recht, sie haben es mir nicht erzählt. Ich habe es mir nur aus dem, was sie sagten, zusammengereimt. Weißt du etwas darüber?~
+@141  = ~Aber ich... ich... *schluchz* Ich möchte aber nicht, dass die Kette verkauft wird! Es ist das letzte, was wir noch von Oma haben und ich... ich dachte, sie finden eine andere Lösung, und *schluchz* ich habe sie genommen, als sie beide geschlafen haben und jetzt sind sie so böse und alles ist so schlimm... *schluchz*~
+@142  = ~Gute Güte! Noch eine Heulende. Ich halte das nicht aus!~
+@143  = ~Viel.. *schluchz* Vielleicht habt Ihr Recht. Oh, ich hoffe nur, dass Mama nicht so böse mit mir ist!~
+//@144  = 
+//@145   = 
+//@146   = 
+@147   = ~Ihr! Ihr seid doch... Ihr habt die Kette von meiner Tochter genommen, nicht wahr? Ihr seid böse... Wir können Euch natürlich nichts beweisen, aber ich glaube meiner Tochter. Wir mussten das Haus aufgeben, weil wir die Schulden nicht bezahlen konnten. Wir werden weit weg ziehen, und hoffen, dass wir einen neuen Anfang finden. Schande über Euch!~
+@148   = ~Habt Ihr die Kette noch? Ihr gebt sie aber Mama, ja?~
+@149   = ~Ich habe Quatsch erzählt. Besser, du bringst die Kette deiner Mutter. Hier, mach schnell!~
+@150   = ~Gib mir die Kette, Kleine. Ich werde sie... ähm, verwahren, bis sich deine Eltern beruhigt haben.~
+@151   = ~Ich soll Euch die Kette geben?~
+@152   = ~Nein, war nicht so gemeint.~
+@153   = ~Ja, sicher. Denk nur, wie sauer deine Mutter ist, wenn sie *das* rauskriegt. Besser, du hast die Kette dann nicht bei dir!~
+@154   = ~Wenn... wenn Ihr meint. Ihr müsst sie aber Mama geben, ja?~
+//@155   = 
+@156   = ~Ihr seid ein Schuft!~
+@157   = ~Ihr habt uns die Kette weggenommen! Das war böse!~
+@158   = ~Warum erzählt Ihr mir das?~
+@159   = ~Hier ist die Halskette. Annie hatte sie genommen.~
+//@160   = 
+@161   = ~Was Ihr nicht sagt! Und Ihr gebt sie nun uns. Ich weiß nicht, wie Ihr Annie dazu gebracht habt, sie Euch zu geben, aber unsere Dankbarkeit für Eure Ehrlichkeit ist Euch gewiss!~
+@162   = ~Meine Halskette! An... Annie, sagt Ihr? Oh, wie habt Ihr das nur herausgefunden? Habt Dank für Eure Hilfe. Ihr wisst gar nicht, was das für uns bedeutet!~
+@163   = ~Hier, Kleine, nimm die Kette deiner Oma wieder. Ich schenke sie dir. Damit du dich immer an deine Großmutter erinnern kannst, pass gut darauf auf!~
+@164   = ~Ihr... Ihr gebt mir Omas Kette wieder? Ooh, ist das schön! Jetzt können wir sie ja doch aufheben! Das werde ich allen meinen Freundinnen erzählen. Danke!~
+@165   = ~Hallo! Ich habe die Kette meinen Eltern noch nicht gezeigt. Mama war so komisch... Vielleicht zeige ich sie morgen Papa.~
+
+
+/* neuer Inhalt: v9 */
+
+//-----NPC reactions
+@166   = ~UahaHAHA! Das war ein Spaß! Lasst uns eine weitere Familie finden und das noch einmal machen!~
+@167   = ~Ihr seid so ge-mei-hei-hein!~
+@168   = ~Geschieht Ihnen recht, wenn sie sich nicht zu helfen wissen.~
+@169   = ~Oh, nein! Können wir da jetzt gar nichts machen? Das ist übel...~
+@170   = ~Heißt das, wir können das Haus jetzt billig kaufen?~
+@171   = ~Ich kann denen gerne Beine machen, wenn sie noch Hilfe beim Räumen brauchen!~
+@172   = ~Vielleicht haben sie verwertbare Sachen im Haus gelassen. Sie haben doch sicher wertvolle Dinge, die sie nicht mitnehmen können?~
+@173   = ~Oh, natürlich nicht! Es war ja auch un-mög-lich zu erahnen, wer die Halskette genommen hatte. Pfuuuh, manche Leute!~
+@174   = ~Und der Preis für des Rätsels Lösung geht an - tadaa! - <CHARNAME>! Lasst uns hier verschwinden.~
+@175   = ~Tiax versteht nicht, was wir in diesem Hause zu schaffen haben. Diese Leute huldigen dem großen Tiax nicht, ja, sie sehen ihn noch nicht einmal an!~
+@176   = ~Ich bin mir nicht sicher, was wir hier eigentlich machen. Nichts, was diese Frau und der Mann von sich geben macht irgend einen Sinn. Und diese Göre - argh!~
+@177   = ~Der Umgang in manchen Familien ist wirklich unglaublich. Hätten sie nicht einfach miteinander *reden* können?~
+@178   = ~Wäre nicht die erste Familie, in der die Tochter die Eltern an der Nase herumführt...~
+@179   = ~Ähm, das ist eine komplett andere Geschichte, Eldoth!~
+@180   = ~So eine schöne Kette so zu verstecken, wie es das Mädchen getan hat... Das würde mir schwer fallen.~
+@181   = ~Ja, Ihr würdet sie höchstwahrscheinlich stolz herumzeigen.~
+@182   = ~Ich kenne das Gefühl. Als ich ein Kind war, habe ich mir auch schöne Dinge genommen um sie zu behalten... Äh, wobei meine Intention wohl nicht halb so ehrenhaft war wie die von Annie.~
+@183   = ~*lacht* Ihr seid die ehrlichste Diebin, die mir je untergekommen ist, Alora.~
+@184   = ~*Ich* habe nie glänzende Dinge gestohlen, um sie zu behalten. Sie waren immer für ein schönes Mädchen...~
+@185   = ~Ich warte noch immer, Coran...~
+@186   = ~Das Kind wird hoffentlich angemessen bestraft. Es gibt keine Entschuldigung dafür, die Existenz der eigenen Gemeinschaft so zu gefährden!~
+@187   = ~Oh, nein! Hoffentlich tun sie das nicht!~
+@188   = ~Was geht mich das hier eigentlich an? Oberweltler und ihre Probleme, pah!~
+@189   = ~Damit sind ihre Probleme hoffentlich gelöst. Es wäre ein Jammer, sie weiterhin in Schierigkeiten zu sehen.~
+@190   = ~Es ist großartig, dass sie jetzt alle glücklich sind, und so weiter, aber wie lange gedenkt Ihr eigentlich noch in dieser Stadt zu verweilen?~
+@191   = ~Es ist immer wieder seltsam zu sehen, welche Auswirkungen ein Zuwenig an Kommunikation haben kann. Nun, ich sollte vielleicht lieber schweigen, wenn ich bedenke, was *zu viel* Reden in meinem Fall für Auswirkungen hatte *seufzt*.~
+@192   = ~Gebt Euch nicht dem Gefühl der Schuld hin, mein Freund. Diese Bastarde haben uns alle leiden lassen.~
+@193   = ~Dieser Familie zu helfen mag nichtig und unwichtig erscheinen, aber jede gute Tat lässt die Wagschale zur richtigen Seite ausschlagen.~
+@194   = ~Ihr nehmt mir die Worte aus dem Mund! Wir arbeiten in großen und kleinen Schritten gegen das Böse, dass sich an der Schwertküste niedergelassen hat, und das ist gut.~
+@195   = ~Wir haben eine gute Tat für eine Familie gutherziger Menschen getan. Ich danke Euch, <CHARNAME>.~
+@196   = ~Wir sollten mit diesen guten Taten vorsichtig sein. Zuviel von einer Sache führt immer zur Maßlosigkeit.~
+@197   = ~Genau das wollte ich auch gerade sagen, Branwen. Wir müssen auf die Ausgeglichenheit achten.~
+@198   = ~Ausgeglichen? Ich könnte auf die guten Taten komplett verzichten.~
+@199   = ~Es ist sch-schön, diese Menschen wieder vereint zu sehen.~
+@200   = ~Jetzt, da sie alle aufgereiht nebeneinander stehen, würde ein Axthieb genügen, um das ganze hier ein für alle mal zu beenden. <CHARNAME>, sagt, dass das Eure Intention war! Ihr hört Euch nicht länger dieses Gesabbel an, oder?!~
+@201   = ~Es gibt immer wieder Momente, in denen das beste Lied und die süßeste Melodie keinen Frohsinn verbreiten können, sondern es schlicht und ergreifend einer Handvoll Gold bedarf. Äh, sowas in der Tat ging mir auch durch den Kpf, als ich Euch für Silke angeheuert habe...~
+@202   = ~Noch eine Familie, in der alle so tun, als würden sie sich lieb haben - bäh!~
+@203   = ~Nun schauen sie alle froh... aber wird es von Dauer sein?~
+@204   = ~Xan, in Euren Erinnerungen wird es fortdauern bis in alle Ewigkeit. Elfengedächtnis und so?~
+@205   = ~Diese Erinnerung wird in der Tat bei mir bleiben, Imoen, aber Ihr seid naiv, wenn Ihr glaubt, dass sie nicht bereits sehr bald in einem Meer an negativen Erinnerung ertränkt sein wird.~
+@206   = ~Ah, Minsk wird es ganz warm ums Herz beim Anblick dieser glücklichen Leute.~
+@207   = ~Dies ist ein schönes Ende.~
+@208   = ~Oh, die Kette zu kaufen ist eine tolle Idee! Kann ich sie haben? Bitte? Bitte?~
+@209   = ~Es ist sehr ehrenvoll, zur rechten Zeit da zu sein und die rechten Dinge zu tun...~
+@210   = ~Die Kette zu kaufen wird dieser Familie helfen, aber was genau wollt Ihr damit nun machen?~
+@211   = ~Seid Ihr sicher, dass das eine gute Idee war? Sie hatten doch bereits einen Käufer für die Kette.~
+@212   = ~Wer auch immer Eure "Bekannte" sein soll - ich nehme Euch die Kette gerne ab. Bevor sie Euch noch das Gepäck verstopft, Ihr wisst schon.~
+@213   = ~Ich frage mich, wer diese "Bekannte" von Euch ist?...~
+@214   = ~Skie, Ihr seid so... süß.~
+@215   = ~Oh, danke schön! *errötet*~
+@216   = ~*lacht laut auf*~
+@217   = ~Oh, nein! Ihr gebt ihnen doch nicht etwa Gold? Gold verkompliziert alles, besonders unter Freunden! Uahahaa!~
+@218   = ~Gebt mir am besten all Euer Gold, Xzar, damit alles wieder unkompliziert und einfach ist.~
+@219   = ~<CHARNAME>, ich hätte da auch so ein oder zwei Dinge, die ich Euch gerne verkaufen würde, wenn Ihr die Zeit hättet...~
+@220   = ~Es ist ein müßiger Versuch, diesen Leuten Glück zu bescheren, <CHARNAME>. Spart Euch das Gold. Allerdings weiß ich nicht, wofür... *seufzt*~
+@221   = ~Hm, irgendwie glaube ich nicht, dass dir das aus Versehen passiert ist... *lächelt*~
+@222   = ~Das habt Ihr getan? <CHARNAME>, meine Hochachtung.~
+@223   = ~Warum scheint es, dass die, die es am nötigsten hätten, meistens zu stolz sind, um es anzunehmen?~
+@224   = ~Manche Leute sind zu ehrlich für diese Welt.~
+@225   = ~Manche Leute sind zu stolz für diese Welt!~ 
+@226   = ~Manche Leute sind einfach zu dämlich für diese Welt, wenn Ihr mich fragt.~
+@227   = ~Können wir ihm weitere 100 Goldmünzen geben, als Anerkennung für seine Ehrlichkeit?~ 
+@228   = ~Nicht jeder erhält gerne Spenden.~
+@229   = ~Manche Leute sind z-zu stolz, um Hilfe anzunehmen, nicht wahr, Jaheira?~ 
+@230   = ~Wir sprechen von dieser Familie, ja?~
+@231   = ~N-natürlich.~ 
+@232   = ~Was für ein Idiot! Da hätte er extra Gold haben können, und er bringt es zurück!~
+@233   = ~Er hat die Bedeutungslosigkeit seiner Existenz erkannt, wie wir es alle sollten.~ 
+@234   = ~Ich finde es äußerst erfeulich, dass er es zurückbringt!!~ 
+@235   = ~<CHARNAME>, nächstes mal, wenn Ihr zu viel Gold habt, dann gebt es einfach uns.~
+@236   = ~Die Kette war schön, aber so ist es noch viel besser. Hast du ihren Blick gesehen?~ 
+@237   = ~Glückliche Kinderaugen! Oh, das ist großartig, nicht wahr, Boo?~ 
+@238   = ~Ich weiß, dass Ihr es gut meintet, aber weitere Bekundungen von Glück und Freude kann ich gerade wirklich nicht ertragen.~ 
+@239   = ~(Meine Güte.) Wenn ich noch mehr solcher guten Taten ertragen muss, verschlucke ich mich freiwillig an einem Feuerball!~  
+@240   = ~Ich hoffe sehr, dass ihr die Kette nahmt, um sie den Eltern zu geben, <CHARNAME>!~
+@241   = ~Lasst uns schnell die Kette zu den Eltern bringen. Sie brauchen sie wirklich dringend.~
+@242   = ~Äh, wir geben die Kette aber zurück, ja?~
+@243   = ~Lasst mich die Kette kurz mal ansehen... Ja, das ist eine feine Arbeit. Die sollte eine Kleinigkeit wert sein, falls Ihr wisst, was ich meine!~
+@244   = ~Kinder sind so vertrauensselig.~
+@245   = ~Kinder sind so vertrauensselig, es bricht mir das Herz!~
+@246   = ~Oh, liebster Xzar, nicht weinen! Die Welt ist gemein und böse!~
+@247   = ~Ihr seid mein Trost!~
+@248   = ~Hier ist sie...~
+@249   = ~Wir sind sehr dankbar für Eure Hilfe.~
+
+//Neera
+@250   = ~Diese Leute haben ihr Haus verloren? Aber wir haben doch gar nicht *getan*?~ 
+
+//Eldoth (PartyHasItem("c#q02004"))
+@251   = ~Wir sollten jetzt aber mal das, nun, Beweisstück verschwinden lassen, am besten indem wir Gold dafür bekommen.~
+
+//Dorn
+@252   = ~Die Zeit hat für uns gearbeitet. Welch effektive und gleichzeitig unanstengende Methode, um andere zu zerstören. Viel zu unanstrengend, für meinen Geschmack.~
+
+//Baeloth
+@253   = ~Das Zurückhalten von fremdem Eigentum würde ich nicht unbedingt als "nichts tun" bezeichnen, aber ja, dies war eindeutig effektiv destruktives Verhalten in Anbetracht des minimalen Aufwandes, den es erfordert hat.~
+
+//Dorn
+@254   = ~Diese Leute könnten mich nicht weniger interessieren. Los, wir haben genug Zeit vergeudet.~
+
+//Neera
+@255   = ~Es macht etwas mit einem, wenn man so angeschaut wird. Und wenn es nur den Drang weckt, möglichst schnell weg zu kommen.~
+
+//Rasaad
+@256   = ~Dieser Familie zu helfen war eine gute Tat, <CHARNAME>, auch wenn es gering erscheint.~
+//Neera
+@257   = ~Irgendwie finde ich das unangenehm... Es ist eine sehr *persönliche* Kette.~
+//Rasaad
+@258   = ~Ich verstehe, warum Ihr der Käufer für diese Kette sein wolltet, und respektiere Euren Willen, das Problem dieser Familie gelöst zu wissen.~
+
+//Rasaad
+@259   = ~Ich wertschätze ehrenvollen Verhalten, wo ich sie sehe. Das gilt für Euch, <CHARNAME>. Aber auch für diesen Ehemann und Vater. So viel Stolz!~
+ 
+//Montaron
+@260   = ~Entschuldigt mich bitte, während ich mir da drüben in der Ecke die Kehle durchschneide.~
+
+//Xzar
+@261   = ~Ihr... Ihr habt sie ihr *gegeben*? Einfach... einfach so-ho-ho?~
+//Montaron
+@262   = ~Seid nicht neidisch, ich bin mir sicher, <CHARNAME> hat Euch auch lieb.~
+
+//Rasaad
+@263   = ~Vor Glück strahlende Kinderaugen. Es gibt *nichts* Erhebenderes, als das.~
+
+//Branwen
+@264   = ~Sollte es mich jetzt beruhigen, zu wissen, dass Euer Geld nicht für alle leidtragenden Familien da draußen reicht, oder sollte mir dieser Umstand im Gegenteil gerade Sorgen bereiten? Euer Interesse am Wohlergehen dieser unbekannten Familie erstaunt mich, <CHARNAME>.~
+
+//Dorn
+@265   = ~Hmpf. Das war vielleicht einfach, aber was bringt es, ein Kind auszutricksen? Gebt mir die Stadtwache zum Kampf!~
+
+//Neera (Dorn in party)
+@266   = ~Äh, keine Sorge, Dorn. Sollten wir die Kette behalten, besteht eine gute Chance, dass wir die Stadtwache auf unseren Fersen haben *werden*.~
+
+//Neera
+@267   = ~Hm, das war nicht direkt Stehlen, oder? Was habt Ihr mit der Kette jetzt vor, <CHARNAME>?~
+
+//Rasaad
+@268   = ~Die Vertrauensseligkeit dieses Kindes hat uns in eine Situation großer Verantwortung gegenüber dieser Familie versetzt, <CHARNAME>. Ich hoffe, dass Euch dies bewusst ist.~
+
+@269   = ~Jaheira, das erinnert m-mich an die Halskette, die ich Euch einmal k-kaufen wollte. Die mit dem Tiger...~
+
+@270   = ~Genau daran musste ich auch gerade denken, Khalid. Aber lasst gut sein, diese Geschichte muss nicht jeder hören. Ähem.~

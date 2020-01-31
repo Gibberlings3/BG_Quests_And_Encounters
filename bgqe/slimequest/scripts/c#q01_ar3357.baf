@@ -1,0 +1,8 @@
+
+IF 
+  Global("C#Q01_TulbsCreation","GLOBAL",0)	
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_TulbsCreation","GLOBAL",1)
+	CreateCreature("C#Q01004",[401.132]%FACE_0%)
+END

@@ -1,0 +1,13 @@
+
+//Script file for C#Q01002.CRE (Eltolth, slime quest)
+//if Alanna was killed by PC
+
+IF
+  Dead("C#Q01001")
+  See([PC])
+  Global("C#Q01_AlannaDead","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_AlannaDead","GLOBAL",1)
+    StartDialog("C#Q01002",[PC])
+END

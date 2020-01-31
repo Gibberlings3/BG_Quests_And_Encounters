@@ -1,0 +1,64 @@
+IF
+	Global("OublekBounty1","GLOBAL",1)
+	Global("BrageRiddle","GLOBAL",5)
+	Global("C#Q13_BragesSwordQuest","GLOBAL",0)
+	Exists("Brage")
+	InMyArea("Brage")
+	!Dead("Brage")
+THEN
+	RESPONSE #100
+		FadeToColor([20.0],0)
+		Wait(1)
+		SetGlobal("C#Q13_BragesSwordQuest","GLOBAL",1)
+		ActionOverride("Brage",DestroySelf())
+		FadeFromColor([20.0],0)
+		Continue()
+END
+
+IF
+	Global("OublekBounty1","GLOBAL",1)
+	!Dead("Brage")
+	Global("C#Q13_BragesSwordQuest","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q13_BragesSwordQuest","GLOBAL",1)
+		Continue()
+END
+
+
+/* [Borda is still alive and has to appear a second time.] Laryssa spawns outside temple in Nashkel after Nalin looked at the sword */
+IF
+	Global("C#q13_LarissaSpawn","MYAREA",0)
+	OR(2)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",0)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",1)
+	!Dead("Brage")
+	GlobalGT("C#q13Brage_NalinVouch","GLOBAL",1)
+	OR(2)
+		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
+		Global("C#Q13_BragesSwordQuest","GLOBAL",6)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q13_LarissaSpawn","MYAREA",1)
+		CreateCreature("c#q13lar",[2450.1198],13)
+		IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",2)
+		Continue()
+END
+
+/* in case innocence was proven with third letter out of Tazok's tent (PC didn't need Larissa to find the merchant */
+IF
+	Global("C#q13_LarissaSpawn","MYAREA",0)
+	Dead("BORDA") 
+	!Dead("Brage")
+	GlobalGT("C#q13Brage_NalinVouch","GLOBAL",1)
+	OR(2)
+		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
+		Global("C#Q13_BragesSwordQuest","GLOBAL",6)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q13_LarissaSpawn","MYAREA",1)
+		CreateCreature("c#q13lar",[2450.1198],13)
+		Continue()
+END
+
+

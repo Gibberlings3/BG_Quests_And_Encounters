@@ -1,0 +1,12 @@
+IF 
+      Global("C#Q07_Rumourcreation","GLOBAL",0)	
+	GlobalTimerExpired("C#Q07_TalkedToHimT","GLOBAL")
+	!Dead("C#Q07001")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_Rumourcreation","GLOBAL",1)
+	    CreateCreature("C#Q07005",[1179.2754]%FACE_0%) //Rumour
+END
+
+
+

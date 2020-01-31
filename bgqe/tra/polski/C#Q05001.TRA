@@ -1,0 +1,154 @@
+/*BG2engine*/
+@0 = ~Odczepicie siê ode mnie? Precz, kreatury!~
+@1 = ~Nie przeszkadzaj mi. Muszê siê modliæ do mego Boga.~
+@2 = ~Rozmawia³em z matk¹ Luisy. Powiedzia³a, ¿e pomog³eœ jej rodzinie pokonaæ demona.~ ~Rozmawia³am z matk¹ Luisy. Powiedzia³a, ¿e pomog³eœ jej rodzinie pokonaæ demona.~
+@3 = ~Mia³em dziwne spotkanie w mieœcie ... Pewna niania z Luskan mówi³a,  ¿e dziecko którym siê opiekowa³a, rozwinê³o potê¿ne magiczne moce.~ ~Mia³am dziwne spotkanie w mieœcie ... Pewna niania z Luskan mówi³a,  ¿e dziecko którym siê opiekowa³a, rozwinê³o potê¿ne magiczne moce.~
+@4 = ~Jesteœ tym upad³ym paladynem, o którym mówi¹ na zewn¹trz?~
+@5 = ~Proszê, opowiedz mi jeszcze raz swoj¹ historiê.~
+@6 = ~Oczywiœcie, nie przerywaj sobie.~
+@7 = ~Taka kanalia jak ty nie zas³uguje na bo¿¹ ³askê! Sam wymierzê wyrok!~ ~Taka kanalia jak ty nie zas³uguje na bo¿¹ ³askê! Sama wymierzê wyrok!~
+@8 = ~Jeœli taka jest wola Helma, przyjmê œmieræ z twojej rêki. Nie bêdê broniæ mego nêdznego ¿ycia. WeŸ jednak pod uwagê, ¿e kap³ani Helma maj¹ obowi¹zek mnie broniæ.~
+@9 = ~(wzdycha ciê¿ko) Tak, ludzie na zewn¹trz ¿¹daj¹ mojej œmierci. Pragnê, aby Helm odpowiedzia³ na moje modlitwy.~
+@10 = ~Co dok³adnie siê sta³o? Ludzie mówi¹, ¿e zaszlachtowa³eœ dziecko.~
+@11 = ~Bezbo¿ny cz³owiek jak ty nie ma prawa do modlitwy w œwi¹tyni!~
+@12 = ~Jesteœ pod³ym i tchórzliwym psem! Sam wymierzê wyrok!~ ~Jesteœ pod³ym i tchórzliwym psem! Sama wymierzê wyrok!~
+@13 = ~Ma prawo, jeœli b³aga o odkupienie. Cokolwiek by to mia³o byæ.~
+@14 = ~To w³aœnie zrobi³em ... Ma³¹ dziewczynkê z kasztanowymi lokami ... Jestem pewien, ¿e jej œmiech brzmia³ radoœnie i lekko, jak wszystkich dzieci w tym wieku. Przepraszam, ale chcia³bym paœæ na kolana i b³agaæ Helma o przebaczenie.~
+@15 = ~Jeszcze jedno pytanie. Dlaczego to zrobi³eœ?~
+@16 = ~Oczywiœcie, módl siê dalej.~
+@17 = ~Na pewno chcesz wiedzieæ? Pope³ni³em najgorsze przestêpstwo, jakie mo¿e uczyniæ cz³owiek: zabi³em dziecko. Pozwól mi dalej zanosiæ mod³y do mego Boga o odkupienie, proszê!~
+@18 = ~Chcê wiedzieæ, bo nie mogê sobie wyobraziæ, ¿e zrobi³eœ to celowo. Czy to wszystko nie by³a wielk¹ pomy³k¹?~
+@19 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Wed³ug opowieœci upad³ego paladyna, zosta³ on oszukany przez demona, który opêta³ ma³¹ dziewczynkê. Moc demona by³a zbyt wielka, by zdo³a³ przejrzeæ prawdê, inaczej nie zabi³by dziecka.~
+@20 = ~Pomy³ka... Mo¿e to i by³a pomy³ka, ale czy obchodzi to rodziców, którzy stracili dziecko, poniewa¿ wzi¹³em je za demona? Co obchodzi ludzi na zewn¹trz, ¿e pomyli³em siê, u¿ywaj¹c swych œwiêtych mocy. Demon nie przybra³ kszta³tu dziecka, jak s¹dzi³em, lecz zosta³o ono przez niego opêtane? Czy Helm wybaczy swemu upad³emu s³udze, ¿e nie zrozumia³, i¿ powinien rozdzieliæ dziecko i demona, wygnaæ bestiê œwiêtymi s³owami, zanim uderzy mieczem? I czemu was to interesuje?~
+@21 = ~A wiêc zosta³eœ zwiedziony przez demona, mo¿na by rzec?~
+@22 = ~To zbyt g³upie, aby by³o prawdziwe. Zatem kontynuuj pacierze, co ci pozostaje.~
+@23 = ~Jesteœ bezprzyk³adnym partaczem, niegodnym swego œwiêtego stanu! Pomszczê to dziecko!~
+@24 = ~(œmieje siê gorzko) Zwiedziony, tak, mo¿e. Zawiod³em i dziecko nie ¿yje. Nie usprawiedliwia mnie fakt, ¿e z³a moc, z któr¹ zosta³em skonfrontowany, by³a zbyt silna dla mnie. To by³ mój b³¹d.~
+@25 = ~To, co powiedzia³eœ, ma wiêkszy sens ni¿ gadki ludzi na zewn¹trz o paladynie berserkerze. Mam nadziejê, ¿e uzyskasz przebaczenie od swego Boga.~
+@26 = ~U¿alasz siê nad sob¹, zamiast usi³owaæ znaleŸæ rozwi¹zanie!~
+@27 = ~Có¿. Zatem kontynuuj pacierze, co ci pozostaje.~
+@28 = ~Przypuszczam, ¿e granica miêdzy skruch¹ a u¿alaniem siê nad sob¹ jest p³ynna. Staram siê przecie¿ znaleŸæ rozwi¹zanie: modlê siê do mego Boga. Zatem proszê mi wybaczyæ teraz.~
+@29 = ~Dziêkujê z ca³ego serca. Ale teraz, proszê, dajcie mi siê modliæ dalej.~
+@30 = ~Niech Helm b³ogos³awi tej biednej kobiecie. Jestem jej bardzo wdziêczny, ¿e nie ¿ywi do mnie ¿alu czy nienawiœci.~
+@31 = ~To brzmi ... dok³adnie tak, jak mia³o siê z Luis¹. Z Luskan, mówisz? Mo¿e odszukam wspomnian¹ kobietê, jeszcze tu we Wrotach Baldura i zapytam o rodzinê dziecka. Czy¿by demon uciek³ do Luskan? Znajdê go i pokonam! Tym razem bêdê lepiej przygotowany i wiem, jak siê go pozbyæ, by uratowaæ ¿ycie dziecka!~
+@32 = ~Dziêkujê! To najcenniejsza dla mnie wiadomoœæ. Jak móg³bym siê wam odwdziêczyæ?  Wszystko, co mogê zaoferowaæ w zamian to wdziêcznoœæ z g³êbi serca. Niech wam Helm b³ogos³awi. Przywróciliœcie mi nadziejê. Luisa zginê³a z mojej rêki, ale znajdê tego potwora i uratujê pozosta³e dzieci. Mo¿e ... mo¿e odzyskam tak¿e dobre imiê. ¯egnajcie.~
+@33 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Spotka³em przypadkiem kobietê, teleportowan¹ do Wrót Baldura a¿ z Luskan przez dziecko, które nagle ujawni³o potê¿ne magiczne zdolnoœci. Ca³a historia brzmi bardzo podobnie jak opowieœæ matki dziecka zabitego przez paladyna. Mo¿e powinniœmy mu to powiedzieæ.~
+@34 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Matka zabitej dziewczynki potwierdzi³a opowieœæ paladyna o demonie. Wed³ug niej pierwsz¹ oznak¹ opêtania by³o ujawnienie przez córkê silnych magicznych zdolnoœci.  To wszystko przypomina mi zwierzenia ¿ebraj¹cej piastunki z Luskan, któr¹ spotkaliœmy niedawno na ulicy. Czy ona te¿ mia³a do czynienia z dzieckiem ow³adniêtym przez demona? Mo¿e nale¿a³oby powiadomiæ o tym paladyna Sir Daurona.~
+@35 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Matka zabitej dziewczynki potwierdzi³a opowieœæ paladyna o demonie. Wed³ug niej pierwsz¹ oznak¹ opêtania by³o ujawnienie przez córkê silnych magicznych zdolnoœci. Poprosi³a o nie rozpowszechnianie tych informacji.~
+@36 = ~Upad³y paladyn w œwi¹tyni Helma
+
+W Œwi¹tyni Helma we Wrotach Baldura przebywa upad³y paladyn, który mia³ zabiæ ma³e dziecko. Zastanawiam siê, czy i w tej historii istnieje wiele stron ...~
+@37 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Dziewczynka, zabita przez paladyna, mieszka³a w domu tu¿ obok wejœcia do pa³acu. Jeœli chcemy dowiedzieæ siê wiêcej o ca³ym zdarzeniu, byæ mo¿e powinniœmy tam pójœæ.~
+@38 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Upad³y Sir Dauron postanowi³ odnaleŸæ nianiê opêtanego dziecka. Byæ mo¿e uda mu siê pokonaæ demona w Luskan i odzyska swój honor ... To by³by piêkny koniec tej tragicznej historii.~
+@39 = ~Co za ³ajdak!~
+@40 = ~Ale¿ to ... Wynoœ siê lepiej st¹d i to szybko, ty gburze!~
+@41 = ~Powinien wisieæ!~
+@42 = ~Mo¿e ... kryje siê za tym coœ wiêcej, kto wie.~
+@43 = ~Ten morderca jest wci¹¿ w œrodku!~
+@44 = ~Gdzie mieszka³a ta dziewczyna?~
+@45 = ~Niech no tylko ten z³oczyñca wpadnie w moje rêce!~
+@46 = ~Ha! To mi³e. Jeœli oni teraz wykonuj¹ moj¹ robotê, wkrótce nic nie zostanie dla mnie.~
+@47 = ~Nie s³ysza³eœ jeszcze? W œwi¹tyni skry³ siê drañ, który zabi³ ma³¹ Luisê! On by³ paladynem, mo¿esz to sobie wyobraziæ!?~ ~Nie s³ysza³aœ jeszcze? W œwi¹tyni skry³ siê drañ, który zabi³ ma³¹ Luisê! On by³ paladynem, mo¿esz to sobie wyobraziæ!?~
+@48 = ~To straszne! Dziêki za informacje.~
+@49 = ~W œwi¹tyni jest upad³y paladyn, który zabi³ dziewczynê? Niech no tylko ten z³oczyñca wpadnie w moje rêce!~
+@50 = ~S³usznie. Wyci¹gnij go stamt¹d, a my zajmiemy siê reszt¹!~
+@51 = ~Niedaleko st¹d, w kamienicy zaraz obok wejœcia do pa³acu. Biedni rodzice nie wychodz¹ ju¿ z domu. Mówi siê, ¿e ojciec postrada³ zmys³y!~
+@52 = ~Ten pies powinien wyjœæ, jeœli ma odwagê!~
+@53 = ~Schowa³ siê w œwi¹tyni, jak tchórz!~
+@54 = ~Biedni rodzice!~
+@55 = ~Ktoœ taki powinien wisieæ! Zlinczujmy tego mordercê dzieci!~
+@56 = ~Co tu siê dzieje?~
+@57 = ~W czym problem?~
+@58 = ~Ludzie, idŸcie do domu! O co tyle ha³asu?~
+@59 = ~Tak, wymierzono sprawiedliwoœæ tej kanalii!~
+@60 = ~Teraz otrzyma³ zas³u¿on¹ karê!~
+@61 = ~Nareszcie ¿ycie w mieœcie sta³o siê ponownie bezpieczniejsze!~
+@62 = ~To smutne, jak cz³owiek mo¿e nisko upaœæ! ¯e te¿ kap³an Helma musia³ go broniæ.~
+@63 = ~Upad³y paladyn w œwi¹tyni Helma
+
+Problem zosta³ rozwi¹zany przeze mnie ... w definitywny sposób.~
+@64 = ~Wybaczcie, ale od œmierci Luisa dla naszego spokoju trzymamy drzwi zamkniête. Dlaczego wszed³eœ?~ ~Wybaczcie, ale od œmierci Luisa dla naszego spokoju trzymamy drzwi zamkniête. Dlaczego wesz³aœ?~
+@65 = ~Przepraszam, ¿e przeszkadzam. Ju¿ wychodzê.~
+@66 = ~Luisa? By³a twoj¹ córk¹?~
+@67 = ~Chcia³em tylko rzuciæ na ciebie okiem. Ju¿ mnie nie ma.~
+@68 = ~Bo tak chcia³em.~ ~Bo tak chcia³am.~
+@69 = ~Powinnam chyba wo³aæ pomocy, ale jestem zbyt zmêczona. WeŸ, co znajdziesz, nie bêdziemy ci zawadzaæ.~
+@70 = ~Kim dla nas by³a... Wystarczy spojrzeæ na mego mê¿a, jak b³¹ka siê po pokojach. Postrada³ od tego zmys³y.~
+@71 = ~Przepraszam, ¿e zak³ócam spokój. Ju¿ wychodzê.~
+@72 = ~S³ysza³em o paladynie, który zabi³ twoj¹ córkê.~ ~S³ysza³am o paladynie, który zabi³ twoj¹ córkê.~
+@73 = ~Rozmawia³em z paladynem, który zabi³ twoj¹ córkê.~
+@74 = ~Chwyta za serce, naprawdê. Ju¿ sobie idê.~
+@75 = ~Tak, biedny Sir Dauron ...~
+@76 = ~"Biedny Sir Dauron"? To brzmi, jakbyœ nie wini³a go za œmieræ waszej córki.~
+@77 = ~Nie jesteœ wœciek³a, ¿e zabi³ swoj¹ córkê?~
+@78 = ~Pójdê ju¿. Porozmawiamy innym razem.~
+@79 = ~Op³akujemy jej œmieræ nieustannie, ale ¿al mi równie¿ paladyna.~
+@80 = ~To bardzo szlachetna postawa. Nie bêdê ju¿ wiêcej przeszkadzaæ.~
+@81 = ~Z tego co, ludzie mówi¹, wygl¹da, ¿e zamordowa³ j¹ z zimn¹ krwi¹.~
+@82 = ~Z tego, co powiedzia³ Sir Dauron, by³a w to zaanga¿owana jakaœ potê¿na z³a si³a.~
+@83 = ~Nie, nie, to nie tak ... Przykro mi, ¿e ludzie tak myœl¹.~
+@84 = ~A co siê sta³o?~
+@85 = ~Wybacz, ale nie chcê o tym rozmawiaæ. Ludzie s¹ ju¿ zbyt podekscytowany, by jeszcze dawaæ powody do nowych plotek.~
+@86 = ~W takim razie pójdê. Pogadamy innym razem.~
+@87 = ~On tak powiedzia³? Co dok³adnie mówi³?~
+@88 = ~¯e twoja córka zosta³a opêtana przez demona.~
+@89 = ~Po prawdzie, to nie chcê rozmawiaæ o szczegó³ach. ¯yczê mi³ego dnia.~
+@90 = ~Proszê, b³agam was! Ludzie s¹ ju¿ wystarczaj¹co podburzeni. Nie rozpowiadajcie, ¿e nasze dziecko zosta³o opêtane przez demona, bo jeszcze w³ami¹ siê nam do domu. Podziwiam Sir Daurona, ¿e zachowa³ tê informacjê dla siebie i nie wykorzysta³ do obrony przed zarzutami gawiedzi... jak dot¹d.~
+@91 = ~Co dok³adnie siê sta³o?~
+@92 = ~Wszystko zaczê³o siê, gdy Luisa... (*gulp*) nasza córka rozwinê³a magiczne umiejêtnoœci. Potê¿ne magiczne moce. Myœleliœmy... ¿e nagle ujawni³ siê jej wrodzony talent, jakiœ rodzaj czarownicy ...~
+@93 = ~Ale potem...  zmieni³ siê jej charakter. Sta³a siê z³a a jej zdolnoœci jeszcze uros³y. By³y zbyt potê¿ne, niebezpieczne... Moje biedne maleñstwo. Podejrzewam, ¿e demon stopniowo przejmowa³ jej umys³, jak pleœñ powoli prze¿era bochenek chleba ...~
+@94 = ~Mój m¹¿, który b³¹ka siê tu po pokojach bez celu i nie rozpoznaje swojej ¿ony, postrada³ przez te wydarzenia rozum. By³o niebezpiecznie. Sir Dauron przyszed³ nam z pomoc¹ ... Wszyscy byli pewni, ¿e Luisa jest bezpowrotnie stracona. Jej miejsce zaj¹³ demon, jak jakiœ zmiennokszta³tny potwór. Ale po tym... jak j¹ zabi³, to by³o tylko cia³o naszej ma³ej dziewczynki. Us³yszeliœmy straszny œmiech ... Sir Dauron zblad³ jak kreda. Biedny cz³owiek straci³ honor, staraj¹c siê uwolniæ nas od tego okropnego stwora.~
+@95 = ~Nie s¹dŸ, ¿e nie op³akujê mojej córki. Têskniê za moim maleñstwem, ale ona odesz³a ju¿ du¿o wczeœniej. Zamieni³a siê w potwora. Dlaczego teraz biedny Sir Dauron musi tak cierpieæ? On tylko nam pomóg³.~
+@96 = ~S³ysza³aœ œmiech? Sugerujesz, ¿e demon jest tu gdzieœ jeszcze?~
+@97 = ~To straszna historia. Zobaczymy co niej wyniknie.~
+@98 = ~Zatem pójdê ju¿.~
+@99 = ~Towarzysze z zakonu Sir Daurona przeszukali okolicê, ale nic nie znaleŸli.~
+@100 = ~Dziêkujê, ¿e podzieli³aœ siê ze mn¹ ca³¹ histori¹.~
+@101 = ~Musia³am w koñcu opowiedzieæ to komuœ... Ale teraz idŸ, proszê.~
+@102 = ~Przepraszam, Czy mo¿esz mi coœ daæ ... coœ do jedzenia lub trochê z³ota?~
+@103 = ~Oczywiœcie, masz tu z³ot¹ monetê.~
+@104 = ~Biedna kobieto! Co siê sta³o, ¿e musisz prosiæ o wsparcie? Nie wygl¹dasz na ¿ebraczkê.~
+@105 = ~IdŸ precz, ¿ebraczko!~
+@106 = ~Tak, tak, zawsze to samo! Ja te¿ was nie cierpiê z wzajemnoœci¹!~
+@107 = ~Ha! Tak, masz racjê.~
+@108 = ~Proszê, weŸ t¹ z³ot¹ monetê.~
+@109 = ~Dziêkujê bardzo! To ju¿ daje razem trzy ...~
+@110 = ~Niech no tylko z³apiê tego przeklêtego bachora! Najpierw te wszystkie b³azeñstwa, a potem nagle ujawni³a magiczne moce i teleportowa³a mnie ni st¹d, ni zow¹d do Wrót Baldura! Gdy bêdê mia³a dosyæ pieniêdzy na podró¿, wrócê do Luskan i postawiê tê kozê wraz z ca³¹ jej rodzinê przed s¹dem!~
+@111 = ~Zacietrzewieni ludzie na zewn¹trz poszli sobie... Obawiam siê, ¿e znaleŸli kolejn¹ ofiarê, która zaspokoi ich niezdrow¹ ciekawoœæ i której bêd¹ mogli bezkarnie z³orzeczyæ.~
+@112 = ~Tak, he he. Zadziwiaj¹ce, jak szybko czasem przenosz¹ siê gdzie indziej, nie?~
+@113 = ~Nie zauwa¿y³eœ, czemu odeszli?~
+@114 = ~Nie chcê z tob¹ rozmawiaæ.~
+@115 = ~Jak to jest, ¿e nikt z P³omiennej Piêœci ciê nie œciga?~
+@116 = ~Coœ nie podoba mi siê sposób, w jaki to powiedzia³eœ. Wierzê, ¿e nie masz z tym nic wspólnego, chocia¿ nie wiem, co mog³eœ im powiedzieæ, aby jeszcze pogorszyæ sprawê.~ ~Coœ nie podoba mi siê sposób, w jaki to powiedzia³aœ. Wierzê, ¿e nie masz z tym nic wspólnego, chocia¿ nie wiem, co mog³aœ im powiedzieæ, aby jeszcze pogorszyæ sprawê.~
+@117 = ~Helmie, zmi³uj siê i oka¿ mi ³askê, bym móg³ odzyskaæ moj¹ czeœæ!~
+@118 = ~Osoby odpowiedzialne wiedz¹, co siê sta³o. Nie ma powodu do dalszych dzia³añ, Helmowi niech bêd¹ dziêki. Sytuacja jest pod kontrol¹ i w ca³ym mieœcie nie stwierdza siê oznak bytnoœci demona... W przeciwnym razie nie sta³bym tutaj bezczynnie. (wzdycha)~
+@119 = ~Nie jestem pewien, czy powinienem byæ zadowolony z tej sytuacji. Gdyby przynajmniej w³adze miasta uzna³y za konieczne ukaraæ mnie za mój czyn! Ale widocznie dosta³em szansê odpokutowaæ moje przewinienie. I wykorzystam j¹.~
+@120 = ~Nie. By³em pogr¹¿ony w modlitwie.~
+@121 = ~Zadziwiaj¹ce, jak szybko czasem przenosz¹ siê gdzie indziej, nie?~
+@122 = ~Ryzykuj¹, ¿e miasto zostanie zalane demonami!~
+@123 = ~Zastanawiam siê, jak¹ rolê w sprawie demona odegrali rodzice.~
+@124 = ~Demony w sercu miasta! Nie do wiary.~
+@125 = ~WyobraŸcie sobie tylko, co by siê mog³o staæ, gdybyœmy go nie przyuwa¿yli!~
+@126 = ~(podniesionym g³osem) Czy wiecie, ¿e dziewczynka zosta³a opêtana przez demona? Jej matka mi tak powiedzia³a! DEMON! W samym œrodku miasta!~
+@127 = ~Obawiam siê, ¿e to nie mój problem.~
+@128 = ~Co... demon?~
+@129 = ~¯artujesz sobie? To jakaœ bzdura.~
+@130 = ~Mój siostrzeniec Dunn pracuje w P³omiennej Piêœci. Twierdzi, ¿e by³o kilka dziwnych zdarzeñ ostatnio!~
+@131 = ~Myœlisz, ¿e miasto mo¿e byæ opanowane przez demony?~
+@132 = ~A wszystko zaczê³o siê w domu Luisy! Hañba rodzicom, powinni byli coœ zrobiæ!~
+@133 = ~ChodŸmy tam i dajmy jasno do zrozumienia, ¿e nie godzimy siê na takie rzeczy!~
+@134 = ~Proszê odejœæ. Nie jesteœcie tu mile widziani.~
+@135 = ~Co ¿eœcie zrobili! Wszystkie ci Ÿli ludzie przed naszym domem ... Nie mamy miejsca, dok¹d moglibyœmy pójœæ, wiêc musimy tu zostaæ. Modlê siê, aby siê wkrótce uspokoili. Proszê odejdŸcie. Nie jesteœcie tu mile widziani.~
+@136 = ~Przykro mi, ale nie zamierzam rozpowiadaæ szczegó³ów. Bêdê rozmawiaæ tylko z tymi, którzy ju¿ je znaj¹. Proszê o wyrozumia³oœæ.~

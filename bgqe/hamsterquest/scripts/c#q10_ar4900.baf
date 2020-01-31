@@ -1,0 +1,39 @@
+IF 
+Global("C#BGQE_NPCReactions","GLOBAL",0)
+InParty("MINSC") 
+!StateCheck("MINSC",CD_STATE_NOTVALID)
+      Global("C#Q10_VendorCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q10_VendorCreation","GLOBAL",1)
+	    CreateCreature("C#Q10001",[2273.3257]%FACE_0%) //Vendor
+	    CreateCreature("C#Q10002",[2229.3296]%FACE_9%) //Boy
+END
+
+IF 
+Global("C#BGQE_NPCReactions","GLOBAL",0)
+!InParty("MINSC") 
+GlobalGT("C#Q10_VendorCreation","GLOBAL",0)
+GlobalLT("C#Q10_VendorCreation","GLOBAL",3)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q10_VendorCreation","GLOBAL",0)
+	    ActionOverride("C#Q10001",DestroySelf()) //Vendor
+	    ActionOverride("C#Q10002",DestroySelf()) //Boy
+END
+
+IF 
+Global("C#BGQE_NPCReactions","GLOBAL",0)
+StateCheck("MINSC",CD_STATE_NOTVALID)
+GlobalGT("C#Q10_VendorCreation","GLOBAL",0)
+GlobalLT("C#Q10_VendorCreation","GLOBAL",3)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q10_VendorCreation","GLOBAL",0)
+	    ActionOverride("C#Q10001",DestroySelf()) //Vendor
+	    ActionOverride("C#Q10002",DestroySelf()) //Boy
+END
+
+
+
+

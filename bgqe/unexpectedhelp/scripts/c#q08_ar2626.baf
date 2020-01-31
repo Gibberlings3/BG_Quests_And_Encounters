@@ -1,0 +1,9 @@
+IF 
+	Global("C#Q08_TalkedToTrun","GLOBAL",5)
+      Global("C#Q08_LindaCreationOutside","GLOBAL",0)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q08_LindaCreationOutside","GLOBAL",1)
+	    CreateCreature("C#Q08002",[3238.2174]%FACE_0%) //Linda
+END
+

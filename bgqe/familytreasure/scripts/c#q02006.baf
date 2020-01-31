@@ -1,0 +1,91 @@
+IF  
+	Dead("C#Q02005")
+	See([PC])
+THEN
+	RESPONSE #100
+		StartDialog("C#Q02006",[PC])
+END 
+
+IF  
+	Dead("C#Q02007")
+	See([PC])
+THEN
+	RESPONSE #100
+		StartDialog("C#Q02006",[PC])
+END 
+
+
+IF
+	Global("C#Q02_Gave550","GLOBAL",1)
+	Global("C#Q02_GaveMoneyFollow","GLOBAL",0)
+	!See([ENEMY])
+	Global("C#Q02_MrDudleyOutside","GLOBAL",1)
+		!See(Player1)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END 
+
+IF
+	Global("C#Q02_Gave550","GLOBAL",1)
+	Global("C#Q02_GaveMoneyFollow","GLOBAL",0)
+	!See([ENEMY])
+	Global("C#Q02_MrDudleyOutside","GLOBAL",1)
+		!Range(Player1,10)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END 
+
+IF
+	Global("C#Q02_Gave600","GLOBAL",1)
+	Global("C#Q02_GaveMoneyFollow","GLOBAL",0)
+	!See([ENEMY])
+	Global("C#Q02_MrDudleyOutside","GLOBAL",1)
+		!Range(Player1,10)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END 
+
+IF
+	Global("C#Q02_Gave600","GLOBAL",1)
+	Global("C#Q02_GaveMoneyFollow","GLOBAL",0)
+	!See([ENEMY])
+	Global("C#Q02_MrDudleyOutside","GLOBAL",1)
+		!See(Player1)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END 
+
+
+IF 
+	Global("C#Q02_Gave600","GLOBAL",1)
+	Global("C#Q02_GaveMoneyFollow","GLOBAL",0)
+	Detect(Player1)
+	!See([ENEMY])
+	Range(Player1,10)
+	Global("C#Q02_MrDudleyOutside","GLOBAL",1)
+THEN
+	RESPONSE #100
+	 SetGlobal("C#Q02_GaveMoneyFollow","GLOBAL",1)
+	 StartDialog("C#Q02006",Player1)
+END
+
+
+IF 
+	Global("C#Q02_Gave550","GLOBAL",1)
+	Global("C#Q02_GaveMoneyFollow","GLOBAL",0)
+	Detect(Player1)
+	!See([ENEMY])
+	Range(Player1,10)
+	Global("C#Q02_MrDudleyOutside","GLOBAL",1)
+THEN
+	RESPONSE #100
+	 SetGlobal("C#Q02_GaveMoneyFollow","GLOBAL",1)
+	 StartDialog("C#Q02006",Player1)
+END
+
+
+

@@ -1,0 +1,129 @@
+/*BG2engine*/
+@0    = ~Och, Panie! Wygl¹dacie na takich, co mogliby mi pomóc. Chyba niebo mi was zsy³a!... Ja... Proszê, pomó¿cie mi! Zupe³nie nie wiem, co mam robiæ. Mój s¹siad... mój s¹siad...~ ~Och, Pani! Wygl¹dacie na takich, co mogliby mi pomóc. Chyba niebo mi was zsy³a!... Ja... Proszê, pomó¿cie mi! Zupe³nie nie wiem, co mam robiæ. Mój s¹siad... mój s¹siad...~
+@1    = ~Ju¿ dobrze, uspokój siê, pani. W czym problem?~
+@2    = ~Mo¿emy ci jakoœ pomóc? Mo¿e opowiesz, co siê sta³o?~ 
+@3    = ~Przepraszam, nie mamy na takie rzeczy teraz czasu. Mo¿e porozmawiamy, jak siê trochê uspokoisz.~
+@4    = ~Mój s¹siad Eltolth... w domu... ChodŸcie za mn¹! Poka¿ê wam!~
+@5    = ~Och zaklinam ciê, Panie! Proszê zobaczcie co siê sta³o! Mój s¹siad Eltolth... w domu... WejdŸcie tam, jeœli zmienicie zdanie!~ ~Och zaklinam ciê, Pani! Proszê zobaczcie co siê sta³o! Mój s¹siad Eltolth... w domu... WejdŸcie tam, jeœli zmienicie zdanie!~
+@6    = ~Och, wróciliœcie. Zmieniliœcie zdanie? Widzieliœcie... widzieliœcie, co siê sta³o z moim s¹siadem! Pomo¿ecie mu?... Proszê...~
+@7    = ~Opowiedz nam, co siê sta³o. Ten szlam to twój s¹siad?~
+@8    = ~Tfu, co TO jest! Przepraszam, mam co innego do roboty. ¯egnam!~ 
+@9    = ~Czy widzisz... czy widzisz, co siê sta³o memu s¹siadowi? Mo¿ecie mu pomóc?~
+@10   = ~Ehm... Masz na myœli ten szlam? To jest... by³ twój s¹siad Eltolth?~ 
+@11   = ~Obawiam siê, ¿e tak. Patrzcie... (kobieta podaje wam pust¹ butelkê)~
+@12   = ~Znalaz³am tê pust¹ butelkê na pod³odze. On chyba coœ za¿y³...~
+@13   = ~(rumieni¹c siê) Normalnie nie wchodzê tak po prostu do jego domu, ale byliœmy umówieni, i kiedy nie otworzy³, zaczê³am siê martwiæ...~
+@14   = ~Proszê rozejrzyjcie siê, jestem pewna, ¿e Eltolth nie mia³by nic przeciwko temu. Mo¿e znajdziecie coœ, co wam pomo¿e. I b³agam, znajdŸcie sposób, aby go odmieniæ! ~
+@15   = ~ZnaleŸliœcie ju¿ coœ?~
+@16   = ~Niestety, jeszcze nie, przykro mi.~
+@17   = ~Spotkaliœmy mê¿czyznê, który sprzeda³ miksturê Eltolthowi. Istnieje antidotum, ale kosztuje 100 sz!~
+@18   = ~Tak, znaleŸliœmy mê¿czyznê, który jest odpowiedzialny za ca³e zdarzenie i on sprzeda³ nam to antidotum.~ 
+@19   = ~Tak, podejrzewamy pewnego œmiesznego bywalca tawerny, ale nie mo¿emy mu nic dowieœæ... Chyba jeszcze raz przeszukamy dom, musieliœmy coœ przeoczyæ.~
+@20   = ~STO sztuk z³ota! To... bardzo du¿o pieniêdzy. WeŸcie 30 sz. To wszystko co mam. Proszê, kupcie tê miksturê. Jestem pewna, ¿e Eltolth wynagrodzi wasze starania.~ 
+@21   = ~Nie jest potrzebne, abyœ oddawa³a, pani, swoje oszczêdnoœci. Sam wy³o¿ê pieni¹dze, naturalnie.~ ~Nie jest potrzebne, abyœ oddawa³a, pani, swoje oszczêdnoœci. Sama wy³o¿ê pieni¹dze, naturalnie.~
+@22   = ~To dobry pomys³. Daj mi pieni¹dze.~ 
+@23   = ~Jesteœcie nadzwyczaj wspania³omyœlni, Panie! Dziêkujê wam bardzo, ale proszê, poœpieszcie siê!~ ~Jesteœ nadzwyczaj wspania³omyœlna, Pani! Dziêkujê wam bardzo, ale proszê, poœpieszcie siê!~
+@24   = ~Dziêki bogom! Je¿eli posiadacie antidotum, to uwolnijcie go jak najszybciej!~
+@25   = ~Proszê podajcie mu antidotum! Na co czekacie?~ 
+@26   = ~Jesteœmy wam bardzo wdziêczni. ¯egnam Panie!~ ~Jesteœmy wam bardzo wdziêczni. ¯egnam Pani!~
+@27   = ~Dziêkujê za starania, ale proszê, idŸcie ju¿. ¯yczê mi³ego dnia!~ 
+@28   = ~Eltolth! Och, Eltolth, co siê sta³o?~
+@29   = ~Alanna?... Dlaczego... Aj, co siê ze mn¹ dzieje?~
+@30   = ~Zosta³eœ przemieniony w szlam! Biedaku! Dobrze siê czujesz?~
+@31   = ~Tak... myœlê. Teraz, kiedy ciê widzê, jestem przynajmniej... (wzdycha)... No tak, przykro mi, ¿e nie stawi³em siê na spotkanie. Mieliœmy rozmawiaæ o florze Faerunu... Ale wydaje siê, ¿e by³em zajêty jego faun¹ (uœmiecha siê z zak³opotaniem).~
+@32   = ~Jak to siê mog³o staæ, Eltolth?~
+@33   = ~Tak, ja... No wiêc by³ ten sprzedawca mikstur, i on powiedzia³...~ 
+@34   = ~Tak?~
+@35   = ~Och moja pani, to jest dok³adnie ten wyraz twoich oczu, który sk³oni³ mnie do wypicia tej mikstury. Ja chcia³em zrobiæ na tobie wra¿enie, Alanno, moja pani.~
+@36   = ~Na mnie? Wra¿enie? Co...~
+@37   = ~Pani Alanno, muszê ci  to teraz powiedzieæ, skoro mnie znalaz³aœ w takim stanie. Kupi³em pewn¹ miksturê, o której mówiono, ¿e pozwala... uzyskaæ bardziej mêski wygl¹d. Rozumiesz: muskulatura, szerokie ramiona, p³aski brzuch...~
+@38   = ~Alanno, ja chcia³em ciê dzisiaj w pe³ni zauroczyæ. Nie tylko moj¹ wiedz¹ o Fearunie, ale tak¿e moj¹ (wzdycha) powierzchownoœci¹... Pocz¹tkowo wszystko sz³o dobrze, ale by³em zbyt nieostro¿ny i pi³em coraz wiêcej, a¿ w koñcu proces przemiany cia³a wyrwa³ siê spod kontroli, i wreszcie... Hm, rezultat sama widzia³aœ.~
+@39   = ~Co za przykra sytuacja. Ja chcia³em tylko trochê poprawiæ swój wygl¹d...~ 
+@40   = ~To nie jest konieczne, Eltolth.~
+@41   = ~...No wiesz, bardziej umiêœniony...mêski...~
+@42   = ~Ja lubiê ciê takiego, jaki jesteœ, Eltolth.~
+@43   = ~...aby uczyniæ moj¹ aparycjê trochê... Zaraz, co powiedzia³aœ?~
+@44   = ~Powiedzia³am, ¿e lubiê ciê takiego jaki jesteœ! (uœmiecha siê czule) Ty wspania³y, naiwny g³upcze! Myœlisz, ¿e s³ucha³abym wyk³adów o roœlinach Fearunu, nie interesuj¹c siê mê¿czyzn¹, który to mówi?~
+@45   = ~Alanna... Czy... Czy to prawda?~
+@46   = ~Tak prawdziwe, jak to, ¿e tu jestem.~
+@47   = ~Och, moja Alanno. Czynisz mnie najszczêœliwszym mê¿czyzn¹ na œwiecie! Choæ w moje ramiona!~
+@48   = ~Ehm... Co to za ludzie, którzy ko³o nas stoj¹?~
+@49   = ~Och, to s¹ twoi wybawcy, Eltolth!~
+@50   = ~Witaj, Eltolth! Cieszê siê, ¿e wszystko w porz¹dku. Pozwól, ¿e oddam ci twój notes. Potrzebowaliœmy go, aby wydobyæ antidotum od Tulbora. Nie chcê wiêcej wam przeszkadzaæ. ¯egnajcie!~
+@51   = ~Ju¿ siê zastanawia³em, czy muszê na siebie zwróciæ uwagê... Twoi wybawcy, w istocie. Alanna wspomina³a o jakiejœ nagrodzie za nasze starania...~ 
+@52   = ~Ju¿ siê zastanawia³am, czy muszê na siebie zwróciæ uwagê... Twoi wybawcy, w istocie. Alanna wspomina³a o jakiejœ nagrodzie za nasze starania...~
+@53   = ~Mój ³askawco! Myœla³em, ¿e to siê ju¿ nigdy nie skoñczy. Wydaliœmy grub¹ forsê na ratowanie ciebie, i naturalnie chcemy te pieni¹dze z powrotem – najlepiej razem z jakimœ wynagrodzeniem.~ ~Mój ³askawco! Myœla³am, ¿e to siê ju¿ nigdy nie skoñczy. Wydaliœmy grub¹ forsê na ratowanie ciebie, i naturalnie chcemy te pieni¹dze z powrotem – najlepiej razem z jakimœ wynagrodzeniem.~
+@54   = ~ Ach, moi wybawcy! Jestem wam ca³y czas i dozgonnie wdziêczny. Ale gdybyœcie mogli teraz nas zostawiæ samych... Alanna i ja musimy... przedyskutowaæ parê rzeczy.~
+@55   = ~Ach, wy znowu! Dziêkujê wam bardzo za pomoc, ale myœlê, ¿e zap³ata by³a wystarczaj¹ca. Gdybyœcie mogli nas zostawiæ samych... Alanna i ja musimy... o czymœ porozmawiaæ.~ 
+@56   = ~Zaczekajcie, szlachetni wybawcy! Jestem wam bardzo wdziêczny. Zrobiliœcie wiêcej, ni¿ siê mog³em spodziewaæ. WeŸcie te 200 sztuk z³ota jako nagrodê za wasze starania!~
+@57   = ~By³bym wam bardzo zobowi¹zany, gdyby ten incydent pozosta³ nasz¹ ma³¹ tajemnic¹. A teraz musimy was przeprosiæ. Pani Alanna i ja mamy parê spraw do omówienia. ¯egnajcie!~
+@58   = ~Oczywiœcie. Bardzo dziêkujê za wasz¹ pomoc. WeŸcie te 200 sz, wiêcej nie jestem w stanie wam daæ.~
+@59   = ~Oddajê twój notes, potrzebowaliœmy go, aby przycisn¹æ Tulbora.~
+@60   = ~Kupi³em antidotum, ale nie mam go przy sobie. Jak tylko je przyniosê, podam Eltolthowi i uwolniê go.~
+@61   = ~Co... co ¿eœcie zrobili! Alanna... Alanna, ona jest martwa!~
+@62   = ~Co... co ¿eœcie zrobili! Eltolth! Zabiliœcie Eltoltha! ~
+@63   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+Zrozpaczona kobieta imieniem Alanna zaczepi³a mnie na ulicy Beregostu. Coœ z³ego sta³o siê z jej s¹siadem. Muszê siê przyjrzeæ tej sprawie.~
+@64   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+Zrozpaczona kobieta imieniem Alanna zaczepi³a mnie na ulicy Beregostu. Coœ z³ego sta³o siê z jej s¹siadem. Czy zawsze muszê siê o wszystkich troszczyæ?~
+@65   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+Eltolth da³ nam 200 sz za nasz¹ pomoc. Opuszczam jego dom ze œwiadomoœci¹, ¿e uszczêœliwiliœmy dwoje ludzi... ~
+@66   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+Znalaz³em sprzedawcê eliksiru, który zamieni³ Eltoltha w szlam, ale potrzebujê dowodów jego winy.~
+@67   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+Eliksir odwracaj¹cy transformacjê Eltoltha bêdzie kosztowaæ 100 sz!~
+@68   = ~Tak, znaleŸliœmy tutaj ten dziennik. Wspomniany jest w nim niejaki "Tulbor". Czy nie wiesz przypadkiem coœ o tej osobie, kto to móg³by byæ?~
+@69   = ~"Tulbor"...? Nie, niestety. Nigdy nie s³ysza³am o takiej osobie. Ale b³agam, nie ustawajcie w poszukiwaniach!~
+@70    = ~Zrobiê to. Nie martw siê!~
+@71    = ~Zaczekaj chwilê. A co mi za to wpadnie?~
+@72    = ~Niestety, nie mam na to czasu.~
+@73    = ~Ja... mogê daæ 30 sz. To wszystko, co teraz mam. Jestem... jestem jednak pewna, ¿e Eltolth was wynagrodzi, kiedy skoñczy siê ten koszmar.~
+@74    = ~Ju¿ dobrze. Zobaczê najpierw, co da siê zrobiæ.~
+@75    = ~Dobrze. Daj mi pieni¹dze a ja spróbujê ci pomóc.~
+@76    = ~Nie, nie s¹dzê, abym mia³ czas siê tym zaj¹æ.~
+@77    = ~Z góry bardzo dziêkujê. Wierzê, ¿e mo¿ecie mu pomóc. Nie chcê teraz go zostawiæ samego w tym stanie.~
+@78    = ~Proszê, oto pieni¹dze.~
+@79    = ~Nic... nic siê nie sta³o. Jesteœcie pewni, ¿e to by³a w³aœciwa mikstura?~
+@80   = ~(Podajesz w³aœciwe antidotum) Tego siê obawia³em. U¿yj zatem tej mikstury, powinna zadzia³aæ.~
+@81   = ~Hm... wielka szkoda. Zrobi³em wszystko, co tylko by³o mo¿na... mniej wiêcej.~
+@82   = ~(K³amiesz z niewzruszon¹ min¹) To by³o tylko przygotowanie w³aœciwego czaru. Teraz musisz go poca³owaæ, aby uaktywniæ transformacjê.~
+@83   = ~Nic wiêcej nie mogê zrobiæ.~
+@84   = ~Ta "powinna zadzia³aæ"?. A có¿ mogê innego zrobiæ? Ach, wszystko jedno. Nie mam innego wyjœcia jak wypróbowaæ tak¿e ten œrodek.~
+@85   = ~Oh, obawia³am siê takiej odpowiedzi. Zamierzam zabraæ go do mojego rodzinnego domu i sama poszukaæ ratunku, tak jak planowa³am, zanim spotka³am was.~
+@86   = ~(Oferujesz w³aœciwe antidotum) Zaczekaj chwilê. U¿yj tej mikstury, powinna zadzia³aæ.~
+@87   = ~( K³amiesz z kamienn¹ twarz¹) Zaczekaj! To by³o tylko przygotowanie w³aœciwego czaru. Teraz musisz go poca³owaæ, aby uaktywniæ transformacjê.~
+@88   = ~To wszystko, co mog³em zrobiæ.~
+@89   = ~Poca³owaæ... poca³owaæ go? (wzdryga siê) To chyba jakiœ kiepski ¿art?~
+@90   = ~Wybacz, to by³ faktycznie ¿art. Nie mogê ci nic wiêcej pomóc.~
+@91   = ~(Oferujesz w³aœciwe antidotum) Tak, to by³ g³upi ¿art. U¿yj tej mikstury, powinna zadzia³aæ.~
+@92   = ~(K³amiesz z niewzruszon¹ min¹) ¯e co? Oczywiœcie, ¿e nie! Mia³bym ciê ok³amywaæ?~ ~(K³amiesz z niewzruszon¹ min¹) ¯e co? Oczywiœcie, ¿e nie! Mia³abym ciê ok³amywaæ?~
+@93   = ~Muszê stwierdziæ, ¿e twoje poczucie humoru trudno poj¹æ. No dobrze, dziêki za... cokolwiek dla nas zrobiliœcie.~
+@94   = ~Proszê weŸ te 30 sz, to wszystko, co mogê wam daæ. Wierzê, ¿e stanowi to wystarczaj¹c¹ rekompensatê za wasze trudy.~
+@95   = ~Oddajcie mi rzeczy, które tu znaleŸliœcie. ¯egnam.~
+@96   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+Alternatywne antidotum nie zadzia³a³o. Przypuszczam, ¿e poszukaj¹ pomocy gdzieœ indziej.~
+@97   = ~Nie wiem... nie znam siê na magii, mo¿e da³eœ mi bezu¿yteczn¹ miksturê... Ach, i co teraz? (Nachyla siê i nieœmia³o ca³uje szlam). Hm, czy coœ ma siê TERAZ wydarzyæ?~
+@98   = ~ Ha ha ha ha! W ¿yciu nie spotka³em bardziej naiwnej kobiety. Poca³owaæ szlam, co za boski widok!~
+@99   = ~(K³amstwo) Ehm, wydaje siê, ¿e to tak¿e nie dzia³a. Ha, ten magik oszuka³ mnie.~
+@100   = ~(K³amiesz z niewzruszon¹ min¹) Dlaczego to oczywiœcie nie zadzia³a³o? By³o dalekie od tego, co nazywam prawdziwym poca³unkiem. S¹dzê, ¿e musisz spróbowaæ jeszcze raz, ale z wiêkszym uczuciem!~
+@101   = ~W ¿adnym razie! Ju¿ nie wierzê w ani jedno twoje s³owo~
+@102   = ~Jesteœcie nikczemnymi bydlakami! Nie mogê uwierzyæ, ¿e wam zaufa³am. Zabiorê Eltoltha do uczciwych ludzi, którzy bêd¹ w stanie mu pomóc. Nie wa¿cie siê niczego dotykaæ w tym domu, w trakcie jego nieobecnoœci!~
+@103   = ~ Beregost: S¹siad Alanny ma k³opoty
+
+ Alternatywne antidotum nie zadzia³a³o. Ale to wszystko warte by³o widoku, jak kobieta ca³uje szlam!~
+@104   = ~(Dajesz antidotum) Proszê bardzo! To powinno przywróciæ twojemu s¹siadowi pierwotn¹ postaæ.~
+@105   = ~(Dajesz tani¹ alternatywê) Tu mam antidotum. Daj go Eltolthowi.~
+@106   = ~Potrwa jeszcze moment.~
+@107   = ~Nie mam na to teraz czasu.~
+@108   = ~100 SZTUK Z£OTA! To... jest mnóstwo pieniêdzy. Nie mogê ci daæ wiêcej pieniêdzy, ni¿ ju¿ ode mnie dosta³eœ. Proszê, idŸ i kup antidotum!. Jestem pewna, ¿e Eltolth zwróci ci poniesione wydatki.~
+@109   = ~Oh, naprawdê? To... to wspaniale! W takim razie zaraz mu to podam.~
+@110   = ~Beregost: S¹siad Alanny ma k³opoty
+
+Oops. Wygl¹da, ¿e Alanna i jej s¹siad po³¹czyli siê nareszcie duchowo... jako (martwe) szlamy. Tulbor nie k³ama³, kiedy ostrzega³ o mo¿liwych niechcianych efektach ubocznych tego taniego odpowiednika mikstury.~
+

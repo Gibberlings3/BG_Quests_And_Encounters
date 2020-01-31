@@ -1,0 +1,33 @@
+IF
+  !See([ENEMY])
+  Global("C#Q05_PeopleTalk1","GLOBAL",0)
+  See([PC])
+  !Range([PC],10)
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    	StartDialog("C#Q05002",[PC])
+END
+
+IF
+  !See([ENEMY])
+  Dead("C#Q05001")
+  See([PC])
+  Range([PC],10)
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    	StartDialog("C#Q05002",[PC])
+END
+
+IF
+	Allegiance(Myself,[ENEMY])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+
+

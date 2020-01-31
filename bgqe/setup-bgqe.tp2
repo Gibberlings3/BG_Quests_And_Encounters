@@ -1,0 +1,1797 @@
+/*
+
+ToDo:
+
+I think that the fake antidote has a chance a little too high too work, or was I extremely lucky? In 10 times, I think only three times the fake antidote didn't work. I'm trying and trying again and I save him almost always. I think the ratio amongst 100 times should be:
+20 (good ending)
+40 (neutral ending) 
+40 (evil ending)
+
+3) If you save eldoth, option 2) and 3) give you the same "reward" and turn into the same "scenario". Your rudeness is not calculated at all.
+
+
+pre 21:
+
+Changes:
+-"Brage's Sword": removed "Attack([PC])" from Borda's dialogue, NVROL fixed if quest is done with letter from Tazok's tent
+-bgqe.ini with mod info added
+
+-"Nashkel Monster": changed to ActionOverride in mage ("C#Q04007.cre") dialogue so NPCs can interject without the need of passback line 
+- "A Worried Farmer": now works in Tutu, too.
+- added folder libiconv-1.9.2-1-src.7z with iconv licence info
+*/
+
+
+/* Known issues:
+(Hamsterquest) I am also sometimes left with one or two hamsters after the boy supposedly takes them all, although which ones exactly differs each try. (I hope this will be fixed for v16)
+
+-BG:EE / EET: after returning Brage to Nashkell, the journal entry "The Tale of Captain Brage(Finished)" will remain in the journal, but without any text attached to it. Obviously the journal system is not meant to remove titels even if the entries are removed. This is an engine problem. (Let's see whether this will change for 2.5)
+
+(BG1:TotSC) It can happen that Joseph's widow's mother will sleep on the floor, while a generic sleeping woman sleeps in the bed. Just imagine Joseph's widow to have a real great heart for needing souls.
+
+(BG1:TotSC) Polus the drunk still preforms his silly folk dance when you talk to him (falls down on the ground and gets up 15 or so times). 
+
+
+Achtung: Die Mod muss vor BG1NPC installiert werden, sonst verschwindet die eingefügte Antwortoption für Brage und Borda.
+
+
+
+*/
+
+
+//BG1 Mini Quests and Encounters Mod
+//including "Slime Quest Mini Mod"
+// Author: jastey
+// This mod is supported and hosted by:
+// http://www.kerzenburgforum.de (German support) 
+//and http://www.gibberlings3.net (English support)
+
+//vanilla BG1 version, Tutu, BGT and BG:EE version. Automatic identification.
+
+BACKUP ~bgqe/Backup~
+AUTHOR ~Please post in one of the forums as listed in the readme~
+
+//MODDER
+VERSION ~v21~ //pre
+
+README ~bgqe/Install/%LANGUAGE%.bgqe.txt~ ~bgqe/Install/english.bgqe.txt~
+
+
+
+ALWAYS
+
+
+/* check for a ready SoD - doesn't work for Windows */
+
+ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) THEN BEGIN
+  FAIL @5003 /* ~Modmerge is required before mods can be installed on this game. Check the readme for more information and a link to download Modmerge.~ */
+END
+
+
+/////////////////////////////////////
+/* These actions are processed for every component */
+
+/* dummy dlg for non-ee games */
+
+/* do not use this. Use IF_FILE_EXISTS instead */
+
+ ACTION_IF GAME_IS ~bgee eet~ THEN BEGIN
+	OUTER_SPRINT ~NEERA_JOINED~ ~NeeraJ~
+	OUTER_SPRINT ~RASAAD_JOINED~ ~RasaadJ~
+	OUTER_SPRINT ~DORN_JOINED~ ~DornJ~
+	OUTER_SPRINT ~BAELOTH_JOINED~ ~BaelothJ~
+  END
+
+  ACTION_IF GAME_IS ~bg1 totsc tutu tutu_totsc bgt~ THEN BEGIN
+	OUTER_SPRINT ~NEERA_JOINED~ ~BGEEFAKE~
+	OUTER_SPRINT ~RASAAD_JOINED~ ~BGEEFAKE~
+	OUTER_SPRINT ~DORN_JOINED~ ~BGEEFAKE~
+	OUTER_SPRINT ~BAELOTH_JOINED~ ~BGEEFAKE~
+  END
+
+
+/* DavidW's code for unifying the area script patching. With many thanks! 
+To be used later in the form:
+EXTEND_TOP:
+LAF extend_area_script STR_VAR area="%Candlekeep%" top="bg1re/script/AR2600.baf" END
+EXTEND_BOTTOM:
+LAF extend_area_script STR_VAR area="%Candlekeep%" bottom="bg1re/script/AR2600.baf" END
+*/
+DEFINE_ACTION_FUNCTION extend_area_script 
+    STR_VAR area=""
+            top=""
+            bottom=""
+BEGIN
+    // find the area script from the area file
+    COPY_EXISTING "%area%.are" override
+           READ_ASCII 0x94 script
+    BUT_ONLY
+    // if it doesn't exist, give it a default name
+    ACTION_IF "%script%" STRING_EQUAL "" BEGIN
+          OUTER_INNER_PATCH_SAVE script "%area%" BEGIN
+                REPLACE_TEXTUALLY "FW" "_AR" // TUTU naming conventions
+          END
+          // added by argent77: assign area script if needed
+          COPY_EXISTING "%area%.are" override
+          WRITE_ASCIIE 0x94 ~%script%~ #8
+    END
+    // extend the script
+    ACTION_IF "%top%" STRING_COMPARE "" BEGIN
+        EXTEND_TOP "%script%.bcs" "%top%" EVALUATE_BUFFER
+    END
+    ACTION_IF "%bottom%" STRING_COMPARE "" BEGIN
+       EXTEND_BOTTOM "%script%.bcs" "%bottom%" EVALUATE_BUFFER
+    END
+END 
+
+
+/* argent77's function for fetching journal strrefs. With many thanks! */
+
+/* To be used later in the form:
+
+COPY_EXISTING ~husam.dlg~ ~override~
+  // get journal entry from first response associated with dialogue state 6
+  LPF READ_JOURNAL_STRREF
+  INT_VAR
+    state = 6
+//    stateResponse = 1 //As an example: This would be reply option #2 from top
+  RET
+    strref
+END
+
+    SET myUniqueVar = strref //adapt "myUniqueVar" as necessary
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+BUT_ONLY
+
+*/
+
+DEFINE_PATCH_FUNCTION READ_JOURNAL_STRREF
+INT_VAR
+  // either use these two parameters if response index should be determined from a state index
+  state         = "-1"  // state index
+  stateResponse = 0     // relative response index (e.g. 0 for first response associated with the state, 1 for second response, and so on...)
+
+  // or use this parameter instead to specify response index directly
+  response      = "-1"  // (absolute) response index
+
+RET
+  strref    // returned string reference, or -1 if not available
+BEGIN
+  SET strref = "-1"
+
+  // determine response index from dialogue state if specified
+  PATCH_IF (state >= 0) BEGIN
+    READ_LONG 0x08 numStates
+    PATCH_IF (state < numStates) BEGIN
+      READ_LONG 0x0c ofsStates
+      SET ofs = ofsStates + (state * 0x10)  // calculate offset to specified state
+      READ_LONG (ofs + 4) firstResponse
+      READ_LONG (ofs + 8) numStateResponses
+      PATCH_IF (stateResponse >= 0 && stateResponse < numStateResponses) BEGIN
+        SET response = firstResponse + stateResponse  // calculate absolute response index (processed below)
+      END
+    END
+  END
+
+  // deal with dialogue response index directly
+  PATCH_IF (response >= 0) BEGIN
+    READ_LONG 0x10 numResponses
+    PATCH_IF (response < numResponses) BEGIN
+      READ_LONG 0x14 ofsResponses
+      SET ofs = ofsResponses + (response * 0x20)
+      READ_LONG ofs flags
+      PATCH_IF (flags & BIT4) BEGIN   // response flags bit 4 indicates available journal entry
+        READ_LONG (ofs + 8) strref
+      END
+    END
+  END
+END
+
+
+
+
+   ACTION_IF GAME_IS ~tutu tutu_totsc~ THEN BEGIN
+
+   
+
+    /* Tell the player it is using Tutu */
+    PRINT @1
+
+
+	INCLUDE ~bgqe/lib/g3_tutu_cpmvars.tpa~
+	INCLUDE ~bgqe/lib/rr_tutubgt_addvars.tpa~
+
+ /* additional things needed for BG1 / BG1(TotSC) / Tutu / BGT differences */
+/* Tutu Area Scripts */
+    OUTER_SPRINT "NBaldursGate_BCS" "_AR0200"
+    OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "_AR0607"
+    OUTER_SPRINT "FishingVillage_BCS" "_AR1400"
+    OUTER_SPRINT "Nashkel_BCS" "_AR4800"
+
+    OUTER_SPRINT ~CombatCounter_0~ ~CombatCounter(0)~
+    OUTER_SPRINT ~STARTDIALOGNOSET~ ~StartDialogueNoSet~
+    OUTER_SPRINT ~PC_HALFORC~ ~Race(Player1,HALFORC)~
+
+    OUTER_SPRINT ~DisplayStringHead~ ~DisplayStringHead~
+    OUTER_SPRINT ~shopkn_additional_statenumber~ ~1~
+
+    OUTER_SPRINT ~eet_var~ ~~
+
+    OUTER_SPRINT ~CALAHA~ ~_CALAHA~
+
+  END 
+
+  ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+
+
+     /* Tell the player it is using BGT stuff */
+      PRINT @9
+
+     INCLUDE ~bgqe/lib/g3_bgt_cpmvars.tpa~
+	INCLUDE ~bgqe/lib/rr_tutubgt_addvars.tpa~
+
+  /* additional things needed for BG1 / BG1(TotSC) / Tutu / BGT differences */
+
+
+/* BGT Area Scripts */
+    OUTER_SPRINT "NBaldursGate_BCS" "AR7300"
+    OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "AR7607"
+    OUTER_SPRINT "FishingVillage_BCS" "AR8300"
+    OUTER_SPRINT "Nashkel_BCS" "AR3700"
+
+    OUTER_SPRINT ~STARTDIALOGNOSET~ ~StartDialogueNoSet~
+    OUTER_SPRINT ~CombatCounter_0~ ~CombatCounter(0)~
+    OUTER_SPRINT ~PC_HALFORC~ ~Race(Player1,HALFORC)~
+    OUTER_SPRINT ~DisplayStringHead~ ~DisplayStringHead~
+    OUTER_SPRINT ~shopkn_additional_statenumber~ ~2~
+
+    OUTER_SPRINT ~eet_var~ ~~
+
+    OUTER_SPRINT ~CALAHA~ ~BGCALAHA~
+
+  END 
+
+/* vanilla BG1, general */
+
+
+  ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+
+
+	PRINT @2
+
+     INCLUDE ~bgqe/lib/g3_bg_cpmvars.tpa~
+
+
+  /* additional things needed for BG1 / BG1(TotSC) / Tutu / BGT differences */
+/* BG1 Area Scripts */
+    OUTER_SPRINT "NBaldursGate_BCS" "AR0200"
+    OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "AR0607"
+    OUTER_SPRINT "FishingVillage_BCS" "AR1400"
+    OUTER_SPRINT "Nashkel_BCS" "AR4800"
+
+    OUTER_SPRINT ~PC_HALFORC~ ~False()~
+    OUTER_SPRINT ~DisplayStringHead~ ~DisplayString~
+
+    OUTER_SPRINT ~CombatCounter_0~ ~~
+
+    OUTER_SPRINT ~eet_var~ ~~
+
+/* BG1 with TotSC installed */
+	ACTION_IF GAME_IS ~totsc~ THEN BEGIN
+
+     INCLUDE ~bgqe/lib/RR_TotSC_addvars.tpa~
+    OUTER_SPRINT ~STARTDIALOGNOSET~ ~StartDialogueNoSet~
+ 
+	END ELSE BEGIN 
+
+/* BG1 without TotSC installed */
+
+
+     INCLUDE ~bgqe/lib/rr_bg1_addvars.tpa~
+    OUTER_SPRINT ~STARTDIALOGNOSET~ ~Dialogue~
+
+	END
+  END
+
+
+
+  ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+
+    /* Tell the player it is using bgee */
+    PRINT @66
+    
+	INCLUDE ~bgqe/lib/g3_bgee_cpmvars.tpa~
+	INCLUDE ~bgqe/lib/rr_tutubgt_addvars.tpa~
+
+
+
+ /* additional things needed for BG1 / BG1(TotSC) / Tutu / BGT differences */
+
+/* BG:EE Area Scripts */
+    OUTER_SPRINT "NBaldursGate_BCS" "AR0200"
+    OUTER_SPRINT "SWBaldursGate_FlamingFistHQ_L1_BCS" "AR0607"
+    OUTER_SPRINT "FishingVillage_BCS" "AR1400"
+    OUTER_SPRINT "Nashkel_BCS" "AR4800"
+
+
+    OUTER_SPRINT ~CombatCounter_0~ ~CombatCounter(0)~
+    OUTER_SPRINT ~STARTDIALOGNOSET~ ~StartDialogueNoSet~
+
+    OUTER_SPRINT ~PC_HALFORC~ ~Race(Player1,HALFORC)~
+    OUTER_SPRINT ~DisplayStringHead~ ~DisplayStringHead~
+    OUTER_SPRINT ~shopkn_additional_statenumber~ ~1~
+
+    OUTER_SPRINT ~eet_var~ ~~
+
+    OUTER_SPRINT ~CALAHA~ ~CALAHA~
+
+  END //End of bgee section
+
+
+/* eet version, if installed directly to eet */
+  ACTION_IF GAME_IS ~eet~ THEN BEGIN
+
+    /* Tell the player it is using eet */
+    PRINT @109
+    
+	INCLUDE ~EET/other/cpmvars/eet_cpmvars.tpa~
+	INCLUDE ~bgqe/lib/rr_tutubgt_addvars.tpa~
+
+
+
+ /* additional things needed for BG1 / BG1(TotSC) / Tutu / BGT differences */
+
+    OUTER_SPRINT ~CombatCounter_0~ ~CombatCounter(0)~
+    OUTER_SPRINT ~STARTDIALOGNOSET~ ~StartDialogueNoSet~
+
+    OUTER_SPRINT ~PC_HALFORC~ ~Race(Player1,HALFORC)~
+    OUTER_SPRINT ~DisplayStringHead~ ~DisplayStringHead~
+    OUTER_SPRINT ~shopkn_additional_statenumber~ ~1~
+
+    OUTER_SPRINT ~CALAHA~ ~CALAHA_~
+
+  END //End of eet section
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+/* all following actions are only processed ONCE for the whole mod, independent of un- and reinstalling of single components */
+
+ ACTION_IF !FILE_EXISTS ~bgqe/backup/bgqeinstall.mrk~ BEGIN
+
+
+/* do not use this. Use IF_FILE_EXISTS instead */
+
+ACTION_IF GAME_IS ~bg1 totsc tutu tutu_totsc bgt~ THEN BEGIN
+<<<<<<<< ...inlined/bgeefake.d
+BEGIN BGEEFAKE
+>>>>>>>>
+COMPILE ~...inlined/bgeefake.d~
+END
+
+
+  /* STATE.IDS patching to ToB - thanks, Cam, if you read it */
+  /* adds custom IsValidForPartyDialogue state */
+  APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~ UNLESS ~CD_STATE_NOTVALID~
+
+
+  ACTION_IF GAME_IS ~tutu tutu_totsc bgt bg1 totsc~ THEN BEGIN
+
+  /* Support for polish translation */
+  OUTER_SPRINT "PL_TRA_Patch" "bgqe/tra/Polski"
+  INCLUDE ~%PL_TRA_Patch%/BG1&BG2UniversalPolishFont.tpa~
+    //TRAs declared in LANGUAGE must be reloaded
+  LOAD_TRA "bgqe/tra/%LANGUAGE%/setup.tra"
+
+  END
+
+
+//---------------------------
+
+/* vanilla BG1, general */
+
+
+   ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+        
+
+	INCLUDE ~bgqe/lib/c#_bg_npcjdlg.tpa~
+
+
+  /* additional things needed for BG1 / BG1(TotSC) / Tutu / BGT differences */
+
+
+
+	APPEND ~action.ids~ ~160 ApplySpellRES(S:ResRef*,O:Target*)~       
+	UNLESS ~ApplySpellRES~
+
+   END
+
+
+/* Code stolen from BG1NPC Project */
+
+  /* pdialog.2da preparation */
+  ACTION_IF GAME_IS ~tutu tutu_totsc~ THEN BEGIN
+
+    COPY_EXISTING ~pdialog.2da~ ~override~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^JOIN_DIALOG_FILE\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~JOIN_DIALOG_FILE\1DREAM_SCRIPT_FILE~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_MINSCJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_MINSCJ\1_MINSCD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_FALDOJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_FALDOJ\1_FALDOD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_JAHEIJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_JAHEIJ\1_JAHEID~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_CORANJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_CORANJ\1_CORAND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_DYNAHJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_DYNAHJ\1_DYNAHD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_XANJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_XANJ\1_XAND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_YESLIJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_YESLIJ\1_YESLID~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_ELDOTJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_ELDOTJ\1_ELDOTD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_VICONJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_VICONJ\1_VICOND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_SHARTJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_SHARTJ\1_SHARTD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_SKIEJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_SKIEJ\1_SKIED~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_KIVANJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_KIVANJ\1_KIVAND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_XZARJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_XZARJ\1_XZARD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_SAFANJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_SAFANJ\1_SAFAND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_QUAYLJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_QUAYLJ\1_QUAYLD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_KHALIJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_KHALIJ\1_KHALID~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_TIAXJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_TIAXJ\1_TIAXD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_EDWINJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_EDWINJ\1_EDWIND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_AJANTJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_AJANTJ\1_AJANTD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_KAGAIJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_KAGAIJ\1_KAGAID~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_MONTAJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_MONTAJ\1_MONTAD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_IMOEN2\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_IMOEN2\1_IMOEND~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_GARRIJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_GARRIJ\1_GARRID~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_BRANWJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_BRANWJ\1_BRANWD~
+      REPLACE_TEXTUALLY CASE_INSENSITIVE ~^_ALORAJ\( +[^ ]+ +[^ ]+ +\)[^ ]+~ ~_ALORAJ\1_ALORAD~
+    BUT_ONLY_IF_IT_CHANGES
+  END ELSE BEGIN /* BGT Versions */
+  COPY_EXISTING ~pdialog.2da~ ~override~
+    COUNT_2DA_ROWS 8 "cnt_row"
+    FOR ( cnt=0; cnt<"%cnt_row%"; cnt=cnt+1 ) BEGIN
+      READ_2DA_ENTRY "%cnt%" 0 8 "pd_name"
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "MONTARON")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "MONTAD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "KAGAIN")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "KAGAID"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "KIVAN")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "KIVAND"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "SHARTEEL")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "SHARTD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "YESLICK")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "YESLID"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "XZAR")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "XZARD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "ALORA")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "ALORAD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "AJANTIS")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "AJANTD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "KHALID")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "KHALID"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "GARRICK")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "GARRID"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "SAFANA")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "SAFAND"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "FALDORN")=0) BEGIN
+      SET_2DA_ENTRY "%cnt%" 3 8 "FALDOD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "BRANWEN")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "BRANWD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "QUAYLE")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "QUAYLD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "XAN")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "XAND"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "SKIE")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "SKIED"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "ELDOTH")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "ELDOTD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "TIAX")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "TIAXD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "DYNAHEIR")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "DYNAHD"
+      END
+      PATCH_IF (("%pd_name%" STRING_COMPARE_CASE "CORAN")=0) BEGIN
+       SET_2DA_ENTRY "%cnt%" 3 8 "CORAND"
+      END
+    END
+  BUT_ONLY_IF_IT_CHANGES
+  END
+
+  /* .2da patching */
+  
+  /* Tutu: Giving Imoen a banter file entry in the interdi.2da */
+  ACTION_IF GAME_IS ~tutu tutu_totsc~ THEN BEGIN
+    APPEND ~interdia.2da~ ~IMOEN                    _BIMOEN~ UNLESS ~_\(BIMOEN\|bimoen\)~
+  END
+  /* BGT: Giving Imoen a banter file if the Fixpack isn't installed */
+  ACTION_IF NOT (FILE_EXISTS_IN_GAME ~cdbehbla.pro~) AND (GAME_IS ~bgt~) THEN BEGIN
+    ACTION_IF FILE_EXISTS_IN_GAME ~mel01.cre~ THEN BEGIN
+      COPY_EXISTING ~interdia.2da~ ~override~
+        SET_2DA_ENTRY 17 1 2 ~BIMOEN2~ // fixes ToB version
+      BUT_ONLY_IF_IT_CHANGES
+    END ELSE BEGIN
+        APPEND ~interdia.2da~ ~IMOEN       BIMOEN2~ // fixes SoA version
+        UNLESS ~BIMOEN2~
+    END
+  END
+
+    /* Imoen BIMOEN.DLG rebuild */
+  ACTION_IF NOT (FILE_EXISTS_IN_GAME ~_bimoen.dlg~) AND (FILE_EXISTS_IN_GAME ~FW0100.are~) THEN BEGIN
+    COMPILE ~bgqe/lib/X#BIMOEN_TUTU.D~
+  END ELSE BEGIN
+    ACTION_IF NOT (FILE_EXISTS_IN_GAME ~bimoen2.dlg~) AND (FILE_EXISTS_IN_GAME ~AR7200.are~) THEN BEGIN
+      COMPILE ~bgqe/lib/X#BIMOEN_BGT.D~
+    END
+  END
+
+/* ^^ -------- end of stolen code from Bg1NPC Project ------- ^^ */
+
+
+
+/* Handling of correctly formatted tra-files!! ---------------------- */
+
+
+ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup.tra END
+
+ACTION_DEFINE_ARRAY fl#reload BEGIN bgqe_game.tra END
+
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charset = 1
+    STR_VAR
+      tra_path = EVAL ~bgqe/Tra~
+      noconvert_array = fl#noconvert
+      reload_array = fl#reload
+  END
+
+
+
+      COPY_EXISTING sw1h01.itm ~bgqe/backup/bgqeinstall.mrk~
+
+  END //bgqeinstall.mrk
+
+
+/* This again happens for every running of the installer */
+
+   /* TRAs declared in LANGUAGE must be reloaded  */
+
+  LOAD_TRA ~bgqe/tra/%LANGUAGE%/setup.tra~
+  LOAD_TRA ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+
+
+END //ALWAYS
+
+
+
+AUTO_TRA ~bgqe/tra/%s~
+
+
+LANGUAGE ~English~
+         ~english~
+         ~bgqe/tra/english/setup.tra~
+         ~bgqe/tra/english/bgqe_game.tra~
+
+
+LANGUAGE ~Deutsch~
+         ~german~
+         ~bgqe/tra/german/setup.tra~
+         ~bgqe/tra/german/bgqe_game.tra~
+
+LANGUAGE ~Francais~
+         ~francais~
+         ~bgqe/tra/francais/setup.tra~
+         ~bgqe/tra/francais/bgqe_game.tra~
+
+LANGUAGE ~Italiano~
+         ~italiano~
+         ~bgqe/tra/italiano/setup.tra~
+         ~bgqe/tra/italiano/bgqe_game.tra~
+
+
+/*
+LANGUAGE ~Espanol~
+         ~espanol~
+         ~bgqe/tra/espanol/setup.tra~
+         ~bgqe/tra/espanol/bgqe_game.tra~
+*/
+
+LANGUAGE ~Russian (hawkmoon & arcanecoast.ru team & d0lphin)~
+         ~russian~
+         ~bgqe/tra/Russian/setup.tra~
+         ~bgqe/tra/Russian/bgqe_game.tra~
+/*
+
+LANGUAGE ~Polski~
+         ~polski~
+         ~bgqe/tra/Polski/setup.tra~
+         ~bgqe/tra/Polski/bgqe_game.tra~
+
+*/
+
+
+
+
+
+/* Slime Quest */
+
+BEGIN @38 DESIGNATED 0
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+   
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Dialogues/C#Q01001.D~
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Dialogues/C#Q01004.D~
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Dialogues/C#Q01003.D~
+
+LAF extend_area_script STR_VAR area="%Beregost%" bottom="bgqe/SlimeQuest/Scripts/C#Q01_AR3300.baf" END
+LAF extend_area_script STR_VAR area="%Beregost_House07%" bottom="bgqe/SlimeQuest/Scripts/C#Q01_AR3344.baf" END
+LAF extend_area_script STR_VAR area="%Beregost_RedSheaf_L1%" bottom="bgqe/SlimeQuest/Scripts/C#Q01_AR3357.baf" END
+
+ACTION_IF GAME_IS ~bgee tutu tutu_totsc bgt eet~ THEN BEGIN
+LAF extend_area_script STR_VAR area="%Beregost%" bottom="bgqe/SlimeQuest/Scripts/C#Q01_AR3300_mn.baf" END
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Scripts/C#Q01001.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Scripts/C#Q01002.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Scripts/C#Q01003.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Scripts/C#Q01004.baf~
+
+
+COPY ~bgqe/SlimeQuest/Items/C#Q01001.itm~ ~Override~
+     SAY NAME2 @3
+     SAY IDENTIFIED_DESC @4
+
+COPY ~bgqe/SlimeQuest/Items/C#Q01002.itm~ ~Override~
+     SAY NAME2 @5
+     SAY IDENTIFIED_DESC @6
+
+COPY ~bgqe/SlimeQuest/Items/C#Q01003.itm~ ~Override~
+     SAY NAME2 @7
+     SAY IDENTIFIED_DESC @8
+
+COPY ~bgqe/SlimeQuest/Items/C#Q01004.itm~ ~Override~
+     SAY NAME2 @59
+     SAY IDENTIFIED_DESC @60
+
+COPY ~bgqe/SlimeQuest/Creatures/C#Q01001.cre~ ~Override~
+     SAY NAME1 @10
+     SAY NAME2 @10
+
+COPY ~bgqe/SlimeQuest/Creatures/C#Q01002.cre~ ~Override~
+     SAY NAME1 @11
+     SAY NAME2 @11
+
+COPY ~bgqe/SlimeQuest/Creatures/C#Q01003.cre~ ~Override~
+     SAY NAME1 @11
+     SAY NAME2 @11
+
+COPY ~bgqe/SlimeQuest/Creatures/C#Q01003.cre~ ~Override/C#Q01005.cre~
+     SAY NAME1 @10
+     SAY NAME2 @10
+WRITE_ASCII 0x280 ~C#Q01005~ #8
+WRITE_ASCII 0x2cc ~C#Q01005~ #8
+
+COPY ~bgqe/SlimeQuest/Creatures/C#Q01004.cre~ ~Override~
+     SAY NAME1 @12
+     SAY NAME2 @12
+
+COPY ~bgqe/SlimeQuest/Bams~ ~Override~
+
+ADD_JOURNAL TITLE (@10000) @10001 @10002 @10003 @10004 @10005 @10006 @10007 @10008 @10064 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/SlimeQuest/scripts/c#q01_ar0602_bgt.baf~ EVALUATE_BUFFER
+END
+
+
+////////////////////////////////////////////////////////////////
+/* Beregost family quest resp. "family treasure" */
+///////////////////////////////////////////////////////////////
+BEGIN @13 DESIGNATED 1
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+   COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Scripts/C#Q02006.baf~
+   COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Scripts/C#Q02007.baf~
+
+   COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Scripts/C#07J005.baf~
+
+   COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Dialogues/C#Q02005.D~
+
+LAF extend_area_script STR_VAR area="%Beregost%" bottom="bgqe/Familytreasure/Scripts/C#Q02_AR3300.baf" END
+LAF extend_area_script STR_VAR area="%Beregost_House06_L1%" bottom="bgqe/Familytreasure/Scripts/C#Q02_AR3349.baf" END
+LAF extend_area_script STR_VAR area="%Beregost_House06_L2%" bottom="bgqe/Familytreasure/Scripts/C#Q02_AR3350.baf" END
+
+COPY ~bgqe/Familytreasure/Creatures/C#Q02005.CRE~ ~Override~ //wife
+   SAY NAME1 @14
+   SAY NAME2 @14
+
+COPY ~bgqe/Familytreasure/Creatures/C#Q02006.CRE~ ~Override~ //husband
+   SAY NAME1 @15
+   SAY NAME2 @15
+
+COPY ~bgqe/Familytreasure/Creatures/C#Q02007.CRE~ ~Override~ //daughter
+   SAY NAME1 @16
+   SAY NAME2 @16
+
+
+COPY ~bgqe/Familytreasure/Items/C#Q02004.ITM~ ~override~
+SAY NAME1 @17
+SAY NAME2 @17
+SAY UNIDENTIFIED_DESC @18
+SAY IDENTIFIED_DESC @18
+
+
+ADD_JOURNAL TITLE (@10009) @10010 @10011 @10012 @10013 @10014 @10015 @10016 @10017 @10018 @10019 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/Familytreasure/Scripts/C#Q02_ar0602_bgt.baf~ EVALUATE_BUFFER
+END
+
+/////////////////////////////////////////////////////////////////////////
+/* Quest 3: Babysitting in Nashkell, including "carnival encounter" */
+//////////////////////////////////////////////////////////////////////
+BEGIN @19 DESIGNATED 2
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+COPY ~bgqe/Babysitting/BAMs~ ~override~
+
+COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Dialogues/C#Q03008_9_10_11.d~
+
+
+LAF extend_area_script STR_VAR area="%Nashkel%" bottom="bgqe/Babysitting/Scripts/C#Q03_AR4800.baf" END
+LAF extend_area_script STR_VAR area="%NashkelCarnival%" bottom="bgqe/Babysitting/Scripts/C#Q03_AR4900.baf" END
+
+
+
+
+/* Workaround, as long as BG:EE's AR4300 has no scipt assigned */
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+EXTEND_BOTTOM ~AR4800.bcs~ ~bgqe/Babysitting/Scripts/C#Q03_AR4800_bgee.baf~
+      EVALUATE_BUFFER
+END
+
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN
+LAF extend_area_script STR_VAR area="%NorthNashkelRoad%" bottom="bgqe/Babysitting/Scripts/C#Q03_AR4300.baf" END
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03008.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03009.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03010.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03012.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03015.baf~
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03008.CRE~ ~Override/C#Q03008.CRE~ //mother
+   SAY NAME1 @20
+   SAY NAME2 @20
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03009.CRE~ ~Override/C#Q03009.CRE~ //Sarah
+   SAY NAME1 @21
+   SAY NAME2 @21
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03010.CRE~ ~Override/C#Q03010.CRE~ //Tom
+   SAY NAME1 @22
+   SAY NAME2 @22
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03011.CRE~ ~Override/C#Q03011.CRE~ //Tina
+   SAY NAME1 @23
+   SAY NAME2 @23
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03012.CRE~ ~Override/C#Q03012.CRE~
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+COPY ~bgqe/Babysitting/Creatures/C#Q03012.CRE~ ~Override/C#Q03013.CRE~
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+COPY ~bgqe/Babysitting/Creatures/C#Q03012.CRE~ ~Override/C#Q03014.CRE~
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03015.CRE~ ~Override/C#Q03015.CRE~
+SAY NAME1 @67
+SAY NAME2 @67
+WRITE_EVALUATED_ASCII 0x280 ~%SOURCE_RES%~ #32   // script name / DV
+WRITE_EVALUATED_ASCII 0x2cc ~%SOURCE_RES%~ #8   // set dialogue file
+WRITE_EVALUATED_ASCII 0x248 ~%SOURCE_RES%~ #8   // Override script
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+WRITE_EVALUATED_ASCII 0x258 ~%tutu_scripts%EEENEMY~ #8   // Race script
+WRITE_EVALUATED_ASCII 0x268 ~%tutu_scriptw%TASIGHT~ #8   // Default script
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03016.CRE~ ~Override/C#Q03016.CRE~
+SAY NAME1 @67
+SAY NAME2 @67
+WRITE_EVALUATED_ASCII 0x280 ~%SOURCE_RES%~ #32   // script name / DV
+WRITE_EVALUATED_ASCII 0x2cc ~%SOURCE_RES%~ #8   // set dialogue file
+//WRITE_EVALUATED_ASCII 0x248 ~%SOURCE_RES%~ #8   // Override script
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+WRITE_EVALUATED_ASCII 0x258 ~%tutu_scripts%MAGE~ #8   // Race script
+WRITE_EVALUATED_ASCII 0x268 ~%tutu_scriptw%TASIGHT~ #8   // Default script
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03017.CRE~ ~Override/C#Q03017.CRE~
+SAY NAME1 @67
+SAY NAME2 @67
+WRITE_EVALUATED_ASCII 0x280 ~%SOURCE_RES%~ #32   // script name / DV
+WRITE_EVALUATED_ASCII 0x2cc ~%SOURCE_RES%~ #8   // set dialogue file
+//WRITE_EVALUATED_ASCII 0x248 ~%SOURCE_RES%~ #8   // Override script
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+WRITE_EVALUATED_ASCII 0x258 ~%tutu_scripts%EEENEMY~ #8   // Race script
+WRITE_EVALUATED_ASCII 0x268 ~%tutu_scriptw%TASIGHT~ #8   // Default script
+
+COPY ~bgqe/Babysitting/Creatures/C#Q03018.CRE~ ~Override/C#Q03018.CRE~
+SAY NAME1 @67
+SAY NAME2 @67
+WRITE_EVALUATED_ASCII 0x280 ~%SOURCE_RES%~ #32   // script name / DV
+WRITE_EVALUATED_ASCII 0x2cc ~%SOURCE_RES%~ #8   // set dialogue file
+//WRITE_EVALUATED_ASCII 0x248 ~%SOURCE_RES%~ #8   // Override script
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%WTARSGT~ #8   // Class script
+WRITE_EVALUATED_ASCII 0x258 ~%tutu_scripts%EEENEMY~ #8   // Race script
+WRITE_EVALUATED_ASCII 0x268 ~%tutu_scriptw%TASIGHT~ #8   // Default script
+
+
+COPY ~bgqe/Babysitting/Items/C#Q03005.ITM~ ~override/C#Q03005.ITM~
+SAY NAME1 @24
+SAY NAME2 @24
+SAY UNIDENTIFIED_DESC @25
+SAY IDENTIFIED_DESC @25
+
+COPY ~bgqe/Babysitting/Items/C#Q03006.ITM~ ~override/C#Q03006.ITM~
+SAY NAME1 @26
+SAY NAME2 @26
+SAY UNIDENTIFIED_DESC @27
+SAY IDENTIFIED_DESC @27
+
+COPY ~bgqe/Babysitting/Items/C#Q03007.ITM~ ~override/C#Q03007.ITM~
+SAY NAME1 @28
+SAY NAME2 @28
+SAY UNIDENTIFIED_DESC @29
+SAY IDENTIFIED_DESC @29
+
+COPY ~bgqe/Babysitting/Items/C#Q03008.ITM~ ~override/C#Q03008.ITM~
+SAY NAME1 @30
+SAY NAME2 @30
+SAY UNIDENTIFIED_DESC @31
+SAY IDENTIFIED_DESC @31
+
+COPY ~bgqe/Babysitting/Items/C#Q03009.ITM~ ~override/C#Q03009.ITM~
+     ~bgqe/Babysitting/Items/C#Q03010.ITM~ ~override/C#Q03010.ITM~
+SAY NAME1 @32
+SAY NAME2 @32
+SAY UNIDENTIFIED_DESC @33
+SAY IDENTIFIED_DESC @33
+
+COPY ~bgqe/Babysitting/Items/C#Q03011.ITM~ ~override/C#Q03011.ITM~
+SAY NAME1 @34
+SAY NAME2 @34
+SAY UNIDENTIFIED_DESC @35
+SAY IDENTIFIED_DESC @35
+
+COPY ~bgqe/Babysitting/Items/C#Q03012.ITM~ ~override/C#Q03012.ITM~
+SAY NAME1 @36
+SAY NAME2 @36
+SAY UNIDENTIFIED_DESC @37
+SAY IDENTIFIED_DESC @37
+
+
+/* for bg:ee: use existing ingame bams */
+
+ACTION_IF GAME_IS ~bgee eet~ THEN BEGIN 
+
+COPY_EXISTING ~C#Q03005.ITM~ ~override/C#Q03005.ITM~
+WRITE_EVALUATED_ASCII 0x58 ~CMISC1G~ #8
+
+COPY_EXISTING ~C#Q03009.ITM~ ~override/C#Q03009.ITM~
+WRITE_EVALUATED_ASCII 0x58 ~CMISC5H~ #8
+
+COPY_EXISTING ~C#Q03006.ITM~ ~override/C#Q03006.ITM~
+WRITE_EVALUATED_ASCII 0x58 ~CMISC5L~ #8
+
+COPY_EXISTING ~C#Q03010.ITM~ ~override/C#Q03010.ITM~
+WRITE_EVALUATED_ASCII 0x58 ~CMISC6C~ #8
+
+COPY_EXISTING ~C#Q03011.ITM~ ~override/C#Q03011.ITM~
+WRITE_EVALUATED_ASCII 0x58 ~CMISC6D~ #8
+
+COPY_EXISTING ~C#Q03012.ITM~ ~override/C#Q03012.ITM~
+WRITE_EVALUATED_ASCII 0x58 ~CCLCK06~ #8
+
+END
+
+
+
+ADD_JOURNAL TITLE (@10020) @10021 @10022 @10023 @10024 @10025 @10065 @10066 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/Babysitting/Scripts/C#Q03_ar0602_bgt.baf~ EVALUATE_BUFFER
+END
+
+//////////////////////////////////////////////////////////////////
+/* Quest 4: Nashkell Monster */
+/////////////////////////////////////////////////////////////////
+BEGIN @39 DESIGNATED 3
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@10027) @10026 @10028 @10029 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+ADD_JOURNAL TITLE (@10030) @10031 @10032 @10033 @10034 @10035 @10067 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/Nashkell_Monster/Scripts/C#Q04_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Dialogues/C#Q04001_3_4_5.d~
+
+ACTION_IF NOT GAME_IS ~bgt~ THEN BEGIN
+  COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Dialogues/c#q04eggdelivery.d~
+END
+
+
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+
+   COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Dialogues/c#q04eggdelivery.d~
+	~bgqe/Nashkell_Monster/Dialogues/c#q04_BGTonly.d~
+	USING ~bgqe/tra/%LANGUAGE%/c#q04eggdelivery.tra~
+
+END
+
+
+LAF extend_area_script STR_VAR area="%Nashkel%" top="bgqe/Nashkell_Monster/Scripts/C#Q04_AR4800.baf" END
+LAF extend_area_script STR_VAR area="%Nashkel_Inn%" bottom="bgqe/Nashkell_Monster/Scripts/C#Q04_AR4801.baf" END
+LAF extend_area_script STR_VAR area="%CloakwoodDruids_PetersCave%" bottom="bgqe/Nashkell_Monster/Scripts/C#Q04_AR1603.baf" END
+LAF extend_area_script STR_VAR area="%FishingVillage%" top="bgqe/Nashkell_Monster/Scripts/C#Q04_AR1400.baf" END
+
+
+ACTION_IF GAME_IS ~bgt tutu tutu_totsc bgee eet~ THEN BEGIN
+
+EXTEND_BOTTOM ~baldur.bcs~ ~bgqe/Nashkell_Monster/Scripts/c#q04spiderhatch.baf~
+      EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/c#q04eggdelivery.tra~
+
+END 
+
+//BG
+
+ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
+
+EXTEND_BOTTOM ~dplayer3.bcs~ ~bgqe/Nashkell_Monster/Scripts/c#q04spiderhatch.baf~
+      EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/c#q04eggdelivery.tra~
+
+END
+
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Scripts/C#Q04001.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Scripts/C#Q04003.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Scripts/C#Q04004.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Scripts/C#Q04005.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Scripts/C#Q04cut.baf~
+
+
+ACTION_IF GAME_IS ~tutu tutu_totsc bg1 totsc bgt~ BEGIN
+
+COPY ~bgqe/Nashkell_Monster/Bams~ ~Override~
+
+END
+
+
+
+COPY ~bgqe/Nashkell_Monster/Items/C#Q04001.itm~ ~override/C#Q04001.itm~
+SAY NAME1 @101
+SAY NAME2 @101
+SAY UNIDENTIFIED_DESC @102
+SAY IDENTIFIED_DESC @102
+
+COPY ~bgqe/Nashkell_Monster/Items/C#Q04002.itm~ ~override/C#Q04002.itm~
+SAY NAME1 @103
+SAY NAME2 @103
+SAY UNIDENTIFIED_DESC @104
+SAY IDENTIFIED_DESC @104
+
+ACTION_IF GAME_IS ~bgee eet~ THEN BEGIN 
+
+COPY_EXISTING ~C#Q04001.itm~ ~override/C#Q04001.itm~
+WRITE_EVALUATED_ASCII 0x58 ~CHELM18~ #8
+WRITE_EVALUATED_ASCII 0x3a ~IHELM19~ #8
+
+COPY_EXISTING ~C#Q04002.itm~ ~override/C#Q04002.itm~
+WRITE_EVALUATED_ASCII 0x58 ~CHELM18~ #8
+WRITE_EVALUATED_ASCII 0x3a ~IHELM18~ #8
+
+END
+
+COPY_EXISTING ~%tutu_var%misc52.itm~ ~Override/C#Q04003.itm~
+
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04001.CRE~ ~Override/C#Q04001.CRE~ 
+   SAY NAME1 @40
+   SAY NAME2 @40
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04002.CRE~ ~Override/C#Q04002.CRE~
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04003.CRE~ ~Override/C#Q04003.CRE~ 
+   SAY NAME1 @41
+   SAY NAME2 @41
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04004.CRE~ ~Override/C#Q04004.CRE~ 
+   SAY NAME1 @42
+   SAY NAME2 @42
+
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04005.CRE~ ~Override/C#Q04005.CRE~ 
+//Amnischer Soldat
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04005.CRE~ ~Override/C#Q04006.CRE~ 
+//Amnischer Soldat
+WRITE_ASCII 0x280 ~C#Q04006~
+WRITE_ASCII 0x2cc ~C#Q04006~
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04007.CRE~ ~Override/C#Q04007.CRE~ 
+//Mage 
+   SAY NAME1 @99
+   SAY NAME2 @99
+WRITE_ASCII 0x280 ~C#Q04007~
+WRITE_ASCII 0x2cc ~C#Q04007~
+
+COPY ~bgqe/Nashkell_Monster/Creatures/C#Q04008.CRE~ ~Override/C#Q04008.CRE~ 
+//Mage 
+   SAY NAME1 @100
+   SAY NAME2 @100
+WRITE_ASCII 0x280 ~C#Q04008~
+WRITE_ASCII 0x2cc ~C#Q04008~
+
+COPY_EXISTING ~%tutu_var%SPIDWR.cre~ ~Override/C#Q04009.CRE~
+WRITE_ASCII 0x280 ~C#Q04009~
+WRITE_ASCII 0x2cc ~C#Q04009~
+
+
+
+//////////////////////////////////////////////////////////////
+/* Quest 5: Fallen Paladin */
+/////////////////////////////////////////////////////////////
+BEGIN @43 DESIGNATED 4
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@10036) @10037 @10038 @10039 @10040 @10041 @10042 @10043 @10044 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/FallenPaladin/Scripts/C#Q05_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Dialogues/C#Q05001.d~
+
+
+LAF extend_area_script STR_VAR area="%NBaldursGate_TempleofHelm%" bottom="bgqe/FallenPaladin/Scripts/C#Q05_AR0002.baf" END
+LAF extend_area_script STR_VAR area="%NBaldursGate_House1_L1%" bottom="bgqe/FallenPaladin/Scripts/C#Q05_AR0008.baf" END
+LAF extend_area_script STR_VAR area="%NBaldursGate%" bottom="bgqe/FallenPaladin/Scripts/C#Q05_AR0200.baf" END
+LAF extend_area_script STR_VAR area="%CentralBaldursGate%" bottom="bgqe/FallenPaladin/Scripts/C#Q05_AR0700.baf" END
+
+
+/* BG1 game */
+
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+
+COMPILE ~bgqe/FallenPaladin/Dialogues/cre_dialogues_BG.d~
+USING ~bgqe/tra/%LANGUAGE%/cre_dialogues.tra~
+
+END
+
+
+ACTION_IF GAME_IS ~bgt tutu tutu_totsc bgee eet~ THEN BEGIN
+
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Dialogues/cre_dialogues.d~
+
+END
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Scripts/C#Q05002.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Scripts/C#Q05003.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Scripts/C#Q05004.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Scripts/C#Q05005.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/FallenPaladin/Scripts/C#Q05007.baf~
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05001.CRE~ ~Override/C#Q05001.CRE~ 
+   SAY NAME1 @44
+   SAY NAME2 @44
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05002.CRE~ ~Override/C#Q05002.CRE~
+   SAY NAME1 @45
+   SAY NAME2 @45
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05003.CRE~ ~Override/C#Q05003.CRE~ 
+   SAY NAME1 @45
+   SAY NAME2 @45
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05004.CRE~ ~Override/C#Q05004.CRE~ 
+   SAY NAME1 @45
+   SAY NAME2 @45
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05005.CRE~ ~Override/C#Q05005.CRE~ 
+   SAY NAME1 @45
+   SAY NAME2 @45
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05006.CRE~ ~Override/C#Q05006.CRE~ 
+   SAY NAME1 @46
+   SAY NAME2 @46
+
+COPY ~bgqe/FallenPaladin/Creatures/C#Q05007.CRE~ ~Override/C#Q05007.CRE~ 
+   SAY NAME1 @47
+   SAY NAME2 @47
+
+
+
+//////////////////////////////////////////////////////////////
+/* Quest 6: "Undying Love" */
+/////////////////////////////////////////////////////////////
+BEGIN @48 DESIGNATED 5
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@10045) @10046 @10047 @10048 @10049 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/UndyingLove/Scripts/C#Q06_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/UndyingLove/Dialogues/C#Q06001_2.d~
+
+LAF extend_area_script STR_VAR area="%FishingVillage_House1%" bottom="bgqe/UndyingLove/Scripts/C#Q06_AR1402.baf" END
+LAF extend_area_script STR_VAR area="%FishingVillage%" bottom="bgqe/UndyingLove/Scripts/C#Q06_AR1400.baf" END
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/UndyingLove/Scripts/C#Q06001.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/UndyingLove/Scripts/C#Q06002.baf~
+
+COPY ~bgqe/UndyingLove/Creatures/C#Q06001.CRE~ ~Override/C#Q06001.CRE~ 
+   SAY NAME1 @49
+   SAY NAME2 @49
+
+COPY ~bgqe/UndyingLove/Creatures/C#Q06002.CRE~ ~Override/C#Q06002.CRE~
+
+
+
+/////////////////////////////////////////////////////////////
+/* 7: Ork Lover Encounter */
+/////////////////////////////////////////////////////////////
+BEGIN @50 DESIGNATED 6
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@10050) @10051 @10052 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/OrkLover/Scripts/C#Q07_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/OrkLover/Dialogues/C#Q07001.d~
+
+LAF extend_area_script STR_VAR area="%EBaldursGate_ElfsongTavern_L1%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0705.baf" END
+LAF extend_area_script STR_VAR area="%NWBaldursGate%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0100.baf" END
+LAF extend_area_script STR_VAR area="%NBaldursGate%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0200.baf" END
+LAF extend_area_script STR_VAR area="%NEBaldursGate%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0300.baf" END
+LAF extend_area_script STR_VAR area="%WBaldursGate%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0600.baf" END
+LAF extend_area_script STR_VAR area="%CentralBaldursGate%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0700.baf" END
+LAF extend_area_script STR_VAR area="%EBaldursGate_House6_L1%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0801.baf" END
+LAF extend_area_script STR_VAR area="%EBaldursGate_House6_L2%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR0802.baf" END
+
+
+/* BG1 game */
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+
+COPY ~bgqe/OrkLover/Creatures/C#Q07006.CRE~ ~Override/C#Q07006.CRE~
+COPY ~bgqe/OrkLover/Creatures/C#Q07007.CRE~ ~Override/C#Q07007.CRE~
+
+EXTEND_BOTTOM ~SHOUT.bcs~ ~bgqe/OrkLover/Scripts/C#_kidchange.baf~
+
+COPY ~bgqe/OrkLover/Spells/C#Q07006.SPL~ ~override/C#Q07006.SPL~
+COPY ~bgqe/OrkLover/Spells/C#Q07007.SPL~ ~override/C#Q07007.SPL~
+
+END
+
+/* not BG1 */
+ACTION_IF GAME_IS ~bgee bgt tutu tutu_totsc eet~ THEN BEGIN
+
+COMPILE EVALUATE_BUFFER ~bgqe/OrkLover/Dialogues/cre_dialogues_Q07.d~
+
+END
+
+/* Workaround, as long as BG:EE's AR4300 has no scipt assigned and faulty ARAR4300.bcs is present */
+
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+EXTEND_BOTTOM ~AR2700.bcs~ ~bgqe/OrkLover/Scripts/c#q07_ar2700_bgee.baf~
+      EVALUATE_BUFFER
+END
+
+ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN
+LAF extend_area_script STR_VAR area="%NorthNashkelRoad%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR4300.baf" END
+END
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/OrkLover/Scripts/C#Q07001.baf~
+COMPILE EVALUATE_BUFFER ~bgqe/OrkLover/Scripts/C#Q07005.baf~
+
+COPY ~bgqe/OrkLover/Creatures/C#Q07001.CRE~ ~Override/C#Q07001.CRE~ 
+   SAY NAME1 @51
+   SAY NAME2 @51
+
+COPY ~bgqe/OrkLover/Creatures/C#Q07002.CRE~ ~Override/C#Q07002.CRE~ 
+   SAY NAME1 @52
+   SAY NAME2 @52
+
+COPY ~bgqe/OrkLover/Creatures/C#Q07003.CRE~ ~Override/C#Q07003.CRE~ 
+   SAY NAME1 @53
+   SAY NAME2 @53
+COPY ~bgqe/OrkLover/Creatures/C#Q07004.CRE~ ~Override/C#Q07004.CRE~
+   SAY NAME1 @54
+   SAY NAME2 @54 
+COPY ~bgqe/OrkLover/Creatures/C#Q07005.CRE~ ~Override/C#Q07005.CRE~
+
+
+
+/////////////////////////////////////////////////////////////
+/* 8: Unexpected Help */
+/////////////////////////////////////////////////////////////
+BEGIN @56 DESIGNATED 7
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@10053) @10054 @10055 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/UnexpectedHelp/Scripts/C#Q08_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+   
+COMPILE EVALUATE_BUFFER ~bgqe/UnexpectedHelp/Dialogues/C#Q08001.d~
+
+LAF extend_area_script STR_VAR area="%Candlekeep_Infirmary%" bottom="bgqe/UnexpectedHelp/Scripts/C#Q08_AR2605.baf" END
+LAF extend_area_script STR_VAR area="%Candlekeep_Inn_L1%" bottom="bgqe/UnexpectedHelp/Scripts/C#Q08_AR2616.baf" END
+LAF extend_area_script STR_VAR area="%Candlekeep_Ch6_Inn_L1%" bottom="bgqe/UnexpectedHelp/Scripts/C#Q08_AR2629.baf" END
+LAF extend_area_script STR_VAR area="%Candlekeep_Ch6_Infirmary%" bottom="bgqe/UnexpectedHelp/Scripts/C#Q08_AR2633.baf" END
+LAF extend_area_script STR_VAR area="%Candlekeep%" bottom="bgqe/UnexpectedHelp/Scripts/C#Q08_AR2600.baf" END
+LAF extend_area_script STR_VAR area="%Candlekeep_Ch6%" bottom="bgqe/UnexpectedHelp/Scripts/C#Q08_AR2626.baf" END
+
+COMPILE EVALUATE_BUFFER ~bgqe/UnexpectedHelp/Scripts/C#Q08001.baf~
+
+COMPILE EVALUATE_BUFFER ~bgqe/UnexpectedHelp/Scripts/C#Q08002.baf~
+
+COPY ~bgqe/UnexpectedHelp/Creatures/C#Q08001.CRE~ ~Override/C#Q08001.CRE~ 
+   SAY NAME1 @57
+   SAY NAME2 @57
+
+COPY ~bgqe/UnexpectedHelp/Creatures/C#Q08002.CRE~ ~Override/C#Q08002.CRE~ 
+   SAY NAME1 @58
+   SAY NAME2 @58
+
+
+
+// former no 9 -> Bjornin encounter moved to bg1re
+
+
+
+/////////////////////////////////////////////////////////////
+/* 9: Hamster Business */
+/////////////////////////////////////////////////////////////
+ BEGIN @61 DESIGNATED 8
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@10056) @10057 @10058 @10059 @10060 @10069 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/hamsterquest/Scripts/C#Q10_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/hamsterquest/Dialogues/C#Q10001.d~
+
+
+COPY ~bgqe/hamsterquest/Creatures/C#Q10001.cre~ ~Override/C#Q10001.cre~
+
+COPY ~bgqe/hamsterquest/Creatures/C#Q10002.cre~ ~Override/C#Q10002.cre~
+     SAY NAME1 @65
+     SAY NAME2 @65
+
+COPY ~bgqe/hamsterquest/Bams~ ~override~
+
+COPY ~bgqe/hamsterquest/spells~ ~override~
+
+COPY ~bgqe/hamsterquest/Items/C#Q10002.ITM~ ~override/C#Q10002.ITM~
+WRITE_ASCII 0x3a ~c#q10002~ #8
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @64
+SAY IDENTIFIED_DESC @64
+
+COPY ~bgqe/hamsterquest/Items/C#Q10002.ITM~ ~override/C#Q10003.ITM~
+WRITE_ASCII 0x3a ~c#q10003~ #8
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @64
+SAY IDENTIFIED_DESC @64
+
+COPY ~bgqe/hamsterquest/Items/C#Q10002.ITM~ ~override/C#Q10004.ITM~
+WRITE_ASCII 0x3a ~c#q10004~ #8
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @64
+SAY IDENTIFIED_DESC @64
+
+COPY ~bgqe/hamsterquest/Items/C#Q10002.ITM~ ~override/C#Q10005.ITM~
+WRITE_ASCII 0x3a ~c#q10005~ #8
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @64
+SAY IDENTIFIED_DESC @64
+
+COPY ~bgqe/hamsterquest/Items/C#Q10002.ITM~ ~override/C#Q10006.ITM~
+WRITE_ASCII 0x3a ~c#q10006~ #8
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @64
+SAY IDENTIFIED_DESC @64
+
+ 
+EXTEND_BOTTOM ~%tutu_scriptbg%minsc.bcs~ ~bgqe/hamsterquest/Scripts/C#Q10_minsc.baf~
+      EVALUATE_BUFFER USING ~bgqe/tra\%s\C#Q10001.tra~
+
+LAF extend_area_script STR_VAR area="%NashkelCarnival%" bottom="bgqe/hamsterquest/Scripts/C#Q10_AR4900.baf" END
+LAF extend_area_script STR_VAR area="%FriendlyArmInn_L3%" bottom="bgqe/hamsterquest/Scripts/C#Q10_AR2303.baf" END
+
+/* not BG1 */
+ACTION_IF GAME_IS ~bgee tutu tutu_totsc bgt eet~ THEN BEGIN
+
+COPY ~bgqe/hamsterquest/Items/C#Q10001.ITM~ ~override/C#Q10001.ITM~
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @63
+SAY IDENTIFIED_DESC @63
+
+END
+
+
+/* BG1 game - "unremovable item" workaround */
+
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+
+COPY ~bgqe/hamsterquest/Items/BG1/C#Q10001.ITM~ ~override/C#Q10001.ITM~
+SAY NAME1 @62
+SAY NAME2 @62
+SAY UNIDENTIFIED_DESC @63
+SAY IDENTIFIED_DESC @63
+
+COMPILE EVALUATE_BUFFER ~bgqe/hamsterquest/Dialogues/minscadd_bg1.d~
+USING ~bgqe/tra\%s\C#Q10001.tra~  
+
+EXTEND_TOP ~minsc.bcs~ ~bgqe/hamsterquest/Scripts/C#Q10_minsc_BG1.baf~
+      EVALUATE_BUFFER
+
+  
+END
+
+
+//////////////////////////////////////////////////////////////////
+/* 10: Drunk near Beregost Temple */
+/////////////////////////////////////////////////////////////////
+BEGIN @98 DESIGNATED 9
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+
+ADD_JOURNAL TITLE (@10061) @10062 @10063 @10068 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/drunk/drunk_ar0602_bgt.baf~  EVALUATE_BUFFER
+END
+
+COPY_EXISTING ~%tutu_var%drunk.cre~ ~override~
+WRITE_EVALUATED_ASCII 0x280 ~drunk~ #32  // death variable
+BUT_ONLY_IF_IT_CHANGES
+
+LAF extend_area_script STR_VAR area="%Temple%" bottom="bgqe/drunk/drunk_ar3400.baf" END
+
+
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+COMPILE EVALUATE_BUFFER ~bgqe/drunk/drunk_bg1fix.d~
+END
+
+ACTION_IF NOT GAME_IS ~bgee eet~ THEN BEGIN
+COMPILE EVALUATE_BUFFER ~bgqe/drunk/drunk_notbgeefix.d~
+END
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/drunk/drunk_beregosttemple.d~
+
+
+
+//////////////////////////////////////////////////////////////////
+/* A warm Place for Noober */
+//////////////////////////////////////////////////////////////////
+
+
+BEGIN @105 DESIGNATED 10
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ADD_JOURNAL TITLE (@66) @10 @17 @18 @31 @51 @59 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
+
+ADD_JOURNAL TITLE (#31418) @77 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/noober/noober_ar0602_bgt.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
+END
+
+
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+  COMPILE EVALUATE_BUFFER ~bgqe/noober/lc_noober.d~
+END
+
+
+ACTION_IF GAME_IS ~bgt tutu tutu_totsc bgee eet~ THEN BEGIN
+
+   COMPILE EVALUATE_BUFFER ~bgqe/noober/lc_noober.d~
+	~bgqe/noober/lc_noober_add.d~
+	USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
+
+END
+
+/* give a DV to Joseph's Widow - same as Gavin mod */
+
+COPY_EXISTING ~%tutu_scriptbg%FTOWN2%eet_var%.cre~ ~override~
+  WRITE_EVALUATED_ASCII 0x280 ~%tutu_scriptbg%FTOWN2%eet_var%~ #32 //DV
+
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/noober/c#lcno01.baf~
+USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
+
+COPY_EXISTING ~%tutu_var%noober.CRE~ ~override/C#LCNOOB.CRE~
+WRITE_EVALUATED_ASCII 0x280 ~C#LCNOOB~ #32 // script name / DV
+WRITE_EVALUATED_ASCII 0x2cc ~C#LCNOOB~ #8
+WRITE_EVALUATED_ASCII 0x248 ~C#LCNOOB~ #8   // Override script
+
+COPY ~bgqe/noober/c#lcno01.cre~ ~Override/c#lcno01.cre~ 
+   SAY NAME1 @106 
+   SAY NAME2 @106 
+WRITE_EVALUATED_ASCII 0x280 ~c#lcno01~ #8   // Death variable
+WRITE_EVALUATED_ASCII 0x2cc ~c#lcno01~ #8   // dialogue
+WRITE_EVALUATED_ASCII 0x248 ~c#lcno01~ #8   // Override script
+WRITE_EVALUATED_ASCII 0x250 ~%tutu_var%SHOUT~ #8   // Class script
+
+LAF extend_area_script STR_VAR area="%Nashkel%" bottom="bgqe/noober/noober_ar4800.baf" END
+
+LAF extend_area_script STR_VAR area="%Nashkel_JosephsHouse%" bottom="bgqe/noober/noober_ar4806.baf" END
+
+
+////////////////////////////////////////////////////////
+/* Brage's Sword: q13 */
+/////////////////////////////////////////////////////////
+
+BEGIN @5000 /* ~Brage's Sword~ */ DESIGNATED 11
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
+REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
+REQUIRE_PREDICATE NOT MOD_IS_INSTALLED ~setup-c#brage.TP2~ "0" @5007 /*~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~ */
+
+INCLUDE ~bgqe/tpa/brages_sword_bgqe.tpa~
+
+
+////////////////////////////////////////////////////////////////////////////
+/* Sea charts: q14 */
+////////////////////////////////////////////////////////////////////////////
+
+BEGIN @5001 /* ~Legal Sea Charts Sources~ */ DESIGNATED 12
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
+REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
+
+
+/* Bgqe Erweiterte Händlerliga: Aldeth und die Werwolfinsel, von Lumorus */
+
+ADD_JOURNAL @24 USING ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/seacharts/aldeth_seacharts/c#q14_ar0602_bgt.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~
+END
+
+
+
+/* Baldurdash: Aldeth's special store. The additional dialogue state for Baldurdash will be deactivated to increase compatibility. The store can be started from the original dialogue state instead. 
+
+This has to be done before compiling the aldeth_seamaps.d */
+
+COPY_EXISTING ~aldeth.dlg~ ~override~
+DECOMPILE_AND_PATCH BEGIN
+REPLACE_TEXTUALLY ~\(Global("VP_MyBank","GLOBAL",1)\)~
+~False()~
+END
+BUT_ONLY_IF_IT_CHANGES
+
+
+/* letter from Aldeth to Captain Kieres */
+COPY ~bgqe/seacharts/aldeth_seacharts/c#q14let.ITM~ ~override/c#q14let.ITM~
+SAY NAME1 @121 /* ~Botschaft an Kapitän Tollar Kieres~ */
+SAY NAME2 @121 /* ~Botschaft an Kapitän Tollar Kieres~ */
+SAY IDENTIFIED_DESC @122 /* ~Dieser Brief trägt das offizielle Siegel der Händlerliga von Baldurs Tor.
+Er wurde Euch von Aldeth Sashenstar übergeben und ist für Kapitän Kieres bestimmt, der sich momentan im Zählhaus der Händlerliga im östlichen Teil der Stadt aufhält.~ */
+
+/* signet Ring of the Merchants' League */
+COPY ~bgqe/seacharts/aldeth_seacharts/c#q14rng.bam~ ~override/c#q14rng.bam~
+COPY ~bgqe/seacharts/aldeth_seacharts/c#q14rng.ITM~ ~override/c#q14rng.ITM~
+SAY NAME1 @123 /* ~Siegelring der Händlerliga~ */
+SAY NAME2 @123 /* ~Siegelring der Händlerliga~ */
+SAY IDENTIFIED_DESC @124 /* ~Ringe wie dieser gelten innerhalb der Händlerliga als Erkennungszeichen und werden nur von Mitgliedern der Liga oder von Personen getragen, die das Vertrauen der Liga genießen. 
+Dieser Siegelring garantiert Euch Einlass und freies Geleit im Zählhaus der Händlerliga, wo sonst nicht jeder beliebige Zugang hat. 
+Nicht wenige behaupten, die Händlerliga verdankt ihren Erfolg diesen Ringen, da sie angeblich mit speziellen Verzauberungen versehen sind.
+
+Besondere Fähigkeiten:
+
+Glück 3x täglich
+Personen bezaubern 3x täglich~ */
+
+
+
+/* journal entries of Sea Charts quest need to be read for EraseJournalEntry */
+
+/* BGT and Tutu */
+ACTION_IF GAME_IS ~bgt tutu tutu_totsc~ THEN BEGIN
+  COPY_EXISTING ~%tutu_var%menda1.dlg~ ~override~
+    LPF READ_JOURNAL_STRREF
+    INT_VAR
+      state = 11
+    RET
+      strref
+  END
+
+      SET journalentry_menda1_11_0 = strref 
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+BUT_ONLY
+
+
+  COPY_EXISTING ~%tutu_var%kieres.dlg~ ~override~
+    LPF READ_JOURNAL_STRREF
+    INT_VAR
+      state = 1
+    RET
+      strref
+  END
+
+      SET journalentry_kieres_1_0 = strref 
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+BUT_ONLY
+
+
+  COPY_EXISTING ~%tutu_var%detran.dlg~ ~override~
+    LPF READ_JOURNAL_STRREF
+    INT_VAR
+      state = 5
+    RET
+      strref
+  END
+
+      SET journalentry_detran_5_0 = strref 
+/* set a dummy state for Tutu so the compilation won't fail: (will be replaced for bgt) */
+      SET journalentry_detran_7_0 = strref
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+  BUT_ONLY
+END
+
+/* this journal entry does not exist for Tutu */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  COPY_EXISTING ~%tutu_var%detran.dlg~ ~override~
+    LPF READ_JOURNAL_STRREF
+    INT_VAR
+      state = 7
+    RET
+      strref
+  END
+
+      SET journalentry_detran_7_0 = strref 
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+  BUT_ONLY
+END
+
+/* for bg1 and totsc we know the stref numbers */
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+  OUTER_SPRINT ~journalentry_menda1_11_0~ ~22947~
+  OUTER_SPRINT ~journalentry_kieres_1_0~ ~23517~
+  OUTER_SPRINT ~journalentry_detran_5_0~ ~23512~
+  OUTER_SPRINT ~journalentry_detran_7_0~ ~23513~
+END
+
+/* for eet we know the stref numbers */
+ACTION_IF GAME_IS ~eet~ THEN BEGIN
+  OUTER_SPRINT ~journalentry_menda1_11_0~ ~227260~
+  OUTER_SPRINT ~journalentry_kieres_1_0~ ~227207~
+  OUTER_SPRINT ~journalentry_detran_5_0~ ~226966~
+  OUTER_SPRINT ~journalentry_detran_7_0~ ~227209~
+END
+
+
+/* for bgee totsc we know the stref numbers */
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+  OUTER_SPRINT ~journalentry_menda1_11_0~ ~27260~
+  OUTER_SPRINT ~journalentry_kieres_1_0~ ~27207~
+  OUTER_SPRINT ~journalentry_detran_5_0~ ~26966~
+  OUTER_SPRINT ~journalentry_detran_7_0~ ~27209~
+END
+
+COMPILE EVALUATE_BUFFER ~bgqe/seacharts/aldeth_seacharts/aldeth_seacharts.d~
+
+
+
+/* Door to Counting House: unlock it with Aldeth's ring */
+
+LAF extend_area_script STR_VAR area="%NEBaldursGate%" top="bgqe/seacharts/aldeth_seacharts/q14_ar0300.baf"   END
+
+
+
+
+/* CALABALD (= Calahan + Baldur's Isle): sea charts from Calahan, by Shuv-Oohl  */
+
+
+LAF extend_area_script STR_VAR area="%UlgothsBeard%" top="bgqe/seacharts/CalaBald/arU000.baf"   END
+
+COMPILE EVALUATE_BUFFER ~bgqe/seacharts/CalaBald/calabald.d~
+
+
+//////////////////////////////////////////////////////////////////////
+/* The House of the Lady and the Bitch Queen's Temple: q15 */
+//////////////////////////////////////////////////////////////////////
+
+
+BEGIN @5002 /* ~Additions to the House of the Lady and the Bitch Queen's Temple~ */ DESIGNATED 13
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/lothanders_geas.d~
+
+COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/tremains_son.d~
+
+
+/////////////////////////////////////////////////////////////////
+/* Ein besorgter Bauer - from "Hidden Adventures" beta1 */
+//////////////////////////////////////////////////////////////////
+
+
+
+BEGIN @5004 DESIGNATED 14
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
+REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
+
+
+ADD_JOURNAL TITLE (@2007) @2004 @2005 @2006 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/farmer/baf/c#qwa_ar0602_bgt.baf~ EVALUATE_BUFFER
+END
+
+COPY ~bgqe/farmer/cre/WAGHOUL.CRE~ ~override~
+SAY NAME1 @2002
+SAY NAME1 @2002
+
+COPY ~bgqe/farmer/cre/WAFARM.CRE~ ~override~
+SAY NAME1 @2003
+SAY NAME1 @2003
+
+
+ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
+/*
+/* only needed for BG1(TotSC) */
+ALTER_TRANS FARMBE BEGIN 2 END BEGIN 0 END BEGIN "JOURNAL" ~A farmer near Beregost told us that some of his hired help had run away during the night.  Of course they might not have gone by their own power...~ END
+*/
+
+  <<<<<<<< ...inlined/WAFARM_bg1.d
+ALTER_TRANS FARMBE BEGIN 2 END BEGIN 0 END BEGIN "JOURNAL" ~#6605~ END
+
+  >>>>>>>>
+
+  COMPILE EVALUATE_BUFFER ~...inlined/WAFARM_bg1.d~ USING ~bgqe/tra/%LANGUAGE%/WAFARMBE.tra~
+
+END
+
+
+COMPILE EVALUATE_BUFFER ~bgqe/farmer/dlg/WAFARMBE.d~
+COMPILE EVALUATE_BUFFER ~bgqe/farmer/dlg/WAFARM.d~
+
+/*
+COPY_EXISTING ~ar6700.are~ ~override~
+  READ_ASCII 0x94 area_script
+  PATCH_IF (("%area_script%" STRING_COMPARE_CASE "")=0) BEGIN
+  	WRITE_ASCII 0x94 ar6700 (8)
+  	READ_ASCII 0x94 area_script
+  END
+BUT_ONLY
+EXTEND_BOTTOM ~%area_script%.bcs~ ~bgqe/farmer/baf/WA6700.baf~
+*/
+
+LAF extend_area_script STR_VAR area="%Beregost%" bottom="bgqe/farmer/baf/WA6700.baf" END
+
+/*
+COPY_EXISTING ~ar6755.are~ ~override~
+  READ_ASCII 0x94 area_script
+  PATCH_IF (("%area_script%" STRING_COMPARE_CASE "")=0) BEGIN
+  	WRITE_ASCII 0x94 ar6755 (8)
+  	READ_ASCII 0x94 area_script
+  END
+BUT_ONLY
+EXTEND_BOTTOM ~%area_script%.bcs~ ~bgqe/farmer/baf/WA6755.baf~
+*/
+
+LAF extend_area_script STR_VAR area="%Beregost_House08%" bottom="bgqe/farmer/baf/WA6755.baf" END
+
+
+//////////////////////////////////////////////////////////////////
+/* Leichen für einen guten Zweck - from "Hidden Adventures" beta1 */
+//////////////////////////////////////////////////////////////////
+
+
+BEGIN @5005 DESIGNATED 15
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
+  OUTER_SPRINT ~PC_Kit_MAGESCHOOL_NECROMANCER~ ~False()~ 
+END
+
+ACTION_IF NOT GAME_IS ~bg1 totsc~ BEGIN
+  OUTER_SPRINT ~PC_Kit_MAGESCHOOL_NECROMANCER~ ~Kit(LastTalkedToBy(Myself),MAGESCHOOL_NECROMANCER)~ 
+END
+
+ADD_JOURNAL TITLE (@9005) @9003 @9004 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/Sylar/baf/c#qwasy_ar0602_bgt.baf~ EVALUATE_BUFFER
+END
+
+COPY ~bgqe/Sylar/cre/WASYLAR.cre~ ~override~
+SAY NAME1 @9002
+SAY NAME2 @9002
+
+/*
+COPY_EXISTING ~AR7809.are~ ~override~
+  READ_ASCII 0x94 area_script
+  PATCH_IF (("%area_script%" STRING_COMPARE_CASE "")=0) BEGIN
+  	WRITE_ASCII 0x94 AR7809 (8)
+  	READ_ASCII 0x94 area_script
+  END
+BUT_ONLY
+EXTEND_TOP ~%area_script%.bcs~ ~bgqe/Sylar/baf/WA7809.baf~
+*/
+
+LAF extend_area_script STR_VAR area="%EBaldursGate_SilencesShop%" bottom="bgqe/Sylar/baf/WA7809.baf" END
+
+COMPILE EVALUATE_BUFFER ~bgqe/Sylar/d~

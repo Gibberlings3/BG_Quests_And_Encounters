@@ -1,0 +1,95 @@
+IF
+	Allegiance(Myself,[ENEMY])
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_PCAttackedChildren","GLOBAL",1)
+		EscapeArea()
+END
+
+IF
+	Allegiance("C#Q03009",[ENEMY])
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_PCAttackedChildren","GLOBAL",1)
+		EscapeArea()
+END
+
+IF 
+	GlobalGT("C#Q03_AbandonedChildren","GLOBAL",0)
+THEN
+	RESPONSE #100		
+		EscapeArea()
+END
+
+IF 
+	Global("C#Q03_CannotSeePC","GLOBAL",1)
+	See(Player1)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_CannotSeePC","GLOBAL",0)
+END
+
+IF 
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	GlobalTimerExpired("C#Q03_CannotSeePCTimer","GLOBAL")
+	Global("C#Q03_CannotSeePC","GLOBAL",1)
+	!See(Player1)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_AbandonedChildren","GLOBAL",1)
+END
+
+IF 
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_CannotSeePC","GLOBAL",0)
+	!See(Player1)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_CannotSeePC","GLOBAL",1)
+		SetGlobalTimer("C#Q03_CannotSeePCTimer","GLOBAL",10)
+END
+
+IF 
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	!Range(Player1,10)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END
+
+IF 
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_Stage1","GLOBAL",1)
+	Global("C#Q03_Stage1","LOCALS",0)
+	See(Player1)
+	Delay(5)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_Stage1","LOCALS",1)
+		Dialogue(Player1)
+END
+
+IF 
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_Stage2","GLOBAL",1)
+	Global("C#Q03_Stage2","LOCALS",0)
+	See(Player1)
+	Delay(5)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_Stage2","LOCALS",1)
+		Dialogue(Player1)
+END
+
+IF 
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_Stage2","GLOBAL",2)
+	Global("C#Q03_Stage2","LOCALS",1)
+	See(Player1)
+	Delay(5)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_Stage2","LOCALS",2)
+		Dialogue(Player1)
+END
+

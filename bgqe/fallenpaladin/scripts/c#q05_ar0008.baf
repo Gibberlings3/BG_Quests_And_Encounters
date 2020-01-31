@@ -1,0 +1,8 @@
+IF 
+      Global("C#Q05_MotherCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q05_MotherCreation","GLOBAL",1)
+	    CreateCreature("C#Q05006",[319.273]%FACE_0%) //Luisa's mother
+END
+

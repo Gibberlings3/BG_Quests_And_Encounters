@@ -1,0 +1,47 @@
+IF
+	Global("C#Q07_BoyChange","GLOBAL",0)
+	Detect("C#Q07003")
+	CheckStat(Myself,3,MAXHITPOINTS)
+	Gender(Myself,MALE)
+	Allegiance(Myself,NEUTRAL)
+THEN
+	RESPONSE #100
+		ApplySpellRES("C#Q07006",Myself)
+		SetGlobal("C#Q07_BoyChange","GLOBAL",1)
+END
+
+IF
+	Global("C#Q07_GirlChange","GLOBAL",0)
+	Detect("C#Q07003")
+	CheckStat(Myself,3,MAXHITPOINTS)
+	Gender(Myself,FEMALE)
+	Allegiance(Myself,NEUTRAL)
+THEN
+	RESPONSE #100
+		ApplySpellRES("C#Q07007",Myself)
+		SetGlobal("C#Q07_GirlChange","GLOBAL",1)
+END
+
+IF
+	Global("C#Q07_BoyChange","GLOBAL",0)
+	Detect("C#Q07004")
+	CheckStat(Myself,3,MAXHITPOINTS)
+	Gender(Myself,MALE)
+	Allegiance(Myself,NEUTRAL)
+THEN
+	RESPONSE #100
+		ApplySpellRES("C#Q07006",Myself)
+		SetGlobal("C#Q07_BoyChange","GLOBAL",1)
+END
+
+IF
+	Global("C#Q07_GirlChange","GLOBAL",0)
+	Detect("C#Q07004")
+	CheckStat(Myself,3,MAXHITPOINTS)
+	Gender(Myself,FEMALE)
+	Allegiance(Myself,NEUTRAL)
+THEN
+	RESPONSE #100
+		ApplySpellRES("C#Q07007",Myself)
+		SetGlobal("C#Q07_GirlChange","GLOBAL",1)
+END

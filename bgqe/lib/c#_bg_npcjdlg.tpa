@@ -1,0 +1,26 @@
+ACTION_IF NOT FILE_EXISTS_IN_GAME ~%IMOEN_JOINED%.dlg~
+THEN BEGIN
+  PRINT ~Adding Imoen's joined dialogue file...~
+<<<<<<<< bgqe/Inlined/%IMOEN_JOINED%.d
+BEGIN %IMOEN_JOINED%
+>>>>>>>>
+  COMPILE EVALUATE_BUFFER ~bgqe/Inlined/%IMOEN_JOINED%.d~
+END
+
+ACTION_IF NOT FILE_EXISTS_IN_GAME ~%DYNAHEIR_JOINED%.dlg~
+THEN BEGIN
+  PRINT ~Adding Dynaheir's joined dialogue file...~
+<<<<<<<< bgqe/Inlined/%DYNAHEIR_JOINED%.d
+BEGIN %DYNAHEIR_JOINED%
+>>>>>>>>
+  COMPILE EVALUATE_BUFFER ~bgqe/Inlined/%DYNAHEIR_JOINED%.d~
+END
+
+ACTION_IF NOT FILE_EXISTS_IN_GAME ~%VICONIA_JOINED%.dlg~
+THEN BEGIN
+  PRINT ~Adding Dynaheir's joined dialogue file...~
+<<<<<<<< bgqe/Inlined/%VICONIA_JOINED%.d
+BEGIN %VICONIA_JOINED%
+>>>>>>>>
+  COMPILE EVALUATE_BUFFER ~bgqe/Inlined/%VICONIA_JOINED%.d~
+END

@@ -1,0 +1,44 @@
+
+// C#Q01004.BCS
+IF
+	GlobalGT("C#Q01_GotDiary","GLOBAL",0)
+	Global("C#Q01_TulborGotElixiers","GLOBAL",0)
+THEN
+  RESPONSE #100
+		CreateItem("C#Q01004",1,0,0)
+		CreateItem("C#Q01003",1,0,0)
+		SetGlobal("C#Q01_TulborGotElixiers","GLOBAL",1)
+END
+		
+
+IF
+  AttackedBy([GOODCUTOFF],DEFAULT)
+  Allegiance(Myself,NEUTRAL)
+THEN
+  RESPONSE #100
+    StartTimer(1,6)
+    Enemy()
+END
+
+IF
+  TimerExpired(1)
+  See(NearestEnemyOf())
+THEN
+  RESPONSE #100
+    StartTimer(1,12)
+    ApplySpell(Myself,WIZARD_INVISIBILITY)
+END
+
+IF
+  See(NearestEnemyOf())
+THEN
+  RESPONSE #100
+    AttackReevaluate(NearestEnemyOf(),30)
+END
+
+IF
+  AttackedBy([ANYONE],DEFAULT)
+THEN
+  RESPONSE #100
+    Attack(LastAttackerOf())
+END

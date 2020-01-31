@@ -1,0 +1,52 @@
+IF
+      Global("C#Q07_UlguthViolaDead","GLOBAL",0)	
+	Dead("C#Q07002")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_UlguthViolaDead","GLOBAL",1)
+	    CreateCreature("C#Q07001",[276.193]%FACE_0%) //Ulguth
+END
+
+IF
+      Dead("C#Q07001")	
+	Exists("C#Q07002")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07002",DestroySelf())
+END 
+
+IF
+      Dead("C#Q07003")	
+	Exists("C#Q07002")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07002",EscapeArea())
+END 
+
+IF
+      Dead("C#Q07004")	
+	Exists("C#Q07002")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07002",EscapeArea())
+END 
+
+IF 
+      Global("C#Q07_ViolaCreation","GLOBAL",0)	
+	!Dead("C#Q07001")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_ViolaCreation","GLOBAL",1)
+	    CreateCreature("C#Q07002",[405.264]%FACE_0%) //Viola
+END
+
+IF
+      GlobalGT("C#Q07_HeardRumour","GLOBAL",0)	
+	Exists("C#Q07002")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07002",DestroySelf())
+END 
+
+
+

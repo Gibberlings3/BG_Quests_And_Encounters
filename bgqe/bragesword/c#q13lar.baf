@@ -1,0 +1,25 @@
+IF
+	GlobalGT("BrageRiddle","GLOBAL",1)
+	AreaCheck("%ArchaeologicalSite%")
+THEN
+	RESPONSE #100
+		DestroySelf()
+END
+
+IF
+	Dead("brage")
+	Allegiance(Myself,NEUTRAL)
+THEN
+	RESPONSE #100
+		Enemy()
+		SetNumTimesTalkedTo(1)
+END
+
+IF
+	See([PC])
+	NumTimesTalkedTo(0)
+THEN
+	RESPONSE #100
+		SmallWait(2)
+		StartDialogNoSet([PC])
+END

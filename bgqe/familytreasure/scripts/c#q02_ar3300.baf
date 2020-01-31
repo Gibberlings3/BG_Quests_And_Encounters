@@ -1,0 +1,61 @@
+IF
+	Global("C#Q02_GaveNecklace","GLOBAL",1) 
+	GlobalTimerExpired("C#Q02_GaveNecklaceT","GLOBAL")
+	Global("C#Q02_DudleysLeave","GLOBAL",0)
+	!Exists("C#Q02006")
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q02_DudleysLeave","GLOBAL",1)
+	    CreateCreature("C#Q02006",[749.1590]%FACE_0%) //Mr. Dudley
+	    CreateCreature("C#Q02005",[769.1543]%FACE_0%) //Mrs. Dudley
+END 
+
+IF 
+	Global("C#Q02_DudleyQuestSolved","GLOBAL",1)
+	Global("C#Q02_AnnieTalk","GLOBAL",3)
+	Global("C#Q02_AnnieGoesOut","GLOBAL",0)
+	Exists("C#Q02007")
+THEN
+	RESPONSE #100
+		ActionOverride("C#Q02007",DestroySelf())
+END
+
+
+IF
+      Global("C#Q02_AnnieGoesOut","GLOBAL",1)	
+	!Exists("C#Q02007")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q02_AnnieGoesOut","GLOBAL",2)
+	    CreateCreature("C#Q02007",[741.1503]%FACE_0%) //Annie
+END
+
+IF 
+      Global("C#Q02_AnnieCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q02_AnnieCreation","GLOBAL",1)
+	    CreateCreature("C#Q02007",[741.1503]%FACE_0%) //Annie
+END
+
+IF
+	GlobalTimerExpired("C#Q02_MoneyTimer","GLOBAL")
+	Global("C#Q02_Gave600","GLOBAL",1)
+	Global("C#Q02_MrDudleyOutside","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q02_MrDudleyOutside","GLOBAL",1)
+	    CreateCreature("C#Q02006",[749.1590]%FACE_0%) //Mr. Dudley
+END
+
+IF
+	GlobalTimerExpired("C#Q02_MoneyTimer","GLOBAL")
+	Global("C#Q02_Gave550","GLOBAL",1)
+	Global("C#Q02_MrDudleyOutside","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q02_MrDudleyOutside","GLOBAL",1)
+	    CreateCreature("C#Q02006",[749.1590]%FACE_0%) //Mr. Dudley
+END
+
+

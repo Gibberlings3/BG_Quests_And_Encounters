@@ -1,0 +1,109 @@
+@0    = ~*tousse* Croa ! (Ack) *tousse*~
+@1    = ~Qu'est-il arrivé à votre voix ?~
+@2    = ~Vous avez l'air malade, mon ami.~
+@3    = ~Ha-hahaHAHA ! Noober qui a perdu sa voix ! Cela n'a pas de prix.~
+@4    = ~(agite ses bras et pointe un endroit) Croa ! Croa ! (Ack) *tousse* Croa !!~
+@5    = ~La rivière ? ... Jeté dedans... Ah, vous avez été jeté dans la rivière par les jeunes de la ville ? Et cela vous a donné un bon rhume.~
+@6    = ~Ne fatiguez pas votre voix plus que nécessaire. Je comprends bien que vous avez attrapé un gros rhume.~
+@7    = ~Peu importe. Vous êtes malade, c'est tout ce que je vois.~
+@8    = ~Laissez-moi tranquille, idiot. Est-ce que j'ai l'air d'être intéressé par ce qui vous arrive ?~ ~Laissez-moi tranquille, idiot. Est-ce que j'ai l'air d'être intéressée par ce qui vous arrive ?~
+@9    = ~Croa !... *tousse tousse*~
+@10   = ~Un endroit douillet pour Noober
+
+Noober a attrapé un gros rhume après s'être fait jeter dans la rivière. Il lui faut un endroit douillet pour se reposer et guérir, et aussi idéalement trouver quelqu'un qui s'occupe de lui, mais on dirait que ce n'est pas le cas. Peut-être pourrai-je attendrir les gens de la ville pour qu'ils l'aident.~
+@11   = ~Un endroit douillet pour Noober
+
+Cet idiot de Noober a attrapé un gros rhume après s'être fait jeter dans la rivière. Maintenant il erre dans les rues, sa voix est devenue un croassement rauque. Probablement parce qu'il s'est retrouvé éjecté hors de la douceur de la ville.~
+@12   = ~Croa ?~
+@13   = ~Bonne nouvelle, mon ami. La femme de Joseph va s'occuper de vous et de votre santé.~
+@14   = ~Economisez votre voix, Noober, et reposez-vous bien.~
+@15   = ~Ha ha ! Croa encore. C'est *tellement* amusant !~
+@16   = ~...? (soupir de soulagement) Croa !~
+@17   = ~Un endroit douillet pour Noober
+
+Une gentille dame de la maison au sud-est de Nashkel va recueillir Noober. Il faut que je le lui dise aussi vite que possible.~
+@18   = ~Un endroit douillet pour Noober
+
+Noober est en route pour un endroit douillet. J'irai le voir plus tard, pour voir comment les choses évoluent.~
+@19   = ~... - croa ! *tousse*~
+@20   = ~Croa ?! Croa ! *tousse* *tousse*~
+@21   = ~Croa !~
+@22   = ~Bonjour !~
+@23   = ~Comment ? Désolé je n'ai pas le temps de discuter. Je parle avec la vieille Mme Joseph.~
+@24   = ~Noober a un gros rhume. Voudriez-vous l'accueillir et le soigner ?~
+@25   = ~Mon dieu m'accorde un pouvoir de soin, mais un simple rhume doit être soigné comme d'habitude. Hélas, mes corvées m'imposent de rester ici au temple, et j'ai peur que cela ne soit pas le meilleur endroit pour guérir un rhume. Continuez à demander aux habitants, je suis sûr qu'il y aura parmi eux une bonne âme avec un lit confortable. Mais revenez ici si vous ne trouvez personne prêt à l'accueillir.~
+@26   = ~Non, je n'ai ni le temps ni la volonté ni un lit de disponible, même si je le voulais. Je suis sûr que vous trouverez une personne de bonne volonté parmi les fermiers, tout particulièrement si vous lui offrez quelques pièces en parallèle à votre requête.~
+@27   = ~Hum, la femme de Joseph serait assez bienveillante pour accueillir quelqu'un comme Noober.~
+@28   = ~Hum, la pauvre veuve de Joseph serait assez bienveillante pour accueillir quelqu'un comme Noober.~
+@29   = ~Certes sa porte est fermée. Cependant n'ayez pas peur d'entrer. Si vous l'abordez de manière amicale, elle sera prête à vous écouter.~
+@30   = ~Mais ce serait inutile de lui demander, vu la manière dont vous l'avez traitée ! Bon, peut-être lui demanderai-je ce soir, à la fermeture du magasin.~
+/* @31 = @11   */
+@32   = ~Un endroit douillet pour Noober
+
+D'après le boutiquier, la femme dans la maison au sud-est de Nashkel pourrait accueillir Noober. Il a également dit que je ne devais pas faire demi-tour si la porte était fermée mais entrer quand même, et expliquer calmement la raison de mon intrusion.~
+@33   = ~Un endroit douillet pour Noober
+
+La femme dans la maison au sud-est de Nashkel pourrait accueillir Noober. Le boutiquier lui demandera, car il serait ridicule que je passe mon temps à jouer les messagers (et tout spécialement pour cette stupide bonne femme). Je pense donc que le problème est réglé. Et je ne compte pas attendre que quelqu'un me raconte comment tout cela s'est terminé.~
+@34   = ~Quoi, vous croyez vraiment être dans une infirmerie ? Ici il peut avoir une bonne vieille bière pour réchauffer son estomac et sa tête, s'il a de quoi payer. Sinon il ferait mieux de rester où il est, avant qu'il ne m'effraie les clients. Encore une fois...~
+@35   = ~Eh bien mes chambres sont confortables et il y fait bon, mais j'ai déjà jeté Noober dehors plusieurs fois car il cassait les pieds à mes clients, alors je suis heureux qu'il n'ait pas l'argent nécessaire pour louer une chambre, si vous voyez ce que je veux dire...~
+@36   = ~Noober ?! Vous savez, on pourrait croire que je ferais n'importe quoi pour un peu d'or. Mais je n'accueillerais pas Noober pour tout l'or du monde. Vous ne pouvez pas me demander de faire ça à ma sœur, car c'est elle qui aurait à supporter en permanence ses inepties !~
+@37   = ~Quel idiot ! Personne n'est jamais mort d'un rhume. J'ai des choses bien plus importantes à faire que de soigner ce type !~
+@38   = ~Les journées sont si sombres et ennuyeuses... J'aimerais bien avoir un peu de distraction. A part ma mère, évidemment...~
+@39   = ~Euh ? tu as dit quelque chose ?~
+@40   = ~J'ai dit que tu es actuellement ma seule distraction.~
+@41   = ~Euh ?~
+@42   = ~J'ai dit que tu es ma seule distraction !~
+@43   = ~J'ai dit que tu M'AIDES A PASSER LE TEMPS !~
+@44   = ~Euh ? Tu es encore en train de te plaindre, n'est-ce pas ?~
+@45   = ~(soupir)~
+@46   = ~S'il vous plaît, je vais vous demander de partir, tout de suite.~
+@47   = ~Excusez-moi de vous avoir dérangée ma bonne dame, mais l'un des habitants de cette ville a besoin de trouver un endroit pour guérir. Il s'agit de Noober, et il peut à peine parler après ce qui lui est arrivé il y a peu.~
+@48   = ~D'accord, je m'en vais.~
+@49   = ~(soupir) Noober... Son baratin permanent est bien la *dernière* chose dont j'aurais besoin. Mais si ce pauvre homme est malade... De toute façon, il faut aussi que je m'occupe de ma mère. Et maintenant que Joseph n'est plus là... Tout ce qui peut m'occuper me serait bénéfique, en fait...~
+@50   = ~(soupir) Oui. Oui, dites-lui de venir ici. Il me reste un petit lit inoccupé, et tant qu'il ne parle pas trop - ce dont il semble incapable, si j'ai bien suivi ce que vous m'avez dit - je veillerai à ce qu'il se repose. Avec son mal de gorge il trouvera probablement à son goût les puddings et les bouillons de ma mère, donc je n'aurai pas à cuisiner en plus...~
+/* @51   = @32 */
+@52   = ~Partez s'il vous plaît, si vous n'avez rien d'autre à me demander.~
+@53   = ~Bonne journée.~
+@54   = ~Vous n'êtes pas les bienvenus ici. J'apprécie que vous ayez aidé Noober en l'amenant ici, mais vous n'êtes pas les bienvenus. Partez !~
+@55   = ~Oui, vous voyez que Noober est bien arrivé chez moi.~
+@56   = ~Oui c'est de toi que je parle, Noober. Retourne au lit !~
+@57   = ~Non, pas toi - tout va bien maman !~
+@58   = ~(soupir) Je vous en prie, partez maintenant.~
+@59   = ~Un endroit douillet pour Noober
+
+Noober a trouvé chez la veuve de Joseph un bon endroit pour se soigner. Je me demande cependant ce qui se passera lorsqu'il aura recouvré sa voix. Peut-être devrais-je revenir jeter un coup d'oeil dans quelques temps.~
+/* @60   = @55 */
+@61   = ~Et maintenant regardez-les ! Qui aurait cru que cela fonctionnerait si bien ? Je lui suis très reconnaissant d'aider ma mère. Il est tellement patient, et elle est sourde juste comme il faut... les deux s'accordent à merveille.~
+@62   = ~J'ai donc les moments de liberté nécessaires pour faire le deuil de mon mari bien-aimé...~
+@63   = ~J'ai donc les moments de liberté nécessaires pour faire mon travail tranquillement, dans l'espoir que mon mari bien-aimé revienne...~
+@64   = ~Je vous remercie, mon bon monsieur. Mais maintenant, je vais aussi vous demander de nous laisser.~ ~Je vous remercie, ma bonne dame. Mais maintenant, je vais aussi vous demander de nous laisser.~
+@65   = ~Un endroit douillet pour Noober
+
+Noober a trouvé un nouveau chez-lui ! Il semble être la personne idéale pour divertir la vieille mère de la veuve de Joseph. Et encore une fois, les dieux nous ont montré que tout un chacun a sa place quelque part.~
+@66   = ~Un endroit douillet pour Noober~
+
+/* c#lcno01.baf */
+@67   = ~Il fait beau, n'est-ce pas ?~
+@68   = ~Euh ?~
+@69   = ~Avez-vous besoin de boire quelque chose ?~
+@70   = ~De l'eau !~
+@71   = ~Ah, il pleut de nouveau ?~
+@72   = ~Et qu'est-ce qu'on fait maintenant ?~
+@73   = ~Qu'est-ce donc ? Pensez-vous que je ne suis pas capable de faire cela tout seul ?~
+@74   = ~Voulez-vous entendre une histoire ?~
+@75   = ~Une histoire ?~
+@76   = ~Nan, je suis trop fatigué pour raconter quoi que ce soit.~
+
+@77  = ~L'histoire du capitaine Brage
+
+Nalin au Temple de Heaum semble penser que Brage se trouve sous l'influence de quelque force maléfique. Si je le leur remets, il se peut qu'il ne soit pas tué pour ses crimes.~
+
+/* new for v16 */
+@78  = ~Hm, tough luck, you know. Seems the only soul who would have been ready to care for you is gone.~
+@79  = ~Too bad she's *dead* now, isn't it? Hmph.~
+@80  = ~C'est... très bien, je suppose. Il est étrange, il ne peut pas parler et il essaie de m'aider, mais ce n'est pas ce qu'il devrait faire vu qu'il a besoin de repos.~
+
+
+/* new for v19 */
+@81  = ~We wanted to ask you something...~
+@82  = ~Yes, adventurers usually come in to ask someting about the mines.~

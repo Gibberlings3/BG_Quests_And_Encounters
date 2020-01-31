@@ -1,0 +1,61 @@
+/* All unused numbers are used in bgqe_game.tra! */
+@0    = ~Baldur's Gate Mini-Quests and Encounters Mod~
+@1    = ~BG1Tutu installation detected. Using BG1Tutu installation code...~
+@2    = ~Original Baldur's Gate detected. Installing...~
+
+@9    = ~BGT installation detected. Using BGT installation code...~
+
+@13   = ~Beregost Family Quest~
+
+@19   = ~Babysitting Quest, including the Carnival Encounter...~
+
+@38   = ~Slime Quest~
+@39   = ~Nashkel Monster Quest~
+
+@43   = ~Fallen Paladin Quest~
+
+@48   = ~Undying Love Quest~
+
+@50   = ~Lovesick Half-Orc~
+
+@56   = ~Unexpected Help Quest~
+
+
+
+/* new contents: v9 */
+
+
+@61   = ~Many Little Paws~
+
+@66   = ~BG:EE detected.~
+
+@98   = ~Drunk near Beregost Temple~
+
+
+/* new contents v10 */
+
+@105  = ~A Warm Place for Noober~
+
+/* new content v15 */
+
+@109  = ~EET detected.~
+
+
+/* new contents v16 */ 
+
+
+@5000 = ~Brage's Sword~
+@5001 = ~Legal Sea Charts Sources~
+@5002 = ~Additions to the Lady's Hall and the Bitch Queen's Temple~
+@5003 = ~Your SoD game needs to be modmerged before mods can be installed on this game. Check the readme for more information and a link to download the DLC Merger or Modmerge.~ 
+
+@5004  = ~A Worried Farmer~
+@5005   = ~Bodies for a Good Cause~
+
+@5006   = ~This component is not compatible with original Baldur's Gate 1.~
+
+/* new for v19 */
+@5007   = ~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~
+@5008   = ~bgqe is not compatible with this game.~
+
+

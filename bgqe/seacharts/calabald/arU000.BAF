@@ -1,0 +1,9 @@
+IF
+  GlobalTimerExpired("C#q14_CalTravBal","GLOBAL")
+  Global("C#q14_CalGetMap","GLOBAL",2)
+THEN
+  RESPONSE #100
+    CreateCreature("%CALAHA%",[571.1352],0)
+    SetGlobal("C#q14_CalGetMap","GLOBAL",3)
+END
+

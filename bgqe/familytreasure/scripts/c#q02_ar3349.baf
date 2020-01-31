@@ -1,0 +1,36 @@
+IF 
+	Global("C#Q02_DudleyQuestSolved","GLOBAL",1)
+	Global("C#Q02_AnnieTalk","GLOBAL",3)
+	Exists("C#Q02005")
+THEN
+	RESPONSE #100
+		ActionOverride("C#Q02005",DestroySelf())
+END
+
+IF
+	Global("C#Q02_GaveNecklace","GLOBAL",1) 
+	GlobalTimerExpired("C#Q02_GaveNecklaceT","GLOBAL")
+	Exists("C#Q02005")
+THEN
+	RESPONSE #100
+		ActionOverride("C#Q02005",DestroySelf())
+END 
+
+IF 
+      Global("C#Q02_MrsDudleyCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q02_MrsDudleyCreation","GLOBAL",1)
+	    CreateCreature("C#Q02005",[375.299]%FACE_0%) //Mrs Dudley
+END
+
+IF
+	Exists("C#Q02005")
+      Global("C#Q02_DudleyQuestSolved","GLOBAL",2)
+THEN
+	RESPONSE #100
+	  ActionOverride("C#Q02005",DestroySelf())
+END
+
+
+

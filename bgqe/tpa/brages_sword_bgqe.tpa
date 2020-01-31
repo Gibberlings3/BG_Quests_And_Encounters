@@ -1,0 +1,366 @@
+/* formerly quest "Brage's Sword" of bgqe */
+
+ADD_JOURNAL TITLE (@1021) @1000 @1001 @1002 @1003 @1004 @1005 @1006 @1007 @1008 @1009 @1010 @1011 @1012 @1013 @1014 @1015 @1016 @1017 @1018 @1019 @1020 USING ~bgqe/tra/%LANGUAGE%/brages_sword.tra~
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/bragesword/c#q13_ar0602_bgt.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/brages_sword.tra~
+END
+
+/* give oublek a DV */
+COPY_EXISTING ~%tutu_var%oublek.cre~ ~override~ EVALUATE_BUFFER 
+    WRITE_ASCII 0x280 ~Oublek~ #32 // set DV
+
+/* remove initial_meeting sound from brage2.cre */
+COPY_EXISTING ~%tutu_var%brage2.cre~ ~override~ EVALUATE_BUFFER 
+SAY INITIAL_MEETING ~~
+SAY SELECT_COMMON1 ~~
+
+
+/* Fix colors - only for BGT */
+ACTION_IF GAME_IS ~bgt~ BEGIN
+  COPY_EXISTING ~brage2.cre~ ~override~ EVALUATE_BUFFER 
+   WRITE_BYTE 0x2c 25 // Metal color
+   WRITE_BYTE 0x2d 50 // Minor color
+   WRITE_BYTE 0x2e 58 // Major color
+   WRITE_BYTE 0x2f 11  // Skin color
+   WRITE_BYTE 0x30 22 // Leather color
+   WRITE_BYTE 0x31 30 // Armor color
+   WRITE_BYTE 0x32 0 // Hair color
+END
+
+/* need custom Amnish soldier for cutscene */
+COPY_EXISTING ~%tutu_var%amnis.CRE~ ~override/c#q13amn.CRE~
+SAY INITIAL_MEETING ~~
+    WRITE_ASCII 0x280 ~c#q13amn~ #32 // set DV
+WRITE_EVALUATED_ASCII 0x2cc ~c#q13amn~ #8
+
+/* need custom Berrun for cutscene */
+COPY_EXISTING ~%tutu_var%berrun.CRE~ ~override/c#q13brn.CRE~
+SAY INITIAL_MEETING ~~
+    WRITE_ASCII 0x280 ~c#q13brn~ #32 // set DV
+WRITE_EVALUATED_ASCII 0x2cc ~c#q13brn~ #8
+WRITE_EVALUATED_ASCII 0x250 ~~ #8   // erase Class script
+
+/* need custom Oublek for trial cutscene */
+COPY_EXISTING ~%tutu_var%oublek.CRE~ ~override/c#q13oub.CRE~
+SAY INITIAL_MEETING ~~
+    WRITE_ASCII 0x280 ~c#q13oub~ #32 // set DV
+WRITE_EVALUATED_ASCII 0x2cc ~c#q13oub~ #8
+WRITE_EVALUATED_ASCII 0x250 ~~ #8   // erase Class script
+
+
+/* Laryssa appears in Nashkel if PC wants to help Brage */
+COPY_EXISTING ~%tutu_var%laryss.CRE~ ~override/c#q13lar.CRE~
+SAY INITIAL_MEETING ~~
+SAY SELECT_COMMON1 ~~
+    WRITE_ASCII 0x280 ~c#q13lar~ #32 // set DV
+WRITE_EVALUATED_ASCII 0x2cc ~c#q13lar~ #8
+WRITE_EVALUATED_ASCII 0x250 ~c#q13lar~ #8   // custom Class script
+
+/* custom Laryssa's script */
+COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13lar.baf~
+
+/* I need this for the original laryssa, too */
+EXTEND_BOTTOM ~larys.bcs~ ~bgqe/bragesword/c#q13lar.baf~ EVALUATE_BUFFER
+
+/* custom sword for Brage */
+
+ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
+/* TotSC */
+COPY_EXISTING ~SW2H02.itm~ ~override/c#q13swd.itm~
+SAY NAME1 @110 /* ~Brage's Sword~ */
+SAY NAME2 @111 /* ~Brage's Two-Handed Sword +1~ */
+SAY UNIDENTIFIED_DESC @112 /* ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. 
+
+This is the sword Brage was supposed to receive.
+
+STATISTICS:
+
+Damage:  1D10
+Damage type:  slashing
+Weight: 12
+Speed Factor: 10
+Proficiency Type: Large Sword
+Type:  2-handed
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~ */
+SAY IDENTIFIED_DESC @113 /* ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage was supposed to receive.
+
+STATISTICS:
+
+Damage:  1D10 +1
+THACO:  +1 bonus
+Damage type:  slashing
+Weight: 12
+Speed Factor: 9
+Proficiency Type: Large Sword
+Type:  2-handed
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~ */
+END
+
+ACTION_IF GAME_IS ~tutu tutu_totsc bgt~ BEGIN
+/* Tutu */
+COPY_EXISTING ~SW2H02.itm~ ~override/c#q13swd.itm~
+SAY NAME1 @110 /* ~Brage's Sword~ */
+SAY NAME2 @111 /* ~Brage's Two-Handed Sword +1~ */
+SAY UNIDENTIFIED_DESC @114 /* ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+This is the sword Brage was supposed to receive.
+
+STATISTICS:
+
+Damage:  1D10
+Damage type:  slashing
+Weight: 12
+Speed Factor: 10
+Proficiency Type: Two Handed sword
+Type:  2-handed
+Requires: 14 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~ */
+SAY IDENTIFIED_DESC @115 /* ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage was supposed to receive.
+
+STATISTICS:
+
+Damage:  1D10 +1
+THACO:  +1 bonus
+Damage type:  slashing
+Weight: 12
+Speed Factor: 9
+Proficiency Type: Two Handed sword
+Type:  2-handed
+Requires: 14 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~ */
+END
+
+ACTION_IF GAME_IS ~bgee eet~ BEGIN
+/* BG:EE */
+COPY_EXISTING ~SW2H02.itm~ ~override/c#q13swd.itm~
+SAY NAME1 @110 /* ~Brage's Sword~ */
+SAY NAME2 @111 /* ~Brage's Two-Handed Sword +1~ */
+SAY UNIDENTIFIED_DESC @125 
+SAY IDENTIFIED_DESC @116 /* ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage was supposed to receive.
+
+STATISTICS:
+
+THAC0: +1
+Damage: 1d10+1 (slashing)
+Speed Factor: 9
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 14 Strength
+
+Weight: 12~ */
+END
+
+
+
+/* Give Borda, the merchant for cursed items the quest items */
+
+COPY_EXISTING ~%tutu_var%Borda.cre~ ~override~
+ADD_CRE_ITEM ~c#q13le2~ #0 #0 #0 ~IDENTIFIED~ ~inv3~
+ADD_CRE_ITEM ~c#q13swd~ #0 #0 #0 ~NONE~ ~inv4~
+
+
+
+/* custom Borda */
+COPY_EXISTING ~%tutu_var%borda.CRE~ ~override/c#q13bor.CRE~
+SAY INITIAL_MEETING ~~
+    WRITE_ASCII 0x280 ~c#q13bor~ #32 // set DV
+WRITE_EVALUATED_ASCII 0x2cc ~c#q13bor~ #8
+WRITE_EVALUATED_ASCII 0x248 ~c#q13bor~ #8   // custom Override script
+
+
+
+/* fetch original solved journal entry from delivering Brage to Nalin 4 / Oublek 3 so it can be deleted for this quest */
+
+COPY_EXISTING ~%tutu_var%NALIN.dlg~ ~override~
+  LPF READ_JOURNAL_STRREF
+  INT_VAR
+    state = 4
+  RET
+    strref
+END
+
+    SET journalentry_nalin_4 = strref //adapt "myUniqueVar" as necessary
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+BUT_ONLY
+
+
+COPY_EXISTING ~%tutu_var%OUBLEK.dlg~ ~override~
+  LPF READ_JOURNAL_STRREF
+  INT_VAR
+    state = 3
+  RET
+    strref
+END
+
+    SET journalentry_oublek_3 = strref //adapt "myUniqueVar" as necessary
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+BUT_ONLY
+
+
+
+
+/* cutscene: Brage follows PC to Oublek */
+COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13brc.baf~
+
+/* cutscene: if Brage is in prison, PC can ask Oublek to see him */
+COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13cu2.baf~
+
+/* trial in the barracks */
+COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13cu3.baf~
+
+
+/* Brage quest: start is triggered by areascript %Nashkel% */
+
+LAF extend_area_script STR_VAR area="%Nashkel%" top="bgqe/bragesword/q13_ar4800.baf"   END
+
+
+/* track whether Borda is still alive */
+
+LAF extend_area_script STR_VAR area="%XvartVillage%" top="bgqe/bragesword/q13_ar4700.baf"   END
+
+/* count: PC investigated inside the Lotus tent */
+LAF extend_area_script STR_VAR area="%NashkelCarnival_LotusTent%" bottom="bgqe/bragesword/q13_ar4902.baf"   END
+
+/* spawn Borda a second time at Nashkel Carnival */
+LAF extend_area_script STR_VAR area="%NashkelCarnival%" top="bgqe/bragesword/q13_ar4900.baf"   END
+
+/* Hick: Amnish soldier inside Barracks. He will wait outside for a follow-up. This has to be before the compilation of the brages_sword.d, or the added dialogue for Hick will be patched, too. */
+
+COPY_EXISTING ~%tutu_var%hick.dlg~ ~override~
+/* BG1, BG:EE, TUTU */
+DECOMPILE_AND_PATCH BEGIN
+REPLACE_TEXTUALLY ~\(EscapeArea()\)~ ~EscapeAreaMove("%Nashkel%",3443,1876,6)~
+/* BGT */
+REPLACE_TEXTUALLY ~\(EscapeAreaDestroy(90)\)~ ~EscapeAreaMove("%Nashkel%",3443,1876,6)~
+END
+BUT_ONLY_IF_IT_CHANGES
+
+/* Give Hick his name so player sees he is no generic Amnish Soldier */
+COPY_EXISTING ~%tutu_var%hick.cre~ ~override~
+   SAY NAME1 @117 /* ~Hick~ */
+   SAY NAME2 @117 /* ~Hick~ */
+
+
+/* BG:EE: Brage's sword will be identified after Nalin looked at it: */
+
+<<<<<<<< ...inlined/identify_sword.d
+
+ADD_TRANS_ACTION NALIN BEGIN cursed_sword END BEGIN END 
+~ActionOverride(Player1,SetItemFlags("SW2H03", IDENTIFIED, TRUE))
+ActionOverride(Player2,SetItemFlags("SW2H03", IDENTIFIED, TRUE))
+ActionOverride(Player3,SetItemFlags("SW2H03", IDENTIFIED, TRUE))
+ActionOverride(Player4,SetItemFlags("SW2H03", IDENTIFIED, TRUE))
+ActionOverride(Player5,SetItemFlags("SW2H03", IDENTIFIED, TRUE))
+ActionOverride(Player6,SetItemFlags("SW2H03", IDENTIFIED, TRUE))~
+>>>>>>>>
+
+ACTION_IF GAME_IS ~bgee eet~ BEGIN
+
+ COMPILE EVALUATE_BUFFER 
+   ~...inlined/identify_sword.d~ 
+   ~bgqe/bragesword/brages_sword.d~
+   USING ~bgqe/tra/%s/brages_sword.tra~ //###
+
+END ELSE BEGIN
+  COMPILE EVALUATE_BUFFER ~bgqe/bragesword/brages_sword.d~
+END
+
+
+/* Laryssa: conditions for DestroySelf() have to be adjusted (BGT) */
+
+COPY_EXISTING ~%tutu_var%larys.bcs~ ~override~
+DECOMPILE_AND_PATCH BEGIN
+REPLACE_TEXTUALLY ~\(Global("BrageRiddle","GLOBAL",2)\)~ ~GlobalGT("BrageRiddle","GLOBAL",1)~
+END
+BUT_ONLY_IF_IT_CHANGES
+
+
+/* letter in Mulahey's trunk */
+
+COPY ~bgqe/bragesword/c#q13le1.ITM~ ~override/c#q13le1.ITM~
+SAY IDENTIFIED_DESC @118 /* ~My servant Mulahey,
+
+your stupid carelessness has made D. to interfere. He sent a nice surprise to the Nashkel Commander, who found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel oblidged to investigate the sightings of your stupid kobolds. Do not fail me again. 
+
+TAZOK~ */
+
+/* place the letter about Brage's sword into Mulahey's hideout */
+
+COPY_EXISTING ~%NashkelMines_MulaheysCave%.are~ ~override~
+  LAUNCH_PATCH_FUNCTION  ~fj_are_structure~
+    INT_VAR
+    fj_con_itm_idx    = SHORT_AT 0x74 - 1 
+    fj_flags          = 1 // identified
+    STR_VAR
+    fj_name           = c#q13le1
+    fj_structure_type = itm
+  END
+BUT_ONLY
+
+/* letter on Borda, the merchant of cursed items */
+
+COPY ~bgqe/bragesword/c#q13le1.ITM~ ~override/c#q13le2.ITM~
+SAY IDENTIFIED_DESC @119 /* ~Borda,
+
+we don't care whether you put all your effort into the task we ordered you to do. It's not our fault that the Commander went alone on his investigation and therefore found the new sword while being alone on the road instead of being inside the barracks. It is your oversight the whole thing nearly failed. You are lucky as it is that this fool went back to Nashkel at all, so the gold we spent on this blade with its special curse is not lost alltogether. No, you will not receive the second amount of the payment. You can still keep the original sword that Brage was supposed to receive. That is enough compensation. Be glad we don't hunt you down.
+
+TAZOK~ */
+
+
+
+
+/* Third letter - from Borda to Tazok */
+
+COPY ~bgqe/bragesword/c#q13le1.ITM~ ~override/c#q13le3.ITM~
+SAY IDENTIFIED_DESC @120 /* ~Tazok,
+
+I demand you pay me the second half of what we agreed upon - the Commander only butchering his own family and not half of the garrison is not my fault. The Nashkel forces are weakened and that was the deal! You can send any letters for me to my contact at Nashkel Carnival. I found a merchant desperate enough to buy some of my special potions, he will pass on any letters, as well.
+
+Borda~ */
+
+/* place the letter from Borda into Tazok's tent */
+
+COPY_EXISTING ~%BanditCamp_RaemonsTent%.are~ ~override~
+  LAUNCH_PATCH_FUNCTION  ~fj_are_structure~
+    INT_VAR
+    fj_con_itm_idx    = SHORT_AT 0x74 - 5
+    fj_flags          = 1 // identified
+    STR_VAR
+    fj_name           = c#q13le3
+    fj_structure_type = itm
+  END
+BUT_ONLY
+

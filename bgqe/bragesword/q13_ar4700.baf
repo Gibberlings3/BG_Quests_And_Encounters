@@ -1,0 +1,30 @@
+/* check, whether Borda was met the first time and is still alive */
+
+IF
+	Global("C#q13Brage_FakeMerchant","GLOBAL",0)
+	!Exists("BORDA")
+	!Dead("BORDA")
+	!PartyHasItem("c#q13le2") //letter on Borda
+	!Global("C#Q13_BragesSwordQuest","GLOBAL",55) //quest is not dead
+THEN
+	RESPONSE #100
+		SetGlobal("C#q13Brage_FakeMerchant","GLOBAL",1)
+		Continue()
+END
+
+/* PC met Borda for active quest but didn't confront him - variable has to be incremented so MYSMER points PC into the right direction */
+
+IF
+	OR(3)
+	Global("C#q13Brage_FakeMerchant","GLOBAL",2)
+	Global("C#q13Brage_FakeMerchant","GLOBAL",4)
+	Global("C#q13Brage_FakeMerchant","GLOBAL",6)
+	!Exists("BORDA")
+	!Dead("BORDA")
+	!PartyHasItem("c#q13le2") //letter on Borda
+	!Global("C#Q13_BragesSwordQuest","GLOBAL",55) //quest is not dead
+THEN
+	RESPONSE #100
+		IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",1)
+		Continue()
+END

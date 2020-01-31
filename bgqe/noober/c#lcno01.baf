@@ -1,0 +1,42 @@
+IF 
+	GlobalGT("C#LCNOOB_Quest","GLOBAL",6)
+	GlobalTimerExpired("C#LCNOOB_Timer","GLOBAL")
+	!Dead("C#LCNOOB")
+	!Allegiance("C#LCNOOB",ENEMY)
+	Detect("C#LCNOOB")
+	See([PC])
+THEN
+	RESPONSE #20
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@67)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@68)
+	  SetGlobalTimer("C#LCNOOB_Timer","GLOBAL",10)
+	RESPONSE #20	
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@69)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@68)
+	  Wait(1)
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@70)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@71)
+	  SetGlobalTimer("C#LCNOOB_Timer","GLOBAL",10)
+	RESPONSE #20	
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@72)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@68)
+	  SetGlobalTimer("C#LCNOOB_Timer","GLOBAL",10)
+	RESPONSE #20	
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@72)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@73)
+	  SetGlobalTimer("C#LCNOOB_Timer","GLOBAL",10)
+	RESPONSE #20	
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@74)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@68)	
+	  ActionOverride("C#LCNOOB",%DisplayStringHead%(Myself,@75)
+	  Wait(1)
+	  %DisplayStringHead%(Myself,@76)	
+	  SetGlobalTimer("C#LCNOOB_Timer","GLOBAL",10)
+END
+

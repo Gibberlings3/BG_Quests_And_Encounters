@@ -1,0 +1,27 @@
+IF
+	Dead("C#Q08001")
+THEN
+	RESPONSE #100
+		Enemy()
+		EscapeArea()
+END
+
+IF
+	Global("C#Q08_LindaThanked","GLOBAL",0)
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+	Global("C#Q08_TalkedToTrun","GLOBAL",5)
+THEN
+  RESPONSE #100
+    Dialogue([PC])
+END
+
+IF
+	Global("C#Q08_LindaThanked","GLOBAL",0)
+  !See(Player1)
+	Global("C#Q08_TalkedToTrun","GLOBAL",5)
+THEN
+  RESPONSE #100
+    MoveToobject(Player1)
+END

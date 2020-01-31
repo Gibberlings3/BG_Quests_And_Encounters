@@ -1,0 +1,62 @@
+IF
+      Global("C#Q07_UlguthViolaDead","GLOBAL",0)	
+	Dead("C#Q07003")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_UlguthViolaDead","GLOBAL",1)
+	    CreateCreature("C#Q07001",[405.264]%FACE_0%) //Ulguth
+END
+
+IF
+      Global("C#Q07_UlguthViolaDead","GLOBAL",0)	
+	Dead("C#Q07004")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_UlguthViolaDead","GLOBAL",1)
+	    CreateCreature("C#Q07001",[405.264]%FACE_0%) //Ulguth
+END
+
+IF
+      Dead("C#Q07002")		
+	!Allegiance("C#Q07003",ENEMY)
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07003",Enemy())
+END 
+
+IF
+      Dead("C#Q07002")			
+	!Allegiance("C#Q07004",ENEMY)
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07004",Enemy())
+END
+
+IF
+      Dead("C#Q07003")		
+	Exists("C#Q07004")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07004",EscapeArea())
+END 
+
+IF
+      Dead("C#Q07004")		
+	Exists("C#Q07003")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07003",EscapeArea())
+END 
+
+IF 
+      Global("C#Q07_ParentsCreation","GLOBAL",0)
+	!Dead("C#Q07001")	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_ParentsCreation","GLOBAL",1)
+	    CreateCreature("C#Q07003",[486.143]%FACE_0%) //Viola's Mother
+	    CreateCreature("C#Q07004",[241.347]%FACE_0%) //Viola's Father
+END
+
+
+

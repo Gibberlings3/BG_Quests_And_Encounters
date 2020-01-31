@@ -1,0 +1,51 @@
+
+IF 
+  Global("C#Q01_SlimeCreation","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_SlimeCreation","GLOBAL",1)
+	CreateCreature("C#Q01003",[357.250]%FACE_0%)
+    Continue()
+END
+
+IF 
+  Global("C#Q01_AlannaCreationInside","GLOBAL",0)
+  GlobalGT("C#Q01_TalkedOutside","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_AlannaCreationInside","GLOBAL",1)
+    CreateCreature("C#Q01001",[230.266]%FACE_0%)
+END
+
+IF
+  Global("C#Q01_SlimeTransformation","GLOBAL",1)
+THEN
+  RESPONSE #100
+    CreateCreature("C#Q01005",[357.240]%FACE_3%)
+    SetGlobal("C#Q01_SlimeTransformation","GLOBAL",2)
+END
+
+IF
+  Global("C#Q01_Transformation","GLOBAL",1)
+THEN
+  RESPONSE #100
+    CreateCreature("C#Q01002",[357.250]%FACE_3%)
+    SetGlobal("C#Q01_Transformation","GLOBAL",2)
+    SetGlobal("C#Q01_Retransformation","GLOBAL",1)
+END
+
+IF
+	Global("C#Q01_Retransformation","GLOBAL",2)
+	Exists("C#Q01003")
+THEN
+  RESPONSE #100
+	ActionOverride("C#Q01003",DestroySelf())
+END
+
+IF
+	Global("C#Q01_Retransformation","GLOBAL",2)
+	!Exists("C#Q01002")
+THEN
+  RESPONSE #100
+	CreateCreature("C#Q01002",[357.250]%FACE_0%)
+END

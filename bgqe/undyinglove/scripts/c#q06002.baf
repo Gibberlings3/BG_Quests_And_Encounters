@@ -1,0 +1,13 @@
+IF 
+	Global("C#Q06_DestroyZombie","GLOBAL",1)
+THEN
+	RESPONSE #100
+		DestroySelf()
+END
+
+IF
+	Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		Attack([PC])
+END

@@ -1,0 +1,10 @@
+IF
+	Global("c#qwa_EraseJournalBGT","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("c#qwa_EraseJournalBGT","AR0602",1)
+		EraseJournalEntry(@2004)
+		EraseJournalEntry(@2005)
+		EraseJournalEntry(@2006)
+		Continue()
+END

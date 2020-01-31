@@ -1,0 +1,9 @@
+IF
+	Allegiance(Myself,[ENEMY])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+
+

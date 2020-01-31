@@ -1,0 +1,20 @@
+IF
+  !See([ENEMY])
+  Global("C#Q05_TalkedToNanny","GLOBAL",0)
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    	Dialogue([PC])
+END
+
+IF
+	Allegiance(Myself,[ENEMY])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+
+

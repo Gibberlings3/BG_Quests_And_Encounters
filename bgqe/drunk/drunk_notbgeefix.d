@@ -1,0 +1,1 @@
+ADD_STATE_TRIGGER %tutu_var%drunk 6 ~True()~ 

@@ -1,0 +1,24 @@
+
+IF
+	Exists("C#Q10001")
+	GlobalTimerExpired("C#Q10_VendorTimer","GLOBAL")
+THEN
+	RESPONSE #100
+		ActionOverride("C#Q10001",DestroySelf())
+		SetGlobal("C#Q10_VendorCreation","GLOBAL",3)
+		Continue()
+END
+
+
+
+IF 
+      GlobalLT("C#Q10_VendorCreation","GLOBAL",3)
+      GlobalGT("C#Q10_VendorCreation","GLOBAL",0)		
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q10_VendorCreation","GLOBAL",3)
+	    CreateCreature("C#Q10001",[747.634]%FACE_0%) //Vendor
+END
+
+
+

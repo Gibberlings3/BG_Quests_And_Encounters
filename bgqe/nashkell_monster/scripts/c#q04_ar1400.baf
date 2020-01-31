@@ -1,0 +1,11 @@
+IF 
+	Global("C#Q04_WyvernDeliverer","GLOBAL",3)
+	PartyHasItem("C#Q04001")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",4)
+	    CreateCreature("c#q04007",[3884.349]%FACE_0%) //mage
+	Continue()
+END
+
+

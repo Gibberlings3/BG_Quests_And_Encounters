@@ -1,0 +1,194 @@
+/*BG2engine*/
+@0    = ~Co... co wyœcie ZROBILI?!~
+@1    = ~Co... co wyœcie ZROBILI?! Moje dziecko!~
+@2    = ~Ach, có¿ znowu. On jest NA GÓRZE, powinniœcie to ju¿ wiedzieæ. I powiedŸcie mu, ¿e mo¿e sam zrobiæ sobie herbatê. Nie jestem jego s³u¿¹c¹.~
+@3    = ~¯e co, proszê?~
+@4    = ~K³ótnia Rodzinna w Beregoœcie
+
+Spotkaliœmy w Beregoœcie osobliw¹ parê ma³¿eñsk¹. Najwidoczniej m¹¿ i ¿ona nie rozmawiaj¹ ze sob¹ od jakiegoœ czasu. Mo¿e powinniœmy siê im nieco przyjrzeæ.~
+@5    = ~Przepraszam za najœcie. Ju¿ idziemy.~
+@6    = ~W³aœnie rozmawialiœmy z pani mê¿em i on...~
+@7    = ~Co siê tu w³aœciwie dzieje? Jesteœcie zaiste dziwn¹ par¹!~
+@8    = ~Mam nadziejê, ¿e naszyjnik jest w twoim guœcie, przyjacielu w potrzebie.~
+@9    = ~Kto by pomyœla³! To Annie zabra³a naszyjnik! (spogl¹da z poczuciem winy) Mój biedny m¹¿! Dziêkujê serdecznie, szanowny nieznajomy. Wyœwiadczy³eœ nam wielk¹ przys³ugê.~ ~Kto by pomyœla³! To Annie zabra³a naszyjnik! (spogl¹da z poczuciem winy) Mój biedny m¹¿! Dziêkujê serdecznie, szanowna nieznajoma. Wyœwiadczy³aœ nam wielk¹ przys³ugê.~
+@10   = ~Bardzo mi zale¿a³o, aby wam siê u³o¿y³o. Czy macie ju¿ uczciwego kupca na naszyjnik?~
+@11   = ~To by³a dla mnie przyjemnoœæ. Dobrego dnia.~
+@12   = ~Tak. Czasami mo¿na siê zdziwiæ, jak niedorzecznie mog¹ siê zachowywaæ doroœli ludzie.~
+@13   = ~Mam obiecan¹ sumê. Jesteœcie jeszcze zainteresowani sprzeda¿¹?~
+@14   = ~(szlocha) Proszê, idŸcie ju¿...~
+@15   = ~Czego teraz chcecie?~
+@16   = ~Jesteœ, pani, pewna, ¿e nie potrzebujecie pieniêdzy?~
+@17   = ~Twój m¹¿ powiedzia³, ¿e zaginiony naszyjnik nale¿a³ do ciebie.~
+@18   = ~Nic. Do widzenia.~
+@19   = ~Ju¿ POWIEDZIA£AM, gdzie go mo¿ecie znaleŸæ!~
+@20   = ~Wydaje siê, ¿e coœ wam zginê³o. Czy mo¿emy wam jakoœ pomóc?~
+@21   = ~Wasza córka wspomnia³a, ¿e zgin¹³ wam jakiœ naszyjnik.~
+@22   = ~Nic. ¯egnam.~
+@23   = ~Bardzo, bardzo serdecznie dziêkujê. My... jesteœmy ludŸmi zamkniêtymi w sobie i czasami mo¿e nieco zbyt dumnymi. (uœmiecha siê s³abo). Jesteœcie nadzwyczaj wspania³omyœlnymi i przyjaznymi osobami. Wiele wam zawdziêczamy.~
+@24   = ~(Dajesz 500 sztuk z³ota panu Dudley.)~
+@25   = ~K³ótnia Rodzinna w Beregoœcie
+
+Kupiliœmy naszyjnik pere³ od rodziny Dudley za obiecane 500 sztuk z³ota, co powinno rozwi¹zaæ ich finansowe problemy.~
+@26   = ~(Wsypujesz do sakiewki pana Dudley 550 sztuk z³ota, zwracaj¹c uwagê, aby nie spostrzeg³ nadmiarowej kwoty.) Dziêkujê WAM, dobrzy ludzie.~
+@27   = ~K³ótnia Rodzinna w Beregoœcie
+
+ Kupiliœmy naszyjnik pere³ od rodziny Dudley. Oprócz umówionych 500 sztuk z³ota, wsadzi³em do sakiewki pana Dudley dodatkowe 50 sztuk z³ota. Miejmy nadziejê, ¿e bêdzie im siê dobrze wiod³o.~ ~K³ótnia Rodzinna w Beregoœcie
+
+ Kupiliœmy naszyjnik pere³ od rodziny Dudley. Oprócz umówionych 500 sztuk z³ota, wsadzi³am do sakiewki pana Dudley dodatkowe 50 sztuk z³ota. Miejmy nadziejê, ¿e bêdzie im siê dobrze wiod³o.~
+@28   = ~(Wsypujesz do sakiewki pana Dudley 600 sztuk z³ota, zwracaj¹c uwagê, aby nie spostrzeg³ nadmiarowej kwoty.) ¯yczê wam wszystkiego najlepszego.~
+@29   = ~K³ótnia Rodzinna w Beregoœcie
+
+ Kupiliœmy naszyjnik pere³ od rodziny Dudley. Zamiast umówionych 500 sztuk z³ota, wsadzi³em jednak¿e do sakiewki pana Dudley 600 sztuk z³ota. Miejmy nadziejê, ¿e bêdzie im siê dobrze wiod³o.~ ~K³ótnia Rodzinna w Beregoœcie
+
+ Kupiliœmy naszyjnik pere³ od rodziny Dudley. Zamiast umówionych 500 sztuk z³ota, wsadzi³am jednak¿e do sakiewki pana Dudley 600 sztuk z³ota. Miejmy nadziejê, ¿e bêdzie im siê dobrze wiod³o.~
+@30   = ~Dobrze mnie s³yszeliœcie! Gdybyœcie tylko byli tak dobrzy i wytarli buty przed wejœciem na górê.~
+@31   = ~Ja... Och, mniejsza o to.~
+@32   = ~Jak zawsze. Gdybyœcie przynajmniej byli tak dobrzy i wytarli buty przed wejœciem na górê.~
+@33   = ~Nie chcê tego wiêcej s³uchaæ! Na prawdê nie wiem, dlaczego wci¹¿ przysy³a swoich przyjació³. Przez niego ca³a ulica s¹dzi, ¿e to JA go mam. A sam go tymczasem gdzieœ ukry³. To œmieszne. Proszê, dajcie mi spokój!~
+@34   = ~Zginê³o wam coœ?~
+@35   = ~Wiêcej nic nie powiem. Wracajcie do niego i zostawcie mnie w spokoju.~
+@36   = ~Ona wam powiedzia³a? (wzdycha) Biedna dziewczyna. Jej ojciec nie uœwiadomi³ sobie, co wyprawia. Nie przemyœla³, co nam uczyni³, nie wydaj¹c kosztownoœci!~
+@37   = ~Czy mogê wam jakoœ pomóc?~
+@38   = ~To straszne. Lepiej ju¿ sobie pójdê.~
+@39   = ~Nie, nie s¹dzê. Przykro mi, nie chcia³am was uraziæ, ale nawet nasi przyjaciele nie byli w stanie przemówiæ mu do rozs¹dku. Muszê przeprosiæ za moj¹ nieuprzejmoœæ. Za pierwszym razem pomyœla³am, ¿e nale¿ycie do grona jego przyjació³, którzy ostatnimi czasy ci¹gle do nas wpadaj¹... Serdecznie dziêkujê za ofertê pomocy, ale bêdzie lepiej, jeœli zostawicie mnie sam¹.~
+@40   = ~Je¿eli chodzi tylko o brak pieniêdzy, mo¿e móg³bym was w tym wzglêdzie wspomóc?~
+@41   = ~Jak pani chce. ¯egnam.~
+@42   = ~Och... nie, nie, dziêkujê. Mamy wystarczaj¹co pieniêdzy, a przynajmniej mielibyœmy, gdyby... Wiêc jakkolwiek sprawy siê maj¹... to nie jest wasz problem.~
+@43   = ~Naprawdê? Przynajmniej to zdaje siê pamiêtaæ... Ale to nic nie da, jeœli on mi go NIE ODDA!~
+@44   = ~Twierdzi jednak¿e, ¿e nie mia³ powodu, aby ukryæ naszyjnik i zgadza³ siê na jego sprzeda¿... Ale potem nagle zmieni³a pani zdanie.~
+@45   = ~To niedobrze. Muszê iœæ.~
+@46   = ~JA zmieni³am zdanie?! JA zmieni³am zdanie?! Pewnego wieczoru omawialiœmy koniecznoœæ sprzeda¿y... (szlocha) naszyjnika pere³ mojej matki i nastêpnego dnia naszyjnik znikn¹³! Stracimy nasz dom, jeœli nie sp³acimy ostatnich d³ugów. Nie winiê go za to, poniewa¿ od wypadku nie jest w stanie tyle zarobiæ co wczeœniej. Nie rozmawia³am z moim upartym mê¿em od wielu dni. Ja... ja tego ju¿ d³u¿ej nie wytrzymam... (szlocha) Proszê, zostawcie mnie w spokoju...~
+
+@47   = ~Krêcimy siê tylko w kó³ko! Rozwi¹zanie musi le¿eæ gdzie indziej.~
+@48   = ~Och, proszê... proszê nie p³akaæ... Ehm, lepiej sobie pójdê!~
+@49   = ~Biedna Annie... Co bêdzie z jej... (szlocha)~
+@50   = ~Co... co wyœcie ZROBILI?! Annie!~
+@51   = ~Co wy tu robicie? Wracajcie na dó³ i przypomnijcie jej o naszej umowie. GÓRA jest moim terytorium a DÓ£ jej. I powiedzcie jej, ¿e chcê herbaty! No ju¿, idŸcie!~
+@52   = ~S³ucham?~
+@53   = ~...W porz¹dku, idê.~
+@54   = ~W³aœnie rozmawialiœmy z pañsk¹ ¿on¹ i ona powiedzia³a, ¿e...~
+@55   = ~Staæ! Czekajcie! Dosta³em... (sapie) za du¿o monet, przyjacielu. Mia³o byæ 500... (sapie) 500 sztuk z³ota, jak siê umówiliœmy!~
+@56   = ~Ach, to znowu wy! Mi³o zobaczyæ przyjazn¹ twarz. Czy naszyjnik spodoba³ siê twojej znajomej?~
+@57   = ~Kto by pomyœla³, ze to Annie zabra³a naszyjnik!~
+@58   = ~Pañska ¿ona p³acze tam na dole... Jest pan pewien, ¿e nie chce pan przyj¹æ pewnej sumy pieniêdzy i zakoñczyæ sprawê?~
+@59   = ~Jest pan pewien, ¿e nie chcecie ¿adnych pieniêdzy?~
+@60   = ~Z rozmowy z pana ¿on¹ odnios³em wra¿enie, ¿e ona myœli, ¿e to PAN ukry³ naszyjnik!~
+@61   = ~Nie zapomnijcie spytaæ o herbatê!~
+@62   = ~ Wydaje siê, ¿e coœ wam zginê³o?~
+@63   = ~Macie zatkane uszy? IdŸcie do niej na dó³. Na parterze JEST wystarczaj¹co miejsca!~
+@64   = ~Ja... no dobrze, ¿egnam.~
+@65   = ~(chrz¹ka) Mo¿na by s¹dziæ, ¿e jest wystarczaj¹co miejsca na dole.~
+@66   = ~Och, chyba nie myœlisz, ¿e siê dam nabraæ. To jasne jak s³oñce, ¿e ONA to ukry³a! Powiedzcie jej, ¿e takie postêpowanie do niczego nie prowadzi. My musimy to teraz sprzedaæ!~
+@67   = ~Zginê³o panu coœ?~
+@68   = ~Ha! Aktualnie wie o tym ju¿ chyba ca³a ulica. Czy¿ to nie straszny wstyd byæ zmuszonym pozbyæ siê posiad³oœci, bo brakuje pieniêdzy? To nie moja wina, ¿e ta przeklêta szkapa nast¹pi³a mi na nogê. Proszê was, ludzie, idŸcie ju¿. Potrzebujê trochê spokoju. Do widzenia!~
+@69   = ~Czy mo¿emy wam jakoœ pomóc?~
+@70   = ~Oczywiœcie. Do widzenia.~
+@71   = ~Tak!. ZejdŸcie na dó³ i powiedzcie jej, aby przesta³a to ukrywaæ! DOBREGO DNIA!.~
+@72   = ~Coœ zginê³o? Tak, w samej rzeczy COŒ nam zginê³o! Moja ukochana ¿ona ukry³a ostatni¹ i jedyn¹ wartoœciow¹ rzecz w naszym posiadaniu, dziêki której moglibyœmy sp³aciæ resztê d³ugów i zachowaæ dom... Na bogów, rozmawiam z ca³kowicie obc¹ osob¹ o moich problemach finansowych! Lepiej sobie idŸcie. ¯yczê mi³ego dnia.~
+@73   = ~To idiotyczne! Dlaczego mia³bym tak zrobiæ? Nale¿y do niej, mówi¹c dok³adniej, to jej stara bi¿uteria rodowa... (wzdycha) To nie ³atwe dla mê¿czyzny, kiedy musi przyznaæ, ¿e nie jest w stanie ju¿ wy¿ywiæ rodziny. Zgodzi³a siê sprzedaæ per³y. Jaka z niej dzielna kobieta, ta moja Margareth! Ale potem (wzdycha) zmieni³a swoje zdanie, a teraz klejnoty przepad³y. Nie rozmawia³em z ni¹ od tygodnia. Ta sytuacja staje siê nie do wytrzymania. Proszê, zostawcie starszego cz³owieka z jego troskami. ¯yczê mi³ego dnia.~
+@74   = ~Jeœli chodzi tylko o brak pieniêdzy, to moglibyœmy was wspomóc ma³ym datkiem?~ 
+@75   = ~¯egnaj.~
+@76   = ~Co? Och, dziêkujê za ten... szlachetny gest, ale ona by tego nigdy nie zaakceptowa³a, moja Margareth... Nie, nigdy!~
+@77   = ~(wzdycha) To nie takie proste, rozumiecie? Nie chodzi o to, ¿e przyjmiemy pieni¹dze od obcych, tylko dlatego, ¿e nie jesteœmy w stanie siê dogadaæ. Wasza oferta jest bardzo kusz¹ca, ale niestety to nie takie proste.. (wzdycha)~
+@78   = ~W mojej sakiewce by³o o 100 sztuk z³ota za du¿o, kiedy wyszliœcie... Co to za uœmieszek na twojej twarzy? Jesteœcie bardzo przyjaŸni i ofiarni, ale my... nie mo¿emy zaakceptowaæ darowizny w takiej wysokoœci.~
+@79   = ~To nie jest darowizna. Zaoferowa³em wam 600 sztuk z³ota i tak¹ dok³adnie kwotê jest warty ten naszyjnik pere³ w moich oczach. Nie chcia³em siê tylko spieraæ przy pañskiej ¿onie. Nie wezmê z powrotem tych 100 sztuk z³ota w ¿adnym razie! One siê wam nale¿¹, dobry cz³owieku.~ ~To nie jest darowizna. Zaoferowa³am wam 600 sztuk z³ota i tak¹ dok³adnie kwotê jest warty ten naszyjnik pere³ w moich oczach. Nie chcia³am siê tylko spieraæ przy pañskiej ¿onie. Nie wezmê z powrotem tych 100 sztuk z³ota w ¿adnym razie! One siê wam nale¿¹, dobry cz³owieku.~
+@80   = ~Jest pan pewien? Spójrz, wy naprawdê potrzebujecie tych pieniêdzy, a ja mam ich wiêcej ni¿ trzeba.~
+@81   = ~(wzdychasz) Dobrze, zatem proszê mi je oddaæ z powrotem.~
+@82   = ~W mojej sakiewce by³o o 50 sztuk z³ota za du¿o, kiedy wyszliœcie... Co to za uœmieszek na twojej twarzy? Jesteœcie bardzo przyjaŸni i ofiarni, ale my... nie mo¿emy zaakceptowaæ darowizny w takiej wysokoœci.~
+@83   = ~To nie jest darowizna. Zaoferowa³em wam 600 sztuk z³ota i w moich oczach tak¹ dok³adnie kwotê jest warty ten naszyjnik pere³. Wasz¹ kontrpropozycj¹ by³o 500 sztuk z³ota i spotkaliœmy siê dok³adnie poœrodku. Nie chcia³em siê tylko spieraæ przy pañskiej ¿onie. Nie wezmê z powrotem tych 50 sztuk z³ota w ¿adnym razie! One siê wam nale¿¹, dobry cz³owieku.~ ~To nie jest darowizna. Zaoferowa³am wam 600 sztuk z³ota i w moich oczach tak¹ dok³adnie kwotê jest warty ten naszyjnik pere³. Wasz¹ kontrpropozycj¹ by³o 500 sztuk z³ota i spotkaliœmy siê dok³adnie poœrodku. Nie chcia³am siê tylko spieraæ przy pañskiej ¿onie. Nie wezmê z powrotem tych 50 sztuk z³ota w ¿adnym razie! One siê wam nale¿¹, dobry cz³owieku.~
+@84   = ~Jesteœmy waszymi d³u¿nikami, uprzejmy nieznajomy. Niech bogowie was chroni¹.~ ~Jesteœmy waszymi d³u¿nikami, uprzejma nieznajoma. Niech bogowie was chroni¹.~
+@85   = ~Nie, to nie wchodzi w rachubê. Ju¿ i tak jesteœmy waszymi d³u¿nikami, uprzejmy nieznajomy. Proszê, weŸ pieni¹dze z powrotem i niech bogowie bêd¹ z wami.~ ~Nie, to nie wchodzi w rachubê. Ju¿ i tak jesteœmy waszymi d³u¿nikami, uprzejma nieznajoma. Proszê, weŸ pieni¹dze z powrotem i niech bogowie bêd¹ z wami.~
+@86   = ~Och nie, nie mówisz tego serio... S¹dzê... Na prawdê chcesz...?~
+@87   = ~Podczas biegu... musia³ mi wpaœæ piasek do oka. To nie s¹ ¿adne ³zy, jakie widzicie w moich oczach... (kaszle) Jesteœcie wyj¹tkowi, m³ody przyjacielu, musze wam to powiedzieæ. To, co powiedzia³eœ, ma rzeczywiœcie sens... Mam nadziejê, ¿e bêdê w stanie to powtórzyæ Margareth... Albo lepiej nic jej nie powiem i zrobiê tym mi³¹ niespodziankê.~ ~Podczas biegu... musia³ mi wpaœæ piasek do oka. To nie s¹ ¿adne ³zy, jakie widzicie w moich oczach... (kaszle) Jesteœcie wyj¹tkowi, m³oda damo, musze wam to powiedzieæ. To, co powiedzia³aœ, ma rzeczywiœcie sens... Mam nadziejê, ¿e bêdê w stanie to powtórzyæ Margareth... Albo lepiej nic jej nie powiem i zrobiê tym mi³¹ niespodziankê.~
+
+@88   = ~Jesteœmy waszymi d³u¿nikami, uprzejmy nieznajomy. A wiêc zatrzymam pieni¹dze... Niech bogowie bêd¹ z wami!~ ~Jesteœmy waszymi d³u¿nikami, uprzejma nieznajoma. A wiêc zatrzymam pieni¹dze... Niech bogowie bêd¹ z wami!~
+@89   = ~No có¿, sprzedamy naszyjnik pewnemu znajomemu. Naturalnie lepiej nie robiæ interesów z przyjació³mi, ale to...~
+@90   = ~Wielkie nieba, chcesz go teraz zanudziæ szczegó³ami naszych finansowych planów?~ ~Wielkie nieba, chcesz j¹ teraz zanudziæ szczegó³ami naszych finansowych planów?~
+@91   = ~Jesteœmy bardzo wdziêczni za wasz¹ pomoc, ale teraz potrzebujemy trochê czasu, aby omówiæ nasze dalsze postêpowanie. Proszê o wybaczenie, ale minione dni by³y bardzo wyczerpuj¹ce.~
+@92   = ~Przykro mi, ¿e siê mieszam do waszych prywatnych spraw, ale w³aœnie szukam piêknego naszyjnika z pere³ dla, eee... pewnej znajomej. Sprzedacie mi naszyjnik za... powiedŸmy 600 sztuk z³ota?~
+@93   = ~Zatem mam nadziejê, ¿e dalej ju¿ pójdzie dobrze. ¯egnam.~
+@94   = ~Tak, pewnie. Idê ju¿.~
+@95   = ~600 sztuk z³ota?! To... o wiele wiêcej ni¿ zaoferowali nam inni kupcy.~
+@96   = ~Bardzo dziêkujê za t¹ wspania³omyœln¹ ofertê, ale wolimy nie obci¹¿aæ was dalej naszym problemem. My...~
+@97   = ~Margareth, co ty mówisz? Nie s³ysza³aœ, co powiedzia³? Dlaczego nie mamy go sprzedaæ teraz? Masz œwiadomoœæ, ¿e nie bêdziemy w stanie wykupiæ klejnotów od Edgara kiedykolwiek.~ ~Margareth, co ty mówisz? Nie s³ysza³aœ, co powiedzia³a? Dlaczego nie mamy go sprzedaæ teraz? Masz œwiadomoœæ, ¿e nie bêdziemy w stanie wykupiæ klejnotów od Edgara kiedykolwiek.~
+@98   = ~Kochanie, proszê. Nie jestem tak g³upia, aby wierzyæ...~
+@99   = ~Margareth, proszê, choæ na stronê na ma³¹ chwilê.~
+
+@100  = ~(szept...szept) ...pieni¹dze bezpoœrednio i... (mamrotanie) ...nie mo¿na wiedzieæ, czy Edgar nie... (szept...szept)...~
+@101  = ~Tak, ale... (szept...szept)...~
+@102  = ~Margareth, proszê! Annie... (szept...szept), hm?~
+@103  = ~Wiêc... (szept...szept) (szlocha) Masz racjê, kochany, ale tylko, jeœli... (szept...szept)...~
+@104  = ~Jesteœ najm¹drzejsz¹ z kobiet, moja cudowna ¿ono. Tak dok³adnie zrobimy!~
+@105  = ~A wiêc dobrze, uczynny przyjacielu. Ostatecznie zdecydowaliœmy przyj¹æ twoj¹ ofertê, ale nie za tak¹ sumê, jak¹ zaoferowa³eœ. Sprzedamy ci naszyjnik za 500 sztuk z³ota. To nadal jest dla nas bardzo dobra cena i bardzo dobrze wiemy, ¿e masz tego œwiadomoœæ... (chrz¹ka).~
+@106  = ~To siê wspaniale sk³ada. A ju¿ myœla³em, ¿e d³ugo mi przyjdzie szukaæ piêknego sznura pere³!...~
+@107  = ~Jeœli tak zdecydowaliœcie, nie bêdê siê spiera³.~
+@108  = ~Tak, tak, za³atwmy wreszcie ten interes.~
+@109  = ~Och, chyba nie mam wystarczaj¹cej sumy pieniêdzy przy sobie. Wrócê póŸniej!~
+@110  = ~K³ótnia Rodzinna w Beregoœcie
+
+Obieca³em rodzinie Dudley, ¿e kupiê od nich naszyjnik pere³ za 500 sztuk z³ota.~
+@111  = ~Mamo!~
+@112  = ~Tato!~
+@113  = ~Kim wy jesteœcie? Budzicie grozê!~
+@114  = ~Czy masz jeszcze naszyjnik? Mogê popatrzeæ?~
+@115  = ~Mama wcale nie jest tak z³a na mnie, jak myœla³am! Jedyna z³a rzecz, ¿e naszyjnik babci zostanie teraz sprzedany...~
+@116  = ~Nie chcia³am nikomu zrobiæ przykroœci!~
+@117  = ~Och, biedne dziecko. Spokojnie, wszystko bêdzie dobrze. Dalsze ukrywanie naszyjnika nie pomo¿e, Annie. IdŸ do domu i zwróæ go. Pewne rzeczy trzeba zrobiæ, choæ nie s¹ przyjemne.~
+@118  = ~Wci¹¿ JESZCZE p³aczesz?~
+@119  = ~Rozmawialiœcie ponownie z moimi rodzicami, nie?~
+@120  = ~Tak, rzeczywiœcie. Jesteœ pewna, ¿e nic nie wiesz o tym zaginionym naszyjniku, Annie?~
+@121  = ~Nie chcê z tob¹ rozmawiaæ, dziecko.~
+@122  = ~Annie, po tym, co powiedzia³a twoja matka, mam silne przeczucie, ¿e "ktoœ" zabra³ pewnej nocy naszyjnik z jego miejsca... Nie s¹dzisz, ¿e nadszed³ czas, aby go zwróciæ? Co?~
+@123  = ~(wzdycha) Chcia³abym, aby mama i tata przestali siê k³óciæ.~
+@124  = ~Byliœcie u mnie w domu! Rozmawialiœcie z moimi rodzicami?~
+@125  = ~Rzeczywiœcie rozmawia³em z twoimi rodzicami... lub przynajmniej próbowa³em rozmawiaæ. Wydaje siê, ¿e coœ im zginê³o, coœ bardzo wa¿nego.~ ~Rzeczywiœcie rozmawia³am z twoimi rodzicami... lub przynajmniej próbowa³am rozmawiaæ. Wydaje siê, ¿e coœ im zginê³o, coœ bardzo wa¿nego.~
+@126  = ~A kto ty jesteœ?~
+@127  = ~Rozmawia³em z twoj¹ matk¹... Najwidoczniej chyba nie mog¹ siê twoi rodzice dogadaæ ostatnio?~ ~Rozmawia³am z twoj¹ matk¹... Najwidoczniej chyba nie mog¹ siê twoi rodzice dogadaæ ostatnio?~
+@128  = ~Rozmawia³em z twoim ojcem... Najwidoczniej chyba nie mog¹ siê twoi rodzice dogadaæ ostatnio?~ ~Rozmawia³am z twoim ojcem... Najwidoczniej chyba nie mog¹ siê twoi rodzice dogadaæ ostatnio?~
+@129  = ~Ja? Jestem... jestem Annie, dlaczego pytasz?~
+@130  = ~Nie, nie mog¹... (wzdycha) Chcia³abym, aby mama i tata przestali siê k³óciæ.~
+@131  = ~Ta-ak... Powiedzieli to panu? Co mówili?~ ~Ta-ak... Powiedzieli to pani? Co mówili?~
+@132  = ~Nie, nie powiedzieli mi tego wprost. Wywnioskowa³em z tego, co mówili. Wiesz coœ mo¿e na ten temat?~ ~Nie, nie powiedzieli mi tego wprost. Wywnioskowa³am z tego, co mówili? Wiesz coœ mo¿e na ten temat?~
+@133  = ~Tak, powiedzieli. Powiedz mi, co ty wiesz!~
+@134  = ~To obojêtne. Nie zamierzam z tob¹ rozmawiaæ.~
+@135  = ~Mama powiedzia³a ¿e potrzebujemy pieniêdzy, aby op³aciæ dom. Ale zgubiliœmy ³añcuszek, który mieliœmy na to sprzedaæ.~
+@136  = ~Ach, wiêc chodzi o jakiœ NASZYJNIK! Mam wra¿enie, ¿e twoja matka i ojciec podejrzewaj¹ siê wzajemnie o jego ukrycie. Ty chyba przypadkiem wiesz, gdzie ten naszyjnik siê znajduje, prawda?~
+@137  = ~Ja? Nie... nie, dlaczego mia³abym wiedzieæ?~
+@138  = ~Mniejsza o to. Muszê iœæ.~
+@139  = ~Nie wierzê wam! Oni nigdy nie powiedzieliby tego nikomu obcemu!~
+@140  = ~Dobrze, masz racjê, nie powiedzieli mi tego wprost. Wywnioskowa³em z tego, co mówili. Wiesz coœ mo¿e na ten temat?~ ~Dobrze, masz racjê, nie powiedzieli mi tego wprost. Wywnioskowa³am z tego, co mówili. Wiesz coœ mo¿e na ten temat?~
+@141  = ~Ale ja... ja... (szlocha) Ja nie chcê, aby naszyjnik zosta³ sprzedany! To ostatnia rzecz, jak¹ mamy po babci i ja... myœla³am, ¿e oni znajd¹ inne rozwi¹zanie i (szlocha) zabra³am go, kiedy oboje spali i teraz s¹ tacy wœciekli i wszystko posz³o Ÿle... (szlocha)~
+@142  = ~Dobrzy bogowie! Jeszcze jedna beksa. Tego ju¿ nie wytrzymam!~
+@143  = ~Mo.. (szlocha) Mo¿e ma pan racjê. Och, mam tylko nadziejê, ¿e mama nie bêdzie na mnie bardzo z³a!~ ~Mo.. (szlocha) Mo¿e ma pani racjê. Och, mam tylko nadziejê, ¿e mama nie bêdzie na mnie bardzo z³a!~
+@144  = ~K³ótnia Rodzinna w Beregoœcie
+
+Zagadka zaginionego naszyjnika zosta³a rozwi¹zana. Córka Annie go zabra³a, aby nie zosta³ sprzedany... Przekonaliœmy j¹ do zwrócenia go.~
+@145   = ~K³ótnia Rodzinna w Beregoœcie
+
+Pan Dudley odda³ mi nadwy¿kê pieniêdzy... Co za uczciwi i dumni ludzie. Hm, pomimo tego ich problemy finansowe powinny byæ ju¿ rozwi¹zane.~
+@146   = ~K³ótnia Rodzinna w Beregoœcie
+
+Pan Dudley chcia³ oddaæ mi nadwy¿kê pieniêdzy... Co za uczciwi i dumni ludzie. Uda³o mi siê go przekonaæ, aby je zachowa³. W ten sposób ich problemy finansowe powinny zostaæ rozwi¹zane.~
+@147   = ~Wy! Czy wy... Zabraliœcie naszyjnik mojej córce, prawda?! Jesteœcie Ÿli... Nie mo¿emy wam naturalnie nic udowodniæ, ale ja wierzê mojej córce. Musimy opuœciæ dom, poniewa¿ nie byliœmy wstanie sp³aciæ d³ugów. Czeka nas daleka podró¿ i mam nadziejê, ¿e zaczniemy nowe ¿ycie. WstydŸcie siê!~
+@148   = ~Wci¹¿ macie naszyjnik? Oddacie go mamie, prawda?~
+@149   = ~Powiedzia³em g³upstwo. Masz, lepiej ty zanieœ naszyjnik mamie. I to szybko!~
+@150   = ~Daj mi naszyjnik, ma³a. Przechowam go, póki... eee... twoi rodzice siê nie uspokoj¹.~
+@151   = ~Mam panu oddaæ naszyjnik babci?~ ~Mam pani oddaæ naszyjnik babci?~
+@152   = ~Nie, nie to mia³em na myœli.~ ~Nie, nie to mia³am na myœli.~
+@153   = ~Pewnie. Pomyœl tylko jak mama bêdzie wœciek³a, kiedy siê O TYM dowie. Lepiej, ¿ebyœ nie mia³a wtedy naszyjnika przy sobie!~
+@154   = ~Jak... jak pan uwa¿a. Ale odda go pan mamie, prawda?~ ~Jak... jak pani uwa¿a. Ale odda go pani mamie, prawda?~
+@155   = ~K³ótnia Rodzinna w Beregoœcie
+
+Rozwi¹zaliœmy problem... w pewnym sensie.~
+@156   = ~Jesteœcie ³ajdakami!~
+@157   = ~Zabraliœcie nasz naszyjnik! Jesteœcie Ÿli!~
+@158   = ~Dlaczego mi pan to opowiada?~
+@159   = ~Proszê, oto wasz naszyjnik. Annie go zabra³a.~
+@160   = ~K³ótnia Rodzinna w Beregoœcie
+
+Zagadka zaginionego naszyjnika zosta³a rozwi¹zana. Córka Annie go zabra³a, aby nie zosta³ sprzedany... Oddaliœmy go rodzicom.~
+@161   = ~Niebywa³e! I teraz nam zwracacie. Nie mam pojêcia, jak sk³oniliœcie Annie, by go wam da³a, ale jesteœmy ogromnie wdziêczni za wasz¹ uczciwoœæ!~
+@162   = ~Mój naszyjnik! U... Annie, mówicie? Och, jak to ¿eœcie odkryli? Serdecznie dziêkujê za wasz¹ pomoc. Nie macie pojêcia, jakie to dla nas wa¿ne!~
+@163   = ~Proszê, Annie, weŸ naszyjnik z powrotem. Mo¿esz go zatrzymaæ jako prezent ode mnie. ¯eby zawsze przypomina³ ci o twojej babci, uwa¿aj na niego!~
+@164   = ~Dajesz... dajesz mi naszyjnik mojej babci? Och, to wspaniale! Bêdê mog³a go nosiæ! Opowiem o tym wszystkim moim przyjació³kom. Dziêkujê!~
+@165   = ~Halo! Jeszcze nie pokaza³am naszyjnika rodzicom... Mama zachowywa³a siê tak œmiesznie... Mo¿e poka¿ê go jutro tacie.~

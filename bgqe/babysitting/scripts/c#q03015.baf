@@ -1,0 +1,10 @@
+IF
+  NumTimesTalkedTo(0)
+  !See([ENEMY])
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    %STARTDIALOGNOSET%([PC])
+END

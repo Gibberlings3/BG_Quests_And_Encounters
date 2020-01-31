@@ -1,0 +1,70 @@
+
+//Script file for C#Q01001.CRE (Alanna, slime quest)
+//Alanna goes to PC and initiates dialogue
+
+IF
+  Dead("C#Q01003")
+  See([PC])
+  Global("C#Q01_Eltoltdead","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_Eltoltdead","GLOBAL",1)
+    StartDialog("C#Q01001",[PC])
+END
+
+IF
+  Dead("C#Q01002")
+  See([PC])
+  Global("C#Q01_Eltoltdead","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_Eltoltdead","GLOBAL",1)
+    StartDialog("C#Q01001",[PC])
+END
+
+IF
+  !See([ENEMY])
+  Global("C#Q01_TalkedOutside","GLOBAL",0)
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    Dialogue([PC])
+END
+
+IF
+  See("C#Q01003")
+  Global("C#Q01_Retransformation","GLOBAL",0)
+  Global("C#Q01_TalkInside","GLOBAL",0)
+  See([PC])
+THEN
+  RESPONSE #100
+    Wait(1)
+    SetGlobal("C#Q01_TalkInside","GLOBAL",1)
+    StartDialog("C#Q01001",[PC])
+END
+
+IF
+  See("C#Q01002")
+  Global("C#Q01_Retransformation","GLOBAL",1)
+  !Global("C#Q01_AlannaEnddialog","GLOBAL",1)
+  See([PC])
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_AlannaEnddialog","GLOBAL",1)
+    StartDialog("C#Q01001",[PC])
+END
+
+
+IF
+  Global("C#Q01_TransformationFailed","GLOBAL",1)
+  Global("C#Q01_AlannaEnddialog","GLOBAL",0)
+  See([PC])
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_AlannaEnddialog","GLOBAL",3)
+    StartDialog("C#Q01001",[PC])
+END
+
+

@@ -1,0 +1,71 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		FadeToColor([20.0],0)
+		LeaveAreaLUAPanic("%Nashkel_Garrison%","",[458.407],13)
+		LeaveAreaLUA("%Nashkel_Garrison%","",[458.407],13)
+		MultiPlayerSync()
+		CreateCreature("Brage2",[527.302],1) // Brage
+		CreateCreature("c#q13amn",[503.269],0) // Amnish Soldier
+		CreateCreature("c#q13oub",[417.342],14)
+		CreateCreature("c#q13brn",[441.360],14)
+		MultiPlayerSync()
+		FadeFromColor([20.0],0)
+		Wait(1)
+		ActionOverride("Brage",MoveToPoint([465.351]))
+		ActionOverride("c#q13amn",MoveToPoint([460.340]))
+		Wait(1)
+		ActionOverride("c#q13oub",FaceObject("Brage"))
+		ActionOverride("c#q13brn",FaceObject("Brage"))
+		ActionOverride(Player1,FaceObject("Brage"))
+		ActionOverride("c#q13brn",StartDialogueNoSet("Brage")
+		EndCutSceneMode()
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player2)
+		LeaveAreaLUA("%Nashkel_Garrison%","",[291.377],14)
+		ActionOverride(Player2,FaceObject("Brage"))
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player3)
+		LeaveAreaLUA("%Nashkel_Garrison%","",[291.377],14)
+		ActionOverride(Player3,FaceObject("Brage"))
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player4)
+		LeaveAreaLUA("%Nashkel_Garrison%","",[291.377],14)
+		ActionOverride(Player4,FaceObject("Brage"))
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player5)
+		LeaveAreaLUA("%Nashkel_Garrison%","",[291.377],14)
+		ActionOverride(Player5,FaceObject("Brage"))
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player6)
+		LeaveAreaLUA("%Nashkel_Garrison%","",[291.377],14)
+		ActionOverride(Player6,FaceObject("Brage"))
+END
+

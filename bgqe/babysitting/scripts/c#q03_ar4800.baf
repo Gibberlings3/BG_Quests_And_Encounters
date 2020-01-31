@@ -1,0 +1,212 @@
+/* DestroyItem() */
+
+
+IF 
+	GlobalGT("C#Q03_StageEnd","GLOBAL",0)
+	PartyHasItem("C#Q03009")
+   THEN
+	RESPONSE #100
+		TakePartyItem("C#Q03009") DestroyItem("C#Q03009")
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_StageEnd","GLOBAL",0)
+	PartyHasItem("C#Q03010")
+   THEN
+	RESPONSE #100
+		TakePartyItem("C#Q03010") DestroyItem("C#Q03010")
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_StageEnd","GLOBAL",0)
+	PartyHasItem("C#Q03011")
+   THEN
+	RESPONSE #100
+		TakePartyItem("C#Q03011") DestroyItem("C#Q03011")
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_AbandonedChildren","GLOBAL",0)
+	PartyHasItem("C#Q03009")
+   THEN
+	RESPONSE #100
+		TakePartyItem("C#Q03009") DestroyItem("C#Q03009")
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_AbandonedChildren","GLOBAL",0)
+	PartyHasItem("C#Q03010")
+   THEN
+	RESPONSE #100
+		TakePartyItem("C#Q03010") DestroyItem("C#Q03010")
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_AbandonedChildren","GLOBAL",0)
+	PartyHasItem("C#Q03011")
+   THEN
+	RESPONSE #100
+		TakePartyItem("C#Q03011") DestroyItem("C#Q03011")
+		Continue()
+END
+
+/* children should leave after quest end */
+
+IF 
+	GlobalGT("C#Q03_StageEnd","GLOBAL",3)
+	Exists("C#Q03008")
+   THEN
+	RESPONSE #100
+		ActionOverride("C#Q03008",EscapeArea())
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_StageEnd","GLOBAL",3)
+	Exists("C#Q03009")
+   THEN
+	RESPONSE #100
+		ActionOverride("C#Q03009",EscapeArea())
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_StageEnd","GLOBAL",3)
+	Exists("C#Q03010")
+   THEN
+	RESPONSE #100
+		ActionOverride("C#Q03010",EscapeArea())
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_BulliedMother","GLOBAL",4)
+	Exists("C#Q03008")
+   THEN
+	RESPONSE #100
+		ActionOverride("C#Q03008",EscapeArea())
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_BulliedMother","GLOBAL",4)
+	Exists("C#Q03009")
+   THEN
+	RESPONSE #100
+		ActionOverride("C#Q03009",EscapeArea())
+		Continue()
+END
+
+IF 
+	GlobalGT("C#Q03_BulliedMother","GLOBAL",4)
+	Exists("C#Q03010")
+   THEN
+	RESPONSE #100
+		ActionOverride("C#Q03010",EscapeArea())
+		Continue()
+END
+
+
+
+IF
+	GlobalTimerExpired("C#Q03_AbandonedChildrenT","GLOBAL")
+     Global("C#Q03_AbandonedChildren","GLOBAL",0)
+THEN
+     RESPONSE #100
+	SetGlobal("C#Q03_AbandonedChildren","GLOBAL",1)
+END
+
+IF 
+     Global("C#Q03_AbandonedChildren","GLOBAL",1)
+	!Dead("C#Q03008")
+	!Exists("C#Q03008")
+THEN
+     RESPONSE #100
+		SetGlobal("C#Q03_AbandonedChildren","GLOBAL",2)
+		CreateCreature("C#Q03008",[3741.2217]%FACE_0%) //Mrs Blackwood
+		CreateCreature("C#Q03012",[3741.2230]%FACE_0%)
+		CreateCreature("C#Q03013",[3791.2266]%FACE_0%)
+		CreateCreature("C#Q03014",[3842.2241]%FACE_0%)
+END
+
+
+IF 
+      Global("C#Q03_BlackwoodCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q03_BlackwoodCreation","GLOBAL",1)
+	    CreateCreature("C#Q03008",[3192.2655]%FACE_0%) //Mrs Blackwood
+	    CreateCreature("C#Q03009",[3155.2638]%FACE_0%) //Sarah
+	    CreateCreature("C#Q03010",[3226.2675]%FACE_0%) //Tom
+END
+
+IF
+      Global("C#Q03_BlackwoodCreation","GLOBAL",1)
+	Global("C#Q03_AbandonedChildren","GLOBAL",0)
+	GlobalTimerExpired("C#Q03_BabysitterTimer_1","GLOBAL")	
+	!Exists("C#Q03008")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q03_BlackwoodCreation","GLOBAL",2)
+	    CreateCreature("C#Q03008",[3192.2655]%FACE_0%) //Mrs Blackwood
+	    CreateCreature("C#Q03009",[3155.2638]%FACE_0%) //Sarah
+	    CreateCreature("C#Q03010",[3226.2675]%FACE_0%) //Tom
+END
+
+IF 
+	Global("C#Q03_StageEnd","GLOBAL",1)
+	Global("C#Q03_AbandonedChildren","GLOBAL",0)
+	!Dead("C#Q03008")
+	!Exists("C#Q03008")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q03_StageEnd","GLOBAL",2)
+	    CreateCreature("C#Q03008",[3152.2466]%FACE_0%) //Mrs Blackwood
+END
+
+IF
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_DeadChild","GLOBAL",0)
+	Global("C#Q03_AbandonedChildren","GLOBAL",0)
+	Dead("C#Q03009")
+	!Dead("C#Q03008")
+	!Exists("C#Q03008")
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_DeadChild","GLOBAL",1)
+            SetGlobal("C#Q03_StageEnd","GLOBAL",2)
+	    CreateCreature("C#Q03008",[3152.2466]%FACE_0%) //Mrs Blackwood
+END
+
+IF
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_DeadChild","GLOBAL",0)
+	Global("C#Q03_AbandonedChildren","GLOBAL",0)
+	Dead("C#Q03010")
+	!Dead("C#Q03008")
+	!Exists("C#Q03008")
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_DeadChild","GLOBAL",1)
+            SetGlobal("C#Q03_StageEnd","GLOBAL",2)
+	    CreateCreature("C#Q03008",[3152.2466]%FACE_0%) //Mrs Blackwood
+END
+
+IF
+	Global("C#Q03_HelpMother","GLOBAL",1)
+	Global("C#Q03_DeadChild","GLOBAL",0)
+	Global("C#Q03_PCAttackedChildren","GLOBAL",1)
+	Global("C#Q03_AbandonedChildren","GLOBAL",0)
+	!Dead("C#Q03008")
+	!Exists("C#Q03008")
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q03_DeadChild","GLOBAL",1)
+            SetGlobal("C#Q03_StageEnd","GLOBAL",2)
+	    CreateCreature("C#Q03008",[3152.2466]%FACE_0%) //Mrs Blackwood
+END

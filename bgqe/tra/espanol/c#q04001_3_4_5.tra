@@ -1,0 +1,66 @@
+@0    = ~¡Ayuda! ¡Ayuda! ¡Está intentando comerme!~
+@1    = ~Monstruo de Nashkel
+
+He matado un bebé wyvern en Nashkel que estaba persiguiendo a un chico...~
+@2    = ~¿Qué... de qué está hablando esta persona?~
+@3    = ~Preguntadle a vuestro hijo. Un bebé wyvern le estaba persiguiendo.~
+@4    = ~No me asustáis. ¡Combatid, si queréis!~
+@5    = ~¡Eso son tonterías! ¡Habéis amenazado a mi hijo!~
+@6    = ~Juro que maté un bebé wyvern que perseguía a vuestro hijo.~
+@7    = ~¿De qué va esto? ¡Habéis amenazado a mi hijo!~
+@8    = ~¡¿Cómo os atrevéis a hablar a mi hijo?! ¡Soldado, os *exijo* que arrestéis a esta persona ahora!~
+@9    = ~¿Nunca os preguntasteis nada respecto el tamaño y la forma de este huevo?~
+@10   = ~¡¿Qué sabéis de este huevo?!~
+@11   = ~Nada, pero he visto la "mascota" que había dentro, y definitivamente no era una serpiente del campo, sino que era un bebé wyvern.~
+@12   = ~¿Estáis sordos? ¡Estáis acusados de amenazar al hijo del Señor y la Señora von Undenzieht con vuestras armas matando a su pequeña mascota! ¡Entregad vuestras armas!~
+@13   = ~No, yo no hice lo que decís. He salvado a este chico de un bebé wyvern que le atacaba.~
+@14   = ~¿Su mascota? ¿Desde cuando los chicos tienen bebés wyvern como mascotas?~
+@15   = ~¡Eso es una confesión! ¡Atacad!~
+@16   = ~Monstruo de Nashkel
+
+La familia del chico quería que me arrestaran los soldados. El chico obviamente mintió sobre nuestro encuentro. He decidido luchar contra las autoridades de la ciudad.~
+@17   = ~¡Qué es todo esto de un bebé wyvern! ¡Estáis acusado de amenazar al joven del Señor von Undenzieht y matar a su mascota, una serpiente del campo!~
+@18   = ~¿Su mascota, la "serpiente del campo"? Repito: ¡era un bebé wyvern que le estaba persiguiendo!~
+@19   = ~Si, seguro.~
+@20   = ~¿Es esta la persona que decíais, Arnim?~
+@21   = ~¡Erm... si! ¡Es ella!~
+@22   = ~¡Erm... si! ¡Es él!~
+@23   = ~¡Soldado! ¡Arrestad a esta persona!~
+@24   = ~¡Esperad! Estáis acusados de amenazar al hijo del Señor y la Señora von Undenzieht con vuestras armas matando a su pequeña mascota. ¿Confesáis?~
+@25   = ~Os pido que os disculpéis.~
+@26   = ~No, no lo haré. He salvado a este chico del bebé wyvern que le atacaba.~
+@27   = ~Ooh...~
+@28   = ~¿Porqué estamos hablando tanto? ¡Arrestad a esta persona!~
+@29   = ~Bajo estas circunstancias, ella tiene derecho a explicarse. ¡Aunque me estoy empezando a sentir molesto!~
+@30   = ~Bajo estas circunstancias, él tiene derecho a explicarse. ¡Aunque me estoy empezando a sentir molesto!~
+@31   = ~¡Arrestad a esta persona! ¡Casi matan a nuestro hijo!~
+@32   = ~¡Y la pequeña serpiente de campo! ¡Este huevo costó 500 piezas de oro, siendo una entrega exclusiva de Aguas Profundas! ¡Quiero una compensación por los gastos!~
+@33   = ~"¿Serpiente del campo?" Arnim, ¿no creéis que es la hora de decir a vuestros padres la verdad?~
+@34   = ~Y os digo que no es una serpiente de campo, sino que es un bebé wyvern. Vuestro hijo os estaba mintiendo.~
+@35   = ~¡Dejad de hablar de un wyvern! Bueno, este huevo *parecía* algo... grande... Pero el vendedor de animales dijo que era de una clase especial...~
+@36   = ~¡¿Arnim?!~
+@37   = ~Yo... yo...~
+@38   = ~Papá, Mamá, ¡Lo siento de veras! ¡Es cierto! ¡Lo que salió de ese huevo fue un bebé wyvern! ¡Estaba tan asustado! ¡Intentó comerme!~
+@39   = ~¡Arnim! ¡Pobre chico! ¿Porqué no nos lo dijiste?~
+@40   = ~¡Por que sabía que le daría una paliza, ese es el motivo! Así perdéis vuestra mascota, y vosotros sois inocentes... bueno, quizás no tan inocentes, pero da lo mismo, ¡algo parecido! ¡Chico, espera a que lleguemos a casa!~
+@41   = ~¡Cielo, por favor! ¡Es inocente!~
+@42   = ~*tos* Como la persona a la que habéis acusado de amenazar a vuestro hijo. ¿Estoy en lo cierto de que la queja será retraída?~
+@43   = ~¿Qué? Si, si, por supuesto.~
+@44   = ~¿Queréis decir una últimas palabras al salvador de vuestro hijo?~
+@45   = ~Estamos agradecidos, extranjeros...~
+@46   = ~¡No, no lo estamos! ¡Matasteis un animal exótico que costó 1000 piezas de oro y estaba en mi posesión! ¡Mejor que os vayáis rápido y no volváis nunca más!~
+@47   = ~¡*Señor* von Undenzieht! ¡Vigilad vuestros modales! <CHARNAME>, sentimos todas estas falsas acusaciones. Os agradecemos el coraje que habéis mostrado salvando a un chico de la ciudad.~
+@48   = ~Entonces me alegro de que todo esté en orden.~
+@49   = ~Monstruo de Nashkel
+
+La familia del chico quería que los soldados me arrestaran. Evidentemente, el chico mintió acerca de nuestro primer encuentro porque estaba asustado por el enfado de su padre respecto la "mascota exótica" perdida. Afortunadamente, salimos bien parados.~
+@50   = ~La próxima vez, preguntad antes de intentar arrestarme.~
+@51   = ~No, no ha acabado. ¡Quiero mi venganza! ¡Combatid, si os atrevéis!~
+@52   = ~Solo una cosa más. Señor von Undenzieht, ¡os arresto bajo el cargo de poseer animales exóticos peligrosos dentro de la ciudad! ¡Ahora venid conmigo!~
+@53   = ~¿Qué? Esto.. esto es... ¡Soy el Señor von Undenzieht! ¡Protesto! ¡Quitadme vuestras manos de encima, *idiotas*!~
+@54   = ~Gracias... gracias de nuevo. Siento haber mentido, pero estaba tan asustado... por la reacción de mi padre.~
+@55   = ~Gracias por salvar a nuestro hijo. Dejad que me disculpe por nuestra confrontación... y el comportamiento de mi marido. Tiene un alma buena, creo. Dentro, en algún lugar.~
+@56   = ~El pequeño Arnim está jugando fuera con su nueva mascota. Espero que no esté demasiado cansado cuando vuelva.~
+@57   = ~No tardará mucho en volver. Seguro que le pondrán una multa, pero eso es todo. Entonces continuaremos nuestro viaje hacia Nuncainvierno. Adiós.~
+@58   = ~¿Qué queréis? ¿Parezco como si quisiera hablar con extraños que irrumpen en mis aposentos?~
+

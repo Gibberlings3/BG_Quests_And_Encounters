@@ -1,0 +1,13 @@
+// c#q04cut.baf - "fade to black".
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+        FadeToColor([20.0],0)
+        Wait(5)
+        FadeFromColor([20.0],0)
+	EndcutSceneMode()
+        ActionOverride("%tutu_var%HALBAZ",StartDialogueNoSet(Player1))
+END 

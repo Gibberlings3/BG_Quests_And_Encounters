@@ -1,0 +1,23 @@
+
+IF 
+    Exists("C#LCNOOB")
+    Global("C#LCNOOB_Quest","GLOBAL",10)
+THEN
+    RESPONSE #100
+        ActionOverride("C#LCNOOB",DestroySelf())
+END 
+
+
+/* Spawn Noober two days after he was met originally */
+IF 
+    !Exists("Noober")
+    !Dead("Noober")
+//  !Allegiance("Noober",ENEMY) doesn't work for vanilla BG1 - prevents cre from spawning
+    GlobalTimerExpired("C#LCNOOB_Timer","GLOBAL")
+    Global("C#LCNOOB_Quest","GLOBAL",0)
+THEN
+    RESPONSE #100
+        CreateCreature("C#LCNOOB",[2444.3235]%FACE_0%)
+        SetGlobal("C#LCNOOB_Quest","GLOBAL",1)
+END 
+

@@ -1,0 +1,642 @@
+@3    = ~Leere Flasche~
+@4    = ~Dies ist die leere Flasche, die Alanna in Eltolths Haus gefunden hat. Auf dem Etikett ist zu lesen: "Herrliche Überraschung
+Nur in kleinen Schlucken zu sich nehmen. Wirkung setzt nach 5 Sekunden bis 10 Minuten ein und hält bis zu einer Stunde. Vor Überdosierung wird gewarnt, es könnten unvorhergesehene Wirkungen auftreten! Es wird keine Garantie übernommen!"
+Die Beschreibung ist unterzeichnet mit der Signatur "T"~
+@5    = ~Eltolths Notizen~
+@6    = ~Dies scheint ein Tagebuch zu sein, das Alannas Nachbar Eltolth gehört. Ihr findet ein paar Interessante Einträge, die Hinweise auf das Vorgefallene geben:
+"...Habe wieder diesen Tulbor getroffen, wie immer an der üblichen Stelle, weit weg von der Bar. Musste ihm einen Drink spendieren, damit er mit mir sprach (...) Er sagt, seine Tränke wären mindestens genauso gut wie die von Juoma, aber billiger (...) Er hat mir wieder den speziellen Trank angeboten. Wenn der nur nicht so teuer wäre! Aber diesmal kaufe ich ihn. Er sollte es Wert sein!"
+Die Notizen enden hier.~
+@7    = ~Transformationselixier~
+@8    = ~Dies ist das Elixier, dass Ihr von Tulbor erhalten habt. Es sollte Eltolth in seine ursprüngliche Gestalt zurückverwandeln. Überdosiert dürfte es außerdem zu einem schönen Stärkebonus verhelfen. Die ganze Flasche auszutrinken, müsste diesen Effekt hervorrufen.~
+
+@10   = ~Alanna~
+@11   = ~Eltolth~
+@12   = ~Tulbor~
+
+@14    = ~Frau Dudley~
+@15    = ~Herr Dudley~
+@16    = ~Annie Dudley~
+@17    = ~Dudleys Halskette~
+@18    = ~Familie Dudleys Halskette
+
+Diese Perlenkette ist das vielgesuchte Erbschmuckstück der Familie Dudley.~
+
+@20    = ~Frau Blackwood~
+@21    = ~Sarah~
+@22    = ~Tom~
+@23    = ~Tina~
+@24    = ~Sarahs Puppe~
+@25    = ~Sarahs Puppe
+Dies ist Sarahs Puppe. Die Farben im Gesicht sind bereits verblasst, doch sie ist in kunstvoll gestrickte Puppenkleider gekleidet.
+~
+@26    = ~Toms Teddy~
+@27    = ~Toms Teddy
+Dies ist Toms Teddy. Er sieht alt und zerzaust aus, klebrig und dreckig, genau so, wie das meistgeliebte Stofftier eines kleinen Kindes eben aussieht.
+~
+@28    = ~Sarahs Trinkflasche~
+@29    = ~Sarahs Trinkflasche
+Dies ist Sarahs Trinkflasche, die Euch Frau Blackwood gegeben hat. Sie ist bedeckt von Resten einer klebrigen Flüssigkeit, in Kombination mit dem obligatorischen Sand und anderem Dreck. Ihr seid Euch sicher, dass Ihr nicht daraus trinken wollt.
+~ 
+@30    = ~Toms Trinkflasche~
+@31    = ~Toms Trinkflasche
+Dies ist Toms Trinkflasche, die Euch Frau Blackwood gegeben hat. Sie ist bedeckt von Resten einer klebrigen Flüssigkeit, in Kombination mit dem obligatorischen Sand und anderem Dreck, und einer toten Ameise. Ihr seid Euch sicher, dass Ihr nicht daraus trinken wollt.
+~
+@32    = ~Süßigkeiten~
+@33    = ~Süßigkeiten
+Dies ist eine Süßigkeit, die Frau Blackwood Euch gegeben hat. Sie ist dick eingehüllt in kandiertem Zucker, süß und klebrig.
+~
+@34    = ~Gezuckerte Mandeln~
+@35    = ~Gezuckerte Mandeln
+Dies ist eine Süßigkeit, die Frau Blackwood Euch gegeben hat. Es scheint eine Art gezuckerte Mandeln zu sein.
+~
+@36    = ~Sarahs Mantel~
+@37    = ~Sarahs Mantel
+Dies ist Sarahs Mantel.
+~
+
+@40    = ~Arnim~
+@41    = ~Frau von Undenzieht~
+@42    = ~Herr von Undenzieht~
+
+@44    = ~Dauron~
+@45    = ~Schaulustiger~
+@46    = ~Luisas Mutter~
+@47    = ~Amme~
+
+@49   = ~Leila~
+
+@51   = ~Uguth~
+@52   = ~Viola~
+@53   = ~Frau Kenn~
+@54   = ~Herr Kenn~
+// @55   
+@57   = ~Sir Trun~
+@58   = ~Linda~
+@59   = ~Das alternative Gegenmittel~
+@60   = ~Dies ist das billige alternative Gegenmittel, das Eltolth in sein ursprüngliches Selbst zurückverwandeln sollte...~
+
+
+
+
+
+
+/* Neuer Inhalt: v9 */
+
+@62   = ~Hamster~
+@63   = ~Dies ist der Hamster des Kleintierverkäufers. Der Hamster hatte sich entschieden, bei Minsk bzw. Boo zu bleiben... Ihr habt bei genauerer Betrachtung die starke Vermutung, dass es sich hierbei um ein Weibchen handelt. Von dem, was Ihr über die Reproduktionsrate von Hamstern wisst, könnte das Zusammensein der beiden Hamster sehr bald zu entsprechenden Konsequenzen führen.~ 
+@64   = ~Dies ist einer der Babyhamster, die aus Boos Liaison mit dem namenlosen Hamsterweibchen entsprangen.~
+@65   = ~Edward~
+
+
+
+@67   = ~Kämpfer~
+
+@99   = ~Magier~
+@100  = ~Teodor~
+@101  = ~Ei~
+@102  = ~Dies ist der eigeformte Stein, den Ihr von dem Lieferant erhalten habt. Er kann als Kopfstück getragen werden und scheint sehr mächtig zu sein. Ihr habt allerdings bei genauerer Betrachtung den Eindruck, dass sich darin etwas bewegt.~
+@103  = ~Ei der Geforenen Spinne~
+@104  = ~Dies ist ein konserviertes Ei einer Geisterspinne. Als Kopfstück getragen verschandelt es das Aussehen des Trägers, aber es schützt gleichzeitig davor, magisch gehalten zu werden.
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+Besondere Fähigkeiten: Auf den Träger wirkt Schutz vor Halten.
+Charisma: um 3 Punkte reduziert.
+
+Gewicht: 2~
+
+
+
+/* Neuer Inhalt: v10 */
+
+
+@106  = ~Altes Mütterchen~
+
+
+/* Neuer Inhalt v15 */
+
+@107   = ~Haus von Alannas Nachbarn~
+@108   = ~Kleintierverkäufer~
+
+
+/* Neuer Inhalt v16 */
+
+
+
+
+@110  = ~Brages Schwert~
+@111  = ~Brages Zweihänder +1~
+/* unidentified description bg1:totsc */
+@112  = ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen.
+
+Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+Schaden: 1W10 (Klinge)
+Gewicht: 12
+Initiativefaktor: 10
+Mindeststärke: 14
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Kann nicht verwendet werden von:
+ Druiden
+ Klerikern
+ Magiern~
+/* identified description bg1:totsc */
+@113  = ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen. Dafür eignet sich dieses Schwert dank seiner Verzauberung besonders gut.
+
+Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+Schaden: 1W10 +1 (Klinge)
+ETW0-Bonus: -1
+Gewicht: 12
+Initiativefaktor: 9
+Mindeststärke: 13
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Kann nicht verwendet werden von:
+ Druiden
+ Klerikern
+ Magiern~
+/* unidentified description tutu / bgt */
+@114  = ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen.
+
+Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+Schaden: 1W10 (Klinge)
+Gewicht: 12
+Initiativefaktor: 10
+Mindeststärke: 14
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Kann nicht verwendet werden von:
+ Druiden
+ Klerikern
+ Magiern~
+/* identified description tutu / bgt */
+@115  = ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen. Dafür eignet sich dieses Schwert dank seiner Verzauberung besonders gut.
+
+Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+Schaden: 1W10 +1 (Klinge)
+ETW0-Bonus: -1
+Gewicht: 12
+Initiativefaktor: 9
+Mindeststärke: 13
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Kann nicht verwendet werden von:
+ Druiden
+ Klerikern
+ Magiern~
+/* identified description bgee / eet */
+@116  = ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen. Dafür eignet sich dieses Schwert dank seiner Verzauberung besonders gut.
+
+Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W10 +1 (Klinge)
+ETW0-Bonus: -1
+Gewicht: 12
+Initiativefaktor: 9
+Mindeststärke: 13
+Fertigkeit: Zweihänder
+Typ: 2-händig~
+@117  = ~Hick~
+@118  = ~Mein Diener Mulahey,
+
+Eure unbeschreibliche Nachlässigkeit hat D. veranlasst, einzugreifen. Der Hauptmann von Nashkell hat nun eine nette Überraschung in Form eines neuen Schwerts erhalten, das etwas spezieller war, als er erwartet hatte. Die Amnische Garde sollte nun zu geschwächt sein, um in die tieferen Minenebenen vordringen. Nichtsdestotrotz solltet Ihr Euch nicht allzu sehr in Sicherheit wiegen, da die Sichtung Eurer dummen Kobolde alle möglichen anderen Möchtegerns angezogen hat, die die Vorgänge untersuchen wollen. 
+Versagt nicht noch einmal.
+
+Tazok~
+@119  = ~Borda,
+
+es interessiert uns nicht, dass Ihr der Meinung seid, alles wie vereinbart erledigt zu haben. Es ist nicht unser Problem, dass der Hauptmann selbst den Vorfall untersuchen gegangen ist und daher das Schwert alleine auf der Straße und nicht umgeben von seinen Soldaten in der Garnison erhalten hat. Es ist Euch anzulasten, dass der ganze Plan beinahe geplatzt wäre. Euer Glück, dass der Narr überhaupt zurück nach Nashkell gegangen ist, und das Gold für das Schwert mit dem besonderen Fluch nicht gänzlich umsonst war! Nein, Ihr werdet den zweiten Teil des Goldes nicht erhalten. Wir haben Euch das Schwert gelassen, das Brage eigentlich erhalten sollte. Das ist genug Entschädigung! Seid froh, dass wir Euch nicht zur Strecke bringen.
+
+Tazok~
+@120  = ~Tazok,
+
+ich verlange, dass mir die zweite Hälfte des vereinbarten Goldes ausgezahlt wird! Dass der Hauptmann nur seine Familie und nicht seine halbe Garnison gemetzelt hat ist nicht meine Schuld. Die Garde in Nashkell ist geschwächt, und darin bestand die Vereinbarung! Ihr könnt Antworten an mich zu meinem Kontakt beim Jahrmarkt schicken. Einer der Händler war verzweifelt genug, um einige meiner Tränke in sein Sortiment zu nehmen, er wird Briefe an mich weiterleiten.
+
+Borda~
+@121  = ~Botschaft an Kapitän Tollar Kieres~
+@122  = ~Dieser Brief trägt das offizielle Siegel der Händlerliga von Baldurs Tor.
+Er wurde Euch von Aldeth Sashenstar übergeben und ist für Kapitän Kieres bestimmt, der sich momentan im Zählhaus der Händlerliga im nordöstlichen Teil der Stadt aufhält.~ 
+
+@123  =  ~Siegelring der Händlerliga~
+@124  =  ~Ringe wie dieser gelten innerhalb der Händlerliga als Erkennungszeichen und werden nur von Mitgliedern der Liga oder von Personen getragen, die das Vertrauen der Liga genießen. 
+Dieser Siegelring garantiert Euch Einlass und freies Geleit im Zählhaus der Händlerliga, wo sonst nicht jeder beliebige Zugang hat. 
+Nicht wenige behaupten, die Händlerliga verdankt ihren Erfolg diesen Ringen, da sie angeblich mit speziellen Verzauberungen versehen sind.
+
+Besondere Fähigkeiten:
+
+Glück 3x täglich
+Personen bezaubern 3x täglich~
+@125  =  ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen. Dafür eignet sich dieses Schwert dank seiner Verzauberung besonders gut.
+
+Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W10 +1 (Klinge)
+ETW0-Bonus: -1
+Gewicht: 12
+Initiativefaktor: 9
+Mindeststärke: 13
+Fertigkeit: Zweihänder
+Typ: 2-händig~
+
+
+
+
+@126  = ~Haus des besorgten Bauerns~
+
+
+@2002    = ~Ghul~
+@2003    = ~Landwirt~
+@2004	 = ~Ein besorgter Bauer
+
+Der Bauer hat mich gebeten, in seinem Haus vorbeizukommen, falls wir uns der Sache annehmen wollen.~
+@2005	 = ~Ein besorgter Bauer
+	
+Der Bauer aus Beregost, braucht sich nun keine Sorgen mehr zu machen, der Ghul, der ihn Nacht für Nacht heimsuchte ist nun zerstört.~
+@2006	 = ~Ein besorgter Bauer
+
+In der Nähe von Beregost erzählte uns ein Bauer, dass nicht weit von seinem Haus entfernt irgendetwas umherstreift. Er weiß jedoch nicht, was es ist.~
+@2007	 = ~Ein besorgter Bauer~
+
+
+
+//Leichen fuer einen guten Zweck
+@9002   = ~Sylar~
+@9003	= ~Leichen für einen guten Zweck
+
+Im Geschäft der Stille begegnete mir ein elfischer Nekromant namens Sylar. Offensichtlich hat er eine neue Methode entdeckt, die Nekromantie so einzusetzen, dass er Lebewesen wie ein Kleriker erwecken könnte. Sollte er das schaffen, könnte er zahlreiche Vorurteile, welche die Leute gegen Nekromanten hegen, entkräftigen. Für seine Forschungen braucht er allerdings tote Körper, die ich ihm aus der Kanalisation besorgen soll. Er ist bereit, 150 Goldstücke pro überbrachte Leiche zu bezahlen. 
+
+Da kann ich ja drei Fliegen mit einer Klappe schlagen: Ich helfe der Wissenschaft, verdiene etwas Zusatzgold dabei und tue dabei sogar noch etwas für die Umwelt!~
+@9004	= ~Leichen für einen guten Zweck
+
+Im Geschäft der Stille begegnete mir ein elfischer Nekromant namens Sylar. Offensichtlich hat er eine neue Methode entdeckt, die Nekromantie so einzusetzen, dass er Lebewesen wie ein Kleriker erwecken könnte. Sollte er das schaffen, könnte er zahlreiche Vorurteile, welche die Leute gegen Nekromanten hegen, entkräftigen. Für seine Forschungen braucht er allerdings tote Körper, die ich ihm aus der Kanalisation besorgen soll. Er ist bereit, 150 Goldstücke pro überbrachte Leiche zu bezahlen. 
+
+Allerdings war ich nicht interessiert, ihm zu helfen. Sollte ich es mir anders überlegen, weiß ich, wo ich ihn finde.~
+@9005	= ~Leichen für einen guten Zweck~
+
+
+
+
+//Journal entries...
+
+//slime quest
+
+@10000  = ~Beregost: Alannas Nachbar in Schwierigkeiten~
+
+//@63 (c#q01001.tra)
+@10001  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Zwischen Beregosts Häusern sprach mich eine verzweifelte Frau an. Irgendetwas stimmt nicht mit ihrem Nachbarn. Ich sollte mir das ganze mal ansehen.~
+
+//@64 (c#q01001.tra)
+@10002  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Zwischen Beregosts Häusern sprach mich eine verzweifelte Frau an. Irgendetwas stimmt nicht mit ihrem Nachbarn.~
+
+//@65 (c#q01001.tra)
+@10003  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Eltolth ließ sich seine Rettung 200 GM kosten. Ich verlasse sein Haus in der Gewissheit, heute zwei Menschen glücklich gemacht zu haben...~
+
+
+//@66 (c#q01001.tra)
+@10004  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Ich habe den Verkäufer des Elixiers gefunden, das Eltolth in einen Schleim verwandelt hat. Ich kann ihm nur nichts beweisen!~
+
+//@67 (c#q01001.tra)
+@10005  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Das Retransformationselixier für Eltolth soll 100 GM kosten!~
+
+
+//@96 (c#q01001.tra)
+@10006  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Das alternative Gegenmittel hat nicht gewirkt. Nun, sie werden woanders Hilfe finden.~
+
+//@103 (c#q01001.tra)
+@10064   = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Das alternative Gegenmittel hat nicht gewirkt. Aber das war es Wert: Der Anblick, wie diese Frau den Schleim geküsst hat!~
+
+//@110 (c#q01001.tra)
+@10007  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+ 
+Huch... Nun sind Alanna und ihr Nachbar selig vereint... Als (tote) Schleime. Tulbor hatte nicht untertrieben, als er vor möglichen, ungewollten Nebenwirkungen des billigen Alternativ-Gegenmittels warnte.~
+
+//@7 (c#q01003.tra)
+@10008  = ~Beregost: Alannas Nachbar in Schwierigkeiten
+
+Dieser Eltolth versteht aber auch keinen Spaß. Ich musste ihn in seiner Wackelgestalt töten...~ 
+
+
+//family treasure: c#q02005.tra
+
+
+@10009  = ~Familienstreitigkeiten in Beregost~
+
+//@4 
+@10010  = ~Familienstreitigkeiten in Beregost
+
+Ich habe ein seltsames Ehepaar in Beregost getroffen. Offensichtlich sprechen Ehemann und -frau nicht mehr miteinander... Vielleicht sollte ich das weiter untersuchen.~
+
+//@25
+@10011  = ~Familienstreitigkeiten in Beregost
+
+Ich habe die Perlenkette der Dudleys für die vereinbarten 500 Goldmünzen gekauft. Damit sollten ihre Geldprobleme gelöst sein.~
+
+//@27
+@10012  = ~Familienstreitigkeiten in Beregost
+
+Ich habe die Perlenkette der Dudleys gekauft. Statt der vereinbarten 500 Goldmünzen habe ich jedoch 50 Goldmünzen zusätzlich in Herrn Dudleys Geldsack gesteckt. Hoffentlich geht es der Familie nun gut.~
+
+//@29
+@10013  = ~Familienstreitigkeiten in Beregost
+
+Ich habe die Perlenkette der Dudleys gekauft. Statt der vereinbarten 500 Goldmünzen habe ich jedoch 600 in Herrn Dudleys Geldsack gesteckt. Hoffentlich geht es der Familie nun gut.~
+
+//@110
+@10014  = ~Familienstreitigkeiten in Beregost
+
+Ich habe der Familie Dudley in Beregost versprochen, ihre Perlenkette für 500 Goldmünzen zu kaufen.~
+
+//@114
+@10015  = ~Familienstreitigkeiten in Beregost
+
+Das Rätsel um die verschwundene Halskette ist gelöst. Die Tochter hatte sie genommen, damit sie nicht verkauft wird... Sie wird sie nun zurückgeben.~
+
+//@145
+@10016  = ~Familienstreitigkeiten in Beregost
+
+Herr Dudley hat mir das überschüssige Geld zurückgebracht... Welch ehrliche, stolze Menschen. Nun, ihre Geldprobleme sollten trotzdem gelöst sein.~
+
+//@146
+@10017  = ~Familienstreitigkeiten in Beregost
+
+Herr Dudley wollte mir das überschüssige Geld zurückgeben... Welch ehrliche, stolze Menschen. Ich konnte ihn allerdings überreden, es zu behalten. Ihre Geldprobleme sollten damit gelöst sein.~
+
+//@155
+@10018  = ~Familienstreitigkeiten in Beregost
+
+Ich habe das Problem gelöst... sozusagen.~
+
+//@160
+@10019  = ~Familienstreitigkeiten in Beregost
+
+Das Rätsel um die verschwundene Halskette ist gelöst. Die Tochter hatte sie genommen, damit sie nicht verkauft wird... Ich habe sie den Eltern gegeben.~
+
+
+/* Babysitting in Nashkel: c#q03008_9_10_11.tra */
+
+
+@10020  = ~Kinderbetreuen in Nashkell~
+
+//@10
+@10021  = ~Kinderbetreuen in Nashkell
+
+Die Mutter hat ihre zwei Kinder wieder abgeholt. Soweit ich es beurteilen kann, lief alles gut.~
+
+//@49
+@10022  = ~Kinderbetreuen in Nashkell
+
+Ich habe angeboten, zwei Kinder in Nashkell zu hüten, aber die Mutter hat abgelehnt. Es scheint, ich wirke noch nicht vertrauensvoll genug.~
+
+//@54
+@10023  = ~Kinderbetreuen in Nashkell
+
+Ich habe versprochen, zwei Kinder in Nashkell zu betreuen. Die Mutter wartet mit ihren Kindern, bis ich Zeit für sie habe.~
+ 
+//@56
+@10024  = ~Kinderbetreuen in Nashkell
+
+Ich habe mich im letzten Moment dagegen entschieden, zwei Kinder in Nashkell zu beaufsichtigen. So verzweifelt, wie die Mutter aussieht, würde sie aber bestimmt darauf eingehen, wenn ich es ihr noch einmal anbiete.~
+
+//@66
+@10025  = ~Kinderbetreuen in Nashkell
+
+Ich habe versprochen, zwei Kinder in Nashkell zu betreuen. Die Mutter wird spätestens in einer halben Stunde wiederkommen und erwartet, dass wir solange in dieser Gegend bleiben.~
+
+@10065  = ~Kinderbetreuen in Nashkell
+
+Da war eine Mutter mit zwei Gören in Nashkell. Ich habe mal ein bisschen meine Muskeln spielen lassen und sie davongejagt. Es gibt nichts Nervigeres als Kindergeheule!~
+
+@10066  = ~Kinderbetreuen in Nashkell
+
+Nanu, scheinbar hat diese Mutter aus Nashkell unterwegs edle Unterstützer gefunden. Diese strohdummen Berserker dachten wohl, dass sie mir eine Lehre erteilen müssen. Na, nächstes mal überdenken sie das besser noch einmal. Achne, können sie ja gar nicht mehr.~
+
+
+
+/* Nashkell Monster:  */
+
+//@1 (c#q04001_3_4_5.tra)
+@10026  = ~Nashkell Monster
+
+Ich musste ein Lindwurmbaby töten, das in Nashkell einen Jungen verfolgt hat...~
+
+@10027  = ~Nashkel Monster~
+
+//@16 (c#q04001_3_4_5.tra)
+@10028  = ~Nashkell Monster
+
+Die Familie des Jungen wollte mich von den Soldaten verhaften lassen... Der Junge hat offensichtlich über unsere erste Begegnung gelogen. Ich habe mich entschieden, die Soldaten zu bekämpfen.~
+
+//@49 (c#q04001_3_4_5.tra)
+@10029  = ~Nashkell Monster
+
+Die Familie des Jungen wollte mich von den Soldaten verhaften lassen... Der Junge hat offensichtlich über unsere erste Begegnung gelogen. Er hatt Angst vor der Reaktion seines Vaters... Zum Glück konnte ich mich rausreden.~
+
+@10030   = ~Das unbekannte Ei~
+
+@10031   = ~Das unbekannte Ei
+
+Wir haben den Magier getroffen, der diesen Ei-"Stein" erhalten sollte. Er hat Seltsames angedeutet, über eine böse Überraschung, die mich erwartet, wenn ich dieses Ei nicht bald einem mächtigen Magier zeigen würde...~
+
+@10032   = ~Das unbekannte Ei
+
+Das Ei ist nun konserviert. Es hat noch immer magische Fähigkeiten und mag von einigem Nutzen sein. Es war das Ei einer Geisterspinne, bereit zum Schlüpfen! Diese Gefahr ist nun gebannt.~
+
+@10033   = ~Das unbekannte Ei
+
+Ich habe einen Lieferanten befreit, der von einem Banditen mit abgerichteten Lindwürmern in einer Höhle gefangen gehalten wurde. Er gab mir einen seltsamen, eigeformten Stein. Er sagte, der Magier, der ihn erhalten sollte, sei vielleicht auf dem Weg nach Baldurs Tor. Vielleicht sollte ich ihn ihm bringen.~
+
+@10034   = ~Das unbekannte Ei
+
+Das Ei ist nun zerstört. Es war das Ei einer Geisterspinne, bereit zum Schlüpfen! Diese Gefahr ist nun gebannt.~
+
+@10035   = ~Das unbekannte Ei
+
+Es war das Ei einer Geisterspinne, und sie schlüpfte in meinem Gepäck!~
+
+@10067   = ~Das unbekannte Ei
+
+Ich habe einen Lieferanten befreit, der von einem Banditen mit abgerichteten Lindwürmern in einer Höhle gefangen gehalten wurde. Er gab mir ein präpariertes aber noch immer lebendiges Ei einer Geisterspinne! Er sagte, der Magier, der es erhalten sollte, sei vielleicht auf dem Weg nach Baldurs Tor. Vielleicht sollte ich es ihm bringen.~
+
+
+/* Fallen Paladin: from c#q05001.tra */
+
+
+@10036   = ~Der gefallene Paladin im Tempel des Helm~
+
+//@19
+@10037   = ~Der gefallene Paladin im Tempel des Helm
+
+Die Geschichte des gefallenen Paladins geht so, dass er es mit einem zu mächtigen Dämon zu tun hatte, der Besitz von dem Mädchen ergriffen hatte. Der Dämon muss ihn aber zusätzlich noch getäuscht haben, sonst hätte er das Mädchen nicht getötet.~
+
+//@33
+@10038      = ~Der gefallene Paladin im Tempel des Helm
+
+Ich habe eine Frau getroffen, die von einem plötzlich magisch begabten Kind von Luskan nach Baldurs Tor teleportiert wurde. Das ganze klingt sehr nach der Geschichte, die mir die Mutter des Kindes erzählt hat, das der Paladin erschlagen hat. Vielleicht sollte ich ihm das erzählen.~
+
+//@34
+@10039   = ~Der gefallene Paladin im Tempel des Helm
+
+Die Mutter des getöteten Mädchens hat die Geschichte von dem Dämon bestätigt. Demnach soll das Mädchen als erste Veränderung starke magische Fähigkeiten gezeigt haben. Das ganze erinnert mich an das, was mir die bettelnde Frau aus Luskan erzählt hat, die ich neulich auf der Straße traf. Sollte sie etwa ebenfalls auf ein Kind getroffen sein, das von so einem Dämon besessen ist?~
+
+//@35
+@10040   = ~Der gefallene Paladin im Tempel des Helm
+
+Die Mutter des getöteten Mädchens hat die Geschichte von dem Dämon bestätigt. Demnach soll das Mädchen als erste Veränderung starke magische Fähigkeiten gezeigt haben. Sie bat mich, diese Information nicht weiter zu verbreiten.~
+
+//@36
+@10041   = ~Der gefallene Paladin im Tempel des Helm
+
+Im Tempel des Helm in Baldurs Tor steht ein gefallener Paladin, der ein Mädchen erschlagen haben soll!~
+
+//@37
+@10042   = ~Der gefallene Paladin im Tempel des Helm
+
+Das Mädchen, das der gefallene Paladin erschlagen hat, wohnte in einem Haus neben dem Palasteingang. Wenn ich mehr über die Sache erfahren möchte, sollte ich vielleicht dorthin gehen.~
+
+//@38
+@10043   = ~Der gefallene Paladin im Tempel des Helm
+
+Der gefallene Sir Dauron ist aufgebrochen, das Kindermädchen des besessenen Kindes zu finden. Danach stellt er vielleicht diesen Dämon in Luskan und erhält seine Ehre zurück... Das wäre ein schönes Ende dieser tragischen Geschichte.~
+
+//@63
+@10044   = ~Der gefallene Paladin im Tempel des Helm
+
+Ich habe mich für eine... endgültige Version zur Lösung des Problems entschieden.~
+
+
+////////////////////////////////////////////////
+/* Undying Love: c#q06001_2.tra */
+
+@10045   = ~Bedrohte Witwe im Fischerdorf~
+
+//@6
+@10046    = ~Bedrohte Witwe im Fischerdorf
+
+Im Fischerdorf wird eine Frau von einem Monster bedroht, dass sich hinter ihrem Haus aufhält. Sie möchte, dass ich es töte.~
+
+//@25
+@10047   = ~Bedrohte Witwe im Fischerdorf
+
+Ich habe den untoten Ehemann der Frau erschlagen. Sie sollte nun in Ruhe in ihrem Haus leben können.~
+
+//@36
+@10048   = ~Bedrohte Witwe im Fischerdorf
+
+Ich habe den Untoten, der die Frau bedrohte, erschlagen. Sie sollte nun in Ruhe in ihrem Haus leben können.~
+
+//@88
+@10049   = ~Bedrohte Witwe im Fischerdorf
+
+Ich habe der Frau naheglegt, den Vertrag zu respektieren, und sie hat das Dorf verlassen.~
+
+
+/* Ork Lover: c#q07001.tra */
+
+@10050   = ~Orkangriffe in Baldurs Tor~
+
+//@56
+@10051   = ~Orkangriffe in Baldurs Tor
+
+Das Gerücht, dass "Orkbanden" ein Mädchen angegriffen hätten, entpuppte sich als komplette Ente. Es war der arme Halbork Uguth, den die Leute gesehen hatten, als er endlich das Heim seiner Angebeteten aufsuchte. Da sieht man mal wieder, wie Gerüchte entstehen!~
+
+//@65
+@10052   = ~Orkangriffe in Baldurs Tor
+
+Ein Gerücht besagt, dass im Osten von Baldurs Tor, nahe der Taverne Elfsong, ein Haus von Orks angegriffen wurde und die Bewohner Hilfe brauchen.~
+
+
+/////////////////////////////////////////
+/* Unexpected Help: c#q08001.tra */
+
+
+@10053   = ~Linda und Sir Trun~
+
+//@57
+@10054   = ~Linda und Sir Trun
+
+Ich habe Sir Trun geholfen, eine Lösung für sein und Lindas Problem zu finden. Er wird sie in der Schwertkunst unterweisen. Dadurch können sie hoffentlich das schreckliche Erlebnis verarbeiten.~
+
+//@98
+@10055   = ~Linda und Sir Trun
+
+Im Gasthaus von Kerzenburg habe ich Linda getroffen, die Verlobte des Ritters Sir Trun, der sich in der Krankenstube von seinen Verletzungen erholt. Sie haben ein einschneidendes Erlebnis gehabt, und seitdem nicht mehr miteinander gesprochen.~
+
+
+///////////////////////////////////////////////////////////
+/* Hamster Business */
+
+@10056   = ~Hamsterdilemma~
+
+@10057   = ~Hamsterdilemma
+
+Wir sind den zweiten Hamster losgeworden... Ich hoffe, Boo ist nicht allzu traurig.~
+@10058   = ~Hamsterdilemma
+
+Minsk hat es irgendwie geschafft, einen Hamster von dem Haustierverkäufer zu behalten, und besteht darauf, dass wir ihn zurückbringen. Ich fürchte, ich muss herausfinden, wo dieser Verkäufer nun hingegangen ist.~
+
+@10059   = ~Hamsterdilemma
+
+Wir sind den zweiten Hamster losgeworden... Ich hoffe, Boo ist nicht zu traurig. Bleiben nur noch die ganzen kleinen. Die sollte ich auch noch loswerden, bevor sie größer geworden sind... War da nicht dieser Junge auf dem Jahrmarkt von Nashkell, der sich so sehr einen Hamster gewünscht hatte?~
+
+@10060   = ~Hamsterdilemma
+
+Wir sind den zweiten Hamster losgeworden... und alle kleinen, ebenfalls.~
+
+/* new for v16 */
+
+@10069   = ~Hamsterdilemma
+
+Der Junge auf dem Karneval in Nashkell hat mir die ganzen kleinen Hamster abgenommen. Ich habe das Gefühl, dass er auch noch mehr nehmen würde, falls Bedarf besteht.~
+
+
+
+/////////////////////////////////////////////////////////
+/* Drunk near Beregost Temple */
+
+@10061   = ~Betrunkener nahe Tempel von Beregost~
+
+@10062   = ~Betrunkener nahe Tempel von Beregost
+
+Nahe des Tempels von Bergeost steht ein komplett besoffener Kerl. Ich bin mir ziemlich sicher, dass er sich nicht selbst zu helfen weiß, falls er von einem wilden Tier angegriffen wird. Vielleicht sollte ich mich darum kümmern.~
+
+@10063   = ~Betrunkener nahe Tempel von Beregost
+
+Die Priester des Lathander werden sich um den betrunkenen Polus kümmern. Damit sollte er sicher sein.~
+
+/* @10064 - @10067 bereits verwendet! */ 
+
+@10068   = ~Betrunkener nahe Tempel von Beregost
+
+Ich habe dem Betrunkenen jegliche weitere Unannehmlichkeiten erspart. Sozusagen.~
+
+

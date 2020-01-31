@@ -1,0 +1,65 @@
+IF
+	GlobalTimerExpired("C#Q05_TalkedToMotherT","GLOBAL")
+	Global("C#Q05_TalkedToMother","GLOBAL",2)
+THEN
+  RESPONSE #100
+	SetGlobal("C#Q05_TalkedToMother","GLOBAL",3)
+	ActionOverride("C#Q05002",EscapeArea())
+	ActionOverride("C#Q05003",EscapeArea())
+	ActionOverride("C#Q05004",EscapeArea())
+	ActionOverride("C#Q05005",EscapeArea())
+END
+
+IF
+  Global("C#Q06_TalkedToPaladin","GLOBAL",3)
+	Global("C#Q05_PeopleMove","GLOBAL",0)
+THEN
+  RESPONSE #100
+	SetGlobal("C#Q06_TalkedToPaladin","GLOBAL",4)
+	ActionOverride("C#Q05002",EscapeArea())
+	ActionOverride("C#Q05003",EscapeArea())
+	ActionOverride("C#Q05004",EscapeArea())
+	ActionOverride("C#Q05005",EscapeArea())
+END
+
+IF 
+      Global("C#Q05_PeopleCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q05_PeopleCreation","GLOBAL",1)
+	    CreateCreature("C#Q05002",[1623.1128]%FACE_0%) //
+	    CreateCreature("C#Q05003",[1629.1159]%FACE_0%) //
+	    CreateCreature("C#Q05004",[1666.1136]%FACE_0%) //
+	    CreateCreature("C#Q05005",[1500.1142]%FACE_0%) //
+END
+
+IF
+	Global("C#Q05_PeopleTalk1","GLOBAL",2)
+	Global("C#Q05_PeopleMove","GLOBAL",0)
+THEN
+  RESPONSE #100
+	SetGlobal("C#Q05_PeopleMove","GLOBAL",1)
+	ActionOverride("C#Q05002",EscapeArea())
+	ActionOverride("C#Q05003",EscapeArea())
+	ActionOverride("C#Q05004",EscapeArea())
+	ActionOverride("C#Q05005",EscapeArea())
+END
+
+IF
+      Global("C#Q05_PeopleMove","GLOBAL",1)
+	!Exists("C#Q05002")	
+	!Exists("C#Q05003")	
+	!Exists("C#Q05004")	
+	!Exists("C#Q05005")
+	!Dead("C#Q05002")	
+	!Dead("C#Q05003")	
+	!Dead("C#Q05004")	
+	!Dead("C#Q05005")		
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q05_PeopleMove","GLOBAL",2)
+	    CreateCreature("C#Q05002",[1582.2979]%FACE_0%) //
+	    CreateCreature("C#Q05003",[1557.3012]%FACE_0%) //
+	    CreateCreature("C#Q05004",[1473.2986]%FACE_0%) //
+	    CreateCreature("C#Q05005",[1604.3013]%FACE_0%) //
+END

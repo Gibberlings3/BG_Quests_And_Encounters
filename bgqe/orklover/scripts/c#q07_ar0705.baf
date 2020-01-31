@@ -1,0 +1,37 @@
+IF
+      Dead("C#Q07002")	
+	Exists("C#Q07001")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07001",DestroySelf())
+END 
+
+IF
+      Dead("C#Q07003")	
+	Exists("C#Q07001")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07001",DestroySelf())
+END 
+
+IF
+      Dead("C#Q07004")	
+	Exists("C#Q07001")
+THEN
+	RESPONSE #100
+            ActionOverride("C#Q07001",DestroySelf())
+END 
+
+
+IF 
+      Global("C#Q07_OrkCreation","GLOBAL",1)	
+	Global("C#Q07_TalkedToHim","GLOBAL",1)
+	!Dead("C#Q07001")
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_OrkCreation","GLOBAL",2)
+	    CreateCreature("C#Q07001",[598.497]%FACE_0%) //Uguth
+END
+
+
+

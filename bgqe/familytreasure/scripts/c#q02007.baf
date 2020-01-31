@@ -1,0 +1,17 @@
+IF  
+	Dead("C#Q02006")
+	See([PC])
+THEN
+	RESPONSE #100
+		StartDialog("C#Q02007",[PC])
+END 
+
+IF  
+	Dead("C#Q02005")
+	See([PC])
+THEN
+	RESPONSE #100
+		StartDialog("C#Q02007",[PC])
+END 
+
+

@@ -1,0 +1,33 @@
+IF
+	Global("C#Q04_CreateWyrm","GLOBAL",1)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_CreateWyrm","GLOBAL",2)
+	    CreateCreature("C#Q04002",[4406.726]%FACE_0%) //Wyrm
+	Continue()
+END
+
+IF 
+      Global("C#Q04_ArnimCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_ArnimCreation","GLOBAL",1)
+	    CreateCreature("C#Q04001",[4384.794]%FACE_0%) //Arnim
+	Continue()
+END
+
+IF
+	Dead("C#Q04002")
+	GlobalTimerExpired("C#Q04_ArnimAndWyrmT","GLOBAL")
+	Global("C#Q04_ArnimAndWyrm","GLOBAL",2)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_ArnimAndWyrm","GLOBAL",3)
+	    CreateCreature("C#Q04001",[1555.826]%FACE_0%) //Arnim
+	    CreateCreature("C#Q04003",[1485.873]%FACE_0%) //Frau von Undenzieht
+	    CreateCreature("C#Q04004",[1528.851]%FACE_0%) //Herr von Undenzieht
+	    CreateCreature("C#Q04005",[1505.908]%FACE_0%) //Amnischer Soldat
+	    CreateCreature("C#Q04006",[1543.890]%FACE_0%) //Amnischer Soldat
+	Continue()
+END
+

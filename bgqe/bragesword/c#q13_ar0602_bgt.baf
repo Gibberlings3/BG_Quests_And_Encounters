@@ -1,0 +1,28 @@
+IF
+	Global("c#q13_EraseJournalBGT","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("c#q13_EraseJournalBGT","AR0602",1)
+		EraseJournalEntry(@1000)
+		EraseJournalEntry(@1001)
+		EraseJournalEntry(@1002)
+		EraseJournalEntry(@1003)
+		EraseJournalEntry(@1004)
+		EraseJournalEntry(@1005)
+		EraseJournalEntry(@1006)
+		EraseJournalEntry(@1007)
+		EraseJournalEntry(@1008)
+		EraseJournalEntry(@1009)
+		EraseJournalEntry(@1010)
+		EraseJournalEntry(@1011)
+		EraseJournalEntry(@1012)
+		EraseJournalEntry(@1013)
+		EraseJournalEntry(@1014)
+		EraseJournalEntry(@1015)
+		EraseJournalEntry(@1016)
+		EraseJournalEntry(@1017)
+		EraseJournalEntry(@1018)
+		EraseJournalEntry(@1019)
+		EraseJournalEntry(@1020)
+		Continue()
+END

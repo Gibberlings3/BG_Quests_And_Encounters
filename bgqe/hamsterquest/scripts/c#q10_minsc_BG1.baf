@@ -1,0 +1,17 @@
+IF
+	InParty(Myself)
+	!HasItem("C#Q10001",Myself)
+	Global("C#Q10_MinskHasHamster","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q10_MinskHasHamster","GLOBAL",2)
+		Dialogue(Myself)
+END
+
+IF
+	HasItem("C#Q10001",Myself)
+	Global("C#Q10_MinskHasHamster","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q10_MinskHasHamster","GLOBAL",1)
+END

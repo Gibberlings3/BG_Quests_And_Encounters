@@ -1,0 +1,9 @@
+IF
+  Global("C#Q01_SlimeTransformation","GLOBAL",2)
+	Global("C#Q01_SlimeAttack","LOCALS",0)
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_SlimeAttack","LOCALS",1)
+	Enemy()
+    Attack([PC])
+END

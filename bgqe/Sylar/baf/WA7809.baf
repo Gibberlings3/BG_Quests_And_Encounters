@@ -1,0 +1,7 @@
+IF
+	Global("WASpawnSylar","Global",0)
+THEN
+	RESPONSE #100
+		SetGlobal("WASpawnSylar","Global",1)
+		CreateCreature("WASYLAR",[224.334]%FACE_14%)
+END

@@ -1,0 +1,17 @@
+/* door to the Merchants' League will be open if the PC comes with Aldeth's signet ring 
+
+Name: Door0307
+Door ID: DOOR0105
+*/
+
+
+IF
+	PartyHasItem("c#q14rng") // Siegelring
+	Global("C#q14_SeachartsDoorunlock","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q14_SeachartsDoorunlock","MYAREA",1)
+//		Unlock("DOOR0105")
+		Unlock("Door0307")
+		Continue()
+END

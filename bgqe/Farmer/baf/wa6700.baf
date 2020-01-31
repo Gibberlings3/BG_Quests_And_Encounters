@@ -1,0 +1,31 @@
+IF
+	Global("WAFARM1","Global",1)
+	!Global("waspwn1","Global",1)
+	!Dead("WADEAD1")
+	TimeOfDay(Night)
+THEN
+	RESPONSE #100
+		SetGlobal("waspwn1","Global",1)
+		CreateCreature("waghoul",[536.2863]%FACE_0%)
+END
+
+IF
+	Global("WAFARM1","Global",1)
+	Global("waspwn1","Global",1)
+	!Dead("WADEAD1")
+	TimeOfDay(Day)
+THEN
+	RESPONSE #100
+		SetGlobal("waspwn1","Global",0)
+		ActionOverride("WADEAD1",DestroySelf())
+END
+
+IF
+	Global("WAFARM1","Global",1)
+	Global("WAFARM_AddMapNote","MYAREA",0)
+THEN
+	RESPONSE #100
+		AddMapNote([950.2850],@126)
+		Unlock("DOOR3355")
+		SetGlobal("WAFARM_AddMapNote","MYAREA",1)
+END

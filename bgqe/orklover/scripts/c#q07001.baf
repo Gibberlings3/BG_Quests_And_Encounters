@@ -1,0 +1,21 @@
+IF
+      Global("C#Q07_UlguthViolaDead","GLOBAL",1)
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_UlguthViolaDead","GLOBAL",2)
+    Dialogue([PC])
+END
+
+IF
+  !See([ENEMY])
+  Global("C#Q07_TalkedToHim","GLOBAL",0)
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+    Dialogue([PC])
+END

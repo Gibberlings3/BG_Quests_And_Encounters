@@ -1,0 +1,15 @@
+IF
+	Global("C#Q05_EraseJournalBGT","AR0602",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q05_EraseJournalBGT","AR0602",1)
+		EraseJournalEntry(@10037)
+		EraseJournalEntry(@10038)
+		EraseJournalEntry(@10039)
+		EraseJournalEntry(@10040)
+		EraseJournalEntry(@10041)
+		EraseJournalEntry(@10042)
+		EraseJournalEntry(@10043)
+		EraseJournalEntry(@10044)
+		Continue()
+END

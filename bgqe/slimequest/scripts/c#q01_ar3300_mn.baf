@@ -1,0 +1,11 @@
+
+IF
+	!Dead("C#Q01001")
+	!Allegiance("C#Q01001",ENEMY)
+	Global("C#Q01_TalkedOutside","GLOBAL",1)
+THEN
+  RESPONSE #100
+		AddMapNote([1175.1701],@107)
+		SetGlobal("C#Q01_TalkedOutside","GLOBAL",2)
+		Continue()
+END

@@ -1,0 +1,9 @@
+
+IF 
+  Global("C#Q01_AlannaCreation","GLOBAL",0)	
+THEN
+  RESPONSE #100
+    SetGlobal("C#Q01_AlannaCreation","GLOBAL",1)
+	CreateCreature("C#Q01001",[1285.1550]%FACE_0%)
+	Continue()
+END

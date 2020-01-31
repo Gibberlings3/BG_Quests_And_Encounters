@@ -1,0 +1,484 @@
+		Baldur's Gate Mini-Quests und Begegnungen
+				Modifikation  
+	für klassisches BG1:LdSk, BG1Tutu v4, EasyTutu, BGT, BG:EE und EET
+				von jastey 
+				Version 20
+
+
+Dies ist eine Mini-Modifikation für klassisches BG1 (mit installierter Erweiterung Legenden der Schwertküste), BG1Tutu (v4), EasyTutu, BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfügt. Klassisches BG1 ohne die Legenden der Schwertküste wird nicht mehr offiziell unterstützt, aber die Mod sollte trotzdem ohne große Probleme darauf laufen. 
+
+Die Spieldauer der Modifikation beträgt insgesamt ca. 30-60 Minuten, abhängig vom Spielstil. 
+
+Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1 Modification gewandert. Da gehört sie nämlich hin.
+
+Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen für eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
+
+
+INHALT
+
+1. Schleim-Quest (in Beregost)
+------
+Dieser Quest spielt in Beregost. Wenn Ihr ein Haus im Nord-Westen der Stadt passiert, sollte Euch eine rot gekleidete Frau ansprechen. Es gehen seltsame Dinge im Haus ihres Nachbarn vor sich und sie braucht Eure Hilfe... Der Quest wurde überarbeitet, um bekannte Kompatibilitätsprobleme zu beheben, und eine böse(re) Questlösung wurde eingefügt. 
+
+2. Familienquest in Beregost
+------
+Dieser Quest spielt ebenfalls in Beregost, im Nachbarhaus zum Schleim-Quest. Wenn Ihr ein Haus im Nord-Westen der Stadt betretet, trefft Ihr auf ein seltsames Ehepaar. Obwohl sie ernste Probleme haben, haben sie seit längerem nicht mehr miteinander gesprochen. Auch mit Euch wollen sie nicht über ihr Problem sprechen, und doch scheint Ihr es zu sein, der das Rätsel lösen und der Familie helfen kann. Oder Ihr betrügt sie und treibt sie vollends in den Ruin...
+
+3. Babysitting in Nashkell, beinhaltet Karneval Begegnung
+------
+Dieser Quest spielt in Nashkell. Seht Ihr die verzweifelte Frau mit ihren zwei kleinen Kindern? Sie hat etwas Wichtiges zu erledigen und braucht dringend jemanden, der sich solange um ihre Kinder kümmert. Ihr habt schon vielen Gefahren ins Auge gesehen, habt Monster bezwungen... aber seid Ihr ernsthaft gewappnet für diese Aufgabe? 
+
+Das Babysitting ist nur erhältlich für HCs der Profession Paladin oder für nicht-bösem HC mit Ruf höher als 12 Punkte. Böse HCs (oder wenn der Ruf sehr niedrig ist) können die Mutter auch vertreiben, was aber nicht ohne Folgen bleibt.
+
+Auf dem Karneval trefft Ihr Tina. Die junge Frau braucht dringend etwas Geld und sucht Arbeit... sagt sie zumindest.
+
+4. Monstersichtung in Nashkell
+------
+In der Nähe des Herrenhauses in Nashkell könnt Ihr den kleinen Armin vor einem Monster retten. Dafür müsste Euch die Dankbarkeit seiner Eltern eigentlich sicher sein... nicht wahr?
+Der Lieferant, der die Eier vertauscht hat, befindet sich derweil in einer sehr existentiellen... Diskussion mit einem sehr unzufriedenen Kunden. Spielt einfach das Spiel weiter, und Ihr werdet ihn treffen.
+
+5. Gefallener Paladin in Baldurs Tor
+------
+Im Norden der Stadt, im Tempel von Helm, versteckt sich ein böser, gefallener Paladin. Er hat ein kleines Mädchen blutrünstig abgeschlachtet... Zumindest sagen das die aufgebrachten Leute, die sich vor dem Tempel versammelt haben.
+
+6. Unvergängliche Liebe im Fischerdorf
+------
+Die verängstigte Frau in einem der Häuser im Fischerdorf sagt, dass hinter ihrem Haus ein Monster ist, das sie bedroht. Vielleicht solltet Ihr einmal nachschauen... 
+
+7. Halbork in Liebesnöten
+------
+Auf der Straße, nördlich von Nashkell, werdet Ihr Uguth teffen, dem Äußeren nach eindeutig der Nachfahre eines Halborks. Er ist auf dem Weg nach Baldurs Tor, zu seiner Verlobten... und muss noch gewisse Hindernisse überwinden, bevor er sie tatsächlich in die Arme nehmen kann.
+
+8. Unerwartete Hilfe
+------
+In Kerzenburg im Lazarett brütet Sir Trun vor sich hin. Er ist durch einen Kampf schwer verletzt worden, aber das scheint ihn weniger zu beschäftigen als die Tatsache, dass er nur durch sehr unerwartete Hilfe überlebt hat. Vielleicht weiß Linda, eine leicht verzweifelt Frau im Gasthaus mehr darüber...
+Dieser Quest ist sowohl im Prolog als auch später bei der Rückkehr nach Kerzenburg zugänglich. (Achtung: Da die meisten diese Quest im Prolog spielen, gibt es hier keine NPC-Einmischdialoge).
+
+Hinweis: Die "Erweiterung der Bjornin Begegnung" ist in die Modifikation "bg1re: Romantic Encounters for BG1" gewandert. Dorthin gehört sie nämlich.
+
+9. Viele kleine Pfoten
+------
+Ursprünglich als reiner Easter-Egg gedacht, wollte ich zumindest darauf hinweisen, dass es ihn gibt. Startet die Quest mit Minsk in der Gruppe beim Ansprechen des Kleintierhändlers auf dem Jahrmarkt von Nashkell. Einen Tag später geht es dann weiter.
+
+Tipp:
+Der Kleintierhändler erscheint nach drei Tagen im 2. OG des Freundlichen Arms.
+
+
+10. Betrunkener nahe dem Tempel von Beregost
+------
+Der betrunkene Pseudo-Lich nahe dem Tempel bei Beregost kann nun im Tempel gemeldet werden, damit die Priester ein Auge auf ihn haben.
+
+
+11. Ein warmer Platz für Noober
+------
+Ungefähr drei Tage nach der ersten Begegnung trefft Ihr Noober - der arme Mann ist ohne Stimme! Helft ihm, in Nashkell einen warmen Platz zu finden, wo er genesen kann - und schließlich tatsächlich ein Nutzen für seine ewige Plapperei besteht!
+
+
+12. Brages Schwert (nicht für original BG1)
+------
+Durch die Mod kann man die Hintergründe um Brages Schwert erkunden und nachweisen, dass Brage Opfer einer Intrige geworden ist und ihn so vor dem Galgen retten - wenn man das möchte. Es existieren böse Questlösungen.
+Voraussetzung ist, dass man Brage lebend nach Nashkell bringt. Hierzu fügt die Mod die Möglichkeit ein, ihn auch an Oublek auszuliefern, wie es im Originalspiel ursprünglich vorgesehen aber nicht realisiert war. (Hierzu die obige Warnung bzgl. Installationsreihenfolge beachten.)
+
+
+***** Spoiler *****
+Tipp:
+-Eine Rolle spielt der Händler Borda, den man auf der Karte mit dem Xvartdorf trifft. Je nach Queststatus kann man ihn hier beim ersten Treffen konfrontieren. Ansonsten gibt es ein zweites Treffen, über dessen ungefährer Ort der HC im Spiel erfahren kann.
+-Brages Schwert spielt ebenfalls eine Rolle. Es muss zur entsprechenden Zeit Nalin zur Begutachtung vorgelegt werden. Danach spielt es keine Rolle mehr (kann also z.B. für Thalantyr's Item Upgrade Mod verwendet werden.).
+-Der Quest kann vollständig vor dem Räumen der Mine beendet werden. Falls Laryssa als Infogeberin ausfällt (man sie also vor der Konfrontation mit Brage getötet hat), findet man den letzten Hinweis (erst) in Tazoks Zelt.
+
+-Ansonsten startet der Quest offiziell, wenn man Oublek anspricht, nachdem man Brage lebend nach Nashkel gebracht hat. Von da an sollte der Quest sich selbsterklärend entfalten.
+
+
+
+13. Legale Seekarten (nicht für original BG1) 
+-------
+Die Komponente fügt zwei weitere Möglichkeiten ein, an die Seekarten zu kommen, die man für Mendas' Quest zu Baldurans Insel benötigt. Beide Wege werden installiert.
+13.A von Lumorus: Wenn man Aldeth mit all' seinen Problemen im Mantelwald und der Händlerliga geholfen hat, dann ist er selbst sehr an den Nachforschungen und Baldurans Gegenständen interessiert und verhilft dem HC zu den Seekarten, ohne dass dieser den Kapitän bestehlen oder benebeln muss.
+13.B CALABALD (= Calahan + Baldurs Insel) von Shuv-Oohl: Der Seemann Calahan wäre kein richtiger Seemann, wenn er nicht selbst Seekarten hätte. Die gibt es aber nicht umsonst... Der HC hat hier mit der nötigen Menge an Gold die Möglichkeit, den Abstecher auf die Insel bereits vor dem Betreten von Baldurs Tor zu machen.
+
+
+14. Erweiterungen für das Haus der Dame und dem Tempel der Wasserkönigin
+-------
+Diese Komponente erweitert die originalen Spielquests um Tremains toten Sohn und der Bannspruchrolle für Lothanders Geas vom Tempel der Wasserkönigin.
+14.A Bewahre Jalanthe vor einer Dummheit (und behalte den Leitfaden der Weisheit, von Lumorus): Die Hohepriesterin der Wasserkönigin möchte ja einen Leitfaden der Weisheit als Gegenleistung für den Bannspruch für Lothanders Geas haben. Aber will sie das wirklich? Der HC kann nochmal explizit nachfragen und die Frage in den Raum stellen, ob die Wasserkönigin davon wirklich so begeistert wäre, wenn die Zeremonie nur deswegen gelänge, weil ihre Dienerin die Weisheit einer anderen Göttin genutzt hatte...
+14.B: Verrate den Priester Tremain an den Tempel der Tymora: Tremain bittet den HC ja im Spiel, ihm seinen toten Sohn aus dem Tempel der Wassergöttin zu bringen, so dass er ihn wiederbeleben kann. Diese Komponente fügt die Möglichkeit ein, ihn an seinen Tempel, dem Haus der Dame, zu verraten. 
+
+
+15.  Ein besorgter Bauer (nicht für original BG1)
+------
+In Beregost/Nashkell gibt es einige Gerüchte von ein paar Bauern, diese werden in dieser Reihe aufgegriffen (bis jetzt nur ein Gerücht realisiert): Fragt einen Bauern in Beregost, bis er Euch von dem seltsamen Geräuschen erzählt, die er nachts in seinem Garten hört. Er wird Euch dann bitten, das mal zu untersuchen.
+
+
+16.  Leichen für einen guten Zweck
+------
+Diese Komponente spielt in Baldurs Tor, und widmet sich auch dem "Umweltschutz". :D
+Bringt dem Nekromanten Sylar einige Leichen aus den Abwasserkanälen für sein spezielles Forschungsvorhaben.
+
+
+
+
+INSTALLATION 
+
+BGII:EE
+If you use BGII Enhanced Edition from GOG or Steam, you need to prepare your game before installing any mods:
+Link: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+
+(deprecated tool: 
+https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use/p1)
+
+Für alle Versionen (Windown, Mac OS X, Linux):
+
+Zur Sicherheit sei das Anfertigen von Backups Eurer Installation empfohlen.
+
+Extrahiert den Inhalt des Mod-Archivs in das Hauptverzeichnis des Spieles (Baldur's Gate, BGT, BG1Tutu / EasyTutu oder BG:EE. Die Erkennung bei der Installation geschieht automatisch.) 
+
+ACHTUNG: Bei BG:EE ist es wichtig, dass die Mod für die Sprachversion installiert wird, in der Ihr das Spiel spielt. Ansonsten seht Ihr nicht die Modtexte im Spiel, sondern Fehlermeldungen.
+
+
+Windows
+Lasst die "setup-bgqe.exe" über Doppelklick laufen. Wählt Eure Sprache und bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. 
+
+
+Mac OS X
+Stellt sicher, dass Ihr die Mac OS X - Version des Mods heruntergelden habt ("OSX-BGQE-vx.zip"). Korrekt extrahiert, sollten in Eurem Spiel-Hauptverzeichnis ein bgqe Ordner, setup-bgqe, und setup-bgqe.command befinden. Zum Installieren einfach die setup-bgqe.command doppelklicken und den Instruktionen folgen.
+
+Linux
+Stellt sicher, dass Ihr die Linux Version der Modifikation habt ("lin-bgqe-vx.zip").
+Ladet die neueste Version von WeiDU für Linux von WeiDU.org und kopiert WeiDU und WeInstall nach /usr/bin. Öffnet nun ein Terminal, cd zu Eurem BG Installationsordner, und lasst 'tolower' laufen, mit der Antwort Y auf beide Nachfragen. Die zweite Option (linux.ini) könnt Ihr auslassen, wenn Ihr dies bereits einmal in Eurem Verzeichnis ausgeführt habt. Um Zeit zu sparen, sind die Namen der Dateien dieser Modifikation bereits in Kleinbuchstaben geschrieben. Es besteht also kein Bedarf, die erste Option (lowercasing file names) auszuführen, wenn Ihr entweder nur diese Modifikation heruntergeladen habt, oder bereits vor dieser Modifikation tolower ausgeführt habt. Falls Ihr Euch nicht sicher seid, ist das Ausführen von tolower mit beiden Optionen der sichere Weg.
+Lasst WeInstall setup-bgqe in Euren Spielordner laufen, um die Modifikation zu installieren. Führt wine BGMain.exe aus, um das Spiel zu starten.
+
+
+NOTE: BG(II):EE are actively supported games. Please note that every patch update will wipe your current mod setup! If in the middle of a modded game you might want to delay the patch update as even after reinstalling the mods, you might not be able to continue with your old savegames. 
+
+
+Es muss ein neues Spiel angefangen werden, um die Modifikation vollständig spielen zu können, bzw. darf das Gebiet "Tempel von Beregost" noch nicht besucht worden sein, ansonsten wird der Tod des Betrunkenen nicht erkannt.
+
+Sollten bei der Installation Fehler auftreten, so wendet Euch bitte mit der "setup-log"-Datei an einen der unten angegebenen Forenthreads. Das englische Forum befindet sich bei den Gibberlings Three: http://forums.gibberlings3.net/
+
+Direkte Links: 
+Englisches Forum: http://gibberlings3.net/forums/index.php?showforum=148
+
+Deutscher Thread im Kerzenburgforum: http://kerzenburg.baldurs-gate.eu/showthread.php?t=36870
+
+KOMPATIBILITÄT 
+
+Die Modifikation wurde mit einem WeiDU-Installer gepackt und überschreibt keine existierenden Spieldateien (es werden nur neue Inhalte zum Spiel hinzugefügt). Technisch sollte daher Kompatibilität mit anderen WeiDU-Modifikationen gegeben sein. 
+
+Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das heißt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
+-Echons "Field of the Dead" (ab Version 1.07)
+-BG1 Unfinished Business
+-NTotSC (non-WeiDU)
+-Grey Clan Episode 1
+-Herbs and Potions Add-In
+-BG1 Adventure and CoM Forge
+-BG1 Ajantis Expansion Mod
+-Xan Friendship Mod
+
+Für Tutu-Kompatibilität schaut bitte in den Thread "Tutu Mod Compatibility and Order of Install" bei G3:
+http://gibberlings3.net/forums/index.php?showtopic=8122
+
+Kompatibilität mit BG1 Ajantis Expansion Mod ist selbstverständlich gegeben.
+
+
+Ich danke allen, die mir bei der Erstellung dieses Mods geholfen haben.
+
+Viel Spaß mit der Modifikation! 
+
+jastey
+++++++++++++++++ Bitte ab hier nicht übersetzen ++++++++++++++++++++++++++++++++
+
+
+
+DANKSAGUNGEN
+
+Annalena: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version
+
+Angel: Vielen Dank für das Hamster BAM (c#q10004.bam)
+
+berelinde: Korrekturlesen der englischen Übersetzung
+
+Chev: Alpha- und Betatester
+
+cujo: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+
+Cahir: beta testing
+
+Caillean: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version 
+
+Drogan Di'Umptu: Alpha- und Betatester
+
+Erg: beta testing
+
+Gerri: Alpha- und Betatester
+
+grogerson: Alpha- und Betatester, Korrekturlesen der englischen Übersetzung
+
+Hedian: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+
+hook71: Korrekturlesen der englischen Übersetzung
+
+Lumorus: Autor, Alpha- und Betatester, Ideen für die Questentwicklung
+
+Miloch: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der englischen Übersetzung
+
+Pt: Korrekturlesen der deutschen Version
+
+Shuv-Oohl: Autor
+
+Sir Darian: Alpha- und Betatester
+
+StoneDog: Korrekturlesen der englischen Übersetzung
+
+Twani: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+
+White Agnus: Autor, Alpha- und Betatester
+
+Zed Nocear: Coden eines Spell Effektes, Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+
+zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+
+
+
+-Übersetzungen-
+
+Französische Übersetzung: Le Marquis (des d'Oghmatiques)
+Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin
+
+-v8-
+
+Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
+
+Italienische Übersetzung: Stoneangel, mit der Übersetzung des Schleimquests von Jakkus & Lord Hagen (GIMT)
+
+Polnische Übersetzung: Zed Nocear
+
+
+-Hosten-
+
+CamDawg, cmorgan and G3 staff: Uploading to G3 site and actualisation of links
+
+G3 Team, Hedian, Fridtjof, Sir Darian, Kerzenburgforum: Hosting of the Mod.
+
+
+
+
+VERWENDETE TOOLS
+
+BG1 Quest Mini-Modifikation was created using the resources provided by the IESDP (http://iesdp.gibberlings3.net) and with the following software:
+
+Infinity Explorer			http://infexp.sourceforge.net
+Near Infinity				https://forums.beamdog.com/discussion/30593/new-versions-of-nearinfinity-available/p1
+WeiDU					https://github.com/WeiDUorg/weidu/releases/latest
+ 					(formerly: http://www.weidu.org)
+BAM Workshop				http://wwww.teambg.eu/?page=tools&cat=32
+
+CpConverter		http://sourceforge.net/projects/cp-converter/files/cp-converter/CpConverter%20V%200.1.5.0/
+grepWin					http://tools.stefankueng.com/grepWin.html
+WinMerge				http://winmerge.org/
+
+Modding communities, tutorials and technical assistance:
+
+Kerzenburgforum				https://www.baldurs-gate.de/index.php
+The Gibberlings Three			http://gibberlings3.net
+Pocket Plane Group			http://pocketplane.net
+Spellhold Studios			http://www.shsforums.net/
+The Black Wyrm's Lair			http://blackwyrmlair.net
+
+Further Links:
+DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+
+
+LEGAL INFORMATION
+
+=================================================================================
+BG1 Quest and Encounters Modifikation for Baldur's Gate © 2007 jastey. 
+This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+BG1 Quest and encounters Modifikation is not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., the Wizards of the Coast, Overhaul Games or Beamdog. All other trademarks and copyrights are property of their respective owners.
+=================================================================================
+
+=================================================================================
+REDISTRIBUTION NOTE: BG1 Quest Mini-Modifikation was created to be freely enjoyed by all Baldur's Gate I players. However, BG1 Quest Mini-Modifikation may not be sold.
+=================================================================================
+
+
+
+
+HISTORIE
+
+Version 20:
+-added updated full Russian translation by d0lphin
+-Tulbor should (really!) give the cheap alternative after the PC bought it
+
+Version 19:
+-"Slimequest":  Tulbor should give the antidotes after the PC bought them; "neutral" ending gives solved quest entry now, too.
+-"A warm place for Noober": added a general question to Joseph's wife to make it less awkward that the PC cannot ask about help for Noober if woman is spoken to first time - not to overwrite her first dialogue. This will lead to receiving the quest about her husband. If spoken to again, the Noober quest will proceed.
+-typo fixes 
+-added REQUIRE_PREDICATE GAME_IS just to make sure.
+-added DESIGNATED numbers to components to detect Brage's Sword correctly
+-"Brage's Sword" is now unified with the quest content of the mod "Brage's Redemption" and also detects the mod "Brage's Redemption" in case it is already installed.
+
+Version 18:
+-"A Warm Place for Noober": now gives 150 XP. Farmer Karp refers to her sister instead of a wife (English, German, French)
+- (BG1:TotSC) "Many little paws" Minsc's hamster dialogue should not trigger a second time instead of kick-out dialogue
+-renamed readmes to %LANGUAGE%.bgqe.txt
+-update to WeiDU v246
+
+Version 17: 
+-journal entries no longer crash the game (Bug introduced in v16)
+-description of component "Drunk near Beregost Temple" added to readme
+
+Version 16:
+-(BGT) all journal entries will be deleted upon transition to BGII
+
+-"Many little Paws": quest was changed to make it less tedious:
+--the vendor will spawn directly in FAI after scene at Nashkel carnival (before: after three days)
+--the boy at Nashkel Carnival will also take the original hamster if the PC choses so
+--the boy will remain at the carnival until the quest is finished and all little hamsters are given to him
+--fix: boy should take all hamsters that are in inventory
+
+-"Lovesick Half-Orc": the commoner talking about an orc attack won't be named as a female any more 
+
+-"Babysitting Quest": some more safety tweaks to make sure all kids and toys leave with the mother 
+
+-"Drunk near Beregost Temple" rephrased journal entry to make it clear the drunk stays in the area
+
+-"A Warm Place for Noober": quests now closes in case Joseph's widow is dead, too; tweaked the widow's dialogue a litle in case PC visits for the first time after Noober is already recovered; quest journal entry will be removed in case PC visits for the first time after Noober is already recovered; (BG1:TotSC) Noober should respawn for original BG1 now, too.
+
+-Mod won't install on Steam/GOG SoD if modmerge didn't run (not for Windows)
+
+-moved all install-mrk files into the backup folder (except for utf-8 conversion)
+
+-splitted game text and setup text into two separate tra files
+
+-(English version) corrected the component's name to show the correct name upon installation ("Lovesick Half-Orc")
+
+-changed script name assignment to make it consistent with other mods: %tutu_var%drunk.cre -> "drunk"; %tutu_var%oublek.cre -> "Oublek"; %tutu_scriptbg%FTOWN2%eet_var%.cre -> "%tutu_scriptbg%FTOWN2%eet_var%"
+
+-g3_bgee_cpmvars.tpa corrected (Post dialogue Dynaheir, Jaheirs - not important for this mod)
+
+
+Version 15:
+	-("Many Little Paws") Fixed invisible hamster
+	-("Slime Quest", "Many Little Paws") added map notes. French translation: Le Marquis, Italian by jojo678.
+	-(vanilla BG1+TotSC)("A Warm Place for Noober") now installs without warnings		-removed all instances from %BGT_VAR% from Area scripts so the quests can proceed for EET in BGII
+	-added direct EET-version
+
+Version 14:
+	-"quest items get dropped on the floor instead of quest characters taking them back"-bug solved for the Babysitting Quest
+	-BGT, Tutu, BG:EE: "Warm Place for Noober": Asking the shopkeeper about a place for Noober is no longer prevented if the first dialogue happens with a winter wolf pelt in the inventory.
+	-BAMs now compatible with bgee v2.x
+	-update to WeiDU v240
+
+Version 13:
+	-"Warm Place for Noober": Talking to Nalin (priest) about Noober will now add the journal entry about Brage, too
+
+Version 12:
+	-Italian version completed by ilot
+	-"Fallen Paladin": NPCs will not comment on the nanny if the PC did not talk to the fallen paladin yet
+
+Version 11:
+	-M"Family Quest": After solving the quest, Mrs. Dudley no longer has a necklace that can be pickpocketed
+	-The wyvern head of the Nashkel monster now gets actually installed!
+	-Fixed several instances (hopefully all), where party members would perform quest character's actions (like Take Gold, Escape Area etc.)
+	-Family Quest: "Annie drops necklace" bug fixed
+
+Version 10: 
+	-new component: "A Warm Place for Noober"
+	-"Beregost family quest": fixed bug where party NPCs would leave instead of the family members (evil path)
+	-"Lovesick Half-Orc": Ulguth now comments on the PC being half-orc
+	-"drunk near Beregost temple": Name changed to make the component compatible with Gavin
+	-"Nashkel Monster": The head of the baby wyvern can now be shown to the guards
+	-inserted HANDLE_CHARSETS
+	-changed names of the components to the actualy names instead of the "installing [component name]..." info from older versions [German & English versions].
+
+Version 9.2: 
+	-French translation completed by Le Marquis (des d'Oghmatiques)
+	-Update to WeiDU v238
+
+Version 9.1: 
+	-Fixed install issues on Tutu because of using another mod's acronym in two file paths
+	-BG: Fixed path of used tra-file for Minsc's aditional dialogue for the component "Many little paws"
+	-OSX: Fixed the mod's archive so it actually contains the working .command file
+	-Update to WeiDU v237
+
+Version 9: 
+	-Addition of NPC reactions. 
+	-Addition of one encounter and an easter egg quest
+	-quest extention: Nashkell Monster
+	-quest extention: Babysitting quest
+	-All quests are now separate install components
+	-lib tpas corrected
+	-Update to WeiDU v236
+
+Version 8.1: Edit of French translation (Graoumf) and English translation (hook71)
+
+Version 8: Added Polish translation by Zed Nocear.
+	Corrected path name for dialogue (father in "Fallen paladin" quest; BG1 vanilla version was affected only). Updated WeiDU to v231.
+
+Version 7: Added Russian translation by hawkmoon & arcanecoast.ru team
+	   Updated WeiDU to v229.
+
+Version 6: Added Italian translation by Stoneangel, with translation of the slimequest by Jakkus & Lord Hagen (GIMT).
+
+Version 5: Added French translation by Le Marquis (des d'Oghmatiques) 
+	   Added missing area check OUTER_SPRINT definition to the tp2.
+	   Corrected wrong item slot of one cre.
+
+Version 4.1: Version 4 with updated readme.
+
+Version 4: widow in the fishing village now really hands over her nacklase as a reward if agreed on beforehand; Bjornin text bug (Tutu and BGT versions) corrected.
+
+Version 3: Quest items of slime quest no longer be pick-pockable from the vendor.
+Added Linux version.
+
+Version 2: Spanish version added. (only Windows version)
+
+Version 1: English / German release of the mod. (Windows and Mac OS X)
+
+Version 0.x: English / German public releases.
+
+
+
+
+//#####################################################################
+Schleim-Quest (former stand-alone version):
+
+Danksagungen:
+Rabain - Korrektur der englischen Übersetzung des Schleim-Quest, Einfügen des visuellen Effekts, generelle Hilfsbereitschaft!
+
+Zed Nocear - Polnische Übersetzung des Schleim-Quest (http://zed_nocear.webpark.pl/)
+
+weigo - BGT-Kompatibilität
+
+Iogan (A.E.R.I.E.ru) - Russische Übersetzung und eine Menge Verbesserungen, u.a. Korrekturen an Items und Skripten (Schleim-Quest)!
+
+cujo - Viel Hilfe mit WeiDU-Offsets! (Die ich nun leider wieder rausgeschmissen habe.)
+
+Volly - Korrektur weiterer Schreibfehler im Englischen (Schleim-Quest)!
+
+Jakkus & Lord Hagen von GIMT - italienische Übersetzung des Schleim-Quest!
+
+Excalibur - Spanische Übersetzung des Schleim-Quest!
+
+weigo und Miloch - vielen Dank für die Korrektur des Ambient-Fehlers (Schleim-Quest, mittlerweile wieder entfernt.)
+
+Historie Schleimquest
+Version 1.7 - Korrektur eines Fehlers in den Ambients, der versehentlich von mir beim Verändern der Area AR3344 eingetragen wurde 
+
+Version 1.6 - Spanische Übersetzung
+
+Version 1.5 - Italienische Übersetzung
+
+Version 1.4 - Russische Übersetzung, inklusive vieler Bugfixes und Verbesserungen
+Version 1.3 - BGT-Kompatibilität 
+
+Version 1.2 - Polnische Übersetzung
+
+Version 1.1 - Englische Version korrekturgelesen, visuellen Effekt eingefügt,                    Bugfixing
+
+Version 1.0 - Wettbewerbsbeitrag September 2004, Black Wyrm Forums
+
+
+
+
+

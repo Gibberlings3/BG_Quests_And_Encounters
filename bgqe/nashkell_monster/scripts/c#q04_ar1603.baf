@@ -1,0 +1,10 @@
+IF 
+	Global("C#Q04_TeodorCreation","GLOBAL",0)
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_TeodorCreation","GLOBAL",1)
+	    CreateCreature("c#q04008",[136.163]%FACE_0%) //delivery man
+	Continue()
+END
+
+

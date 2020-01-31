@@ -1,0 +1,14 @@
+IF
+	Global("C#q13Brage_FakeMerchant","GLOBAL",8)
+	!Dead("BORDA")
+	!Exists("c#q13lar")
+	GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",3)
+THEN
+	RESPONSE #100
+		CreateCreature("c#q13bor",[4744.2525],13)
+		SetGlobal("C#q13Brage_FakeMerchant","GLOBAL",9)
+		Continue()
+END
+
+
+

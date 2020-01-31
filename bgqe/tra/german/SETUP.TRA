@@ -1,0 +1,53 @@
+@0    = ~Installation von BG1 Mini-Quests und Begegnungen Modifikation~
+@1    = ~Tutu entdeckt. Verwende BG1Tutu Installationscode...~
+@2    = ~Original BG Installation wird durchgeführt...~
+
+@9    = ~BGT entdeckt. Verwende BGT-Installationscode...~
+
+@13    = ~Familienquest in Beregost~
+
+@19    = ~Babysitting in Nashkell~
+
+@38    = ~Schleim-Quest~
+@39    = ~Monstersichtung in Nashkell~
+
+@43    = ~Gefallener Paladin in Baldurs Tor~
+
+@48   = ~Unvergaengliche Liebe im Fischerdorf~
+
+@50   = ~Halbork in Liebesnoeten~
+
+@56   = ~Unerwartete Hilfe~
+
+/* Neuer Inhalt: v9 */
+
+@61   = ~Viele kleine Pfoten~
+
+@66   = ~BG:EE-Installation entdeckt.~
+
+@98   = ~Betrunkener nahe dem Tempel von Beregost~
+
+/* Neuer Inhalt: v10 */
+
+@105  = ~Ein warmer Platz fuer Noober~
+
+/* Neuer Inhalt v15 */ 
+
+@109  = ~EET-Installation entdeckt.~
+
+/* Neuer Inhalt v16 */ 
+
+@5000 = ~Brages Schwert~
+@5001 = ~Legale Seekarten~
+@5002 = ~Erweiterungen Haus der Dame und Haus der Wasserkoenigin~
+@5003 = ~Your SoD game needs to be modmerged before mods can be installed on this game. Check the readme for more information and a link to download the DLC Merger or Modmerge.~ 
+
+@5004  = ~Ein besorgter Bauer~
+@5005   = ~Leichen fuer einen guten Zweck~
+
+@5006   = ~Diese Komponente ist nicht mit original Baldurs Gate 1 kompatibel.~
+
+/* new for v19 */
+@5007   = ~Die Quest "Brages Schwert" ist bereits in der Mod "Barge's Redemption" enthalten.~
+@5008   = ~Die Mod bgqe ist nicht mit diesem Spiel kompatibel.~
+

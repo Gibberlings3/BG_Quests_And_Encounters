@@ -1,0 +1,8 @@
+IF 
+      Global("C#Q05_NannyCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q05_NannyCreation","GLOBAL",1)
+	    CreateCreature("C#Q05007",[2065.838]%FACE_0%) //Nanny
+END
+

@@ -1,0 +1,62 @@
+IF
+	Global("C#Q04_ArnimAndWyrm","GLOBAL",5)
+      Global("C#Q04_ParentsCreationBefore","GLOBAL",1)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_ParentsCreationBefore","GLOBAL",2)
+	    ActionOverride("C#Q04003",EscapeArea()) //Frau von Undenzieht
+	    ActionOverride("C#Q04004",EscapeArea()) //Herr von Undenzieht
+END
+
+IF
+	Global("C#Q04_ArnimAndWyrm","GLOBAL",5)
+	GlobalTimerExpired("C#Q04_ReturnTimer","GLOBAL")
+      Global("C#Q04_StartTimer","GLOBAL",1)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_StartTimer","GLOBAL",2)
+	    ActionOverride("C#Q04003",EscapeArea()) //Frau von Undenzieht
+	    ActionOverride("C#Q04001",EscapeArea()) //Arnim
+END
+
+IF
+	Global("C#Q04_ArnimAndWyrm","GLOBAL",5)
+      Global("C#Q03_NashkellMonster","GLOBAL",0)
+	Global("C#Q04_InsideCreationAfter","GLOBAL",0)
+	Global("C#Q04_ParentsCreationBefore","GLOBAL",2)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_InsideCreationAfter","GLOBAL",1)
+	    CreateCreature("C#Q04003",[548.244]%FACE_0%) //Frau von Undenzieht
+	    CreateCreature("C#Q04001",[547.285]%FACE_0%) //Arnim
+END
+
+IF
+	GlobalGT("C#Q04_ArnimAndWyrm","GLOBAL",0)
+	GlobalLT("C#Q04_ArnimAndWyrm","GLOBAL",5)
+      Global("C#Q04_ParentsCreationBefore","GLOBAL",1)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_ParentsCreationBefore","GLOBAL",2)
+	    ActionOverride("C#Q04003",EscapeArea()) //Frau von Undenzieht
+	    ActionOverride("C#Q04004",EscapeArea()) //Herr von Undenzieht
+END
+
+IF 
+	GlobalLT("C#Q04_ArnimAndWyrm","GLOBAL",2)
+      Global("C#Q04_ParentsCreationBefore","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q04_ParentsCreationBefore","GLOBAL",1)
+	    CreateCreature("C#Q04003",[548.244]%FACE_0%) //Frau von Undenzieht
+	    CreateCreature("C#Q04004",[547.285]%FACE_0%) //Herr von Undenzieht
+END
+
+IF
+	Dead("C#Q04001")
+THEN
+	RESPONSE #100
+	    ActionOverride("C#Q04003",EscapeArea()) //Frau von Undenzieht
+	    ActionOverride("C#Q04004",EscapeArea()) //Herr von Undenzieht
+END
+

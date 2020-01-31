@@ -1,0 +1,30 @@
+IF
+  !See([ENEMY])
+  Global("C#Q04_ArnimAndWyrm","GLOBAL",0)
+  See([PC])
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+	SetGlobal("C#Q04_ArnimAndWyrm","GLOBAL",1)
+    	Dialogue([PC])
+END
+
+IF
+	GlobalGT("C#Q04_ArnimAndWyrm","GLOBAL",2)
+	GlobalLT("C#Q04_ArnimAndWyrm","GLOBAL",5)
+	!Range("C#Q04003",3)
+THEN
+	RESPONSE #100
+		MoveToObject("C#Q04003")
+END
+
+IF
+	Allegiance(Myself,[ENEMY])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+
+

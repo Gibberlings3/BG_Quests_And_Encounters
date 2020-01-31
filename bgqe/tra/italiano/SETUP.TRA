@@ -1,0 +1,53 @@
+@0    = ~Baldur's Gate Mini-Quests and Encounters Mod~
+@1    = ~Rilevato BG1Tutu. Sto usando il codice di installazione per BG1Tutu...~
+@2    = ~Rilevato Baldur's Gate originale. Sto installando...~
+
+@9    = ~Rilevato BGT. Sto usando il codice di installazione per BGT...~
+
+@13   = ~Sto installando la Quest della Famiglia di Beregost...~
+
+@19   = ~Sto installando la Quest della Cura dei Bambini, includendo l'Incontro al Carnevale...~
+
+@38   = ~Sto installando la Quest della Fanghiglia...~
+@39   = ~Sto installando la Quest dei Mostri di Nashkel...~
+
+@43   = ~Sto installando la Quest del Paladino Decaduto...~
+
+@48   = ~Sto installando la Quest dell'Amore Imperituro...~
+
+@50   = ~Sto installando l'Incontro con l'Amante Orco...~
+
+@56   = ~Sto installando la Quest dell'Aiuto Inaspettato...~
+
+/* new contents: v9 */
+
+@61   = ~Sto installando la Quest del Criceto...~
+
+@66   = ~BG:EE rilevato.~
+
+@98   = ~L'Ubriaco vicino al Tempio di Beregost~
+
+/* new contents v10 */
+
+@105  = ~Un Posto Caldo per Noober~
+
+/* new content v15 */
+
+@109  = ~EET rilevato.~
+
+/* new contents v16 */ 
+
+
+@5000 = ~Brage's Sword~
+@5001 = ~Legal Sea Charts Sources~
+@5002 = ~Additions to the House of the Lady and the Bitch Queen's Temple~
+@5003 = ~Your SoD game needs to be modmerged before mods can be installed on this game. Check the readme for more information and a link to download the DLC Merger or Modmerge.~ 
+
+@5004  = ~A worried Farmer~
+@5005   = ~Bodies for a good Cause~
+
+@5006   = ~This component is not compatible with original Baldur's Gate 1.~
+
+/* new for v19 */
+@5007   = ~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~
+@5008   = ~bgqe is not compatible with this game.~

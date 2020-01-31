@@ -1,0 +1,11 @@
+IF  
+	Dead("drunk")
+	GlobalLT("C#Q12_FoundDrunk","GLOBAL",3)
+THEN
+	RESPONSE #100
+		SetGlobal("C#Q12_FoundDrunk","GLOBAL",3)
+		%ERASEJOURNALENTRY_10062%
+		AddJournalEntry(@10068%QUEST_DONE%)
+END 
+
+

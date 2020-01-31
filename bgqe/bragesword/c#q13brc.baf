@@ -1,0 +1,58 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		ActionOverride("Brage",DestroySelf())
+		LeaveAreaLUAPanic("%Nashkel%","",[2849.1669],6)
+		LeaveAreaLUA("%Nashkel%","",[2849.1669],6)
+		MultiPlayerSync()
+		CreateCreature("Brage2",[2860.1622],1) // Brage
+		MultiPlayerSync()
+		ActionOverride("oublek",JumpToPoint([2811.1645]))
+		ActionOverride("oublek",FaceObject("Brage"))
+		Wait(2)
+		ActionOverride("Brage",StartDialogueNoSet([PC])
+		EndCutSceneMode()
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player2)
+		LeaveAreaLUA("%Nashkel%","",[2877.1799],6)
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player3)
+		LeaveAreaLUA("%Nashkel%","",[2877.1799],6)
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player4)
+		LeaveAreaLUA("%Nashkel%","",[2877.1799],6)
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player5)
+		LeaveAreaLUA("%Nashkel%","",[2877.1799],6)
+END
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player6)
+		LeaveAreaLUA("%Nashkel%","",[2877.1799],6)
+END
+

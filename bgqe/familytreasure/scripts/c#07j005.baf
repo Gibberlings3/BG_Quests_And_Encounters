@@ -1,0 +1,97 @@
+/*
+
+IF
+      Global("C#Q02_DudleyQuestSolved","GLOBAL",1)
+      Global("C#Q02_AR3350Creation","GLOBAL",1)
+      Global("C#Q02_necklace","GLOBAL",0)
+	!HasItem("C#Q02004","C#Q02005")	
+THEN
+	RESPONSE #100
+	    GiveItemCreate("C#Q02004","C#Q02005",1,0,0)
+            SetGlobal("C#Q02_necklace","GLOBAL",1)
+END
+
+*/
+
+IF  
+	Dead("C#Q02006")
+	See([PC])
+THEN
+	RESPONSE #100
+		StartDialog("C#Q02005",[PC])
+END 
+
+IF  
+	Dead("C#Q02007")
+	See([PC])
+THEN
+	RESPONSE #100
+		StartDialog("C#Q02005",[PC])
+END 
+
+IF
+  !See([ENEMY])
+  Global("C#Q02_DudleysLeave","GLOBAL",1)
+  See([PC])
+Range([PC],8)
+  !StateCheck([PC],STATE_INVISIBLE)
+  !StateCheck([PC],STATE_IMPROVEDINVISIBILITY)
+THEN
+  RESPONSE #100
+	SetGlobal("C#Q02_DudleysLeave","GLOBAL",2)
+    StartDialog("C#Q02005",[PC])
+END
+
+IF 
+	Global("C#Q02_WifeSighs","LOCALS",0)
+THEN
+	RESPONSE #100
+	  SetGlobal("C#Q02_WifeSighs","LOCALS",1)
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",2)
+END
+
+IF 
+	Global("C#Q02_DudleysLeave","GLOBAL",0)
+	Global("C#Q02_DudleyQuestSolved","GLOBAL",0)
+	Global("C#Q02_WifeTalk","GLOBAL",3)
+	GlobalTimerExpired("C#Q02_WifeSighsTimer","GLOBAL")
+THEN
+	RESPONSE #100
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",10)
+	  DisplayString(Myself,@0)
+END
+
+IF 
+	Global("C#Q02_DudleysLeave","GLOBAL",0)
+	Global("C#Q02_DudleyQuestSolved","GLOBAL",0)
+	GlobalTimerExpired("C#Q02_WifeSighsTimer","GLOBAL")
+THEN
+	RESPONSE #20
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",10)
+	  DisplayString(Myself,@1)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",10)
+	  DisplayString(Myself,@2)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",10)
+	  DisplayString(Myself,@3)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",10)
+	  DisplayString(Myself,@4)
+	RESPONSE #20	
+	  SetGlobalTimer("C#Q02_WifeSighsTimer","GLOBAL",10)
+	  DisplayString(Myself,@5)
+END
+
+IF
+	Global("C#Q02_DudleysLeave","GLOBAL",0)
+	Global("C#Q02_DudleyQuestSolved","GLOBAL",0)
+THEN
+	RESPONSE #100
+		RandomWalk()
+END
+
+
+
+
+

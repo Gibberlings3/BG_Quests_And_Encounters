@@ -1,0 +1,172 @@
+IF %BGT_VAR%
+	!PartyHasItem("C#Q10001")
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	Global("C#Q10_HamsterQuest","GLOBAL",1)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+		SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",100) //?
+		ApplySpellRES("C#Q10sp1",Myself)
+END
+
+
+IF %BGT_VAR%
+	PartyHasItem("C#Q10001")
+	Global("C#Q10_HamsterQuest","GLOBAL",1)
+	InParty(Myself)
+	!StateCheck(Player1,CD_STATE_NOTVALID)
+	!StateCheck(Myself,CD_STATE_NOTVALID)
+	See(Player1)
+	!Detect([ENEMY])
+	%CombatCounter_0%
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q10_HamsterQuest","GLOBAL",2)
+END
+
+/* check, ob itm in inventory -> triggers dialogue */
+
+IF %BGT_VAR%
+	PartyHasItem("C#Q10001")
+	Global("C#Q10_HamsterQuest","GLOBAL",2)
+	InParty(Myself)
+	See(Player1)
+	!Range([NEUTRAL],10)
+	!StateCheck(Player1,CD_STATE_NOTVALID)
+THEN
+	RESPONSE #100
+		SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",TWO_DAYS)
+		Dialogue(Player1)
+END
+
+
+
+
+/* and now the little hamsters */
+
+
+
+IF %BGT_VAR%
+	!PartyHasItem("C#Q10002")
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	Global("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+		SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",100) //?
+            ApplySpellRES("C#Q10sp2",Myself)
+            ApplySpellRES("C#Q10sp3",Myself)
+            ApplySpellRES("C#Q10sp4",Myself)
+            ApplySpellRES("C#Q10sp5",Myself)
+            ApplySpellRES("C#Q10sp6",Myself)
+END
+
+
+IF %BGT_VAR%
+	PartyHasItem("C#Q10002")
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	Global("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+	!StateCheck(Player1,CD_STATE_NOTVALID)
+	!StateCheck(Myself,CD_STATE_NOTVALID)
+	See(Player1)
+	!Detect([ENEMY])
+	%CombatCounter_0%
+THEN
+	RESPONSE #100
+	    SetGlobal("C#Q10_HamsterQuest","GLOBAL",4)
+END
+
+
+/* check, ob little hamster in inventory -> triggers dialogue */
+
+IF %BGT_VAR%
+	PartyHasItem("C#Q10002")
+	Global("C#Q10_HamsterQuest","GLOBAL",4)
+	InParty(Myself)
+	See(Player1)
+	!Range([NEUTRAL],10)
+	!StateCheck(Player1,CD_STATE_NOTVALID)
+THEN
+	RESPONSE #100
+		SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",TWO_DAYS)
+		Dialogue(Player1)
+END
+
+
+
+IF %BGT_VAR%
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+            ApplySpellRES("C#Q10sp2",Myself)
+		Continue()
+END
+
+IF %BGT_VAR%
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+            ApplySpellRES("C#Q10sp3",Myself)
+		Continue()
+END
+
+IF %BGT_VAR%
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+            ApplySpellRES("C#Q10sp4",Myself)
+		Continue()
+END
+
+IF %BGT_VAR%
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+            ApplySpellRES("C#Q10sp5",Myself)
+		Continue()
+END
+
+IF %BGT_VAR%
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+            ApplySpellRES("C#Q10sp6",Myself)
+		Continue()
+END
+
+IF %BGT_VAR%
+	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
+	PartyHasItem("C#Q10001")
+	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
+	InParty(Myself)
+THEN
+	RESPONSE #100
+		%DisplayStringHead%(Myself,@198)
+		SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",THREE_DAYS)
+		Continue()
+END
+
+
+
+
+
+
+

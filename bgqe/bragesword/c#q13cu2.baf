@@ -1,0 +1,41 @@
+/*
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		FadeToColor([20.0],0)
+		JumpToPoint([2849.1669])
+//		MultiPlayerSync()
+		ActionOverride("oublek",JumpToPoint([2811.1645]))
+		CreateCreature("Brage2",[2860.1622],1) // Brage
+		CreateCreature("c#q13amn",[2825.1593],0) // Amnish Soldier
+		ActionOverride(Player1,FaceObject("Brage"))
+		ActionOverride("oublek",FaceObject("Brage"))
+//		MultiPlayerSync()
+		FadeFromColor([20.0],0)
+		Wait(2)
+		ActionOverride("Brage",StartDialogueNoSet([PC])
+		EndCutSceneMode()
+END
+*/
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		FadeToColor([20.0],0)
+		Wait(1)
+		JumpToPoint([2849.1669])
+		MultiPlayerSync()
+		CreateCreature("c#q13amn",[2825.1593],0) // Amnish Soldier
+		CreateCreature("Brage2",[2860.1622],1) // Brage
+		MultiPlayerSync()
+		ActionOverride("oublek",JumpToPoint([2811.1645]))
+		ActionOverride("oublek",FaceObject("Brage"))
+		FadeFromColor([20.0],0)
+		Wait(2)
+		ActionOverride("Brage",StartDialogueNoSet([PC])
+		EndCutSceneMode()
+END

@@ -1,0 +1,180 @@
+@0    = ~Salute, viaggiatore. Io sono in viaggio per Baldur's Gate e non cerco guai.~
+@1    = ~Anche noi non cerchiamo guai.~
+@2    = ~Avrei giurato che tu fossi un mezz'orco, vedendoti da lontano, tuttavia il tuo aspetto non si adatta al tuo sguardo.~
+@3    = ~Ma io sì. Vediamo se un pelleverde come te è in grado di combattere!~
+@4    = ~Perdona la mia parlantina. So che non posso nascondere la mia origine orchesca, e mi ha dato un sacco di inutili scontri spiacevoli in passato.~
+@5    = ~Bene allora, adesso me ne andrò e continuerò lungo la strada per Baldur's Gate, dove la mia amata mi aspetta!~
+@6    = ~*sospira* Non un'altra volta.~
+@7    = ~Cosa vuoi dire con questo?~
+@8    = ~Zitto e combatti!~
+@9    = ~*sospira* Non devo e non voglio, ma vorrei tanto bere qualcosa.~
+@10   = ~Ehi, ti conosco? Ci siamo incontrati sulla strada a nord di Nashkel.~
+@11   = ~Cosa è successo?~
+@12   = ~Un mezz'orco innamorato...?~
+@13   = ~Non ho tempo per parlare.~
+@14   = ~Sì, continua a prenderti gioco di me. Hai davvero ragione...~
+@15   = ~Infatti. Sì, mi ricordo di te. Ti ho detto dove stavo andando, vero?~
+@16   = ~Ero così sicuro di me durante il mio viaggio. Nervoso forse, ma più a causa delle mie felici aspettative. Ora sono qui, seduto su una panca di legno, invece di andare dalla mia amata.~
+@17   = ~Perché?~
+@18   = ~Hai paura?~
+@19   = ~È ridicolo, vero? Io porto con me la mia origine di mezz'orco, sono grande e forte. Ma non oso avvicinarmi alla mia amata, perché ho paura della sua reazione.~
+@20   = ~Io non capisco. Perché?~
+@21   = ~Ma l'hai già incontrata, vero?~
+@22   = ~La mia ascendenza è chiaramente visibile, è da luogo a sentimenti di repulsione e di diffidenza in molti esseri umani. Ma non era questo il senso della tua domanda, vero?~
+@23   = ~Non ci siamo mai incontrati prima. Ed è esattamente questo il problema. Tutte le comunicazioni sono avvenute tramite lettere e altri regali che ci siamo inviati. Io... i miei antenati sono principalmente umani, ma a causa di un capriccio della natura, la mia ascendenza di mezz'orco si mostra chiaramente in me. La mia fidanzata conosce il mio retaggio, ma lei sa davvero cosa significa? Non temo niente come il momento in cui gli occhi della donna con cui parlo da tempo diventeranno completamente freddi e sprezzanti comprendendo ciò che sono.~
+@24   = ~Se lei lo sa già allora non ci sarà alcun problema.~
+@25   = ~Non lo scoprirai mai se rimani seduto qui!~
+@26   = ~Non c'è altra possibilità che andare là. Mantenere altre modalità di comunicazione serve solo a rinviare il momento della verità.~
+@27   = ~Beh, su questo hai ragione. Avrei molta paura se fossi in te.~
+@28   = ~Non vorrei andarci. Non riesco a immaginare un mezz'orco e una donna di città che mantengono un rapporto felice.~
+@29   = ~Le tue parole agitano i miei dubbi...~
+@30   = ~È vero ciò che hai detto. Solo che ho già avuto troppe delusioni...~
+@31   = ~Rimarrò qui a pensarci un altro po'.~
+@32   = ~Ah, sei di nuovo tu.~
+@33   = ~Sono così spaventato, è una vergogna! Che mostri ho combattuto, che duro lavoro ho fatto per guadagnare i soldi per il mio viaggio? E ora che sono così vicino alla mia amata, mi sto arrendendo alle mie paure e non oso avvicinarmi a lei.~
+@34   = ~Sei molto attraente, quando parli con tanta umiltà di te stesso come stai facendo adesso. Lo sai?~
+@35   = ~Devi armarti di coraggio per questo tuo primo incontro. Non lasciarti scoraggiare, se il suo primo sguardo su di te non mostra l'ammirazione che desideri ricevere. Sigilla le orecchie contro qualsiasi commento offensivo dei suoi parenti. Tutte le cose richiedono tempo, la sai benissimo.~
+@36   = ~Considerando la perseveranza che hai dimostrato fino ad ora, non stai prendendo davvero in considerazione l'idea di mollare, vero?~
+@37   = ~Se sei un codardo, forse sarebbe meglio se non andassi.~
+@38   = ~Allora resta seduto qui... sono certo che nel frattempo troverà qualcun altro.~
+@39   = ~Non funzionerebbe mai. Sii realista e torna nel tuo paese d'origine, ovunque esso sia. Sono certo che la futura Signora Mezz'Orco ti sta già aspettando.~
+@40   = ~Io non sono un codardo! Io...~
+@41   = ~Andrò da lei adesso. Mi hai convinto! Le mie paure sono state vinte e sono ansioso di incontrarla. Ma forse... farò prima un bel bagno...~
+@42   = ~Grazie, amico mio. Addio.~
+@43   = ~Non ti azzardare a parlare di lei così! Neanche la conosci. Lei è sensibile, ed è dotata del più grande senso dell'umorismo che io abbia mai visto. Lei...~
+@44   = ~Sciocchezze! Io sono qui, perché non c'era una "Signora Mezz'Orco" ovunque abbia visto. Io...~
+@45   = ~Sì, naturalmente. Ci sono cose più importanti che parlare ad un mezz'orco delle sue paure interiori. Tanto più che questo mezz'orco ha già trascorso troppo tempo seduto in questa taverna, invece di fare ciò che è venuto qui a fare. Io...~
+@46   = ~Che... Che gentile. Se ricevo tali complimenti da una sconosciuta, potrebbe esserci una buona probabilità che la pensi così anche la mia fidanzata.~
+@47   = ~Oh sì, so esattamente di cosa stai parlando. Quante volte ho potuto raggiungere i miei obiettivi solo attraverso il duro lavoro e combattendo, non rinunciare mai... Vorrei risultare migliore anziché temere eventuali prime reazioni di sgomento. Io...~
+@48   = ~Sono così felice!~
+@49   = ~Scusaci, ma non abbiamo tempo per parlare.~
+@50   = ~Che cosa vuoi? Stiamo preparando una grande festa e non abbiamo molto tempo. Se vuoi scusarci...~
+@51   = ~Che cosa vuoi?~
+@52   = ~Ho sentito che avete avuto problemi con gli orchi. Avete bisogno di aiuto?~
+@53   = ~Dove sono i mostri che vi minacciano? Li combatterò!~
+@54   = ~Niente. Buona giornata.~
+@55   = ~Per i nove inferni, questo non li fermerà?!~
+//@56
+@57   = ~Perdona il mio tono brusco, ma la situazione inizia davvero ad irritarmi. Per rispondere alla tua domanda: no, non abbiamo, e non abbiamo mai avuto, il problema che i mezz'orchi, o qualsiasi altro mostro, hanno attaccato la casa, rapito mia figlia, o altre cose simili che potreste aver sentito. Si tratta semplicemente di mio genero, che è di discendenza orchesca, che sta celebrando il suo matrimonio con mia figlia. Sono in viaggio di nozze adesso... per fortuna.~
+@58   = ~Non fraintendermi. Apprezzo i tuoi sforzi e la tua volontà di aiutare. Ma non so cosa devo fare per evitare che questi aspiranti avventurieri piombino in casa mia, pensando di poter guadagnare un sacco di monete d'oro. Non sei il primo ad essere venuto qui!~
+@59   = ~Perdona la mia intrusione allora. Me ne vado immediatamente.~
+@60   = ~Stai parlando di Uguth, vero? L'ho incontrato. Era abbastanza sicuro che sarebbe stato il benvenuto qui.~
+@61   = ~Dei cari, me ne sto andando.~
+@62   = ~Ah? Beh, in un primo momento siamo stati presi alla sprovvista dal suo aspetto, questo è vero. Ma lui è davvero un bravo ragazzo. Più educato di alcuni ragazzi locali, questo è sicuro. Sono sicuro che mi abituerò all'idea di avere  nipoti con la pelle verde e le sopracciglia prominenti... un giorno o l'altro.~
+@63   = ~Spero che mia figlia resti felice com'è adesso.~
+@64   = ~Avete sentito? C'è stato un attacco degli orchi in una casa vicino al Canto dell'Elfo, con una ragazza ferita! Nel bel mezzo della città, l'avreste mai immaginato?~
+//@65
+@66   = ~Che cosa vuoi? Per favore parlate con mio marito.~
+@67   = ~Tu! Hai ucciso la mia fidanzata. Adesso ti ucciderò!~
+@68   = ~Tu! Hai ucciso i genitori della mia fidanzata. Adesso ti ucciderò!~
+@69   = ~Lasciaci in pace per favore. Abbiamo subito una grande perdita e non intendiamo parlarne.~
+@70   = ~Non c'è giustizia a questo mondo.~
+
+
+// --NPC reactions
+
+
+//[Imoen] 
+@71   = ~E quindi... il suo riserbo era il vero motivo per cui lui non si avvicinava alla sua amata?~
+//[Imoen] 
+@72   = ~Hm, forse é troppo presto per dire così. E' stato sicuramente il suo *primo* problema da superare.~
+//[Garrick] 
+@73   = ~Oh, tutto ciò ha del potenziale romanticismo. Il forte e sgradevole mezzorco, nobile di nascita e gentile di mente...~
+//[Imoen] (Garrick) 
+@74   = ~Si, tutto questo ha decisamente del potenziale.~
+//[Alora] (Garrick) 
+@75   = ~Mi piacerebbe ascoltare una storia simile, Garrick.~
+//[Safana] (Garrick) 
+@76   = ~Solo se include un bacio che lo trasforma in un bellissimo principe.~
+//[Skie] (Garrick) 
+@77   = ~Ewww, immagina il loro primo bacio...~
+//[Skie] (Garrick) (Dorn) 
+@78   = ~Er, voglio dire senza offesa, Dorn.~
+//[Eldoth] 
+@79   = ~Questa romantica storia potrebbe avere un lieto fine con la bellissima principessa che cattura il bruttissimo mostro.~
+//[Skie] (Eldoth) 
+@80   = ~Oh, a me certamente piace il bacio in *questa* storia!~
+//[Alora] 
+@81   = ~Mi é piaciuto davvero il suo atteggiamento.~
+//[Jaheira] 
+@82   = ~I suoi genitori hanno tutti e due le sembianze umane? Alcuni... incidenti naturali sono difficili da spiegare.~
+//[Imoen] (Jaheira) 
+@83   = ~Se si disturba l'equilibrio può succedere, non é vero, Jaheira?~
+//[Jaheira] (Imoen) 
+@84   = ~Beh... si.~
+//[Faldorn] 
+@85   = ~Non c'é niente di più sbilanciato in natura. I suoi antenati si sono presi il rischio della sua sembianza quando hanno mischiato le razze.~
+//[Kivan] 
+@86   = ~Quell'uomo é forte e pacifico. Il mondo sarebbe un luogo migliore, se ci fossero più persone come lui.~ 
+//[Dorn] 
+@87   = ~E' un disonore che mostri il suo retaggio di mezzorco così.~
+//[Neera] (Dorn) 
+@88   = ~Cosa? Non avrei mai pensato di ascoltare una simile dichiarazione da parte tua, Dorn.~
+//[Dorn] 
+@89   = ~E' un cattivo scherzo della natura. Sembra un mezzorco, ma non si è dimostrato tale, doveva combattere come uno di loro. E' un disonore per la mia razza.~
+//[Neera] (Dorn) 
+@90   = ~Ah, ora il tuo commento inizia ad avere un senso... in un modo di pensare molto Dorn.~
+//[Rasaad] (Dorn) 
+@91   = ~Dorn, sai niente, eh?~
+//[Dorn] (Rasaad) 
+@92   = ~Io non devo combatterci per vedere che é debole. Non possiede nemmeno delle armi!~
+//[Rasaad] (Dorn) 
+@93   = ~Non tutti hanno bisogno delle armi per combattere.~
+//[Dorn] (Rasaad) 
+@94   = ~Il modo in cui si muove. Lui non é un guerriero.~
+//[Rasaad] (Dorn) 
+@95   = ~Il modo in cui si muove... E' vero, ma non é nemmeno un monaco. Ma il punto non è questo.~
+//[Rasaad] 
+@96   = ~Non giudicare dalla prima impressione é un ideale che la gente non riesce mai a capire. Quest'uomo ha un pesante fardello da portare.~
+//[Neera] 
+@97   = ~Deve essere difficile, essere giudicati dalle apparenze.~
+//[Safana] 
+@98   = ~*sigh* Essere giudicati dal nostro aspetto... E' un destino che dobbiamo condividere tutti.~
+//[Neera] (Safana) 
+@99   = ~Beh, in un certo senso, forse, ma io non... beh non importa.~
+//[Imoen] 
+@100   = ~Pover'uomo. Spero che trovi quello che sta cercando.~
+//[Xan] 
+@101   = ~Che ingenuità! Fare questo... veramente un uomo può credere di trovare amore e pace... in *questa* vita?~
+//[Imoen] (Xan) 
+@102   = ~Xan, forse dovresti prenderlo come esempio.~
+//[Xan] (Imoen) 
+@103   = ~Sinceramente non voglio, Imoen. Non avrei sicuramente *nessuna* utilità a perdere tempo come fa un sognatore!~
+//[Imoen] (Xan) 
+@104   = ~Beh, al momento sei più come un incubo diurno... Oh, beh, dimentica tutto.~
+//[Xan] (Imoen) 
+@105   = ~*sigh* Dimentichi, giovane umana, che la mente di un elfo non dimentica mai. Mai.~
+//[Imoen] (Xan) 
+@106   = ~Oh, davvero? Recentemente mi è venuta in mente una melodia. Conosci la canzone? Puoi dirmi il testo? Faceva più o meno così *canticchia una canzoncina.*~
+//[Xan] (Imoen) 
+@107   = ~Onnipotenti dei di Arvanaith... prendetemi con voi, adesso!~
+//[Imoen] (Xan) 
+@108   = ~Er, no, queste non erano le parole giuste. Neanche la rima era quella!~
+//[Xan] (Imoen) 
+@109   = ~*sigh*~
+//[Ajantis] 
+@110   = ~Desidero tutto il bene per quest'uomo. La vita non è stata benevola con lui.~
+//[Dynaheir] 
+@111   = ~Possa il suo sentiero essere di pace.~
+//[Xzar] 
+@112   = ~Possa il suo sentiero essere pieno di pace e la sua vita piena di armonia e blah blah blah!~
+//[Montaron] (Xzar) 
+@113   = ~Ora che l'hai detto, Xzar, i miei occhi stanno iniziando a piangere.~
+//[Kagain] 
+@114   = ~Forse dovremmo seguirlo... ed assicurarci che riceva l'accoglienza che merita!~
+//[Dorn] (Kagain) 
+@115   = ~E che accoglienza sarebbe, nano?~
+//[Kagain] (Dorn) 
+@116   = ~Oh, andiamo, Dorn. Non dirmi che non ti piacerebbe provare la tua arma su quel mezzorco.~
+//[Safana] 
+@117   = ~Che tipo di donna si può promettere ad una simile... creatura. Hai visto le sue sopracciglia?~
+//[Coran] 
+@118   = ~So riconoscere il vero amore quando lo vedo. Quest'uomo é innamorato, e se la donna che lui corteggia prova solo la metà dell'amore di lui, saranno felici d'ora in poi.~
+
+//[Imoen] 
+@119   = ~Sono la sola che pensa che sarebbe dovuto andare dalla sua fidanzata senza preoccuparsi di quello che gli hai detto, <CHARNAME>?~
+
+
+/* new content v10 */
+
+@120   = ~Vedo che siamo della stessa famiglia, per così dire. Ma questo non garantisce un incontro amichevole tra noi... Senza offesa.~

@@ -1,0 +1,10 @@
+IF 
+      Global("C#Q07_OrkCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q07_OrkCreation","GLOBAL",1)
+	    CreateCreature("C#Q07001",[1764.2140]%FACE_0%) //Uguth
+END
+
+
+

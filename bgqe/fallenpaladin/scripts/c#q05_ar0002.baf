@@ -1,0 +1,8 @@
+IF 
+      Global("C#Q05_PaladinCreation","GLOBAL",0)	
+THEN
+	RESPONSE #100
+            SetGlobal("C#Q05_PaladinCreation","GLOBAL",1)
+	    CreateCreature("C#Q05001",[320.284]%FACE_0%) //Sir Dauron
+END
+

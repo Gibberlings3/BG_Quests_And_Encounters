@@ -1,0 +1,189 @@
+@0    = ~¡¿Qué... qué habéis *hecho*?!~
+@1    = ~¡¿Qué... qué habéis *hecho*?! ¡Mi hijo!~
+@2    = ~Oh, otro más. Está *escaleras arriba*, ya deberíais saberlo. Decidle que tiene que hacerse él mismo el té. Yo no soy su esclava.~
+@3    = ~Os ruego me perdonéis, mi dama.~
+@4    = ~Disputa Familiar en Beregost
+
+He conocido a una extraña pareja en una de las casas de Beregost. Aparentemente, el marido y la mujer no se hablan más. Quizás debería investigar esto un poco más.~
+@5    = ~Siento haber interrumpido. Ahora me iré.~
+@6    = ~Acabo de hablar con vuestro marido, y él...~
+@7    = ~¿Y ahora, qué es todo esto? ¡*Sois* una extraña pareja!~
+@8    = ~Esperamos que el collar sea de vuestro agrado, gracias por vuestra ayuda.~
+@9    = ~Efectivamente, ¡era Annie quién tenía el collar! ¡Mi pobre marido! *pareciendo culpable* ¡Muchas gracias por vuestra ayuda! Hicisteis una buena acción.~
+@10   = ~Realmente quería veros felices. ¿Tenéis un comprador honesto para vuestro collar?~
+@11   = ~Fue un placer. Buenos días.~
+@12   = ~Si. Es increíble como de infantiles se portan algunos adultos.~
+@13   = ~Ahora tengo el dinero. ¿Todavía os interesa?~
+@14   = ~*sollozo* Por favor, ahora iros...~
+@15   = ~¿Qué queréis ahora?~
+@16   = ~¿Seguro que no necesitáis algo de dinero?~
+@17   = ~Vuestro marido nos dijo que el collar perdido os pertenece.~
+@18   = ~Nada. Adiós.~
+@19   = ~¡Ya os *dije* dónde podíais encontrarle!~
+@20   = ~Parece que habéis perdido algo. ¿Os podemos ayudar de alguna forma?~
+@21   = ~Vuestra hija mencionó que habéis perdido un collar.~
+@22   = ~Nada. Adiós.~
+@23   = ~Muchas, muchas gracias. Nosotros... somos unas personas muy reservadas, y quizás un poco orgullosas. *sonrisa tímida* Sois una persona muy generosa y amistosa. Estamos en deuda con vos.~
+@24   = ~*Dais las 500 piezas de oro al Sr. Dudley.*~
+@25   = ~Disputa Familiar en Beregost
+
+He comprado el collar de la familia Dudley por las 500 piezas de oro que prometieron. Ahora, su problema de dinero debería estar resuelto.~
+@26   = ~*Ponéis 550 piezas de oro directamente en la bolsa de dinero del Sr. Dudley, intentando aseguraros que no se da cuenta del dinero extra.* *Gracias*, buena gente.~
+@27   = ~Disputa Familiar en Beregost
+
+He comprado el collar de la familia Dudley. En vez de darles solamente las 500 piezas de oro que prometieron, he "introducido" otras 50 piezas en la bolsa de dinero del Sr. Dudley. Espero que la familia ahora vaya bien.~
+@28   = ~*Ponéis 600 piezas de oro directamente en la bolsa de dinero del Sr. Dudley, intentando aseguraros que no se da cuenta del dinero extra.* Deseo que todo os vaya bien.~
+@29   = ~Disputa Familiar en Beregost
+
+He comprado el collar de la familia Dudley. En vez de darles solamente las 500 piezas de oro que prometieron, he "introducido" otras 100 piezas en la bolsa de dinero del Sr. Dudley. Espero que la familia ahora vaya bien.~
+@30   = ~Me habéis oído perfectamente. Al menos tened la decencia de limpiar vuestros zapatos antes de subir arriba.~
+@31   = ~Yo... Oh, no importa.~
+@32   = ~Como digáis. Al menos tened la decencia de limpiar vuestros zapatos antes de subir arriba.~
+@33   = ~¡No voy a escuchar más! No sé porqué sigue enviando a sus amigos. Se está ganando a toda la calle para que piense que *yo* lo tengo. ¡Pero *él* lo está ocultando! Esto es ridículo. Dejadme en paz.~
+@34   = ~¿Habéis perdido algo?~
+@35   = ~No diré nada más. Volved con él y dejadme en paz.~
+@36   = ~¿Os ha dicho eso? *suspiro* Pobre chica. Su padre no piensa en lo que le está haciendo. No piensa en lo que *nos* está haciendo, ¡al ocultar ese collar de perlas!~
+@37   = ~¿Os puedo ayudar de alguna forma?~
+@38   = ~Bueno, peor para él. Debo irme.~
+@39   = ~No, no lo creo. Lo siento, no querría ofenderos, pero incluso nuestros amigos no le encuentran sentido a sus palabras... Me disculpo por la antipatía de antes. Me imaginé que erais sus amigos cuando vinisteis la primera vez. Os doy las gracias por vuestro ofrecimiento de ayudarme, pero por favor, ahora dejadnos a solas.~
+@40   = ~Si solo es dinero lo que habéis perdido, ¿quizás os pueda dar algo?~
+@41   = ~Cómo queráis. Adiós.~
+@42   = ~Ah... no, no, gracias. Tenemos suficiente dinero. Al menos *teníamos*... No importa. No es vuestro problema.~
+@43   = ~¿Lo hizo? Bueno, al menos parece recordarlo... Aunque eso no ayuda, ¡si no me lo *da* a mi!~
+@44   = ~Pero dijo que no tenía razón para ocultarlo... Y que vos también aceptasteis venderlo, pero entonces cambiasteis de opinión.~
+@45   = ~Peor para él. Debo marcharme.~
+@46   = ~¿Qué *cambié* de opinión? Una tarde discutimos sobre la necesidad de vender mi... *sollozo* el collar de mi abuela, ¡y a la mañana siguiente lo ocultó! Ibamos a perder la casa porque no podíamos pagar nuestra última deuda. Realmente no le culpo por eso ya que no es capaz de ganar tanto como antes. No he hablado con mi testarudo marido desde hace varios días. Yo... no puedo llevar esto tan lejos... *sollozo* Por favor, dejadme en paz...~
+@47   = ~Tengo la impresión que aquí estamos andando en círculos. Debe haber una solución diferente para esto.~
+@48   = ~Oh, venga, por favor, no lloréis... Argh, ¡mejor que me vaya!~
+@49   = ~Pobre Annie... Qué será de ella... *sollozo*~
+@50   = ~¡¿Qué... que habéis *hecho*?! ¡Annie!~
+@51   = ~¿Qué estáis haciendo aquí? Bajad y recordadle nuestro acuerdo. Esto es *mío* y abajo es *suyo*. ¡Y decidle que quiero algo de té! ¡Ahora, iros!~
+@52   = ~Os pido perdón, mi señor.~
+@53   = ~De acuerdo, me marcho.~
+@54   = ~Acabamos de hablar con vuestra esposa y ha dicho...~
+@55   = ~¡Esperad! ¡Esperad! Nos... *jadeo* nos disteis mucho dinero, una buena ayuda. ¡Eran 500 *jadeo* 500 piezas de oro lo que acordamos!~
+@56   = ~¡Ah, otra vez vos! Es bueno ver una cara amiga. ¿Le gusto a vuestro amigo el collar?~
+@57   = ~¡Quién habría pensado que era Annie quién cogió el collar!~
+@58   = ~Vuestra esposa está llorando abajo las escaleras... ¿Estáis seguro que no queréis aceptar algo de dinero y acabar con esto?~
+@59   = ~¿Estáis seguro que no queréis nada de dinero?~
+@60   = ~Tengo la impresión después de hablar con vuestra esposa, ¡qué piensa que *vos* estáis ocultando el collar!~
+@61   = ~¡Pensad en preguntarle por el té!~
+@62   = ~¿Habéis perdido algo?~
+@63   = ~¿Estáis sordo? Ahora bajad con ella. *Hay* suficiente espacio en la planta baja.~
+@64   = ~Yo... de acuerdo, adiós.~
+@65   = ~Humpf. Pensaréis que *hay* suficiente espacio en la planta baja.~
+@66   = ~Oh, no intentéis eso conmigo. ¡Sabemos perfectamente bien que *ella* está ocultándolo! Decidle que eso no le llevará a ninguna parte. ¡Tenemos que venderlo!~
+@67   = ~¿Habéis perdido algo?~
+@68   = ~¡Ja! Creo que todo el mundo ya lo sabe. Es vergonzoso vender las posesiones por que... ¿no tenéis suficiente dinero? No es mi culpa que un caballo pisara mis pies. ¡Ahora, por favor! Quiero descansar un poco. Adiós.~
+@69   = ~¿Os podemos ayudar de alguna forma?~
+@70   = ~Claro. Adiós.~
+@71   = ~Si. ¡Bajad con ella y decidle que deje de ocultarlo! Adiós.~
+@72   = ~¿Perdido? Si, ¡efectivamente está perdido! Mi querida esposa está ocultando la última posesión que nos hubiera salvado de perder la casa... ¡Por dios, estoy hablando con un completo extraño de mis problemas de dinero! Será mejor que ahora os vayáis. ¡Adiós!~
+@73   = ~¡Eso es ridículo! ¿Porqué debería hacer eso? Para ser más precisos, actualmente es suyo, una vieja joya de la familia... *suspiro* No es fácil para un hombre admitir que no es capaz de dar a su familia lo que necesita. Ella aceptó vender las perlas. ¡Mi Margareth es realmente una mujer muy valiente! Pero *suspiro* de alguna forma ha cambiado de opinión, y ahora no está. ¡No he hablado con ella desde hace una semana! Esta situación es insoportable. Por favor, dejad a un hombre viejo con su pena. Que tengáis un buen día.~
+@74   = ~Si lo que habéis perdido es solo dinero, ¿quizás os podría dar algo?~
+@75   = ~Adiós.~
+@76   = ~¿Eh? Oh, gracias por esa... er, amistosa oferta. Pero ella nunca aceptará eso, mi Margareth... No, no lo hará.~
+@77   = ~*suspiro* ¿Veis, no es tan fácil? No está bien que cojamos dinero de extraños por que el dinero no nos llega para el contrato. Es muy tentador, pero no es tan sencillo. *suspiro*~
+@78   = ~Habían 100 piezas de oro de más en mi bolsa, después de que os fuerais... ¿Eso fue cosa vuestra? Sois muy amables y generosos, pero no podemos aceptar una donación de tanto dinero.~
+@79   = ~No es una donación. Os he ofrecido 600 piezas de oro por que creo que es exactamente la suma que vale el collar. No voy a discutir con vos delante de vuestra esposa, pero no hay forma de que me devolvías estas 100 piezas de oro ya que os pertenecen a vos, buen hombre.~
+@80   = ~¿Seguro? Veo que realmente necesitáis ese dinero, y yo tengo suficiente para mi.~
+@81   = ~*suspiro* Bueno, entonces devolvédmelo.~
+@82   = ~Habían 50 piezas de oro de más en mi bolsa, después de que os fuerais... ¿Eso fue cosa vuestra? Sois muy amables y generosos, pero no podemos aceptar una donación de tanto dinero.~
+@83   = ~No es una donación. Os he ofrecido 550 piezas de oro por que creo que es exactamente la suma que vale el collar. Bueno, vuestra contra oferta fueron 500, así que lo dejamos en la mitad. No voy a discutir con vos delante de vuestra esposa, pero no hay forma de que me devolvías estas 50 piezas de oro ya que os pertenecen a vos, buen hombre.~
+@84   = ~Estamos en deuda con vos. Que los dioses vayan con vos.~
+@85   = ~No hay ninguna pregunta. Estamos en deuda con vos. Coged de nuevo el dinero, y que lo dioses vayan con vos.~
+@86   = ~Ah, no, no... quiero decir... ¿Realmente...?~
+@87   = ~Ya veis que no hay lágrimas en mis ojos. Creo que se me metió algo de arena dentro al correr para alcanzaros. Sois algo especial, joven, ya os lo digo. Pero lo que habéis dicho tiene sentido... Espero que lo recuerde hasta que pueda volver a casa y se lo diga a Margareth... O quizás no se lo diga, y sorprendiéndola después...~
+@88   = ~Estamos en deuda con vos. Entonces guardaré el dinero... ¡Que los dioses vayan con vos!~
+@89   = ~Bueno, iremos a ver a alguien que conocemos en privado... No siempre es bueno pedir dinero a la gente que conoces, pero es...~
+@90   = ~¡Dios mío!, ¿queréis contar cada detalle de nuestra pobreza?~
+@91   = ~Estamos muy agradecidos de lo que hicisteis por nosotros, pero necesitamos algo de tiempo para hablar de los trámites que tocan ahora... Os pido disculpas, pero ahora estamos bastante preocupados.~
+@92   = ~Siento interferir tanto en vuestros problemas privados, pero actualmente estoy buscando un collar de perlas para una, ee... amiga. ¿Me venderíais el collar por... digamos, 600 piezas de oro?~
+@93   = ~Bueno, espero que todo esté bien. Qué tengáis un buen día.~
+@94   = ~Si, seguro. Adiós.~
+@95   = ~¡¿600 piezas de oro?! Eso es... es mucho más de lo que obtendríamos con otro vendedor.~
+@96   = ~Muchas gracias, es una oferta muy honorable. Aunque no queremos que sea una molestia para vos. Nosotros...~
+@97   = ~¿Margareth, qué estáis diciendo? ¿No habéis oído lo que he dicho? ¿Porqué ahora no deberíamos venderlo? De todas formas no se lo podemos comprar de nuevo a Edgar.~
+@98   = ~Cariño, por favor. No soy tan estúpida para pensar...~
+@99   = ~Margareth, ven un momento.~
+@100  = ~*susurros* ...el dinero directamente y... *murmullos* ...nunca sabréis si Edgar... *susurros*...~
+@101  = ~Si, pero *susurros*...~
+@102  = ~Margareth, Por favor *susurros*... ¿Annie, mm?~
+@103  = ~Bueno *susurros* *sollozo* Tenéis tanta razón, querida. Pero solo *susurros*...~
+@104  = ~Sois la más sabia de todas, amada esposa. Así es exactamente como lo haremos.~
+@105  = ~De acuerdo. Finalmente hemos decidido aceptar vuestra oferta, pero no por las 600 que nos habéis ofrecido. Serán quinientas. Todavía es una oferta muy generosa para nosotros, y somos muy conscientes del hecho que lo sabéis... *ejem*.~
+@106  = ~Qué consuelo. ¡Y yo que creía que tendría que buscar para siempre un collar de perlas!~
+@107  = ~Si os habéis decidido, no discutiré con vos.~
+@108  = ~Si, si, acabemos ya con este trato.~
+@109  = ~Ah, me parece que ahora no tengo suficiente dinero. ¡Volveré más tarde!~
+@110  = ~Disputa Familiar en Beregost
+
+He prometido a los Dudley, en Beregost, comprarles su collar de perlas por 500 piezas de oro.~
+@111  = ~¡Mamá!~
+@112  = ~¡Papá!~
+@113  = ~¿Quienes sois? ¡Estáis asustados!~
+@114  = ~¿Todavía tenéis el collar? ¿Lo puedo ver?~
+@115  = ~¡Mamá no está tan enfadada como creía! Lo único malo es que ahora el collar será vendido...~
+@116  = ~¡No quería hacer daño a nadie!~
+@117  = ~Oh, pobre niña. Silencio, todo va a salir bien. Esconder el collar no ayuda, Annie. Ves a dentro y devuélvelo. Algunas cosas se tienen que hacer aunque duela.~
+@118  = ~¿*Todavía* lloráis?~
+@119  = ~¿Habéis hablado de nuevo con mis padres, no?~
+@120  = ~Efectivamente. ¿seguro que no sabéis nada del collar perdido, Annie?~
+@121  = ~No quiero hablar con vos, chica.~
+@122  = ~Annie, según lo que ha dicho tu madre, tengo la impresión de que "alguien" cogió el collar de su sitio es noche en particular... ¿No creéis que es el momento de devolvérselo a vuestra madre?~
+@123  = ~*suspiro* ¡Ojalá Mamá y Papá dejaran de discutir!~
+@124  = ~¡Habéis estado en nuestra casa! ¿Habéis hablado con mis padres?~
+@125  = ~Efectivamente *hablé* con vuestros padres... Parece que hayan perdido algo.~
+@126  = ~¿Y vos sois...?~
+@127  = ~He hablado con vuestra madre... Parece que desde hace poco vuestros padres no se llevan bien entre ellos.~
+@128  = ~He hablado con vuestro padre... Parece que desde hace poco vuestros padres no se llevan bien entre ellos.~
+@129  = ~¿Yo? Yo... soy Annie, ¿por qué lo preguntáis?~
+@130  = ~No, ellos no... *suspiro* ¡Ojalá Mamá y Papá dejaran de discutir!~
+@131  = ~Si-i... ¿Os dijeron eso? ¿Qué dijeron?~
+@132  = ~Honestamente, no me lo dijeron. Me lo imaginé de lo que decían. ¿Sabéis algo de eso?~
+@133  = ~Si, me lo dijeron. ¡Decidme lo que sepáis!~
+@134  = ~No importa. No quiero hablar con vos, chica.~
+@135  = ~Mamá dijo que necesitábamos algo de dinero para la casa... Pero perdimos el collar que podía venderse.~
+@136  = ~¡Ah, así que es un *collar*! Bueno, tengo la impresión que tanto tu papá como tu mamá creen que el uno se lo oculta al otro... ¿Tenéis alguna idea de dónde podría estar?~
+@137  = ~¿Yo? No... no, ¿debería?~
+@138  = ~Supongo que no importa.~
+@139  = ~¡No os creo! ¡No se lo contarían a nadie!~
+@140  = ~De acuerdo, de acuerdo. No me lo dijeron. Me lo imaginé de lo que decían. ¿Sabéis algo de eso?~
+@141  = ~Pero yo.. yo.. *sollozo* ¡No *quiero* que se venda el collar! Es el último recuerdo que tenemos de la Abuela y yo.. yo.. creía que pensarían otra forma y *sollozo* lo cogí cuando estaban durmiendo y ahora están tan enfadados y todo va tan mal... *sollozo*~
+@142  = ~¡Oh *cielos*! ¡Otra mujer llorona! ¡No puedo resistirlo!~
+@143  = ~Qui.. *sollozo* Quizás tengáis razón. ¡Oh, espero que mamá no esté demasiado enfadada!~
+@144  = ~Disputa Familiar en Beregost
+
+El problema se ha resuelto. La hija cogió el collar para que no se pudiera vender... Ahora lo devolverá.~
+@145   = ~Disputa Familiar en Beregost
+
+El Sr. Dudley devolvió el dinero extra... Los Dudley son una gente honesta y orgullosa. Bueno, ahora podrán resolver sus problemas de finanzas.~
+@146   = ~Disputa Familiar en Beregost
+
+El Sr. Dudley quería devolver el dinero extra... Los Dudley son una gente honesta y orgullosa. Aunque podría hablar con él para que lo aceptara. Bueno, ahora podrán resolver sus problemas de finanzas.~
+
+@147   = ~¡Vos! No... ¡Cogisteis el collar de nuestra hija, verdad! No podemos probar nada, pero creo a mi hija. Soy un malvado... Tendremos que dar la casa, por que no podremos pagar la deuda. Nos marcharemos lejos para empezar de nuevo. ¡Qué pena me dais!~
+@148   = ~¿Todavía tenéis el collar? ¿Se lo daréis a Mamá, verdad?~
+@149   = ~He cambiado de idea. Mejor que llevéis el collar a vuestra madre. ¡Y hacedlo rápido!~
+@150   = ~Dadme el collar, niña. Ya... ejem, lo guardaré a recaudo hasta que vuestros padres se tranquilicen.~
+@151   = ~¿Os debería dar el collar de la Abuela?~
+@152   = ~No, mejor que no.~
+@153   = ~Si, claro. Solo imaginaos lo disgustada que estará vuestra madre cuando lo encuentre. ¡Entonces será mejor que no lo tengáis vos!~
+@154   = ~Si... si eso creéis. ¿Pero se lo daréis a Mamá, no?~
+@155   = ~Disputa Familiar en Beregost
+
+He solucionado el problema, de alguna forma.~
+@156   = ~¡Sois un canalla!~
+@157   = ~¡Cogisteis el collar! ¡Sois un malvado!~
+@158   = ~¿Porqué me contáis eso?~
+@159   = ~Aquí tenéis... vuestro collar. Fue Annie quién lo cogió.~
+@160   = ~Disputa Familiar en Beregost
+
+El problema está resuelto. La hija cogió el collar para que no se pudiera vender... Se lo he devuelto a ellos.~
+@161   = ~¡De verdad! Y vos nos lo dais. No se como os lo montasteis para que Annie os lo diera, ¡pero estamos en deuda con vuestra honestidad!~
+@162   = ~¡Mi collar! Y... Annie, ¿decís? Oh, ¿cómo lo encontrasteis? Muchas gracias por vuestra ayuda. ¡No tenéis ni idea de como se agradece vuestra ayuda tan honesta!~
+@163   = ~Tomad, Annie, devolved el collar. Os pertenece a vos, no a mi. ¡Os lo podéis quedar como regalo!~
+@164   = ~Vos... ¿me dais el collar de la Abuela? Ooh, ¡eso es maravilloso! Se lo diré a todos mis amigos. ¡Muchas gracias!~
+@165   = ~¡Hola! Aún no he devuelto el collar a mis padres... Mamá estaba tan extraña con eso. Quizás se lo enseñe a Papá mañana.~
+
+
