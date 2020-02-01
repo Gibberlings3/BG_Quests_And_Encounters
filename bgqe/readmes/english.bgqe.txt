@@ -12,6 +12,7 @@ Since Version 9, the Bjornin Extention is moved to the RE BG1 mod (Romantic Enco
 
 Install this mod before bg1npc project. Otherwise, some reply options are gone. 
 
+The mod "Brage's Redemption" inserts the same quest as bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
 
 
 DESCRIPTION
@@ -92,7 +93,7 @@ Brage has to be brought to Nashkel alive. The mod also adds the possibility to b
 
 The quest about Brage's sword starts when talking to Oublek after bringing Brage to Nashkel alive.
 
-Note: The mod "Brage's Redemption" inserts the same quest which is a prerequirement before Brage can be taken into the party. BGQE should be installed before Brage's Redemption.
+Note: The mod "Brage's Redemption" inserts the same quest as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
 BGQE should be installed before BG1NPC Project or some of the added reply options to Brage and Borda will be lost.
 
 ***** Spoiler *****
@@ -175,7 +176,7 @@ Baldur's Gate Mini Quests and Encounters Mod is coded using WeiDU and does not o
 
 BG1NPC Project: the component "Brage's Sword" from bgqe has to be installed before the BG1NPC Project or some reply options in Brage's original dialogue might not show.
 
-Brage's Redemption: The component "Brage's Sword" from bgqe inserts the same quest content as it is also included in the mod Brage's Redemption. Brage's Redemption should be installed after bgqe.
+Brage's Redemption: The mod "Brage's Redemption" inserts the same quest as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
 
 
 If you play it with the original BG, the mod is compatible with
@@ -220,7 +221,7 @@ Have fun playing this quest mod!
 
 Annalena: alpha and beta testing, ideas for quest development / NPC-reactions, proof-reading of German translation
 
-Angel: thank you for the hamster BAM (c#q10004.bam), item fixes for v21
+Angel: thank you for the hamster BAM (c#q10004.bam), item fixes and more for v21
 
 berelinde: proofreading of English translation
 
@@ -333,6 +334,9 @@ Version 21:
 --Unbaked and baked Spider Egg should now properly prevent all strings, icons and animations related to the effects they protect against. ("Nashkel Monster")
 --Merchant League Signature Ring's Luck effect will no longer stack with itself. ("Legal Seachart Sources")
 --Merchant League Signature Ring's Charm Person effect will now properly affect only humanoids. ("Legal Seachart Sources")
+-Compatibility code for BG1 added to Spider Egg ioun stones, by Angel.
+-Be nice to Linux users: Keep all mod files lower case, by Angel.
+-renamed order "install" to "readmes"
 -compatibility notes and known issues added to readme
 -bgqe.ini with mod info added
 -added folder libiconv-1.9.2-1-src.7z with iconv licence info

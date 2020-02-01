@@ -2,8 +2,8 @@
 //including "Slime Quest Mini Mod"
 // Author: jastey
 // This mod is supported and hosted by:
-// http://www.kerzenburgforum.de (German support) 
-//and http://www.gibberlings3.net (English support)
+// https://baldurs-gate.de/index.php (German support) 
+//and https://www.gibberlings3.net/ (English support)
 
 //vanilla BG1 version, Tutu, BGT and BG:EE version. Automatic identification.
 
@@ -13,7 +13,7 @@ AUTHOR ~Please post in one of the forums as listed in the readme~
 //MODDER
 VERSION ~v21~ 
 
-README ~bgqe/Install/%LANGUAGE%.bgqe.txt~ ~bgqe/Install/english.bgqe.txt~
+README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
 
 
