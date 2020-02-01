@@ -17,9 +17,11 @@ Note: If downloading from GitHub, make sure you download the latest release from
 
 [Read the German Readme](https://gibberlings3.github.io/Documentation/readmes/german.bgqe.txt)
 
+[Mod Forum at GibbrlingsThree](https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/)
+
 [German Discussion Thread at Kerzenburgforum](https://www.baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/)
 
-[Mod Forum at GibbrlingsThree](https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/)
+[Mod Page at GibbrlingsThree](https://www.gibberlings3.net/mods/quests/bgqe/)
 
 [Mod Page at Kerzenburgforum](https://baldurs-gate.de/index.php?resources/jasteys-baldurs-gate-mini-quests-and-begegnungen-modifikation.17/)
 
