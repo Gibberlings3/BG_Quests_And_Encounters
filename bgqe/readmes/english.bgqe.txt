@@ -221,7 +221,7 @@ Have fun playing this quest mod!
 
 Annalena: alpha and beta testing, ideas for quest development / NPC-reactions, proof-reading of German translation
 
-Angel: thank you for the hamster BAM (c#q10004.bam), item fixes for v21
+Angel: thank you for the hamster BAM (c#q10004.bam), item fixes and more for v21
 
 berelinde: proofreading of English translation
 
@@ -334,6 +334,9 @@ Version 21:
 --Unbaked and baked Spider Egg should now properly prevent all strings, icons and animations related to the effects they protect against. ("Nashkel Monster")
 --Merchant League Signature Ring's Luck effect will no longer stack with itself. ("Legal Seachart Sources")
 --Merchant League Signature Ring's Charm Person effect will now properly affect only humanoids. ("Legal Seachart Sources")
+-Compatibility code for BG1 added to Spider Egg ioun stones, by Angel.
+-Be nice to Linux users: Keep all mod files lower case, by Angel.
+-renamed order "install" to "readmes"
 -compatibility notes and known issues added to readme
 -bgqe.ini with mod info added
 -added folder libiconv-1.9.2-1-src.7z with iconv licence info
