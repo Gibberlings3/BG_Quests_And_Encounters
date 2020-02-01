@@ -4,8 +4,6 @@ Quest Mod for BG1(TotSC), Baldur's Gate Trilogy, Tutu, BG:EE, and EET
 
 Baldur's Gate Mini Quests and Encounters Modification (BGQE) is a mod for "vanilla" BG1 (with the add-on Tales of the Sword Coast), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET, adding several small quests and encounters to the game. Vanilla BG1 without TotSC is no longer officially supported, but it should still work for it.
 
-The duration of the game time added by this mod is approximately 30 to 60 minutes, depending on playing style.
-
 Install this mod before bg1npc project. Otherwise, some reply options are gone. 
 
 The mod "Brage's Redemption" inserts the same quest as bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
