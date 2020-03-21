@@ -189,22 +189,22 @@
 
 /* new for v 16 */
 
-@180  = ~He said something about going North, and how he looks forward to staying in his favorite room in the Friendly Arm Inn for a while. I've never been to the Friendly Arm Inn! My mom won't let me go further than the Belching Dragon.~
-@181  = ~My friends will be so envious!~
-@182  = ~Thank you again for giving me a hamster! All my friends wanted one, too!~
-@183  = ~That one is a grown one, isn't it?~
-@184  = ~Well, that's the one we took accidentally from the vendor...~
-@185  = ~I am not talking about that one, child.~
-@186  = ~Ah, I see.~
-@187  = ~Oh, it's so cute. Can I have it? Please? Please?~
-@188  = ~No, little boy. <CHARNAME> and I are looking for vendor man to give back his hamster.~
-@189  = ~The vendor said he wouldn't work as a vendor any more! He said he'd go far away! You want to carry a hamster in your backpack while adventuring?~
-@190  = ~Well...~
-@191  = ~I prefer to search for the vendor and bring the hamster back to him, nonetheless.~
-@192  = ~The boy has got a point. I know this is not what you wanted, Minsc, but the hamster will stay with the boy and spare us the hassle of searching for that vendor.~
-@193  = ~Yes, I think I prefer this version. Take the hamster, then.~
-@194  = ~Oooh, thank you, thank you, thank you!~
-@195  = ~Boo says it's not a bad idea. Searching for vendor man might be more difficult than would be good for little hamster, so Minsc agrees.~
-@196  = ~I am very sorry about the incident, it was a misunderstanding. I hope you understand. I would like to compensate you for the hamster we accidentally took.~
-@197  = ~Compensate, hm? Ah, don't worry. I left all this behind.~
-@198  = ~Ooh, look, Boo! More baby hamsters!~
+@180  = ~Il à dit quelque chose à propos d'aller vers le Nord, et qu'il avait hâte de séjourner dans sa chambre favorite à l'auberge du Bras-Amical pour un certain temps. Je ne suis jamais allé à l'auberge du Bras-Amical ! Ma mère ne me laisse pas aller plus loin que la taverne du Dragon Qui Rote.~
+@181  = ~Mes amis seront si jaloux !~
+@182  = ~Merci encore de m'avoir offert un hamster ! Tous mes amis en veulent un, eux aussi !~
+@183  = ~C'est un adulte, n'est-ce pas ?~
+@184  = ~Eh bien, c'est celui que nous avons pris accidentellement au vendeur...~
+@185  = ~Je ne parle pas de celui-là, petit.~
+@186  = ~Ah, je vois.~
+@187  = ~Oh, il est si mignon. Je peux l'avoir ? S'il vous plaît ? S'il vous plaît ?~
+@188  = ~Non, petit garçon. <CHARNAME> et moi recherchons le marchand pour lui rendre son hamster.~
+@189  = ~Le marchand à dit qu'il ne voulait plus travailler comme marchand ! Il à dit qu'il partirait loin ! Vous voulez transporter un hamster dans votre besace pendant vos aventures ?~
+@190  = ~Eh bien...~
+@191  = ~Je préfère quand même chercher le vendeur et lui ramener son hamster.~
+@192  = ~Le garçon marque un point. Je sais que ce n'est pas ce que tu voulais, Minsc, mais le hamster va rester avec l'enfant et nous épargnera le désagrément de rechercher ce marchand.~
+@193  = ~Oui, je pense que je préfère cette solution. Prends le hamster, alors.~
+@194  = ~Oooh, merci, merci, merci !~
+@195  = ~Boo dit que ce n'est pas une mauvaise idée. Rechercher ce marchand peut s'avérer plus difficile qu'agréable pour un petit hamster, alors Minsc est d'accord.~
+@196  = ~Je suis vraiment désolé pour cet incident, c'était un malentendu. J'espère que vous comprenez. J'aimerais vous dédommager pour le hamster que nous avons pris accidentellement.~ ~Je suis vraiment désolée pour cet incident, c'était un malentendu. J'espère que vous comprenez. J'aimerais vous dédommager pour le hamster que nous avons pris accidentellement.~
+@197  = ~Me dédommager, hum ? Ah, ne vous en faites pas. J'ai laissé tout ça derrière moi.~
+@198  = ~Ooh, regarde, Boo ! Encore des bébés hamsters !~

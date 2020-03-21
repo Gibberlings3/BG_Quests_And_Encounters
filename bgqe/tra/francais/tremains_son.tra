@@ -1,13 +1,13 @@
-@0    = ~I think you should know that Tremain is scheeming to raise his son nonetheless.~
-@1    = ~We have Tremain's son here. I understood you don't want him to be raised, so here is your chance to prevent it.~
-@2    = ~Ah, I already thought as much. But we know he did not retrieve his son's corpse from the Watermistress yet - and we will not stand guard to prevent it. The luck of the Lady be with you!~
-@3    = ~Indeed, we are convinced that it is the Lady's will for this child to suffer the consequences of his actions. He tested his luck and lost. We thank you for bringing the corpse here, preventing our brother to commit an affront to his church. He will understand with time that there is no other will than the will of the gods.~
-@4    = ~Why... why did you bring my son to The Lady's Hall... After taking the pain to retreive him from the Watermistress? Why would you do such a thing, prevent a father from resurrecting his son... Now it is up to me, begging my brethren for forgiveness so they will give me my son's corpse for me to bury him properly, at least. Oh, the Lady is a cruel one. Damned are those whom she denies her luck!~
+@0    = ~Je pense cependant que vous devez savoir que Tremain envisage de réanimer son fils.~
+@1    = ~Nous avons la dépouille du fils de Tremain avec nous. Je comprends que vous ne vouliez pas qu'il soit ressuscité, voici donc l'occasion pour vous d'empêcher cela.~
+@2    = ~Ah, c'est ce que je pensais également. Mais nous savons qu'il n'a pas encore récupéré le corps de son fils auprès de la Reine des Eaux - et nous ne nous interposerons pas pour empêcher ça. Que la fortune de la Dame soit avec vous !~
+@3    = ~En effet, Nous sommes convaincus que c'est la volonté de la Dame que cet enfant subisse les conséquences de ses actes. Il a tenté sa chance et il a perdu. Nous vous remercions d'avoir amené sa dépouille ici, empêchant ainsi notre frère de commettre un affront envers son culte. Il comprendra avec le temps qu'il n'y a pas d'autre volonté que celle des dieux.~
+@4    = ~Pourquoi... Pourquoi avez-vous amené mon fils à la maison de la Dame... Après la peine que vous vous étiez donné à l'arracher des griffes de la Reine Garce ? Pourquoi feriez-vous une telle chose, empêcher un père de ramener à la vie son fils... Maintenant c'est à moi d'agir, d'implorer le pardon à mes frères pour qu'ils me rendent la dépouille de mon fils et que je puisse l'enterrer convenablement, au moins. Oh, Dame Tymora est cruelle. Maudit soit ceux à qui elle n'accorde pas sa fortune !~ ~Pourquoi... Pourquoi avez-vous amené mon fils à la maison de la Dame... Après la peine que vous vous étiez donnée à l'arracher des griffes de la Reine Garce ? Pourquoi feriez-vous une telle chose, empêcher un père de ramener à la vie son fils... Maintenant c'est à moi d'agir, d'implorer le pardon à mes frères pour qu'ils me rendent la dépouille de mon fils et que je puisse l'enterrer convenablement, au moins. Oh, Dame Tymora est cruelle. Maudit soit ceux à qui elle n'accorde pas sa fortune !~
 /* Ajantis */
-@5    = ~It was a sad decision, but I think it was the right one. One has to follow his god and one's temple and not question and confront their will for personal gain.~
+@5    = ~Ce fut une décision difficile, mais je pense que c'était la bonne. Il faut suivre la voie de sa divinité et de son temple sans questionner ou confronter leurs volontés à des fins personnelles.~
 /* Rasaad */
-@6    = ~Ah, sometimes obeying the will of one's god and the requests of one's temple turns out to be a trial, indeed.~
+@6    = ~Ah, obéir à la volonté de son dieu et aux préceptes de son temple peut parfois se révéler être une véritable épreuve, c'est certain.~
 /* Imoen */
-@7    = ~I think it's sad, <CHARNAME>. I would have liked it better if Tremain could have tried to raise his son.~
+@7    = ~Je pense que c'est triste, <CHARNAME>. J'aurais préfèré que Tremain puisse tenter de réanimer son fils.~
 /* Imoen */
-@8    = ~The right one, Ajantis, seriously?~
+@8    = ~La bonne, Ajantis, sérieusement ?~

@@ -1,3 +1,5 @@
+/* All unused numbers are used in setup.tra! */
+
 @3    = ~Bouteille vide~
 @4    = ~Il s'agit de la bouteille vide qu'Alanna a trouvée dans la maison d'Eltolth métamorphosé. On peut lire sur l'étiquette :
 "Magnifique surprise :
@@ -56,7 +58,7 @@ Les notes se terminent ici.~
 @52   = ~Viola~
 @53   = ~Mme Kenn~
 @54   = ~M. Kenn~
-//@55   = ~Installation de la rencontre etendue de Bjornin...~
+//@55   = ~Installation de la rencontre étendue de Bjornin...~
 
 @57   = ~Sir Trun~
 @58   = ~Linda~
@@ -77,12 +79,12 @@ Les notes se terminent ici.~
 
 @99   = ~Mage~
 @100  = ~Teodor~
-@101  = ~Oeuf~
-@102  = ~Il s'agit d'une sorte d'oeuf que le coursier vous a donné en remerciement de l'avoir secouru. Il se porte comme une pierre ionique et donne une véritable impression de puissance. Vous avez la sensation que quelque chose bouge à l'intérieur.~
-@103  = ~Oeuf de l'araignée gelée~
-@104  = ~Il s'agit de l'oeuf conservé d'une nécro-araignée. Il se porte comme une pierre ionique ; il a certes l'air assez dégoûtant, mais il protège son porteur contre la paralysie magique.
+@101  = ~Œuf~
+@102  = ~Il s'agit d'une sorte d'œuf que le coursier vous a donné en remerciement de l'avoir secouru. Il se porte comme une pierre ionique et donne une véritable impression de puissance. Vous avez la sensation que quelque chose bouge à l'intérieur.~
+@103  = ~Œuf de l'araignée gelée~
+@104  = ~Il s'agit de l'œuf conservé d'une nécro-araignée. Il se porte comme une pierre ionique ; il a certes l'air assez dégoûtant, mais il protège son porteur contre la paralysie magique.
 
-PARAMETRES:
+PARAMÈTRES :
 
 Spécial : le porteur est immunisé aux sorts de paralysie.
 Charisme : abaissé de 3 points lorsqu'il est porté.
@@ -101,183 +103,188 @@ poids : 2~
 
 /* new content v16 */
 
-@110  = ~Brage's Sword~
-@111  = ~Brage's Two-Handed Sword +1~
+@110  = ~L'épée de Brage~
+@111  = ~Épée à deux mains +1 de Brage~
 /* unidentified description bg1:totsc */
-@112  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. 
+@112  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
 
-This is the sword Brage ordered in Waterdeep.
+C'est l'épée que Brage a commandée à Eauprofonde.
 
-STATISTICS:
+PARAMÈTRES :
 
-Damage:  1D10
-Damage type:  slashing
-Weight: 15
-Speed Factor: 10
-Proficiency Type: Large Sword
-Type:  2-handed
-Not Usable By:
- Druid
- Cleric
+Dégâts : 1d10
+Type de dégâts : tranchant
+Poids : 15
+Facteur de vitesse : 10
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Non utilisable par :
+ Druide
+ Clerc
  Mage 
- Thief~
+ Voleur~
 /* identified description bg1:totsc */
-@113  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+@113  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
 
-This is the sword Brage ordered in Waterdeep.
+C'est l'épée que Brage a commandée à Eauprofonde.
 
-STATISTICS:
+PARAMÈTRES :
 
-Damage:  1D10 +1
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 12
-Speed Factor: 9
-Proficiency Type: Large Sword
-Type:  2-handed
-Not Usable By:
- Druid
- Cleric
+Dégâts : 1d10 +1
+TAC0 : +1 bonus
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Non utilisable par :
+ Druide
+ Clerc
  Mage 
- Thief~
+ Voleur~
 /* unidentified description tutu / bgt */
-@114  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+@114  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
 
-This is the sword Brage ordered in Waterdeep.
+C'est l'épée que Brage a commandée à Eauprofonde.
 
-STATISTICS:
+PARAMÈTRES :
 
-Damage:  1D10
-Damage type:  slashing
-Weight: 12
-Speed Factor: 10
-Proficiency Type: Two Handed sword
-Type:  2-handed
-Requires: 14 Strength
-Not Usable By:
- Druid
- Cleric
+Dégâts : 1d10
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 10
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite : 14 en Force
+Non utilisable par :
+ Druide
+ Clerc
  Mage 
- Thief~
+ Voleur
+ Moine
+ Belluaire~
 /* identified description tutu / bgt */
-@115  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+@115  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
 
-This is the sword Brage ordered in Waterdeep.
+C'est l'épée que Brage a commandée à Eauprofonde.
 
-STATISTICS:
+PARAMÈTRES :
 
-Damage:  1D10 +1
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 12
-Speed Factor: 9
-Proficiency Type: Two Handed sword
-Type:  2-handed
-Requires: 14 Strength
-Not Usable By:
- Druid
- Cleric
+Dégâts : 1d10 +1
+TAC0 : +1 bonus
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite : 14 en Force
+Non utilisable par :
+ Druide
+ Clerc
  Mage 
- Thief~
+ Voleur
+ Moine
+ Belluaire~
 /* identified description bgee / eet */
-@116  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
-This one is particularly good at its job as it has been enchanted with a few magical properties.
+@116  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
 
-This is the sword Brage ordered in Waterdeep.
+C'est l'épée que Brage a commandée à Eauprofonde.
 
-STATISTICS:
+PARAMÈTRES :
 
-THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 9
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 14 Strength
+TAC0 : +1
+Dégâts : 1d10+1 (tranchant)
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite :
+ 14 en Force
 
-Weight: 12~
+Poids : 12~
 @117  = ~Hick~
-@118  = ~My servant Mulahey,
+@118  = ~Mon serviteur Mulahey,
 
-your stupid carelessness has made D. to interfere. He sent a nice surprise to the Nashkel Commander, who found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel oblidged to investigate the sightings of your stupid kobolds. Do not fail me again. 
+votre stupide négligence à poussé D. à intervenir. Il a envoyé une belle surprise au commandant de Nashkel, qui trouvera sa nouvelle épée plus particulière qu'il ne s'y attendait. Les forces Amniennes sont affaiblies pour le moment et ne viendront pas dans les niveaux inférieurs des mines. Quoi qu'il en soit, préparez-vous à des intrusions, car bon nombre d'organisations sont suffisamment concernées pour enquêter sur les rapports d'observation de vos imbéciles de kobolds. Ne me décevez pas une nouvelle fois. 
 
 TAZOK~
 @119  = ~Borda,
 
-we don't care whether you put all your effort into the task we ordered you to do. It's not our fault that the Commander went alone on his investigation and therefore found the new sword while being alone on the road instead of being inside the barracks. It is your oversight the whole thing nearly failed. You are lucky as it is that this fool went back to Nashkel at all, so the gold we spent on this blade with its special curse is not lost alltogether. No, you will not receive the second amount of the payment. You can still keep the original sword that Brage was supposed to receive. That is enough compensation. Be glad we don't hunt you down.
+nous nous moquons que vous mettiez tous vos efforts dans la tâche que nous vous avons confiée. Ce n'est pas de notre faute si le commandant est parti enquêter seul et a ainsi trouvé la nouvelle épée alors qu'il voyageait au lieu d'être à l'intérieur de sa caserne. C'est votre incompétence qui a failli tout faire échouer. Vous avez de la chance que cet imbécile soit finalement retourné à Nashkel, de sorte que l'or que nous avons dépensé pour cette lame maudite ne soit pas entièrement perdu. Non, vous ne recevrez pas le deuxième montant de votre paiement. Vous pouvez toujours garder l'épée originale que Brage était censé recevoir. C'est une compensation suffisante. Sois heureux que nous ne te traquions pas.
 
 TAZOK~
 @120  = ~Tazok,
 
-I demand you pay me the second half of what we agreed upon - the Commander only butchering his own family and not half of the garrison is not my fault. The Nashkel forces are weakened and that was the deal! You can send any letters for me to my contact at Nashkel Carnival. I found a merchant desperate enough to buy some of my special potions, he will pass on any letters, as well.
+je demande à ce que vous me payiez la deuxième moitié de ce que nous avons convenu - le commandant ne massacrant que sa propre famille et non la moitié de la garnison n'est pas de mon fait. Les forces de Nashkel sont affaiblies et c'était l'accord convenu ! Vous pouvez envoyer toutes les lettres qui me sont déstinées à mon contact au Carnaval de Nashkel. J'ai trouvé un marchand assez désespéré pour acheter certaines de mes potions spéciales, il me transmettra également toutes les lettres.
 
 Borda~
-@121  = ~Letter to Captain Tollar Kieres~
-@122  = ~This letter bears the official signet of the Merchants' League of Baldur's Gate. It was handed to you by Aldeth Sashenstar and is addressed to Captain Kieres who currently resides in the League's Counting House in the north-eastern part of town.~ 
+@121  = ~Lettre au Capitaine Tollar Kieres~
+@122  = ~Cette lettre porte le sigle officiel du Consortium des Marchands de la Porte de Baldur. Elle vous a été remise par Aldeth Sashenstar, elle est adressée au capitaine Kieres qui réside actuellement dans le Bureau des Comptes du Consortium dans la partie Nord-Est de la ville.~ 
 
-@123  =  ~Signet Ring of the Merchants' League~
-@124  =  ~These rings are only handed to people who enjoy the full trust of the Merchants' League. They serve as identification and should grant you free and full access to the normally restricted Counting House. 
-Rumors are that these rings are one of the reasons for the League's success, apparently being enchanted in some way.
+@123  =  ~Chevalière du Consortium des Marchands~
+@124  =  ~Ces anneaux ne sont remis qu'aux personnes qui jouissent de la pleine confiance du Consortium des Marchands. Ils servent d'identification et doivent vous permettre d'accéder librement au Bureau des Comptes, dont l'accès est normalement restreint.
+On raconte que ces anneaux sont l'une des raisons du succès du Consortium, car ils sont apparemment enchantés.
 
-STATISTICS:
+PARAMÈTRES :
 
-Luck 3 times per day
-Charm Person 3 times per day~
-@125  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one is particularly good at its job as it has been enchanted with a few magical properties.
+Capacités de charges :
+- Chance 3 fois par jour
+- Charme-personne 3 fois par jour~
+@125  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
 
-This is the sword Brage ordered in Waterdeep.
+C'est l'épée que Brage a commandée à Eauprofonde.
 
-STATISTICS:
+PARAMÈTRES :
 
-THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 9
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 14 Strength
+TAC0 : +1
+Dégâts : 1d10+1 (tranchant)
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite :
+ 14 en Force
 
-Weight: 12~
-
-
-
-@126  = ~House of a worried Farmer~
+Poids : 12~
 
 
 
+@126  = ~Maison du fermier inquiet~
 
 
 
-@2002    = ~Ghoul~
-@2003    = ~Farmer~
-@2004	   = ~A worried Farmer
 
-A farmer asked me to come over to his house, if we want to take care of a matter that's been bothering him.~
-@2005	 = ~A worried Farmer
-	
-The farmer from Beregost does not need to worry anymore, the ghoul who haunted him every night is now truly dead.~
-@2006	 = ~A worried Farmer
 
-A farmer told us that he has seen something moving about close to his home. He doesn't know what it was though.~
 
-@2007	   = ~A worried Farmer~
+@2002    = ~Goule~
+@2003    = ~Fermier~
+@2004	   = ~Un fermier inquiet
+
+Un fermier m'a demandé de le rejoindre à son domicile, si nous souhaitons nous occuper de ce qui le tracasse.~
+@2005	 = ~Un fermier inquiet
+
+Le fermier de Beregost n'a plus à s'inquiéter désormais, la goule qui le hantait chaque nuit est maintenant vraiment morte.~
+@2006	 = ~Un fermier inquiet
+
+Un fermier nous à dit qu'il a vu une chose rôder près de sa maison, cependant il ignore ce que c'est.~
+
+@2007	   = ~Un fermier inquiet~
 
 @9002   = ~Sylar~
-@9003	  = ~Bodies for a good Cause
+@9003	  = ~Des corps pour une bonne cause
 
-In Silence's Shop I met an elven necromancer called Sylar. Apparently he has discovered a new method that uses necromancy to resurrect creatures like a cleric. Should he do that, he can improve the image of the necromantic arts, or so he says. For his research, however, he needs corpses that I should get for him out of the sewers.
-He is willing to pay 150 gold pieces per delivered corpse. 
+Dans le Magasin de Silence j'ai rencontré un nécromancien elfe nommé Sylar. Apparemment il a découvert une nouvelle méthode de nécromancie pour ressusciter à la manière d'un clerc. S'il fait ça, il pourra améliorer l'image des arts nécromantiques, enfin c'est ce qu'il prétend. Quoi qu'il en soit, pour ses recherches, il a besoin de corps que je pourrais récupérer pour lui dans les égouts.
+Il est prêt à me payer 150 pièces d'or par corps livré.
 
-So I can kill three birds with one stone: helping science, getting some extra gold and doing something for the environment!~
+Je peux donc faire d'une pierre trois coups : Aider la science, acquérir davantage d'or et faire quelque chose pour l'environnement !~
 
-@9004	= ~Bodies for a good Cause
+@9004	= ~Des corps pour une bonne cause
 
-In Silence's Shop I met an elven necromancer called Sylar. Apparently he has discovered a new method that uses necromancy to resurrect creatures like a cleric. Should he do that, he can improve the image of the necromantic arts, or so he says. For his research, however, he needs dead bodies that I should get for him out of the sewers.
-He is willing to pay 150 gold pieces per delivered corpse. 
+Dans le Magasin de Silence j'ai rencontré un nécromancien elfe nommé Sylar. Apparemment il a découvert une nouvelle méthode de nécromancie pour ressusciter à la manière d'un clerc. S'il fait ça, il pourra améliorer l'image des arts nécromantiques, enfin c'est ce qu'il prétend. Quoi qu'il en soit, pour ses recherches, il a besoin de cadavres que je pourrais récupérer pour lui dans les égouts.
+Il est prêt à me payer 150 pièces d'or par corps livré.
 
-However, I was not interested in helping him. Should I change my mind, I know where I can find him.~
+Cependant, je n'étais pas prêt à lui porter assistance. Si je change d'avis, je sais où je peux le trouver.~
 
-@9005	= ~Bodies for a good Cause~
+@9005	= ~Des corps pour une bonne cause~
 
 
 
@@ -390,25 +397,25 @@ Les parents du petit garçon voulaient me faire arrêter par les soldats. Ce garço
 @10029  = ~Le monstre de Nashkel
 
 Les parents du petit garçon voulaient me faire arrêter par les soldats. Ce garçon avait, à l'évidence, menti au sujet  de notre première rencontre parce qu'ayant perdu son animal "domestique exotique", il avait peur de la colère de son père. Fort heureusement, j'ai réussi à m'expliquer.~
-@10030   = ~L'oeuf mystérieux~
-@10031   = ~L'oeuf mystérieux
+@10030   = ~L'œuf mystérieux~
+@10031   = ~L'œuf mystérieux
 
-Nous avons rencontré le mage qui était supposé recevoir l'oeuf de pierre. Il a dit des choses étranges, il a parlé d'une mauvaise surprise si je ne montrais pas l'oeuf à un mage puissant...~
-@10032   = ~L'oeuf mystérieux
+Nous avons rencontré le mage qui était supposé recevoir l'œuf de pierre. Il a dit des choses étranges, il a parlé d'une mauvaise surprise si je ne montrais pas l'œuf à un mage puissant...~
+@10032   = ~L'œuf mystérieux
 
-L'oeuf a été neutralisé pour de bon. Il reste cependant magique et pourrait nous être utile. C'était un un oeuf de nécro-araignée, prêt à éclore ! Il n'y a plus de danger maintenant.~
-@10033   = ~L'oeuf mystérieux
+L'œuf a été neutralisé pour de bon. Il reste cependant magique et pourrait nous être utile. C'était un œuf de nécro-araignée, prêt à éclore ! Il n'y a plus de danger maintenant.~
+@10033   = ~L'œuf mystérieux
 
-J'ai libéré un homme retenu prisonnier dans une caverne par un brigand qui dressait des wivernes ! Il m'a donné une étrange pierre en forme d'oeuf. Il a dit que le mage à qui elle était censée être livrée était peut-être encore en route vers la Porte de Baldur. Peut-être devrais-je la lui rendre.~
-@10034   = ~L'oeuf mystérieux
+J'ai libéré un homme retenu prisonnier dans une caverne par un brigand qui dressait des wivernes ! Il m'a donné une étrange pierre en forme d'œuf. Il a dit que le mage à qui elle était censée être livrée était peut-être encore en route vers la Porte de Baldur. Peut-être devrais-je la lui rendre.~
+@10034   = ~L'œuf mystérieux
 
-L'oeuf a été détruit. C'était l'oeuf d'une nécro-araignée, prêt à éclore ! Maintenant il n'y a plus de danger.~
-@10035   = ~L'oeuf mystérieux
+L'œuf a été détruit. C'était l'œuf d'une nécro-araignée, prêt à éclore ! Maintenant il n'y a plus de danger.~
+@10035   = ~L'œuf mystérieux
 
-L'oeuf était celui d'une nécro-araignée, et il a éclos dans mon sac à dos !~
-@10067   = ~L'oeuf mystérieux
+L'œuf était celui d'une nécro-araignée, et il a éclos dans mon sac à dos !~
+@10067   = ~L'œuf mystérieux
 
-J'ai libéré un coursier retenu prisonnier dans une caverne par un brigand qui dressait des wivernes ! Il m'a donné un oeuf de nécro-araignée, mis en conserve mais toujours vivant ! Il a dit que le mage à qui il était censé être livré était peut-être encore en route vers la Porte de Baldur. Peut-être devrais-je le lui rendre.~
+J'ai libéré un coursier retenu prisonnier dans une caverne par un brigand qui dressait des wivernes ! Il m'a donné un œuf de nécro-araignée, mis en conserve mais toujours vivant ! Il a dit que le mage à qui il était censé être livré était peut-être encore en route vers la Porte de Baldur. Peut-être devrais-je le lui rendre.~
 
 
 /* Fallen Paladin: from c#q05001.tra */
