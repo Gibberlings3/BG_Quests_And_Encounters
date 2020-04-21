@@ -26,11 +26,11 @@
 
 @66   = ~BG:EE detecte.~
 
-@98   = ~L'ivrogne pres du temple de Beregost~
+@98   = ~Installation de la quete de l'ivrogne pres du temple de Beregost...~
 
 /* new contents v10 */
 
-@105  = ~Un endroit douillet pour Noober~
+@105  = ~Installation de la quete un endroit douillet pour Noober...~
 
 /* new content v15 */
 
@@ -39,16 +39,16 @@
 /* new contents v16 */ 
 
 
-@5000 = ~Brage's Sword~
-@5001 = ~Legal Sea Charts Sources~
-@5002 = ~Additions to the Lady's Hall and the Bitch Queen's Temple~
-@5003 = ~Your SoD game needs to be modmerged before mods can be installed on this game. Check the readme for more information and a link to download the DLC Merger or Modmerge.~ 
+@5000 = ~Installation de la quete de l'epee de Brage...~
+@5001 = ~Installation de la quete sources legales des cartes maritimes...~
+@5002 = ~Installation de la quete additions a la Maison de la Dame et du Temple de la Reine Garce...~
+@5003 = ~Votre jeu Siege of Dragonspear a besoin d'etre fusionne avant que les mods puissent etre installes sur ce jeu. Lisez le readme pour trouver plus d'informations et un lien pour telecharger DLC Merger ou Modmerge.~ 
 
-@5004  = ~A worried Farmer~
-@5005   = ~Bodies for a good Cause~
-
-@5006   = ~This component is not compatible with original Baldur's Gate 1.~
+@5004  = ~Installation de la quete un fermier inquiet...~
+@5005   = ~Installation de la quete des corps pour une bonne cause...~
+ 
+@5006   = ~Ce composant n'est pas compatible avec l'original Baldur's Gate 1.~
 
 /* new for v19 */
-@5007   = ~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~
-@5008   = ~bgqe is not compatible with this game.~
+@5007   = ~La quete "L'epee de Brage" est deja incluse dans le mod "Brage's Redemption".~
+@5008   = ~BGQE n'est pas compatible avec ce jeu.~
