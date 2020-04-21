@@ -324,8 +324,9 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 HISTORY
 
 Version 22:
--"Brage's Sword": will not be stuck in the trial scene for Tutu
 -French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
+-"Brage's Sword": will not be stuck in the trial scene for Tutu
+-"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
 -added LABEL declarations to components
 -typo corrections
 
