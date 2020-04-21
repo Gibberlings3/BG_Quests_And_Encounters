@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v21~ 
+VERSION ~v22~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -591,7 +591,7 @@ LANGUAGE ~Polski~
 
 /* Slime Quest */
 
-BEGIN @38 DESIGNATED 0
+BEGIN @38 DESIGNATED 0 LABEL bgqe_slimequest
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
    
 COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Dialogues/C#Q01001.D~
@@ -663,7 +663,7 @@ END
 ////////////////////////////////////////////////////////////////
 /* Beregost family quest resp. "family treasure" */
 ///////////////////////////////////////////////////////////////
-BEGIN @13 DESIGNATED 1
+BEGIN @13 DESIGNATED 1 LABEL bgqe_familyquest
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
    COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Scripts/C#Q02006.baf~
@@ -707,7 +707,7 @@ END
 /////////////////////////////////////////////////////////////////////////
 /* Quest 3: Babysitting in Nashkell, including "carnival encounter" */
 //////////////////////////////////////////////////////////////////////
-BEGIN @19 DESIGNATED 2
+BEGIN @19 DESIGNATED 2 LABEL bgqe_babysitting
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 COPY ~bgqe/Babysitting/BAMs~ ~override~
@@ -884,7 +884,7 @@ END
 //////////////////////////////////////////////////////////////////
 /* Quest 4: Nashkell Monster */
 /////////////////////////////////////////////////////////////////
-BEGIN @39 DESIGNATED 3
+BEGIN @39 DESIGNATED 3 LABEL bgqe_nashkelmonster
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@10027) @10026 @10028 @10029 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1048,7 +1048,7 @@ WRITE_ASCII 0x2cc ~C#Q04009~
 //////////////////////////////////////////////////////////////
 /* Quest 5: Fallen Paladin */
 /////////////////////////////////////////////////////////////
-BEGIN @43 DESIGNATED 4
+BEGIN @43 DESIGNATED 4 LABEL bgqe_fallenpaladin
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@10036) @10037 @10038 @10039 @10040 @10041 @10042 @10043 @10044 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1125,7 +1125,7 @@ COPY ~bgqe/FallenPaladin/Creatures/C#Q05007.CRE~ ~Override/C#Q05007.CRE~
 //////////////////////////////////////////////////////////////
 /* Quest 6: "Undying Love" */
 /////////////////////////////////////////////////////////////
-BEGIN @48 DESIGNATED 5
+BEGIN @48 DESIGNATED 5 LABEL bgqe_undyinglove
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@10045) @10046 @10047 @10048 @10049 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1155,7 +1155,7 @@ COPY ~bgqe/UndyingLove/Creatures/C#Q06002.CRE~ ~Override/C#Q06002.CRE~
 /////////////////////////////////////////////////////////////
 /* 7: Ork Lover Encounter */
 /////////////////////////////////////////////////////////////
-BEGIN @50 DESIGNATED 6
+BEGIN @50 DESIGNATED 6 LABEL bgqe_orclover
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@10050) @10051 @10052 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1233,7 +1233,7 @@ COPY ~bgqe/OrkLover/Creatures/C#Q07005.CRE~ ~Override/C#Q07005.CRE~
 /////////////////////////////////////////////////////////////
 /* 8: Unexpected Help */
 /////////////////////////////////////////////////////////////
-BEGIN @56 DESIGNATED 7
+BEGIN @56 DESIGNATED 7 LABEL bgqe_unexpectedhelp
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@10053) @10054 @10055 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1273,7 +1273,7 @@ COPY ~bgqe/UnexpectedHelp/Creatures/C#Q08002.CRE~ ~Override/C#Q08002.CRE~
 /////////////////////////////////////////////////////////////
 /* 9: Hamster Business */
 /////////////////////////////////////////////////////////////
- BEGIN @61 DESIGNATED 8
+ BEGIN @61 DESIGNATED 8 LABEL bgqe_manypaws
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@10056) @10057 @10058 @10059 @10060 @10069 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1373,7 +1373,7 @@ END
 //////////////////////////////////////////////////////////////////
 /* 10: Drunk near Beregost Temple */
 /////////////////////////////////////////////////////////////////
-BEGIN @98 DESIGNATED 9
+BEGIN @98 DESIGNATED 9 LABEL bgqe_drunk
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 
@@ -1409,7 +1409,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/drunk/drunk_beregosttemple.d~
 //////////////////////////////////////////////////////////////////
 
 
-BEGIN @105 DESIGNATED 10
+BEGIN @105 DESIGNATED 10 LABEL bgqe_noober
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@66) @10 @17 @18 @31 @51 @59 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
@@ -1467,7 +1467,7 @@ LAF extend_area_script STR_VAR area="%Nashkel_JosephsHouse%" bottom="bgqe/noober
 /* Brage's Sword: q13 */
 /////////////////////////////////////////////////////////
 
-BEGIN @5000 /* ~Brage's Sword~ */ DESIGNATED 11
+BEGIN @5000 /* ~Brage's Sword~ */ DESIGNATED 11 LABEL bgqe_bragesword
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
 REQUIRE_PREDICATE NOT MOD_IS_INSTALLED ~setup-c#brage.TP2~ "0" @5007 /*~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~ */
@@ -1479,7 +1479,7 @@ INCLUDE ~bgqe/tpa/brages_sword_bgqe.tpa~
 /* Sea charts: q14 */
 ////////////////////////////////////////////////////////////////////////////
 
-BEGIN @5001 /* ~Legal Sea Charts Sources~ */ DESIGNATED 12
+BEGIN @5001 /* ~Legal Sea Charts Sources~ */ DESIGNATED 12 LABEL bgqe_seacharts
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
 
@@ -1655,7 +1655,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/seacharts/CalaBald/calabald.d~
 //////////////////////////////////////////////////////////////////////
 
 
-BEGIN @5002 /* ~Additions to the House of the Lady and the Bitch Queen's Temple~ */ DESIGNATED 13
+BEGIN @5002 /* ~Additions to the House of the Lady and the Bitch Queen's Temple~ */ DESIGNATED 13 LABEL bgqe_waterqueentemple
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 
@@ -1670,7 +1670,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/tremains_son.d~
 
 
 
-BEGIN @5004 DESIGNATED 14
+BEGIN @5004 DESIGNATED 14 LABEL bgqe_worriedfarmer
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
 
@@ -1742,7 +1742,7 @@ LAF extend_area_script STR_VAR area="%Beregost_House08%" bottom="bgqe/farmer/baf
 //////////////////////////////////////////////////////////////////
 
 
-BEGIN @5005 DESIGNATED 15
+BEGIN @5005 DESIGNATED 15 LABEL bgqe_bodiesforgoodcause
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
