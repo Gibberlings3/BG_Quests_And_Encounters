@@ -20,7 +20,7 @@
 @20   = ~On dirait qu'il vous manque quelque chose. Pouvons-nous vous aider, d'une manière ou d'une autre ?~
 @21   = ~Votre fille nous a dit qu'il vous manque un collier.~
 @22   = ~Rien du tout. Au revoir.~
-@23   = ~Merci du fond du coeur Nous... sommes des gens très réservés et peut-être un peu trop fiers. *sourire timide* Vous êtes une personne très aimable et généreuse. En fait, nous avons une dette envers vous.~
+@23   = ~Merci du fond du cœur Nous... sommes des gens très réservés et peut-être un peu trop fiers. *sourire timide* Vous êtes une personne très aimable et généreuse. En fait, nous avons une dette envers vous.~
 @24   = ~*Vous donnez 500 pièces d'or à M. Dudley.*~
 
 @26   = ~*Vous introduisez 550 pièces d'or directement dans la bourse de M. Dudley, en essayant de faire en sorte qu'il ne remarque pas l'or supplémentaire.* C'est moi qui vous remercie, mon bon ami.~
@@ -88,7 +88,7 @@
 @88   = ~Nous avons une dette envers vous, généreux étranger. Je vais garder cet argent... Que les Dieux soient avec vous !~ ~Nous avons une dette envers vous, généreuse étrangère. Je vais garder cet argent... Que les Dieux soient avec vous !~
 @89   = ~Eh bien, nous allons rencontrer, en privé, un client que nous connaissons personnellement... C'est rarement une bonne idée de faire affaire avec des connaissances, mais...~
 @90   = ~Miséricorde, tu as vraiment l'intention de dévoiler tous les détails de nos soucis pécuniaires ?~
-@91   = ~Nous vous remercions de tout coeur pour tout ce que vous avez fait pour nous, mais nous avons besoin d'un peu de temps pour discuter de la suite... Je vous demande pardon, mais nous venons de connaître une période très angoissante.~
+@91   = ~Nous vous remercions de tout cœur pour tout ce que vous avez fait pour nous, mais nous avons besoin d'un peu de temps pour discuter de la suite... Je vous demande pardon, mais nous venons de connaître une période très angoissante.~
 @92   = ~Je suis désolé de m'immiscer encore une fois dans vos problèmes personnels, mais je suis justement à la recherche d'un joli collier de perles pour, euh... une amie. Consentiriez-vous à me vendre votre collier pour... disons 600 pièces d'or ?~
 @93   = ~Bon, j'espère que tout ira bien pour vous. Bonne journée.~
 @94   = ~Oui, pour sûr. Au revoir.~
@@ -158,7 +158,7 @@
 @159   = ~Et voici... votre collier. C'est Annie qui l'avait pris.~
 
 @161   = ~Vraiment ! Et vous nous le rendez ! Je ne sais pas comment vous avez convaincu Annie de vous le donner, mais nous vous sommes redevables de votre honnêteté !~
-@162   = ~Mon collier ! Et... Annie, vous dites ? Oh, comment avez-vous trouvé ? Merci du fond du coeur pour votre aide. Vous n'imaginez pas combien votre honnêteté nous est précieuse !~
+@162   = ~Mon collier ! Et... Annie, vous dites ? Oh, comment avez-vous trouvé ? Merci du fond du cœur pour votre aide. Vous n'imaginez pas combien votre honnêteté nous est précieuse !~
 @163   = ~Viens Annie, reprends ce collier. C'est à toi qu'il appartient, pas à moi. Tu peux le garder, c'est un cadeau !~
 @164   = ~Vous... Vous me donnez le collier de mamie ? Ooh, c'est merveilleux ! Il faut que j'aille raconter ça à tous mes amis. Merci infiniment !~
 @165   = ~Salut ! Je n'ai pas encore montré le collier à mes parents... Maman avait l'air vraiment bizarre à ce sujet. Je le montrerai peut-être à papa, demain.~
@@ -208,7 +208,7 @@
 @203   = ~Ils ont l'air heureux... maintenant. Mais est-ce que cela en vaut bien la peine ? Et combien cela durera-t-il ?~
 @204   = ~Xan, cela durera une éternité dans ton souvenir. Et la légendaire mémoire des elfes ?~
 @205   = ~Effectivement ce souvenir restera dans ma tête, Imoen, mais vous seriez stupide de croire qu'il ne sera pas perdu au milieu des centaines de mauvais souvenirs qui se partagent le même coin de mon cerveau.~
-@206   = ~Ah, le coeur de Minsc se réchauffe lorsqu'il voit ces gens heureux à nouveau.~
+@206   = ~Ah, le cœur de Minsc se réchauffe lorsqu'il voit ces gens heureux à nouveau.~
 @207   = ~C'est une véritable fin heureuse.~
 @208   = ~Oh, c'est si gentil de l'avoir acheté ! Je peux l'avoir ? S'il te plaît ? S'il te plaît ?~
 @209   = ~Il est très honorable d'être là au bon moment, faire de bonnes actions...~
@@ -245,10 +245,10 @@
 @240   = ~J'espère bien que Tu l'as pris pour le donner toi-même aux parents, <CHARNAME> !~
 @241   = ~Dépêchons-nous d'amener ce collier aux parents. Je crois comprendre qu'ils en ont besoin au plus vite.~
 @242   = ~Euh, nous allons le leur rendre, n'est-ce pas ?~
-@243   = ~Laisse-moi y jeter un coup d'oeil - hum, très joli. Il doit valoir une belle somme, si tu vois ce que je veux dire !~
+@243   = ~Laisse-moi y jeter un coup d'œil - hum, très joli. Il doit valoir une belle somme, si tu vois ce que je veux dire !~
 @244   = ~Les enfants sont si confiants.~
-@245   = ~Les enfants sont si confiants, cela me brise le coeur !~
-@246   = ~Oh mon vieux Xzar, ne pleure pas ! Ce monde est mesquin et sans coeur !~
+@245   = ~Les enfants sont si confiants, cela me brise le cœur !~
+@246   = ~Oh mon vieux Xzar, ne pleure pas ! Ce monde est mesquin et sans cœur !~
 @247   = ~Il n'y a que vous pour me réconforter comme ça !~
 @248   = ~Le voici...~
 @249   = ~Nous vous sommes très reconnaissants pour votre aide.~

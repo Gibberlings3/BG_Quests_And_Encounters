@@ -32,7 +32,7 @@ Noober est en route pour un endroit douillet. J'irai le voir plus tard, pour voi
 @23   = ~Comment ? Désolé je n'ai pas le temps de discuter. Je parle avec la vieille Mme Joseph.~
 @24   = ~Noober a un gros rhume. Voudriez-vous l'accueillir et le soigner ?~
 @25   = ~Mon dieu m'accorde un pouvoir de soin, mais un simple rhume doit être soigné comme d'habitude. Hélas, mes corvées m'imposent de rester ici au temple, et j'ai peur que cela ne soit pas le meilleur endroit pour guérir un rhume. Continuez à demander aux habitants, je suis sûr qu'il y aura parmi eux une bonne âme avec un lit confortable. Mais revenez ici si vous ne trouvez personne prêt à l'accueillir.~
-@26   = ~Non, je n'ai ni le temps ni la volonté ni un lit de disponible, même si je le voulais. Je suis sûr que vous trouverez une personne de bonne volonté parmi les fermiers, tout particulièrement si vous lui offrez quelques pièces en parallèle à votre requête.~
+@26   = ~Non, je n'ai ni le temps ni la volonté ni un lit de disponible, même si je le voulais. Je suis sûr que vous trouverez une personne de bonne volonté parmi les fermiers, tout particulièrement si quelques pièces d'or accompagnent votre requête.~
 @27   = ~Hum, la femme de Joseph serait assez bienveillante pour accueillir quelqu'un comme Noober.~
 @28   = ~Hum, la pauvre veuve de Joseph serait assez bienveillante pour accueillir quelqu'un comme Noober.~
 @29   = ~Certes sa porte est fermée. Cependant n'ayez pas peur d'entrer. Si vous l'abordez de manière amicale, elle sera prête à vous écouter.~
@@ -71,7 +71,7 @@ La femme dans la maison au sud-est de Nashkel pourrait accueillir Noober. Le bou
 @58   = ~(soupir) Je vous en prie, partez maintenant.~
 @59   = ~Un endroit douillet pour Noober
 
-Noober a trouvé chez la veuve de Joseph un bon endroit pour se soigner. Je me demande cependant ce qui se passera lorsqu'il aura recouvré sa voix. Peut-être devrais-je revenir jeter un coup d'oeil dans quelques temps.~
+Noober a trouvé chez la veuve de Joseph un bon endroit pour se soigner. Je me demande cependant ce qui se passera lorsqu'il aura recouvré sa voix. Peut-être devrais-je revenir jeter un coup d'œil dans quelques temps.~
 /* @60   = @55 */
 @61   = ~Et maintenant regardez-les ! Qui aurait cru que cela fonctionnerait si bien ? Je lui suis très reconnaissant d'aider ma mère. Il est tellement patient, et elle est sourde juste comme il faut... les deux s'accordent à merveille.~
 @62   = ~J'ai donc les moments de liberté nécessaires pour faire le deuil de mon mari bien-aimé...~

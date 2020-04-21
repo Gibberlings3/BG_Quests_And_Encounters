@@ -2,7 +2,7 @@
 @1    = ~J'pourrais aller vous chercher ces cartes maritimes. Pour un bon paquet d'oseille, bien sûr.~
 @2    = ~Combien voulez-vous ?~
 @3    = ~Non, merci. Je ne suis pas intéressé par cette offre.~ ~Non, merci. Je ne suis pas intéressée par cette offre.~
-@4    = ~Ben, J'réfléchis à c'que ça m'coûtera. Hmmm... l'voyage... la bouffe... la piaule... (une p'tite sirène...) hmmm...~
+@4    = ~Ben, j'réfléchis à c'que ça m'coûtera. Hummm... l'voyage... la bouffe... la piaule... (une p'tite sirène...) hummm...~
 @5    = ~Si vous m'donnez 5 000 pièces d'or, j'vous ramène les cartes.~
 @6    = ~C'est beaucoup d'or, Calahan ! Mais je suis prêt à les payer. Tenez, prenez ces 5 000 pièces d'or.~ ~C'est beaucoup d'or, Calahan ! Mais je suis prête à les payer. Tenez, prenez ces 5 000 pièces d'or.~
 @7    = ~C'est beaucoup d'or, Calahan ! Malheureusement, je n'en possède pas autant.~
@@ -28,5 +28,5 @@
 Calahan, un marin de la Barbe d'Ulgoth a proposé de m'apporter les cartes maritimes dont j'ai besoin pour l'excursion de Mendas. Il sera de retour à la Barbe d'Ulgoth dans deux jours.~
 @26   = ~Cartes maritimes via Calahan
 
-Calahan, à la Barbe d'Ulgoth veut 3.000 pièces d'or supplémentaires pour les cartes maritimes !~
+Calahan, à la Barbe d'Ulgoth veut 3 000 pièces d'or supplémentaires pour les cartes maritimes !~
 @27   = ~Cartes maritimes via Calahan~

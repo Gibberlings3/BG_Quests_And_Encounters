@@ -12,7 +12,7 @@
 @11   = ~Oui, j'en ai peur. Regardez cette bouteille vide...~
 @12   = ~J'ai trouvé cette fiole vide par terre. On dirait qu'il a bu quelque chose... Oh mon dieu !~
 @13   = ~*rougit* Normalement, je n'entre pas dans sa maison sans y être invitée. Mais j'avais un rendez-vous avec lui et personne n'a répondu quand j'ai frappé à la porte... Alors j'ai commencé à m'inquiéter...~
-@14   = ~S'il vous plaît jetez un coup d'oeil ici. Je suis sûre que ça ne dérangerait pas Eltolth, si cela peut vous aider à trouver un indice au sujet de ce qui s'est passé ici. Je vous en prie, trouvez un moyen de lui rendre forme humaine !~
+@14   = ~S'il vous plaît jetez un coup d'œil ici. Je suis sûre que ça ne dérangerait pas Eltolth, si cela peut vous aider à trouver un indice au sujet de ce qui s'est passé ici. Je vous en prie, trouvez un moyen de lui rendre forme humaine !~
 @15   = ~Avez-vous appris quelque chose ?~
 @16   = ~Non, rien de neuf. Désolé.~ ~Non, rien de neuf. Désolée.~
 @17   = ~Nous avons trouvé l'homme qui a vendu l'élixir à votre voisin. Il existe un antidote, mais cela va coûter 100 pièces d'or !~
@@ -24,7 +24,7 @@
 @23   = ~Vous êtes très généreux ! Merci beaucoup, mais je vous en prie, dépêchez-vous !~ ~Vous êtes très généreuse ! Merci beaucoup, mais je vous en prie, dépêchez-vous !~
 @24   = ~Dieu merci ! Maintenant que vous êtes en possession de l'antidote, libérez Eltolth le plus vite possible, s'il vous plaît !~
 @25   = ~S'il vous plaît, utilisez l'antidote pour Eltolth ! Qu'attendez-vous ?~
-@26   = ~Nous vous remercions du fond du coeur. Adieu !~
+@26   = ~Nous vous remercions du fond du cœur. Adieu !~
 @27   = ~Merci pour votre aide, mais pouvez-vous nous laisser maintenant ? Adieu.~
 @28   = ~Eltolth ! Oh, Eltolth, que s'est-il passé ?~
 @29   = ~Alanna ? Pourquoi... Oh mon dieu, qu'est-ce que *c'était* ?!~
@@ -52,11 +52,11 @@
 @51   = ~Je commençais à me demander si j'allais devoir vous faire signe... Je suis celui qui vous a sauvé, en effet. Alanna m'a parlé d'une récompense ?~ ~Je commençais à me demander si j'allais devoir vous faire signe... Je suis celle qui vous a sauvé, en effet. Alanna m'a parlé d'une récompense ?~
 @52   = ~Je commençais à me demander si j'allais devoir vous faire signe... Je suis celui qui vous a sauvé, en effet. Alanna m'a parlé d'une récompense ?~ ~Je commençais à me demander si j'allais devoir vous faire signe... Je suis celle qui vous a sauvé, en effet. Alanna m'a parlé d'une récompense ?~
 @53   = ~Enfin, je commençais à croire que cette conversation ne se terminerait jamais. J'ai dépensé *beaucoup* d'argent pour vous sauver et je veux le récupérer, avec une récompense bien sûr.~
-@54   = ~Ah, mon sauveur ! Je vous remercie du fond du coeur de m'avoir secouru. Mais j'aimerais bien que vous nous laissiez seuls à présent. Alanna et moi devons... parler de certaines choses.~
+@54   = ~Ah, mon sauveur ! Je vous remercie du fond du cœur de m'avoir secouru. Mais j'aimerais bien que vous nous laissiez seuls à présent. Alanna et moi devons... parler de certaines choses.~
 @55   = ~Ah, encore vous ! Je vous remercie de ce que vous avez fait pour moi, mais je pense que votre récompense était suffisante. Je vous prie de nous laisser seuls maintenant, Alanna et moi devons... Parler de certaines choses.~
-@56   = ~Attendez, noble héros ! Je vous remercie du fond du coeur. Vous avez fait pour nous plus qu'il n'y paraît. S'il vous plaît, prenez ces 200 pièces d'or pour couvrir vos frais !~ ~Attendez, noble héroïne ! Je vous remercie du fond du coeur. Vous avez fait pour nous plus qu'il n'y paraît. S'il vous plaît, prenez ces 200 pièces d'or pour couvrir vos frais !~
+@56   = ~Attendez, noble héros ! Je vous remercie du fond du cœur. Vous avez fait pour nous plus qu'il n'y paraît. S'il vous plaît, prenez ces 200 pièces d'or pour couvrir vos frais !~ ~Attendez, noble héroïne ! Je vous remercie du fond du cœur. Vous avez fait pour nous plus qu'il n'y paraît. S'il vous plaît, prenez ces 200 pièces d'or pour couvrir vos frais !~
 @57   = ~J'apprécierais vraiment que cet incident reste notre "petit" secret. Maintenant excusez-nous, mais Alanna et moi avons beaucoup de choses à nous dire. Adieu !~
-@58   = ~Oui bien sûr. Prenez ces 200 pièces d'or, c'est tout ce que je peux vous donner. Je vous remercie du fond du coeur. Vous avez fait pour nous plus qu'il n'y paraît.~
+@58   = ~Oui bien sûr. Prenez ces 200 pièces d'or, c'est tout ce que je peux vous donner. Je vous remercie du fond du cœur. Vous avez fait pour nous plus qu'il n'y paraît.~
 @59   = ~Je vous rends votre carnet. Il m'a servi à découvrir ce qui s'était passé ici.~
 @60   = ~J'ai acheté l'antidote, mais je ne l'ai pas sur moi. Je vais aller le chercher.~
 @61   = ~Que... Qu'avez-vous fait ?! Alanna... Alanna, elle est morte !~
@@ -183,7 +183,7 @@
 @178   = ~Ce limon est ENFIN parti, ce bon-à-rien, cet incapable, cette mocheté, cette souillure ! Cependant Tiax voit bien qu'il reste quelque chose par terre... Tiax ordonne de quitter cet endroit ! A savoir... euh, par là !~
 @179   = ~Et vous trouvez ça drôle ?~
 
-@180   = ~Vous me mettez la larme à l'oeil. C'était tellement mesquin <CHARNAME>, vraiment !~
+@180   = ~Vous me mettez la larme à l'œil. C'était tellement mesquin <CHARNAME>, vraiment !~
 @181   = ~Hahahahaaa ! C'était marrant. C'était bien mieux que de tailler le limon en morceaux !~
 @182   = ~Ce n'était pas très amusant. Je veux dire... *glousse* hum. Non, là c'est allé trop loin. J'aurais aimé pouvoir aider ces deux personnes.~
 @183   = ~Et ça t'a amusé, <CHARNAME> ? Pff.~

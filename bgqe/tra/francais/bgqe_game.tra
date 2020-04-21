@@ -89,7 +89,7 @@ PARAMÈTRES :
 Spécial : le porteur est immunisé aux sorts de paralysie.
 Charisme : abaissé de 3 points lorsqu'il est porté.
 
-poids : 2~
+Poids : 2~
 
 /* new contents v10 */
 
@@ -205,24 +205,24 @@ Poids : 12~
 @117  = ~Hick~
 @118  = ~Mon serviteur Mulahey,
 
-votre stupide négligence à poussé D. à intervenir. Il a envoyé une belle surprise au commandant de Nashkel, qui trouvera sa nouvelle épée plus particulière qu'il ne s'y attendait. Les forces Amniennes sont affaiblies pour le moment et ne viendront pas dans les niveaux inférieurs des mines. Quoi qu'il en soit, préparez-vous à des intrusions, car bon nombre d'organisations sont suffisamment concernées pour enquêter sur les rapports d'observation de vos imbéciles de kobolds. Ne me décevez pas une nouvelle fois. 
+votre stupide négligence à poussé D. à intervenir. Il a envoyé une belle surprise au commandant de Nashkel, qui trouvera sa nouvelle épée plus particulière qu'il ne s'y attendait. Les forces amniennes sont affaiblies pour le moment et ne viendront pas dans les niveaux inférieurs des mines. Quoi qu'il en soit, préparez-vous à des intrusions, car bon nombre de groupes sont suffisamment motivés pour enquêter sur les rapports d'observation de vos imbéciles de kobolds. Ne me décevez pas une nouvelle fois. 
 
 TAZOK~
 @119  = ~Borda,
 
-nous nous moquons que vous mettiez tous vos efforts dans la tâche que nous vous avons confiée. Ce n'est pas de notre faute si le commandant est parti enquêter seul et a ainsi trouvé la nouvelle épée alors qu'il voyageait au lieu d'être à l'intérieur de sa caserne. C'est votre incompétence qui a failli tout faire échouer. Vous avez de la chance que cet imbécile soit finalement retourné à Nashkel, de sorte que l'or que nous avons dépensé pour cette lame maudite ne soit pas entièrement perdu. Non, vous ne recevrez pas le deuxième montant de votre paiement. Vous pouvez toujours garder l'épée originale que Brage était censé recevoir. C'est une compensation suffisante. Sois heureux que nous ne te traquions pas.
+nous nous moquons que vous accomplissiez de votre mieux la tâche que nous vous avons confiée. Ce n'est pas de notre faute si le commandant est parti enquêter seul et a ainsi trouvé la nouvelle épée alors qu'il voyageait au lieu d'être à l'intérieur de sa caserne. C'est votre incompétence qui a failli tout faire échouer. Vous avez de la chance que cet imbécile soit finalement retourné à Nashkel, de sorte que l'or que nous avons dépensé pour cette lame maudite n'a pas été entièrement perdu. Non, vous ne recevrez pas le deuxième montant de votre paiement. Vous pouvez toujours garder l'épée originale que Brage était censé recevoir. C'est une compensation suffisante. Soyez heureux que nous ne lancions pas à votre poursuite.
 
 TAZOK~
 @120  = ~Tazok,
 
-je demande à ce que vous me payiez la deuxième moitié de ce que nous avons convenu - le commandant ne massacrant que sa propre famille et non la moitié de la garnison n'est pas de mon fait. Les forces de Nashkel sont affaiblies et c'était l'accord convenu ! Vous pouvez envoyer toutes les lettres qui me sont déstinées à mon contact au Carnaval de Nashkel. J'ai trouvé un marchand assez désespéré pour acheter certaines de mes potions spéciales, il me transmettra également toutes les lettres.
+je demande à ce que vous me payiez la deuxième moitié de ce que nous avons convenu - le commandant ne massacrant que sa propre famille et non la moitié de la garnison n'est pas de mon fait. Les forces de Nashkel sont affaiblies et c'était l'accord convenu ! Vous pouvez envoyer toutes les lettres qui me sont destinées à mon contact au festival de Nashkel. J'ai trouvé un marchand assez désespéré pour acheter certaines de mes potions spéciales, il me transmettra également toutes les lettres.
 
 Borda~
 @121  = ~Lettre au Capitaine Tollar Kieres~
-@122  = ~Cette lettre porte le sigle officiel du Consortium des Marchands de la Porte de Baldur. Elle vous a été remise par Aldeth Sashenstar, elle est adressée au capitaine Kieres qui réside actuellement dans le Bureau des Comptes du Consortium dans la partie Nord-Est de la ville.~ 
+@122  = ~Cette lettre porte le sigle officiel du Consortium des Marchands de la Porte de Baldur. Elle vous a été remise par Aldeth Sashenstar, elle est adressée au capitaine Kieres qui réside actuellement dans le bureau des comptes du Consortium dans la partie nord-est de la ville.~ 
 
 @123  =  ~Chevalière du Consortium des Marchands~
-@124  =  ~Ces anneaux ne sont remis qu'aux personnes qui jouissent de la pleine confiance du Consortium des Marchands. Ils servent d'identification et doivent vous permettre d'accéder librement au Bureau des Comptes, dont l'accès est normalement restreint.
+@124  =  ~Ces anneaux ne sont remis qu'aux personnes qui jouissent de la pleine confiance du Consortium des Marchands. Ils servent d'identification et doivent vous permettre d'accéder librement au bureau des comptes, dont l'accès est normalement restreint.
 On raconte que ces anneaux sont l'une des raisons du succès du Consortium, car ils sont apparemment enchantés.
 
 PARAMÈTRES :
@@ -262,7 +262,7 @@ Poids : 12~
 Un fermier m'a demandé de le rejoindre à son domicile, si nous souhaitons nous occuper de ce qui le tracasse.~
 @2005	 = ~Un fermier inquiet
 
-Le fermier de Beregost n'a plus à s'inquiéter désormais, la goule qui le hantait chaque nuit est maintenant vraiment morte.~
+Le fermier de Bérégost n'a plus à s'inquiéter désormais, la goule qui le hantait chaque nuit est maintenant vraiment morte.~
 @2006	 = ~Un fermier inquiet
 
 Un fermier nous à dit qu'il a vu une chose rôder près de sa maison, cependant il ignore ce que c'est.~
@@ -282,7 +282,7 @@ Je peux donc faire d'une pierre trois coups : Aider la science, acquérir davanta
 Dans le Magasin de Silence j'ai rencontré un nécromancien elfe nommé Sylar. Apparemment il a découvert une nouvelle méthode de nécromancie pour ressusciter à la manière d'un clerc. S'il fait ça, il pourra améliorer l'image des arts nécromantiques, enfin c'est ce qu'il prétend. Quoi qu'il en soit, pour ses recherches, il a besoin de cadavres que je pourrais récupérer pour lui dans les égouts.
 Il est prêt à me payer 150 pièces d'or par corps livré.
 
-Cependant, je n'étais pas prêt à lui porter assistance. Si je change d'avis, je sais où je peux le trouver.~
+Cependant, je n'ai pas envie de lui porter assistance. Si je change d'avis, je sais où je peux le trouver.~
 
 @9005	= ~Des corps pour une bonne cause~
 
@@ -382,7 +382,7 @@ J'ai accepté de garder deux enfants à Nashkel. Leur mère devrait être de retour 
 J'ai rencontré à Nashkel une mère avec deux... garnements. Je les ai envoyés paître. Je ne supporte pas les jérémiades des enfants !~
 @10066  = ~Garde d'enfants à Nashkel
 
-Hum, on dirait que cette mère à Nashkel a rencontré une paire de solides guerriers au grand coeur, qui pensaient devoir me donner une leçon. Je crois qu'ils n'ont pas vécu assez longtemps pour apprendre les leurs...~
+Hum, on dirait que cette mère à Nashkel a rencontré une paire de solides guerriers au grand cœur, qui pensaient devoir me donner une leçon. Je crois qu'ils n'ont pas vécu assez longtemps pour apprendre les leurs...~
 
 
 /* Nashkel Monster: c#q04001_3_4_5.tra */
@@ -495,22 +495,22 @@ J'ai rencontré Linda à l'auberge de Château-Suif. C'est la fiancée de Sir Trun, 
 @10056   = ~Le dilemme du hamster~
 @10057   = ~Le dilemme du hamster
 
-Nous nous sommes débarrassés du deuxième hamster... J'espère que Bouh n'a pas trop le coeur brisé.~
+Nous nous sommes débarrassés du deuxième hamster... J'espère que Bouh n'a pas trop le cœur brisé.~
 @10058   = ~Le dilemme du hamster
 
 Minsc a réussi - je ne sais comment - à prendre un hamster à ce marchand d'animaux de compagnie et refuse de s'en débarrasser, il n'acceptera que de le rendre au marchand. Je présume qu'il va falloir que je me mette à sa recherche.~
 @10059   = ~Le dilemme du hamster
 
-Nous nous sommes débarrassés du deuxième hamster... J'espère que Bouh n'a pas trop le coeur brisé. Il ne nous reste que les petits. Il faut que je m'en débarrasse avant qu'ils n'aient grandi... N'y avait-il pas un garçon au festival de Nashkel, qui voulait à tout prix un hamster ?~
+Nous nous sommes débarrassés du deuxième hamster... J'espère que Bouh n'a pas trop le cœur brisé. Il ne nous reste que les petits. Il faut que je m'en débarrasse avant qu'ils n'aient grandi... N'y avait-il pas un garçon au festival de Nashkel, qui voulait à tout prix un hamster ?~
 @10060   = ~Le dilemme du hamster
 
 Nous nous sommes débarrassés du deuxième hamster... et de tous les petits.~
 
 /* new for v16 */
 
-@10069   = ~Hamster Dilemma
+@10069   = ~Le dilemme du hamster
 
-The boy at Nashkel Carnival took all the little hamsters. I have a feeling he will do so in the future, too, if it ever comes to that.~
+Le garçon au festival de Nashkel a pris tous les petits hamsters. J'ai le sentiment qu'il en fera de même à l'avenir, si cette situation se présente à nouveau.~
 
 
 
@@ -586,7 +586,7 @@ Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
 choisir un parmi :"
 @-1031= "] ?
 [R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
-@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1032= "ECHEC DE L'INSTALLATION EN RAISON D'ERREURS"
 @-1033= "INSTALLATION AVEC DES ALERTES"
 @-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
 @-1035= "Dans la langue"

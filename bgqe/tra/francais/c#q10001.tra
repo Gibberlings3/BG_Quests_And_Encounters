@@ -1,4 +1,4 @@
-@0    = ~Bonjour mesdames et messieurs, jetez un coup d'oeil à ma marchandise, je vous en prie. Vous avez certainement tous des enfants dans votre famille, hein ? Quel meilleur cadeau qu'un joli petit animal ? Regardez, j'ai des hamsters, des lapins...~
+@0    = ~Bonjour mesdames et messieurs, jetez un coup d'œil à ma marchandise, je vous en prie. Vous avez certainement tous des enfants dans votre famille, hein ? Quel meilleur cadeau qu'un joli petit animal ? Regardez, j'ai des hamsters, des lapins...~
 @1    = ~Bien sûr, montrez-moi vos animaux.~
 @2    = ~Pardon ? Que pourrais-je bien faire d'un rongeur ?~
 @3    = ~Ne t'approche pas de ces sales animaux, si tu ne veux rien attraper.~
@@ -36,7 +36,7 @@
 @35   = ~Hors de mon chemin, mon garçon.~
 @36   = ~Je suppose qu'il ne me reste plus qu'à aller jouer.~
 @37   = ~Oh oui, beaucoup. Mais je n'ai pas assez d'argent.~
-@38   = ~Il a parlé "d'aller vers le nord", mais je n'en sais pas plus.~
+//@38   = ~Il a parlé "d'aller vers le nord", mais je n'en sais pas plus.~
 @39   = ~Vraiment ? Oh oui, énormément !~
 @40   = ~Eh bien sers-toi.~
 @41   = ~Non, en fait non.~
@@ -146,7 +146,7 @@
 @139  = ~Minsc, sois raisonnable ! Si tu gardes les deux, ils feront bientôt beaucoup de petits.~
 @140  = ~Vraiment ?! Oh, ce serait génial ! *glousse*~
 @141  = ~Imoen, je ne crois pas que tu ais saisi toutes les conséquences...~
-@142  = ~Oh, des bébés hamsters, ils sont arrivés si vite. Comme ils sont mignons ! Regarde <CHARNAME>. Bouh, vilain bourreau des coeurs. Tu peux être fier d'être papa maintenant !~
+@142  = ~Oh, des bébés hamsters, ils sont arrivés si vite. Comme ils sont mignons ! Regarde <CHARNAME>. Bouh, vilain bourreau des cœurs. Tu peux être fier d'être papa maintenant !~
 @143  = ~Minsc doit-il garder les petits aussi ? Ou peut-être devrais-je les donner à...~
 @144  = ~Est-ce que... vous voulez que je prenne ce bébé hamster ? Ma famille élève et vend des bêtes, mais elles sont en cage. Normalement... je ne les portais pas sur moi.~
 @145  = ~Je... ma foi, si <CHARNAME> me le demande, alors je m'en occuperai de mon mieux. Par Heaum... les devoirs d'un paladin sont véritablement... variés.~
@@ -189,8 +189,8 @@
 
 /* new for v 16 */
 
-@180  = ~Il à dit quelque chose à propos d'aller vers le Nord, et qu'il avait hâte de séjourner dans sa chambre favorite à l'auberge du Bras-Amical pour un certain temps. Je ne suis jamais allé à l'auberge du Bras-Amical ! Ma mère ne me laisse pas aller plus loin que la taverne du Dragon Qui Rote.~
-@181  = ~Mes amis seront si jaloux !~
+@180  = ~Il à dit quelque chose à propos d'aller vers le Nord, et qu'il avait hâte de séjourner dans sa chambre favorite à l'auberge de Brasamical pour un certain temps. Je ne suis jamais allé à l'auberge de Brasamical ! Ma mère ne me laisse pas aller plus loin que la taverne du Dragon Qui Rote.~
+@181  = ~Mes amis seront si envieux !~
 @182  = ~Merci encore de m'avoir offert un hamster ! Tous mes amis en veulent un, eux aussi !~
 @183  = ~C'est un adulte, n'est-ce pas ?~
 @184  = ~Eh bien, c'est celui que nous avons pris accidentellement au vendeur...~
@@ -198,13 +198,13 @@
 @186  = ~Ah, je vois.~
 @187  = ~Oh, il est si mignon. Je peux l'avoir ? S'il vous plaît ? S'il vous plaît ?~
 @188  = ~Non, petit garçon. <CHARNAME> et moi recherchons le marchand pour lui rendre son hamster.~
-@189  = ~Le marchand à dit qu'il ne voulait plus travailler comme marchand ! Il à dit qu'il partirait loin ! Vous voulez transporter un hamster dans votre besace pendant vos aventures ?~
+@189  = ~Le marchand a dit qu'il ne voulait plus travailler comme marchand ! Il a dit qu'il partirait loin ! Vous voulez transporter un hamster dans votre besace pendant vos aventures ?~
 @190  = ~Eh bien...~
 @191  = ~Je préfère quand même chercher le vendeur et lui ramener son hamster.~
 @192  = ~Le garçon marque un point. Je sais que ce n'est pas ce que tu voulais, Minsc, mais le hamster va rester avec l'enfant et nous épargnera le désagrément de rechercher ce marchand.~
 @193  = ~Oui, je pense que je préfère cette solution. Prends le hamster, alors.~
 @194  = ~Oooh, merci, merci, merci !~
-@195  = ~Boo dit que ce n'est pas une mauvaise idée. Rechercher ce marchand peut s'avérer plus difficile qu'agréable pour un petit hamster, alors Minsc est d'accord.~
+@195  = ~Bouh dit que ce n'est pas une mauvaise idée. Rechercher ce marchand peut s'avérer plus difficile qu'agréable pour un petit hamster, alors Minsc est d'accord.~
 @196  = ~Je suis vraiment désolé pour cet incident, c'était un malentendu. J'espère que vous comprenez. J'aimerais vous dédommager pour le hamster que nous avons pris accidentellement.~ ~Je suis vraiment désolée pour cet incident, c'était un malentendu. J'espère que vous comprenez. J'aimerais vous dédommager pour le hamster que nous avons pris accidentellement.~
 @197  = ~Me dédommager, hum ? Ah, ne vous en faites pas. J'ai laissé tout ça derrière moi.~
-@198  = ~Ooh, regarde, Boo ! Encore des bébés hamsters !~
+@198  = ~Ooh, regarde, Bouh ! Encore des bébés hamsters !~
