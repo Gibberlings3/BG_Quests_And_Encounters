@@ -705,7 +705,7 @@ CHAIN
 IF WEIGHT #-1
 ~Global("C#Q13_BragesSwordQuest","GLOBAL",3)~ THEN c#q13brn trial_01
 @109
-== BRAGE @110
+== ~%tutu_var%BRAGE~ @110
 == c#q13brn @111
 
 /* innocence path */
