@@ -261,7 +261,7 @@ zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktio
 -Übersetzungen-
 
 Französische Übersetzung: Le Marquis (des d'Oghmatiques) und Jarvis, v22 von Jarvis (mit Korrekturlesen von Le Marqui und Elisabeth)
-Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin
+Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin.
 
 -v8-
 
@@ -329,8 +329,9 @@ Version 22:
 -French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
 -"Brage's Sword": will not be stuck in the trial scene for Tutu
 -"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
--added LABEL declarations to components
--typo corrections
+-Added LABEL declarations to components.
+-(English version) Typo corrections.
+-(Russian version) Serious updates and corrections of the Russian translation from d0lphin.
 
 Version 21:
 -"Brage's Sword": removed "Attack([PC])" from Borda's dialogue, NVROL fixed if quest is done with letter from Tazok's tent

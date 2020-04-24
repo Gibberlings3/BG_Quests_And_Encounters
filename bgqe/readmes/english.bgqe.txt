@@ -267,10 +267,10 @@ zenblack: alpha and beta testing, ideas for quest developpment / NPC-reactions
 -translations-
 
 French translation: Le Marquis (des d'Oghmatiques) and Jazira, v22 completed by Jazira (proof readings by Le Marqui and Elisabeth)
-Russian translation: v8 by hawkmoon & arcanecoast.ru team, v20 completed by d0lphin
+Russian translation: v8 by hawkmoon & arcanecoast.ru team, v20 completed by d0lphin, v22 revised, corrected, and updated by d0lphin
 
 
--tranlsations v8-
+-old translations v8-
 Italian translation: Stoneangel, with translation of the slimequest by Jakkus & Lord Hagen (GIMT)
 Polish translation: Zed Nocear
 Spanish translation: Excalibur (slime quest), Immortality (proofreading)
@@ -327,8 +327,9 @@ Version 22:
 -French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
 -"Brage's Sword": will not be stuck in the trial scene for Tutu
 -"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
--added LABEL declarations to components
--typo corrections
+-Added LABEL declarations to components.
+-(English version) Typo corrections.
+-(Russian version) Serious updates and corrections of the Russian translation from d0lphin.
 
 Version 21:
 -"Brage's Sword": removed "Attack([PC])" from Borda's dialogue, NVROL fixed if quest is done with letter from Tazok's tent
