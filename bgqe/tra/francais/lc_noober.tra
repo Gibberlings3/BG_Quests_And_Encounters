@@ -1,7 +1,7 @@
 @0    = ~*tousse* Croa ! (Ack) *tousse*~
 @1    = ~Qu'est-il arrivé à votre voix ?~
 @2    = ~Vous avez l'air malade, mon ami.~
-@3    = ~Ha-hahaHAHA ! Noober qui a perdu sa voix ! Cela n'a pas de prix.~
+@3    = ~HahahaHAHA ! Noober qui a perdu sa voix ! Cela n'a pas de prix.~
 @4    = ~(agite ses bras et pointe un endroit) Croa ! Croa ! (Ack) *tousse* Croa !!~
 @5    = ~La rivière ? ... Jeté dedans... Ah, vous avez été jeté dans la rivière par les jeunes de la ville ? Et cela vous a donné un bon rhume.~
 @6    = ~Ne fatiguez pas votre voix plus que nécessaire. Je comprends bien que vous avez attrapé un gros rhume.~
@@ -25,7 +25,7 @@ Une gentille dame de la maison au sud-est de Nashkel va recueillir Noober. Il fa
 @18   = ~Un endroit douillet pour Noober
 
 Noober est en route pour un endroit douillet. J'irai le voir plus tard, pour voir comment les choses évoluent.~
-@19   = ~... - croa ! *tousse*~
+@19   = ~... Croa ! *tousse*~
 @20   = ~Croa ?! Croa ! *tousse* *tousse*~
 @21   = ~Croa !~
 @22   = ~Bonjour !~
@@ -60,14 +60,14 @@ La femme dans la maison au sud-est de Nashkel pourrait accueillir Noober. Le bou
 @47   = ~Excusez-moi de vous avoir dérangée ma bonne dame, mais l'un des habitants de cette ville a besoin de trouver un endroit pour guérir. Il s'agit de Noober, et il peut à peine parler après ce qui lui est arrivé il y a peu.~
 @48   = ~D'accord, je m'en vais.~
 @49   = ~(soupir) Noober... Son baratin permanent est bien la *dernière* chose dont j'aurais besoin. Mais si ce pauvre homme est malade... De toute façon, il faut aussi que je m'occupe de ma mère. Et maintenant que Joseph n'est plus là... Tout ce qui peut m'occuper me serait bénéfique, en fait...~
-@50   = ~(soupir) Oui. Oui, dites-lui de venir ici. Il me reste un petit lit inoccupé, et tant qu'il ne parle pas trop - ce dont il semble incapable, si j'ai bien suivi ce que vous m'avez dit - je veillerai à ce qu'il se repose. Avec son mal de gorge il trouvera probablement à son goût les puddings et les bouillons de ma mère, donc je n'aurai pas à cuisiner en plus...~
+@50   = ~(soupir) Oui. Oui, dites-lui de venir ici. Il me reste un petit lit inoccupé, et tant qu'il ne parle pas trop, ce dont il semble incapable, si j'ai bien suivi ce que vous m'avez dit, je veillerai à ce qu'il se repose. Avec son mal de gorge il trouvera probablement à son goût les puddings et les bouillons de ma mère, donc je n'aurai pas à cuisiner en plus...~
 /* @51   = @32 */
 @52   = ~Partez s'il vous plaît, si vous n'avez rien d'autre à me demander.~
 @53   = ~Bonne journée.~
 @54   = ~Vous n'êtes pas les bienvenus ici. J'apprécie que vous ayez aidé Noober en l'amenant ici, mais vous n'êtes pas les bienvenus. Partez !~
 @55   = ~Oui, vous voyez que Noober est bien arrivé chez moi.~
 @56   = ~Oui c'est de toi que je parle, Noober. Retourne au lit !~
-@57   = ~Non, pas toi - tout va bien maman !~
+@57   = ~Non, pas toi. Tout va bien maman !~
 @58   = ~(soupir) Je vous en prie, partez maintenant.~
 @59   = ~Un endroit douillet pour Noober
 
