@@ -138,7 +138,7 @@
 /* new content v9 */
 
 //---NPC réactions--
-@137   = ~Vous êtes dans une situation bien difficile. Vous n'avez aucune excuse, il y a une bonne raison à votre déchéance - vous avez tué une jeune fille innocente. Mais vous avez été trompé et vous ne réalisiez pas ce que vous étiez en train de faire. Heaum vous pardonnera peut-être si vous lui prouvez votre valeur.~
+@137   = ~Vous êtes dans une situation bien difficile. Vous n'avez aucune excuse, il y a une bonne raison à votre déchéance, vous avez tué une jeune fille innocente. Mais vous avez été trompé et vous ne réalisiez pas ce que vous étiez en train de faire. Heaum vous pardonnera peut-être si vous lui prouvez votre valeur.~
 @138   = ~Priez le Vigilant que ceci ne vous arrive jamais, mon ami.~ ~Priez le Vigilant que ceci ne vous arrive jamais, mon amie.~
 @139   = ~Je suis tellement heureux que nous ayons pu aider cet homme, <CHARNAME>.~
 @140   = ~Puisse-t-il trouver le repos.~
@@ -173,7 +173,7 @@
 @169   = ~Je trouve épouvantable la manière dont vous jouez avec la confiance et la tranquillité des gens, <CHARNAME>.~
 @170   = ~Maintenant t-t-tout le monde va aller à la maison des p-p-parents !~
 @171   = ~Si les circonstances n'étaient pas si tristes, ce serait franchement amusant ! Euh, en fait non. Ce n'est pas du tout amusant.~
-@172   = ~Et Tu trouves cela amusant ? Pourquoi as-Tu révélé cela à tout le monde ?~
+@172   = ~Et tu trouves cela amusant ? Pourquoi as-tu révélé cela à tout le monde ?~
 @173   = ~Ha ! je ne savais pas que tu étais si marrant, <CHARNAME>.~
 @174   = ~Oh, <CHARNAME>, comment avez-vous pu... Les pauvres parents... hi hi hi hi hi !~
 @175   = ~Ouais ! Vite, on fonce chez les parents pour mater la foule dévaster leur baraque !~
