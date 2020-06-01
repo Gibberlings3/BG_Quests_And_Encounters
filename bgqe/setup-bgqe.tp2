@@ -1418,8 +1418,6 @@ REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 
 ADD_JOURNAL TITLE (@66) @10 @17 @18 @31 @51 @59 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
 
-ADD_JOURNAL TITLE (#31418) @77 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
-
 /* BGT: Erase journal entries upon transition to BGII */
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
   EXTEND_TOP ~AR0602.bcs~ ~bgqe/noober/noober_ar0602_bgt.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
