@@ -327,9 +327,17 @@ Version 22:
 -French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
 -"Brage's Sword": will not be stuck in the trial scene for Tutu
 -"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
+-"Slimequest": Tulbor can only be asked about the effects ot the antidote if the antidote is in the group's inventory.
+-"Warm Place for Noober": shouldn't give doubled journal entry about Brage if talked to Nalin.
+-"Legal Searchart Sources": Calahan should spawn always after talking to Mendas.
+- "Unexpected Help": Sir Trun should have his shield in the inventory, not in the shield slot or the shield slot.
 -Added LABEL declarations to components.
 -(English version) Typo corrections.
 -(Russian version) Serious updates and corrections of the Russian translation from d0lphin.
+-"Monster in Nashkel": mage who ordered the egg stone will no longer be there if egg is gone
+-"Brage's Sword": english proof readings by Athies
+-"Brage's Sword": Oublek should take Borda's Letter if shown as evidence.
+
 
 Version 21:
 -"Brage's Sword": removed "Attack([PC])" from Borda's dialogue, NVROL fixed if quest is done with letter from Tazok's tent
