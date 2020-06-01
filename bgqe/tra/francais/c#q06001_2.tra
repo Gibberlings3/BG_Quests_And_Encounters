@@ -1,7 +1,7 @@
 @0    = ~Quoi... Oh ! Vous êtes... Enfin, pas lui. *Hum* Que cherchez-vous dans ma maison ?~
 @1    = ~J'ai l'impression de vous avoir vraiment fait peur. Qui attendiez-vous ?~
 @2    = ~Pardon, c'est juste de la curiosité. Je n'avais pas l'intention de vous effrayer.~
-@3    = ~Je voulais juste jeter un coup d'oeil, si vous n'y voyez pas d'inconvénient.~
+@3    = ~Je voulais juste jeter un coup d'œil, si vous n'y voyez pas d'inconvénient.~
 @4    = ~A prendre tout ce que je peux trouver ! Vous feriez mieux de ne pas me gêner !~
 @5    = ~Eh bien... Pourquoi ne pas vous en parler ? Vous pourriez peut-être même m'aider.~
 //@6    
@@ -110,7 +110,7 @@
 
 
 //--NPC reactions --
-@109  = ~Ceci est donc l'oeuvre d'un nécromancien ? Pfff ! Ce nécromancien est nul, incompétent, indigne d'exercer ce métier... La peau est bien trop verte, l'odeur est infecte ! Et puis pourquoi pourrit-il si vite ? J'aurais fait beaucoup mieux !~
+@109  = ~Ceci est donc l'œuvre d'un nécromancien ? Pfff ! Ce nécromancien est nul, incompétent, indigne d'exercer ce métier... La peau est bien trop verte, l'odeur est infecte ! Et puis pourquoi pourrit-il si vite ? J'aurais fait beaucoup mieux !~
 @110  = ~Par les dieux ! Ceci est un crime contre la Nature. Ce contrat n'est pas valide.~
 @111  = ~Jaheira, si jamais je t'ai dit que j-j-jamais la mort ne nous s-s-séparerait...~
 @112  = ~Je sais.~
@@ -133,5 +133,5 @@
 @129  = ~Tu ne parles pas sérieusement Rasaad, n'est-ce pas ?~
 @130  = ~Vous êtes cinglés ! Tous les deux !~
 @131  = ~Cette situation est totalement... absurde. Mes doigts en tremblent, <CHARNAME>. Honnêtement.~
-@132  = ~Pendant que ces deux idiots se disputent au sujet de cette propriété, pourquoi n'irions-nous pas jeter un coup d'oeil pour voir si... nous ne pourrions pas "alléger" quelque peu leur fardeau ?~
+@132  = ~Pendant que ces deux idiots se disputent au sujet de cette propriété, pourquoi n'irions-nous pas jeter un coup d'œil pour voir si... nous ne pourrions pas "alléger" quelque peu leur fardeau ?~
 @133  = ~Les seuls contrats qui m'importent sont ceux que je signe à la pointe de mon épée. Si les deux personnes concernées veulent en conclure un avec moi, elles sont les bienvenues.~
