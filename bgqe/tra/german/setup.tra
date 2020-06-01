@@ -51,3 +51,5 @@
 @5007   = ~Die Quest "Brages Schwert" ist bereits in der Mod "Barge's Redemption" enthalten.~
 @5008   = ~Die Mod bgqe ist nicht mit diesem Spiel kompatibel.~
 
+/* new for v23 */
+@5009   = ~Cordyrs Quest ohne Sil's Tod abschlieﬂen~

@@ -58,3 +58,6 @@
 /* new for v19 */
 @5007   = ~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~
 @5008   = ~bgqe is not compatible with this game.~
+
+/* new for v23 */
+@5009   = ~Finish Cordyr's Quest without killing Sil~

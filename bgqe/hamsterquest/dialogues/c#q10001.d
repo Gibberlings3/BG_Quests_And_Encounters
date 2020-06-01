@@ -177,7 +177,8 @@ END
 IF ~~ THEN pet_vendor_03
 SAY @21
 IF ~~ THEN DO ~SetGlobal("C#Q10_HamsterQuest","GLOBAL",1)  
-SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",15) EscapeArea()~ EXIT
+SetGlobal("C#Q10_VendorCreation","GLOBAL",2)
+SetGlobalTimer("C#Q10_HamsterTimer","GLOBAL",15) ActionOverride("C#Q10001",EscapeArea())~ EXIT
 END
 
 IF ~GlobalGT("C#Q10_HamsterQuest","GLOBAL",0)~ THEN back
@@ -236,14 +237,14 @@ END
 
 IF ~~ THEN back_07
 SAY @27
-IF ~~ THEN DO ~SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) TakePartyItem("C#Q10001") %ERASEJOURNALENTRY_10058% EscapeArea()~ %UNSOLVED_JOURNAL% @10059 EXIT
+IF ~~ THEN DO ~SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) ActionOverride("C#Q10001",TakePartyItem("C#Q10001")) %ERASEJOURNALENTRY_10058% ActionOverride("C#Q10001",EscapeArea())~ %UNSOLVED_JOURNAL% @10059 EXIT
 IF ~!PartyHasItem("C#Q10002") !PartyHasItem("C#Q10003") !PartyHasItem("C#Q10004")
-!PartyHasItem("C#Q10005") !PartyHasItem("C#Q10006")~ THEN DO ~SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) TakePartyItem("C#Q10001") %ERASEJOURNALENTRY_10058% %ERASEJOURNALENTRY_10069% EscapeArea()~ %SOLVED_JOURNAL% @10057 EXIT
+!PartyHasItem("C#Q10005") !PartyHasItem("C#Q10006")~ THEN DO ~SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) ActionOverride("C#Q10001",TakePartyItem("C#Q10001")) %ERASEJOURNALENTRY_10058% %ERASEJOURNALENTRY_10069% ActionOverride("C#Q10001",EscapeArea())~ %SOLVED_JOURNAL% @10057 EXIT
 END
 
 IF ~~ THEN back_08
 SAY @27
-IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~~ THEN DO ~ActionOverride("C#Q10001",EscapeArea())~ EXIT
 END
 
 IF ~~ THEN back_09
@@ -265,10 +266,10 @@ END
 IF ~GlobalGT("C#Q10_HamsterQuest","GLOBAL",0)
 Global("C#Q10_BoyGotHamster","GLOBAL",0)~ THEN boy
 SAY @30
-+ ~!Global("C#Q10_MinskHasHamster","GLOBAL",3)~ + @31 DO ~SetGlobalTimer("C#Q10_VendorTimer","GLOBAL",TWELVE_DAYS)~ + boy_03
-++ @32 DO ~SetGlobalTimer("C#Q10_VendorTimer","GLOBAL",TWELVE_DAYS)~ + boy_02
-++ @34 DO ~SetGlobalTimer("C#Q10_VendorTimer","GLOBAL",TWELVE_DAYS)~ + boy_01
-++ @35 DO ~SetGlobalTimer("C#Q10_VendorTimer","GLOBAL",TWELVE_DAYS)~ + boy_01
++ ~!Global("C#Q10_MinskHasHamster","GLOBAL",3)~ + @31 + boy_03
+++ @32 + boy_02
+++ @34 + boy_01
+++ @35 + boy_01
 END
 
 IF ~GlobalGT("C#Q10_HamsterQuest","GLOBAL",0)
@@ -410,25 +411,32 @@ IF ~~ THEN C#Q10002 boy_10
 InParty("MINSC") Detect("MINSC") !StateCheck("MINSC",CD_STATE_NOTVALID)~ THEN @195 /* ~Boo says it's not a bad idea. Searching for vendor man might be more difficult than would be good for little hamster, so Minsc agrees.~ */
 END
 IF ~~ THEN DO ~SetGlobal("C#Q10_BoyGotHamster","GLOBAL",1)
-SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) ActionOverride("C#Q10002",TakePartyItem("C#Q10001")) %ERASEJOURNALENTRY_10058%~ %UNSOLVED_JOURNAL% @10059 + boy_06
+SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) 
+SetGlobal("C#Q10_VendorCreation","GLOBAL",4) ActionOverride("C#Q10002",TakePartyItem("C#Q10001")) %ERASEJOURNALENTRY_10058%~ %UNSOLVED_JOURNAL% @10059 + boy_06
 IF ~!PartyHasItem("C#Q10002") !PartyHasItem("C#Q10003") !PartyHasItem("C#Q10004")
 !PartyHasItem("C#Q10005") !PartyHasItem("C#Q10006")~ THEN DO ~SetGlobal("C#Q10_MinskHasHamster","GLOBAL",3) ActionOverride("C#Q10002",TakePartyItem("C#Q10001")) 
-SetGlobal("C#Q10_BoyGotHamster","GLOBAL",1) %ERASEJOURNALENTRY_10058%~ %SOLVED_JOURNAL% @10057 + boy_01
+SetGlobal("C#Q10_BoyGotHamster","GLOBAL",1) 
+SetGlobal("C#Q10_VendorCreation","GLOBAL",4) %ERASEJOURNALENTRY_10058%~ %SOLVED_JOURNAL% @10057 + boy_01
 
 APPEND C#Q10002 //Boy
 
 
 IF ~~ THEN boy_11
 SAY @129
-IF ~~ THEN DO ~TakePartyItemAll("C#Q10002") TakePartyItemAll("C#Q10003") 
-TakePartyItemAll("C#Q10004") TakePartyItemAll("C#Q10005") TakePartyItemAll("C#Q10006") %ERASEJOURNALENTRY_10058% %ERASEJOURNALENTRY_10059% %ERASEJOURNALENTRY_10069% EscapeArea()~ %SOLVED_JOURNAL% @10060 EXIT
+IF ~~ THEN DO ~ActionOverride("C#Q10002",TakePartyItemAll("C#Q10002"))
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10003"))
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10004"))
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10005")) ActionOverride("C#Q10002",TakePartyItemAll("C#Q10006")) %ERASEJOURNALENTRY_10058% %ERASEJOURNALENTRY_10059% %ERASEJOURNALENTRY_10069% 
+ActionOverride("C#Q10002",EscapeArea())~ %SOLVED_JOURNAL% @10060 EXIT
 END
 
 IF ~~ THEN boy_12
 SAY @181
 IF ~~ THEN DO ~SetGlobal("C#Q10_BoyGotHamster","GLOBAL",1)
-TakePartyItemAll("C#Q10002") TakePartyItemAll("C#Q10003") 
-TakePartyItemAll("C#Q10004") TakePartyItemAll("C#Q10005") TakePartyItemAll("C#Q10006")~ %UNSOLVED_JOURNAL% @10069 EXIT
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10002"))
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10003"))
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10004"))
+ActionOverride("C#Q10002",TakePartyItemAll("C#Q10005")) ActionOverride("C#Q10002",TakePartyItemAll("C#Q10006"))~ %UNSOLVED_JOURNAL% @10069 EXIT
 END
 
 END

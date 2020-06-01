@@ -599,7 +599,7 @@ SAY @98
 IF ~~ THEN DO ~TakePartyItem("c#q13le2") DestroyItem("c#q13le2")~ + evidence_03_01
 IF ~OR(2)
 Global("C#q13Brage_NalinVouch","GLOBAL",2)
-Global("C#q13Brage_NalinVouch","GLOBAL",3)~ THEN + all_evidence
+Global("C#q13Brage_NalinVouch","GLOBAL",3)~ THEN DO ~TakePartyItem("c#q13le2") DestroyItem("c#q13le2")~ + all_evidence
 END
 
 IF ~~ THEN evidence_03_01
@@ -705,7 +705,7 @@ CHAIN
 IF WEIGHT #-1
 ~Global("C#Q13_BragesSwordQuest","GLOBAL",3)~ THEN c#q13brn trial_01
 @109
-== BRAGE @110
+== ~%tutu_var%BRAGE~ @110
 == c#q13brn @111
 
 /* innocence path */

@@ -1,4 +1,25 @@
 IF 
+	Global("C#Q04_WyvernDeliverer","GLOBAL",4)
+	!PartyHasItem("C#Q04001")
+	Exists("c#q04007")
+THEN
+	RESPONSE #100
+            ActionOverride("c#q04007",DestroySelf())
+	    SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
+	Continue()
+END
+
+IF 
+	GlobalGT("C#Q04_WyvernDeliverer","GLOBAL",4)
+	!PartyHasItem("C#Q04001")
+	Exists("c#q04007")
+THEN
+	RESPONSE #100
+            ActionOverride("c#q04007",DestroySelf())
+	Continue()
+END
+
+IF 
 	Global("C#Q04_WyvernDeliverer","GLOBAL",3)
 	PartyHasItem("C#Q04001")
 THEN
