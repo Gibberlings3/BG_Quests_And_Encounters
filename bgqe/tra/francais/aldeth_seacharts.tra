@@ -21,12 +21,12 @@
 @20   = ~C'était le bon choix de m'en parler. Je crains que la seule façon de connaître les véritables intentions de Mendas soit d'accepter sa demande. Vous avez prouvé plus d'une fois que vous êtes capable et digne de confiance. Peut-être réussirez-vous à découvrir la vérité. Faites-moi savoir si je peux vous aider d'une quelconque manière.~
 @21   = ~Mendas a dit qu'il possède un bateau, mais ce dont nous avons besoin, ce sont les cartes maritimes. Il a dit qu'un de vos capitaines résidant actuellement au Bureau des Comptes du Consortium des Marchands devrait les avoir.~
 @22   = ~Bien sûr... tenez, prenez cette chevalière. Elle vous donnera libre accès au Bureau des Comptes. Et transmettez cette lettre au Capitaine Kieres. Il est un peu... bizarre par moment, mais avec mes directives il ne posera aucun problème.~
-@23   = ~Bonne chance, mes amis - oh, et s'il vous arrivait de mettre la main sur le journal de bord de Baldurien ou sur un autre de ses artefacts, vous feriez un grand honneur au Consortium des Marchands en les apportant ici. Je veillerai à ce que vous soyez indemnisé en conséquence pour ça !~ ~Bonne chance, mes amis - oh, et s'il vous arrivait de mettre la main sur le journal de bord de Baldurien ou sur un autre de ses artefacts, vous feriez un grand honneur au Consortium des Marchands en les apportant ici. Je veillerai à ce que vous soyez indemnisée en conséquence pour ça !~
+@23   = ~Bonne chance, mes amis. Oh, et s'il vous arrivait de mettre la main sur le journal de bord de Baldurien ou sur un autre de ses artefacts, vous feriez un grand honneur au Consortium des Marchands en les apportant ici. Je veillerai à ce que vous soyez indemnisé en conséquence pour ça !~ ~Bonne chance, mes amis. Oh, et s'il vous arrivait de mettre la main sur le journal de bord de Baldurien ou sur un autre de ses artefacts, vous feriez un grand honneur au Consortium des Marchands en les apportant ici. Je veillerai à ce que vous soyez indemnisée en conséquence pour ça !~
 @24   = ~Les artefacts de Baldurien pour le Consortium des Marchands
 
 J'ai parlé à Aldeth du Consortium des Marchands à propos de Mendas et de ses intentions concernant l'île avec l'épave du navire de Baldurien, Aldeth est d'accord pour dire que tout cela semble un peu étrange. 
 Aldeth m'a promis son aide pour connaître les véritables intentions de Mendas et m'a donné une chevalière qui devrait me permettre d'accéder librement au Bureau des Comptes du Consortium des Marchands ainsi qu'une lettre pour obtenir les cartes maritimes du Capitaine. 
-Il m'a demandé d'enquêter sur ce naufrage et de ramener toutes les reliques de Baldurien que nous pourrions trouver - en particulier son journal de bord.~
+Il m'a demandé d'enquêter sur ce naufrage et de ramener toutes les reliques de Baldurien que nous pourrions trouver, en particulier son journal de bord.~
 @25   = ~Je vous remercie ! Il est bon de voir des gens dignes de confiance de nos jours.~
 @26   = ~Merveilleuse nouvelle, mes amis ! Qu'avez-vous à me dire ?~
 @27   = ~Mendas était un loup-garou ! Il cherchait un moyen de déplacer sa meute vers le continent et avait l'intention de répandre sa lycanthropie !~
@@ -45,15 +45,15 @@ Il m'a demandé d'enquêter sur ce naufrage et de ramener toutes les reliques de B
 @40   = ~Non, rien que nous ne puissions donner au Consortium des Marchands, malheureusement.~
 @41   = ~Je reviendrai plus tard.~
 @42   = ~Quel dommage.~
-@43   = ~Eh bien, si vous avez besoin de quoi que ce soit - je serai là.~
+@43   = ~Eh bien, si vous avez besoin de quoi que ce soit, je serai là.~
 @44   = ~Cet objet fera honneur au Consortium des Marchands ! Je vous remercie, <CHARNAME> ! Cet or n'est qu'une maigre rétribution pour vous récompenser de vos efforts.~
 @45   = ~Ce fut un plaisir, Aldeth. Au revoir.~
 @46   = ~Eh bien, au moins, le paiement était convenable. Je vais y aller.~
 @47   = ~Le couteau à beurre de Baldurien !~
 @48   = ~Certains pourront se moquer de cette trouvaille, mais j'en mesure toute la valeur et je vous récompenserai en conséquence, mes amis !~
-@49   = ~L'épée légendaire de Baldurien et son - couteau à beurre ! Certains pourront se moquer de ce dernier, mais j'en mesure toute la valeur et je vous récompenserai en conséquence. Mes amis, vous m'apportez des artefacts qui aideront à rendre sa gloire d'antan au Consortium des Marchands.~
+@49   = ~L'épée légendaire de Baldurien et son... Couteau à beurre ! Certains pourront se moquer de ce dernier, mais j'en mesure toute la valeur et je vous récompenserai en conséquence. Mes amis, vous m'apportez des artefacts qui aideront à rendre sa gloire d'antan au Consortium des Marchands.~
 @50   = ~Tout ce que je peux faire, c'est vous remercier et vous donner une récompense bien méritée.~
-@51   = ~L'épée légendaire de Baldurien - c'est vraiment une découverte de valeur historique.~
+@51   = ~L'épée légendaire de Baldurien, c'est vraiment une découverte de valeur historique.~
 @52   = ~Tenez, prenez cet or que vous avez largement mérité.~
 @53   = ~Le journal de bord de Baldurien ! C'est vraiment impressionnant.~
 @54   = ~Je le ferai examiner, bien sûr, mais il semble authentique. Je vais vous payer tout de suite : 10 000 pièces d'or !~

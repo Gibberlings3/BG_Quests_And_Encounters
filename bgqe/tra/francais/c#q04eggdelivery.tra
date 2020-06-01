@@ -19,7 +19,7 @@
 @18   = ~Tout de suite ! Et merci encore !~
 @19   = ~Vraiment ? ... Eh bien dans ce cas, je suppose que je dois vous remercier. Quelle coïncidence...~
 @20   = ~Ce n'est pas si simple. J'avais toutes sortes d'œufs... et d'autres choses... et...~
-@21   = ~De toute façon, cela n'a plus d'importance. J'arrête tout. Cela fait suffisamment longtemps que je suis coursier, à voyager du nord au sud et même encore plus loin, à devoir prendre soin de tous ces œufs et autres objets spéciaux. Certains doivent rester au chaud, d'autres doivent être refroidis, et à peu près tous doivent être transportés avec précaution - essayez d'y arriver sur des routes poussiéreuses et cahoteuses, dans le vent et sous la pluie !~
+@21   = ~De toute façon, cela n'a plus d'importance. J'arrête tout. Cela fait suffisamment longtemps que je suis coursier, à voyager du nord au sud et même encore plus loin, à devoir prendre soin de tous ces œufs et autres objets spéciaux. Certains doivent rester au chaud, d'autres doivent être refroidis, et à peu près tous doivent être transportés avec précaution, essayez d'y arriver sur des routes poussiéreuses et cahoteuses, dans le vent et sous la pluie !~
 @22   = ~Il me reste juste un paquet. On dirait une sorte d'œuf conservé d'une manière ou d'une autre... Je devais le livrer à un mage, mais j'ai perdu son nom avec le reste de mes papiers... je... Je ne veux plus de ce truc-là ! Ces livraisons ne m'ont amené que des ennuis! Prenez-le, peut-être vous sera-t-il utile.~
 @23   = ~Non, c'est impossible. Quelqu'un a payé pour l'avoir !~
 @24   = ~Et comment pourrais-je savoir si un monstre ne va pas éclore dans mon sac à dos ?~
@@ -55,7 +55,7 @@
 @54   = ~Je me demande ce qu'un mage pourrait faire de cette chose... Puis-je y jeter un coup d'œil, <CHARNAME> ? ... C'est... très puissant. Très très puissant. Mais qu'est-ce qu'un mage pourrait bien en faire, hormis le porter sur lui ?~
 @55   = ~<CHARNAME>, Puis-je avoir cet œuf ? S'il te plaît ? S'il te plaît ??? J'ai toujours voulu cogner sur la tête de Montaron avec un objet, mais je n'ai jamais su me décider entre un œuf mou et une pierre bien dure. Là, je pourrais le faire avec un œuf qui est aussi une pierre ! D'une pierre deux coups ! Ha ha ha !!!~
 @56   = ~C'est un truc qui se porte sur la tête, hein ? Tu veux que je te l'y pose, Xzar ? Laisse-moi juste le faire tourner un peu avec ma fronde avant, histoire de le placer pile au bon endroit !~
-@57   = ~Quel genre d'animal... - enfin, monstre plutôt - est-il censé sortir de cette chose ?~
+@57   = ~Quel genre d'animal... Enfin, monstre plutôt, est-il censé sortir de cette chose ?~
 @58   = ~Comment ? Je croyais qu'il avait dit que rien ne sortirait de cet œuf !~
 @59   = ~Laisse-moi jeter un coup d'œil à cette pierre. C'est l'affaire d'un esprit, comment dire, intellectuellement supérieur. Hum... oui, on dirait un œuf...~
 @60   = ~Humpf. Au moins on s'est bien amusé avec les bêtes et leur belluaire. Parce que qu'est-ce qu'on a gagné pour avoir sauvé la vie d'un homme ? Un caillou !~
@@ -76,7 +76,7 @@
 @75   = ~Je crois hélas que je n'ai pas suffisamment d'or en ce moment.~
 @76   = ~Je m'en vais.~
 @77   = ~Hum, faites-moi voir... Hola oui, cette chose est bien vivante... Vous savez ce qui va éclore, hein ? Une nécro-araignée, et une très puissante qui plus est. Cet œuf a été traité magiquement pour contenir l'essence magique de cette araignée. C'est ce qui le rend si puissant, mais l'œuf est toujours bien vivant. Vous l'avez transporté près de votre corps, et sa chaleur a suffi pour le réchauffer : il va bientôt éclore.~
-@78   = ~Je pourrais le traiter, essayer de le tuer tout en préservant autant de pouvoir magique que possible. Je ne vous garantis pas le résultat, mais il devrait pouvoir rester à l'état d'objet magique utilisable. Ceci vous coûterait 1000 pièces d'or, et j'ai aussi besoin d'un parchemin de... Non, disons 1200 pièces d'or et je vous le fais de suite, j'utiliserai un de mes parchemins personnels - je sais lequel.~
+@78   = ~Je pourrais le traiter, essayer de le tuer tout en préservant autant de pouvoir magique que possible. Je ne vous garantis pas le résultat, mais il devrait pouvoir rester à l'état d'objet magique utilisable. Ceci vous coûterait 1000 pièces d'or, et j'ai aussi besoin d'un parchemin de... Non, disons 1200 pièces d'or et je vous le fais de suite, j'utiliserai un de mes parchemins personnels, je sais lequel.~
 @79   = ~Décidez-vous rapidement. Je ne peux pas prendre le risque de voir cet œuf éclore dans mon magasin...~
 @80   = ~Très bien. Allez-y.~
 @81   = ~J'ai peur de ne pas avoir assez d'or en ce moment.~
@@ -87,7 +87,7 @@
 @86   = ~Très bien. Donnez-le moi... Vite...~
 @87   = ~Le voilà... Il m'a fallu forcer un peu, et maintenant il est mort. Il a perdu une bonne partie de son pouvoir et... il n'a plus l'air très intéressant maintenant. J'ai fait au mieux.~
 //@88   
-@89   = ~Hum ? Ah - Ha ha ha ha ha ! Hum. Oui, mauvaise surprise. Ceci, jeune voyageur, est un œuf de nécro-araignée magiquement amélioré, et il apparaît qu'il a été trop chauffé. S'il était resté tiède j'aurais pu m'en servir comme un très bon composant d'un sort que je connais, mais vu que l'araignée a commencé à se développer et va probablement éclore dans une semaine, il ne m'est d'aucune utilité.~ ~Hum ? Ah - Ha ha ha ha ha ! Hum. Oui, mauvaise surprise. Ceci, jeune voyageuse, est un œuf de nécro-araignée magiquement amélioré, et il apparaît qu'il a été trop chauffé. S'il était resté tiède j'aurais pu m'en servir comme un très bon composant d'un sort que je connais, mais vu que l'araignée a commencé à se développer et va probablement éclore dans une semaine, il ne m'est d'aucune utilité.~
+@89   = ~Hum ? Ah Ha ha ha ha ha ! Hum. Oui, mauvaise surprise. Ceci, jeune voyageur, est un œuf de nécro-araignée magiquement amélioré, et il apparaît qu'il a été trop chauffé. S'il était resté tiède j'aurais pu m'en servir comme un très bon composant d'un sort que je connais, mais vu que l'araignée a commencé à se développer et va probablement éclore dans une semaine, il ne m'est d'aucune utilité.~ ~Hum ? Ah Ha ha ha ha ha ! Hum. Oui, mauvaise surprise. Ceci, jeune voyageuse, est un œuf de nécro-araignée magiquement amélioré, et il apparaît qu'il a été trop chauffé. S'il était resté tiède j'aurais pu m'en servir comme un très bon composant d'un sort que je connais, mais vu que l'araignée a commencé à se développer et va probablement éclore dans une semaine, il ne m'est d'aucune utilité.~
 @90   = ~Pouvez-vous cependant m'aider ?~
 @91   = ~Je transporte un œuf de nécro-araignée dans mon sac à dos...~
 @92   = ~Eh bien merci pour cette information.~
