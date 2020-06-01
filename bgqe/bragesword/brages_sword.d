@@ -599,7 +599,7 @@ SAY @98
 IF ~~ THEN DO ~TakePartyItem("c#q13le2") DestroyItem("c#q13le2")~ + evidence_03_01
 IF ~OR(2)
 Global("C#q13Brage_NalinVouch","GLOBAL",2)
-Global("C#q13Brage_NalinVouch","GLOBAL",3)~ THEN + all_evidence
+Global("C#q13Brage_NalinVouch","GLOBAL",3)~ THEN DO ~TakePartyItem("c#q13le2") DestroyItem("c#q13le2")~ + all_evidence
 END
 
 IF ~~ THEN evidence_03_01
