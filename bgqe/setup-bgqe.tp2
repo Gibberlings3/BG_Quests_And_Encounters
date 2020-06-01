@@ -181,6 +181,7 @@ END
     OUTER_SPRINT ~eet_var~ ~~
 
     OUTER_SPRINT ~CALAHA~ ~_CALAHA~
+    OUTER_SPRINT ~UlgothsBeard_BCS~ ~_AR1000~
 
   END 
 
@@ -211,6 +212,7 @@ END
     OUTER_SPRINT ~eet_var~ ~~
 
     OUTER_SPRINT ~CALAHA~ ~BGCALAHA~
+    OUTER_SPRINT ~UlgothsBeard_BCS~ ~ARU000~
 
   END 
 
@@ -287,6 +289,7 @@ END
     OUTER_SPRINT ~eet_var~ ~~
 
     OUTER_SPRINT ~CALAHA~ ~CALAHA~
+    OUTER_SPRINT ~UlgothsBeard_BCS~ ~AR1000~
 
   END //End of bgee section
 
@@ -312,6 +315,7 @@ END
     OUTER_SPRINT ~shopkn_additional_statenumber~ ~1~
 
     OUTER_SPRINT ~CALAHA~ ~CALAHA_~
+    OUTER_SPRINT ~UlgothsBeard_BCS~ ~BG1000~
 
   END //End of eet section
 
@@ -1644,6 +1648,14 @@ LAF extend_area_script STR_VAR area="%NEBaldursGate%" top="bgqe/seacharts/aldeth
 
 /* CALABALD (= Calahan + Baldur's Isle): sea charts from Calahan, by Shuv-Oohl  */
 
+/* Calahan should spawn always after talking to Mendas */
+COPY_EXISTING ~%UlgothsBeard_BCS%.bcs~ ~override~
+  DECOMPILE_AND_PATCH BEGIN
+    REPLACE_TEXTUALLY ~\(Global("MetMendas","GLOBAL",1)\)~
+		~OR(2) \1 GlobalGT("TalkedToMendas","GLOBAL",0)~
+  END
+  BUT_ONLY_IF_IT_CHANGES
+
 
 LAF extend_area_script STR_VAR area="%UlgothsBeard%" top="bgqe/seacharts/CalaBald/arU000.baf"   END
 
@@ -1778,3 +1790,72 @@ EXTEND_TOP ~%area_script%.bcs~ ~bgqe/Sylar/baf/WA7809.baf~
 LAF extend_area_script STR_VAR area="%EBaldursGate_SilencesShop%" bottom="bgqe/Sylar/baf/WA7809.baf" END
 
 COMPILE EVALUATE_BUFFER ~bgqe/Sylar/d~
+
+/*
+
+//////////////////////////////////////////////////////////////////
+/* Cordyrs Quest ohne Sil's Tod abschlieﬂen - von Lumorus */
+//////////////////////////////////////////////////////////////////
+
+BEGIN @5009 /* ~Cordyrs Quest ohne Sil's Tod abschlieﬂen~ */
+DESIGNATED 16 LABEL bgqe_cordyrnokillingsil
+REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+
+/* ~Cordyr and the Sirines~ */
+ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+  ADD_JOURNAL TITLE (#31307) @29 @30 USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~
+END
+ACTION_IF GAME_IS ~eet~ THEN BEGIN
+  ADD_JOURNAL TITLE (#231307) @29 @30 USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~
+END
+
+INCLUDE ~bg1re/lib/func_fetch_journal_entries.tph~
+COPY_EXISTING ~%tutu_var%cordyr.dlg~ ~override~
+	LPF ~READ_JOURNAL_STRREF~
+		INT_VAR
+		state         = "1"  // state index
+		stateResponse = 0     // relative response index (e.g. 0 for first response associated with the state, 1 for second response, and so on...)
+		RET
+		strref    // returned string reference, or -1 if not available
+	END
+	SET unsolved_strref = strref
+	LPF ~READ_JOURNAL_STRREF~
+		INT_VAR
+		state         = "3"  // state index
+		stateResponse = 0     // relative response index (e.g. 0 for first response associated with the state, 1 for second response, and so on...)
+		RET
+		strref    // returned string reference, or -1 if not available
+	END
+	SET solved_strref = strref
+
+
+ACTION_IF GAME_IS ~bg1 totsc~ THEN BEGIN
+  COMPILE EVALUATE_BUFFER ~bgqe/friendlysil/friendlysil.d~
+END ELSE BEGIN
+  COMPILE EVALUATE_BUFFER ~bgqe/friendlysil/cordyr_add.d~
+		~bgqe/friendlysil/friendlysil.d~ USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~
+
+END
+
+/* Unlock door to Cordyr's house */
+LAF extend_area_script STR_VAR area="%BaldursGateDocks%" top="bgqe/friendlysil/AR1200.baf" END
+
+
+/* BGT: Erase journal entries upon transition to BGII */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  <<<<<<<< ...inlined/friendlysil_ar0602_bgt.baf
+IF
+	Global("C#BGQE_FS_EraseJournalBGT","AR0602",0)
+THEN
+	RESPONSE #100
+		EraseJournalEntry(@29)
+		EraseJournalEntry(@30)
+		SetGlobal("C#BGQE_FS_EraseJournalBGT","AR0602",1)
+		Continue()
+END
+  >>>>>>>>
+  EXTEND_TOP ~AR0602.bcs~ ~...inlined/friendlysil_ar0602_bgt.baf~ EVALUATE_BUFFER 
+USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~ 
+
+END
+*/
