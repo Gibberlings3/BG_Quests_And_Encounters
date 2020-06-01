@@ -9,6 +9,5 @@ THEN
 		EraseJournalEntry(@31)
 		EraseJournalEntry(@51)
 		EraseJournalEntry(@59)
-		EraseJournalEntry(@77)
 		Continue()
 END
