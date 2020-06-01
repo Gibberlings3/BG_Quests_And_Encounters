@@ -1,0 +1,11 @@
+/* Cordyr's Door in Baldur's Gate Docks - unlock it */
+/* BaldursGateDocks */
+
+IF
+	Global("C#bgqe_SilCordyr","GLOBAL",0)
+THEN
+	RESPONSE #100
+		Unlock("DOOR1213")
+		SetGlobal("C#bgqe_SilCordyr","GLOBAL",1)
+		Continue()
+END
