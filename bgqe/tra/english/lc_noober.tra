@@ -94,9 +94,11 @@ Noober found a new home! At least for the time being, he seems to be the perfect
 @75   = ~A story?~
 @76   = ~Nah, I am too tired to tell anything.~
 
+/*
 @77  = ~The Tale of Captain Brage
 
 Nalin at the Temple of Helm in Nashkel seems to think that Brage might be under the influence of some evil force. If I return Brage to the temple, he might not be killed for his crimes.~
+*/
 @78  = ~Hm, tough luck, you know. Seems the only soul who would have been ready to care for you is gone.~
 @79  = ~Too bad she's *dead* now, isn't it? Hmph.~
 @80  = ~It's... alright, I guess. It is strange, with him not able to talk, and he tries to be of help, although that is not how it should be, with him needing rest.~
