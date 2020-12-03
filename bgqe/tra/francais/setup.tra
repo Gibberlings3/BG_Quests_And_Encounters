@@ -1,3 +1,4 @@
+/* All unused numbers are used in bgqe_game.tra! */
 @0    = ~Mod Baldur's Gate Mini-Quests and Encounters~
 @1    = ~Une installation de BG1Tutu a ete detectee. Utilisation du code de l'installation pour BG1Tutu...~
 @2    = ~Une installation de Baldur's Gate a ete detectee. Installation...~
@@ -55,4 +56,4 @@
 
 
 /* new for v23 */
-@5009   = ~Finish Cordyr's Quest without killing Sil~
+@5009   = ~Installation de la quete terminer la quete de Cordyr sans tuer Sil...~
