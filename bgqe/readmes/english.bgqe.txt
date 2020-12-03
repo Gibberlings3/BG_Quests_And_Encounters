@@ -2,7 +2,7 @@
 					Modification 
 	for BG1:TotSC, BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
 					by jastey 
-					Version 21
+
 
 Baldur's Gate Mini Quests and Encounters Modification (BGQE) is a mod for "vanilla" BG1 (with the add-on Tales of the Sword Coast), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET, adding several small quests and encounters to the game. Vanilla BG1 without TotSC is no longer officially supported, but it should still work for it.
 
@@ -17,19 +17,19 @@ The mod "Brage's Redemption" inserts the same quest as bgqe's component "Brage's
 
 DESCRIPTION
 
-1. Slime Quest
+1. Slime Quest (LABEL bgqe_slimequest)
 ------
 This quest is located in Beregost. If you pass one of the houses in the northwest, a woman dressed in red should approach you. There are some strange things going on in the house of her neighbor, and she wants your help.
 
 This release revises the quest to meet known compatibility issues and adds a (more) evil quest solution. 
 
 
-2. Family Treasure Quest
+2. Family Treasure Quest (LABEL bgqe_familyquest)
 ------
 This quest is also located in Beregost. If you go into another house in the northwest, you will meet a strange couple. They obviously have a serious problem, but haven't talked to each other for some time now. Although it seems that they aren't interested in talking to you either, it might just be that you can solve the riddle and ease their worries... or betray them and ruin the family completely.
 
 
-3. Babysitting in Nashkel, including Carnival Encounter
+3. Babysitting in Nashkel, including Carnival Encounter (LABEL bgqe_babysitting)
 ------
 This quest occurs in Nashkel. Did you meet the desperate mother of two little children? She has something important to do, and is in great need of a trustworthy person who will watch over her children while she is away. So, fearless monster fighter, will you be ready for this challenge?
 
@@ -38,29 +38,29 @@ The babysitting is only available for paladin PCs or for non-evil aligned PC's w
 At the Nashkel carnival, you can find Tina. The young woman is another tragic soul in need of some money... or so she says.
 
 
-4. Monster in Nashkel
+4. Monster in Nashkel (LABEL bgqe_nashkelmonster)
 ------
 Near the Manor House in Nashkel you can save little Arnim from a monster that's chasing him. He is staying with his parents in the Nashkel Inn. For such a heroic deed, the thankfulness of his parents should be all yours... shouldn't it?
 
 The delivery man who mixed up the egg deliveries will be met later in the game. One of his customers is very, very unhappy about what he got and both will be delighted to see you. 
 
 
-5. Fallen Paladin in Baldur's Gate
+5. Fallen Paladin in Baldur's Gate (LABEL bgqe_fallenpaladin)
 ------
 In the northern part of the city, in the temple of Helm, an evil fallen paladin is hiding. He slaughtered a little girl without hesitation... at least that's what the angry people in front of the temple are saying.
 
 
-6. Undying Love in the Fishing Village
+6. Undying Love in the Fishing Village (LABEL bgqe_undyinglove)
 ------
 The frightened woman in the left house tells you she is threatened by a monster hiding behind her house. Maybe you should go and take a look?
 
 
-7. Lovesick Half-Orc
+7. Lovesick Half-Orc (LABEL bgqe_orclover)
 ------
 On the road north of Nashkel, you meet Uguth. He is on his way to Baldur's Gate, to his beloved. Due to his appearance, being clearly descended from orcs, he has to overcome a special hindrance before he can take her into his arms.
 
 
-8. Unexpected Help
+8. Unexpected Help (LABEL bgqe_unexpectedhelp)
 ------
 In the Candlekeep infirmary, glum Sir Trun seeks healing from his wounds. He was injured badly in a fight, but that doesn't seem to be his actual problem, as Linda, his fiancee who is staying in Candlekeep Inn, can tell you...
 This quest is accessible both during the Prologue or after the return to Candlekeep. Note: Since most players finish this quest in the prologue, there are no NPC reactions for this quest.
@@ -68,7 +68,7 @@ This quest is accessible both during the Prologue or after the return to Candlek
 Note: The "Extension of Bjornin Encounter" is moved to "bg1re: Romantic Encounters for BG1" where it belongs.
 
 
-9. Many little paws
+9. Many little paws (LABEL bgqe_manypaws)
 ------
 Formerly meant as an Easter Egg quest I figured it makes sense to tell players it's actually there. Make sure you have Minsc in your party when talking to the vendor at the Nashkel Carnival. Everything else will develop from there - promise!
 
@@ -76,17 +76,17 @@ Spoiler:
 The pet vendor will reappear after three ingame days at the 3rd level of the Friendly Arm Inn.
 
 
-10. Drunk near Beregost Temple
+10. Drunk near Beregost Temple (LABEL bgqe_drunk)
 ------
 Inform the priests in Beregost Temple about the drunken wannabe Lich outside so they can keep an eye on his safety!
 
 
-11. A Warm Place for Noober
+11. A Warm Place for Noober (LABEL bgqe_noober)
 ------
 Approximately three days after the first Noober contact in Nashkel, your PC will witness an oxymoron: a Noober who cannot talk! Show mercy and find a kind soul ready to take him in and help him to cure his sickness - and also a place where, finally, Noober can put his talkativeness into good use, as well.
 
 
-12. Brage's Sword (not for original BG1)
+12. Brage's Sword (not for original BG1) (LABEL bgqe_bragesword)
 ------
 This component gives the player the possibility to prove that Brage fell victim to an intrigue and save him from a death by the gallows - if the PC wants to. There is an evil quest option, of course.
 Brage has to be brought to Nashkel alive. The mod also adds the possibility to bring him to Oublek (i.e. the Nashkel authorities) instead of to the temple. This was unfinished original game content. (For this possibility, please note the install order as mentioned above).
@@ -102,26 +102,26 @@ BGQE should be installed before BG1NPC Project or some of the added reply option
 -The quest can be solved completely before clearing the Nashkel mines (or later). For the case that Laryssa, Brage's cousin, was killed upon the first confrontation, the last needed quest clue will be found no sooner than Tazok's tent.
 
 
-13. Legal Seachart Sources (not for original BG1)  
+13. Legal Seachart Sources (not for original BG1) (LABEL bgqe_seacharts)
 -------
 This component adds two more possibilities to receive the sea charts for Mendas' trip to Balduran's island. Both ways will be installed. 
 13.A by Lumorus: If the PC helped Aldeth Sashenstar in the Cloakwood as well inside the Merchants' League, Aldeth will be very interested in the research and Balduran's artefacts. He will enable access to the sea charts without the need to steal them or intoxicate the captain.
 13.B CALABALD (= Calahan + Balduran's Island) by Shuv-Oohl: The sailor Calahan in Ulgoth's Beard wouldn't be a real sailor if he wouldn't have sea charts of his own. He won't part with them without an appropriate compensation, though... PCs with enough gold have now the possibility to go to Balduran's island before entering Baldur's Gate.
 
 
-14. Additions to the House of the Lady and the Bitch Queen's Temple
+14. Additions to the House of the Lady and the Bitch Queen's Temple (LABEL bgqe_waterqueentemple)
 -------
 This component extends the original game quest about priest Tremain's dead son and the scoll of dispel from the temple of Umberlee.
 14.A Prevent Jalanthe from Making a Mistake, by Lumorus: The High Priest of the Water Queen requests a Book of Wisdom for the scroll of dispel. But would it really be a wise idea for her to rely on another god's help? The PC now can ask explicitly whether the priestess is sure that Umberlee would be pleased if the ceremony was done with the wisdom received by Tymora... 
 14.B Tremain's Sellout: in the original game, Tremain asks the PC to retrieve his dead son from the temple of Umberlee, so he can revive him. The PC now has the possibility to bring the son to the temple, instead. 
 
 
-15. A worried farmer (not for original BG1)
+15. A worried farmer (not for original BG1) (LABEL bgqe_worriedfarmer)
 -------
 In Beregost/Nashkel there are some rumors by a few farmers, so far one of them is addressed in this component: talk to a farmer in Beregost until he tells the PC about a creature making noises behind his house at night. He will then ask the PC to help him to get rid of it.
 
 
-16. Bodies for a good cause
+16. Bodies for a good cause (LABEL bgqe_bodiesforgoodcause)
 -------
 This mod plays in Baldur's Gate. Bring the corpses you find in the sewers to Sylar, a necromancer with a special research. This component is also good for PCs that care about the environment! :D
 
@@ -151,11 +151,10 @@ On successful extraction, there should be an bgqe folder and a setup-bgqe.exe fi
 Run setup-bgqe.exe in your game folder to reinstall, uninstall or otherwise change components.
 
 Mac OS X
-Make sure you have the Mac OS X version of the mod (named "OSX-BGQE-vx.zip"). If properly extracted, you should have a bgqe folder, setup-bgqe, and setup-bgqe.command in your game's main directory folder. To install, simply double-click setup-bgqe.command and follow the instructions on screen.
+If properly extracted, you should have a bgqe folder, setup-bgqe, and setup-bgqe.command in your game's main directory folder. To install, simply double-click setup-bgqe.command and follow the instructions on screen.
 
 Linux
-Make sure you have the Linux version of the mod (named "lin-bgqe-vx.zip").
-Download the latest version of WeiDU for Linux from WeiDU.org and copy WeiDU and WeInstall to /usr/bin. Following that, open a terminal, cd to your BG installation directory, run 'tolower' and answer Y to both queries. You can avoid running the second option (linux.ini) if you have already ran it once in the same directory. To save time, the archive is already tolowered, so there is no need to run the first option (lowercasing file names) either if you have extracted only this mod since the last time you lower cased file name. If you are unsure, running tolower and choosing both options is the safe bet.
+Download the latest version of WeiDU for Linux from WeiDU.org and copy WeiDU and WeInstall to /usr/bin. Following that, open a terminal, cd to your BG installation directory, run 'tolower' and answer Y to both queries. You can avoid running the second option (linux.ini) if you have already ran it once in the same directory. If you are unsure, running tolower and choosing both options is the safe bet.
 Run WeInstall setup-bgqe in your game folder to install the mod. Then run wine BGMain.exe and start playing.
 
 
@@ -165,10 +164,10 @@ NOTE: BG(II):EE are actively supported games. Please note that every patch updat
 If you have installation problems or encounter any bugs, please post your bug report in one of the forum threads given below.
 
 Direkt links: 
-English forum: http://gibberlings3.net/forums/index.php?showforum=148
+English forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
 
 
-German thread at Kerzenburgforum: http://kerzenburg.baldurs-gate.eu/showthread.php?t=36870
+German thread at Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
 
 COMPATIBILITY
 
@@ -191,8 +190,7 @@ For original BG, the mod should also be technically compatible with (this does n
 -BG1 Ajantis Expansion Mod
 -Xan Friendship Mod
 
-For Tutu please look into "Tutu Mod Compatibility and Order of Install" at G3:
-http://gibberlings3.net/forums/index.php?showtopic=8122
+
 
 
 KNOWN ISSUES
@@ -268,11 +266,11 @@ zenblack: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 -translations-
 
-French translation: Le Marquis (des d'Oghmatiques)
-Russian translation: v8 by hawkmoon & arcanecoast.ru team, v20 completed by d0lphin
+French translation: Le Marquis (des d'Oghmatiques) and Jazira, v22 completed by Jazira (proof readings by Le Marqui and Elisabeth)
+Russian translation: v8 by hawkmoon & arcanecoast.ru team, v20 completed by d0lphin, v22 revised, corrected, and updated by d0lphin
 
 
--tranlsations v8-
+-old translations v8-
 Italian translation: Stoneangel, with translation of the slimequest by Jakkus & Lord Hagen (GIMT)
 Polish translation: Zed Nocear
 Spanish translation: Excalibur (slime quest), Immortality (proofreading)
@@ -281,7 +279,7 @@ Spanish translation: Excalibur (slime quest), Immortality (proofreading)
 
 CamDawg, cmorgan and G3 staff: Uploading to G3 site and actualisation of links
 
-CamDawg (G3-Team), Hedian, Fridtjof, Sir Darian, Kerzenburgforum: Hosting of the Mod.
+CamDawg (G3-Team), Hedian, Fridtjof, Sir Darian, Tim und Vernochan (Kerzenburgforum): Hosting of the Mod.
 
 
 TOOLS USED
@@ -318,11 +316,28 @@ This mod is not developed, supported, or endorsed by BioWare, Black Isle Studios
 =============================================================================
 =============================================================================
 REDISTRIBUTION NOTE: The BG1 Mini-Quests and Encounters Mod was created to be freely enjoyed by all Baldur's Gate players and may not be sold.
+MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translation updates from the community.
 =============================================================================
 
 
 
 HISTORY
+
+Version 22:
+-French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
+-"Brage's Sword": will not be stuck in the trial scene for Tutu
+-"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
+-"Slimequest": Tulbor can only be asked about the effects ot the antidote if the antidote is in the group's inventory.
+-"Warm Place for Noober": shouldn't give doubled journal entry about Brage if talked to Nalin.
+-"Legal Searchart Sources": Calahan should spawn always after talking to Mendas.
+- "Unexpected Help": Sir Trun should have his shield in the inventory, not in the shield slot or the shield slot.
+-Added LABEL declarations to components.
+-(English version) Typo corrections.
+-(Russian version) Serious updates and corrections of the Russian translation from d0lphin.
+-"Monster in Nashkel": mage who ordered the egg stone will no longer be there if egg is gone
+-"Brage's Sword": english proof readings by Athies
+-"Brage's Sword": Oublek should take Borda's Letter if shown as evidence.
+
 
 Version 21:
 -"Brage's Sword": removed "Attack([PC])" from Borda's dialogue, NVROL fixed if quest is done with letter from Tazok's tent

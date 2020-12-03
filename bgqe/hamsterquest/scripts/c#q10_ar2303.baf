@@ -1,7 +1,7 @@
 
 IF
+	Global("C#Q10_VendorCreation","GLOBAL",4)
 	Exists("C#Q10001")
-	GlobalTimerExpired("C#Q10_VendorTimer","GLOBAL")
 THEN
 	RESPONSE #100
 		ActionOverride("C#Q10001",DestroySelf())
@@ -12,8 +12,7 @@ END
 
 
 IF 
-      GlobalLT("C#Q10_VendorCreation","GLOBAL",3)
-      GlobalGT("C#Q10_VendorCreation","GLOBAL",0)		
+      Global("C#Q10_VendorCreation","GLOBAL",2)		
 THEN
 	RESPONSE #100
             SetGlobal("C#Q10_VendorCreation","GLOBAL",3)

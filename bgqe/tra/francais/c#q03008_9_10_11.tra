@@ -246,11 +246,11 @@
 @245  = ~Désolé de vous avoir dérangée.~ ~Désolée de vous avoir dérangée.~
 @246  = ~Puis-je vous aider d'une manière ou d'une autre ?~
 @247  = ~Gardez votre mauvaise humeur pour vous, mégère.~
-@248  = ~Pour sûr, vous pourriez me donner 1000 pièces d'or par exemple. Ah ah ! Désolée, c'était une blague. Toutefois j'ai *vraiment* besoin d'argent. Auriez-vous un travail pour moi ? Je veux dire un travail correct. N'allez pas imaginer me proposer autre chose ! Je suis une dame de bonne réputation, après tout. Je veux dire un travail comme... comme... aller vous acheter quelque chose... vous faire la cuisine... laver vos vêtements - enfin je veux dire vos vêtements de rechange, pas ceux que vous portez en ce moment ! Ne pensez même pas à les enlever ! Ou alors garder vos enfants... Vous n'auriez pas d'enfants, par hasard ?~
+@248  = ~Pour sûr, vous pourriez me donner 1000 pièces d'or par exemple. Ah ah ! Désolée, c'était une blague. Toutefois j'ai *vraiment* besoin d'argent. Auriez-vous un travail pour moi ? Je veux dire un travail correct. N'allez pas imaginer me proposer autre chose ! Je suis une dame de bonne réputation, après tout. Je veux dire un travail comme... comme... aller vous acheter quelque chose... vous faire la cuisine... laver vos vêtements, enfin je veux dire vos vêtements de rechange, pas ceux que vous portez en ce moment ! Ne pensez même pas à les enlever ! Ou alors garder vos enfants... Vous n'auriez pas d'enfants, par hasard ?~
 @249  = ~Vous cherchez un travail ici, en plein festival ?~
 @250  = ~J'ai rencontré une mère qui cherche une baby-sitter pour ses deux enfants, près du "Dragon Qui Rote".~
 @251  = ~Non, je regrette. Bonne journée à vous.~
-@252  = ~Pas de problème, désolée pour mon audace. c'est juste que... J'ai vraiment besoin d'argent vous savez. Auriez-vous un travail pour moi ? Je veux dire un travail correct. N'allez pas imaginer me proposer autre chose ! Je suis une dame de bonne réputation, après tout. Je veux dire un travail comme... comme... aller vous acheter quelque chose. Alors il faudrait que je vous l'apporte... Euh, non. Peut-être vous cuisiner un repas... Non, il ne vaut mieux pas. Laver vos vêtements - enfin je veux dire vos vêtements de rechange, pas ceux que vous portez en ce moment ! Ne pensez même pas à les enlever ! Oh, non. Ah oui, je pourrais garder vos enfants, si vous en avez.~
+@252  = ~Pas de problème, désolée pour mon audace. c'est juste que... J'ai vraiment besoin d'argent vous savez. Auriez-vous un travail pour moi ? Je veux dire un travail correct. N'allez pas imaginer me proposer autre chose ! Je suis une dame de bonne réputation, après tout. Je veux dire un travail comme... comme... aller vous acheter quelque chose. Alors il faudrait que je vous l'apporte... Euh, non. Peut-être vous cuisiner un repas... Non, il ne vaut mieux pas. Laver vos vêtements, enfin je veux dire vos vêtements de rechange, pas ceux que vous portez en ce moment ! Ne pensez même pas à les enlever ! Oh, non. Ah oui, je pourrais garder vos enfants, si vous en avez.~
 @253  = ~Je veux dire un véritable enfant... pas un bébé. Désolée, mais je n'ai jamais trop su y faire avec les bébés.~
 @254  = ~Eh bien, bonne journée.~
 @255  = ~C'est vous qui m'avez envoyé cette maman ? Dieux, quelle timbrée !~
@@ -298,7 +298,7 @@
 @291  = ~Venez, les enfants !~
 @292  = ~Ils sont enfin partis ! C'était insupportable !~
 @293  = ~Quel dommage qu'ils soient partis. Moi qui envisageais de soudoyer Tom pour qu'il me donne quelques-uns de ses bonbons.~
-@294  = ~<CHARNAME>, la prochaine fois donnez simplement à cette femme l'argent dont elle a besoin - d'accord ? Hein ?! Je vous en supplie !!~
+@294  = ~<CHARNAME>, la prochaine fois donnez simplement à cette femme l'argent dont elle a besoin, d'accord ? Hein ?! Je vous en supplie !!~
 @295  = ~La prochaine fois qu'on perd notre temps avec une corvée de ce genre, c'est toi qui auras besoin de quelqu'un pour t'aider à te curer le nez !~
 @296  = ~Euh, quoi ? Il s'est passé quelque chose ces deux dernières heures ?~
 @297  = ~Pourquoi t'as pas laissé le mioche tripoter ton arme, <CHARNAME> ? Ca allait devenir marrant.~
@@ -312,9 +312,9 @@
 @305  = ~Je donnerais ma vie pour protéger les faibles et les innocents, et je suis heureux de voir que c'est exactement ce que tu viens de faire en aidant cette femme et ses enfants, <CHARNAME>. Même si j'ai parfois du mal à comprendre que les plus faibles et innocents soient aussi... les plus fatigants. *tousse*~
 @306  = ~Humm, quelques illusions nous auraient bien aidés à amuser ces enfants.~
 @307  = ~Peut-être aurais-je dû chanter ? Je connais de jolies chansons pour enfants. *chante* Au clair de la luuuuune, mon ami Pierrot...~
-@308  = ~Non - pitié - si je devais choisir entre les enfants et *ça*, je crois que je préfèrerais m'occuper à nouveau des enfants.~
+@308  = ~Non, pitié, si je devais choisir entre les enfants et *ça*, je crois que je préfèrerais m'occuper à nouveau des enfants.~
 @309  = ~Prête-moi ta pluuuume, pour écrire un mot...~
-@310  = ~Argh - <CHARNAME>, dis quelque chose !!~
+@310  = ~Argh, <CHARNAME>, dis quelque chose !~
 @311  = ~Que quelqu'un lui ferme sa bouche immédiatement, ou alors c'est moi qui vais le faire !!!~
 @312  = ~Tu t'es bien débrouillé <CHARNAME> ! *glousse* Euh, hum.~ ~Tu t'es bien débrouillée <CHARNAME> ! *glousse* Euh, hum.~
 @313  = ~<CHARNAME>, j'admire votre... p-p-patience...~
@@ -364,7 +364,7 @@
 @431  = ~J'aurais voulu q-q-que nous ne la malmenions pas à ce point. Une mère ne peut g-g-guère espérer d'aide de la p-p-part d'étrangers.~ 
 @432  = ~Au contraire, Khalid. Une mère peut recevoir des aides souvent inattendues, surtout si elle est accompagnée de jeunes enfants.~ 
 @433  = ~Nous ne l'avons pas aidée, c'est certain.~
-@434  = ~Nous avons bel et bien aidé cette mère - Elle n'avait pas l'air de savoir si c'était pour elle le bon moment pour filer d'ici. Maintenant elle a bien compris qu'il était temps de partir.~
+@434  = ~Nous avons bel et bien aidé cette mère. Elle n'avait pas l'air de savoir si c'était pour elle le bon moment pour filer d'ici. Maintenant elle a bien compris qu'il était temps de partir.~
 @435  = ~Oh, J'adore quand on aide les autres ! Je sens une sorte de chaleur à l'intérieur de moi.~
 @436  = ~C'est sûrement parce que t'as trop tardé à aller derrière un buisson, Xzar.~
 @437  = ~Bon, on en a terminé là ? On peut y aller ? (Et rapidement, si possible.)~

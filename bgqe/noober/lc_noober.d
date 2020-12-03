@@ -11,12 +11,6 @@ NALIN 2, 4
 OUBLEK 3, 8
 */
 
-ADD_TRANS_ACTION %tutu_var%NALIN BEGIN 2 END BEGIN END ~%ERASEJOURNALENTRY_77%~ 
-ADD_TRANS_ACTION %tutu_var%NALIN BEGIN 4 END BEGIN END ~%ERASEJOURNALENTRY_77%~ 
-
-ADD_TRANS_ACTION %tutu_var%OUBLEK BEGIN 3 END BEGIN END ~%ERASEJOURNALENTRY_77%~ 
-ADD_TRANS_ACTION %tutu_var%OUBLEK BEGIN 8 END BEGIN END ~%ERASEJOURNALENTRY_77%~
-
 
 BEGIN C#LCNOOB
 
@@ -108,7 +102,7 @@ END
 
 /* priest in temple of Helm: %tutu_var%NALIN (only as long as Brage quest is not solved. Too much trouble to interject into his dialogue, otherwise.) */
 EXTEND_BOTTOM %tutu_var%NALIN 1
-+ ~Global("C#LCNOOB_Quest","GLOBAL",2) Global("C#LCNOOB_Asked","LOCALS",0)~ + @24 DO ~SetGlobal("C#LCNOOB_Asked","LOCALS",1)~ UNSOLVED_JOURNAL @77 + noober
++ ~Global("C#LCNOOB_Quest","GLOBAL",2) Global("C#LCNOOB_Asked","LOCALS",0)~ + @24 DO ~SetGlobal("C#LCNOOB_Asked","LOCALS",1)~ + noober
 END
 
 APPEND %tutu_var%NALIN

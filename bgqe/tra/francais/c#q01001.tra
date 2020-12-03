@@ -205,7 +205,7 @@
 @193   = ~Je suis heureuse que tout se soit bien terminé.~
 @194   = ~<CHARNAME>, quoique tu dises, j'écrabouillerai le prochain limon que je croiserai.~
 @195   = ~En quoi tout cela nous concernait-il ? Pour se rendre plus puissant, quelqu'un a essayé d'utiliser une magie qu'il ne pouvait maîtriser ; eh bien il aurait dû s'abstenir (ou laisser cela à quelqu'un qui sait y faire) !~
-@196   = ~D'une certaine manière, cette potion a donné les effets escomptés - Eltolth a obtenu ce qu'il voulait.~
+@196   = ~D'une certaine manière, cette potion a donné les effets escomptés, Eltolth a obtenu ce qu'il voulait.~
 @197   = ~Ha ! C'est bien vrai.~
 @198   = ~Si on oublie quelques complications et l'aide que <CHARNAME> a dû apporter, alors oui.~
 @199   = ~Oh, dans une véritable histoire d'amour, un peu de suspense ne peut pas faire de mal.~
@@ -243,7 +243,7 @@
 @230   = ~Quoi ? <CHARNAME>, tu n'envisages pas vraiment... Ma bonne dame, nous-mêmes avons bien du mal à comprendre le sens de l'humour de <CHARNAME>. Embrasser ce limon ne déclenchera aucun autre effet que de vous tourner en ridicule.~
 @231   = ~Humpf. Quelle perte de temps !~
 @232   = ~J'ai honte de ce que nous avons fait dans cette histoire, <CHARNAME>.~
-@233   = ~La magie entropique - elle fonctionne... ou pas. *soupir* Au moins n'y a-t-il pas eu de conséquences *graves*.~
+@233   = ~La magie entropique, elle fonctionne... ou pas. *soupir* Au moins n'y a-t-il pas eu de conséquences *graves*.~
 @234   = ~<CHARNAME> ! Vu la situation, tout ceci fut très amusant. J'aurais pu faire beaucoup mieux évidemment... mais ce n'est pas mal du tout, pour un débutant en tout cas.~ ~<CHARNAME> ! Vu la situation, tout ceci fut très amusant. J'aurais pu faire beaucoup mieux évidemment... mais ce n'est pas mal du tout, pour une débutante en tout cas.~
 @235   = ~Quand j'ai dit qu'il fallait trouver un intérêt à cette histoire je parlais d'argent, pas d'amusement. On en a fini maintenant ?!~
 @236   = ~Vous avez bien raison, nain.~
@@ -253,6 +253,6 @@
 @240   = ~*soupir de soulagement* D'accord, maintenant je peux respirer. Vous avez vraiment *énormément* de chance que tout ait si bien fonctionné. J'espère que vous vous en rendez compte. Et puis, bon...~
 @241   = ~Je vous demande pardon ?~
 @242   = ~Oh, rien. Restez tranquille, et... si vous évitez de boire trop d'alcool, tout ira bien.~
-@243   = ~<CHARNAME>, ne devrions-nous pas les prévenir au sujet des conséquences possibles ? Je veux parler de celles qui peuvent se produire après une telle transformation forcée, son corps a maintenant gardé en mémoire sa forme de limon et il pourrait la reprendre temporairement en cas de tension trop importante. - Mon brave, j'espère que vous n'avez rien prévu de très... excitant dans les jours qui viennent, n'est-ce pas ?~
+@243   = ~<CHARNAME>, ne devrions-nous pas les prévenir au sujet des conséquences possibles ? Je veux parler de celles qui peuvent se produire après une telle transformation forcée, son corps a maintenant gardé en mémoire sa forme de limon et il pourrait la reprendre temporairement en cas de tension trop importante. Mon brave, j'espère que vous n'avez rien prévu de très... excitant dans les jours qui viennent, n'est-ce pas ?~
 @244   = ~Et je le couperai en morceaux suffisamment petits pour que tu puisses les mettre dans une de tes fioles, mage. Ca marche ?~
 @245   = ~Mais c'est une idée formidable, mon cher Montaron.~

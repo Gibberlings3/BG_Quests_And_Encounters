@@ -2,7 +2,7 @@
 				Modifikation  
 	für klassisches BG1:LdSk, BG1Tutu v4, EasyTutu, BGT, BG:EE und EET
 				von jastey 
-				Version 21
+
 
 
 Dies ist eine Mini-Modifikation für klassisches BG1 (mit installierter Erweiterung Legenden der Schwertküste), BG1Tutu (v4), EasyTutu, BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfügt. Klassisches BG1 ohne die Legenden der Schwertküste wird nicht mehr offiziell unterstützt, aber die Mod sollte trotzdem ohne große Probleme darauf laufen. 
@@ -146,11 +146,10 @@ Lasst die "setup-bgqe.exe" über Doppelklick laufen. Wählt Eure Sprache und bestä
 
 
 Mac OS X
-Stellt sicher, dass Ihr die Mac OS X - Version des Mods heruntergelden habt ("OSX-BGQE-vx.zip"). Korrekt extrahiert, sollten in Eurem Spiel-Hauptverzeichnis ein bgqe Ordner, setup-bgqe, und setup-bgqe.command befinden. Zum Installieren einfach die setup-bgqe.command doppelklicken und den Instruktionen folgen.
+Korrekt extrahiert, sollten in Eurem Spiel-Hauptverzeichnis ein bgqe Ordner, setup-bgqe, und setup-bgqe.command befinden. Zum Installieren einfach die setup-bgqe.command doppelklicken und den Instruktionen folgen.
 
 Linux
-Stellt sicher, dass Ihr die Linux Version der Modifikation habt ("lin-bgqe-vx.zip").
-Ladet die neueste Version von WeiDU für Linux von WeiDU.org und kopiert WeiDU und WeInstall nach /usr/bin. Öffnet nun ein Terminal, cd zu Eurem BG Installationsordner, und lasst 'tolower' laufen, mit der Antwort Y auf beide Nachfragen. Die zweite Option (linux.ini) könnt Ihr auslassen, wenn Ihr dies bereits einmal in Eurem Verzeichnis ausgeführt habt. Um Zeit zu sparen, sind die Namen der Dateien dieser Modifikation bereits in Kleinbuchstaben geschrieben. Es besteht also kein Bedarf, die erste Option (lowercasing file names) auszuführen, wenn Ihr entweder nur diese Modifikation heruntergeladen habt, oder bereits vor dieser Modifikation tolower ausgeführt habt. Falls Ihr Euch nicht sicher seid, ist das Ausführen von tolower mit beiden Optionen der sichere Weg.
+Ladet die neueste Version von WeiDU für Linux von WeiDU.org und kopiert WeiDU und WeInstall nach /usr/bin. Öffnet nun ein Terminal, cd zu Eurem BG Installationsordner, und lasst 'tolower' laufen, mit der Antwort Y auf beide Nachfragen. Die zweite Option (linux.ini) könnt Ihr auslassen, wenn Ihr dies bereits einmal in Eurem Verzeichnis ausgeführt habt. Falls Ihr Euch nicht sicher seid, ist das Ausführen von tolower mit beiden Optionen der sichere Weg.
 Lasst WeInstall setup-bgqe in Euren Spielordner laufen, um die Modifikation zu installieren. Führt wine BGMain.exe aus, um das Spiel zu starten.
 
 
@@ -162,9 +161,9 @@ Es muss ein neues Spiel angefangen werden, um die Modifikation vollständig spiel
 Sollten bei der Installation Fehler auftreten, so wendet Euch bitte mit der "setup-log"-Datei an einen der unten angegebenen Forenthreads. Das englische Forum befindet sich bei den Gibberlings Three: http://forums.gibberlings3.net/
 
 Direkte Links: 
-Englisches Forum: http://gibberlings3.net/forums/index.php?showforum=148
+Englisches Forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
 
-Deutscher Thread im Kerzenburgforum: http://kerzenburg.baldurs-gate.eu/showthread.php?t=36870
+Deutscher Thread im Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
 
 KOMPATIBILITÄT 
 
@@ -185,8 +184,6 @@ Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das h
 -BG1 Ajantis Expansion Mod
 -Xan Friendship Mod
 
-Für Tutu-Kompatibilität schaut bitte in den Thread "Tutu Mod Compatibility and Order of Install" bei G3:
-http://gibberlings3.net/forums/index.php?showtopic=8122
 
 
 KNOWN ISSUES
@@ -263,8 +260,8 @@ zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktio
 
 -Übersetzungen-
 
-Französische Übersetzung: Le Marquis (des d'Oghmatiques)
-Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin
+Französische Übersetzung: Le Marquis (des d'Oghmatiques) und Jarvis, v22 von Jarvis (mit Korrekturlesen von Le Marqui und Elisabeth)
+Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin.
 
 -v8-
 
@@ -320,12 +317,28 @@ BG1 Quest and encounters Modifikation is not developed, supported, or endorsed b
 
 =================================================================================
 REDISTRIBUTION NOTE: BG1 Quest Mini-Modifikation was created to be freely enjoyed by all Baldur's Gate I players. However, BG1 Quest Mini-Modifikation may not be sold.
+MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translation updates from the community.
 =================================================================================
 
 
 
 
 HISTORIE
+
+Version 22:
+-French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
+-"Brage's Sword": will not be stuck in the trial scene for Tutu
+-"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
+-"Slimequest": Tulbor can only be asked about the effects ot the antidote if the antidote is in the group's inventory.
+-"Warm Place for Noober": shouldn't give doubled journal entry about Brage if talked to Nalin.
+-"Legal Searchart Sources": Calahan should spawn always after talking to Mendas.
+- "Unexpected Help": Sir Trun should have his shield in the inventory, not in the shield slot or the shield slot.
+-Added LABEL declarations to components.
+-(English version) Typo corrections.
+-(Russian version) Serious updates and corrections of the Russian translation from d0lphin.
+-"Monster in Nashkel": mage who ordered the egg stone will no longer be there if egg is gone
+-"Brage's Sword": english proof readings by Athies
+-"Brage's Sword": Oublek should take Borda's Letter if shown as evidence.
 
 Version 21:
 -"Brage's Sword": removed "Attack([PC])" from Borda's dialogue, NVROL fixed if quest is done with letter from Tazok's tent

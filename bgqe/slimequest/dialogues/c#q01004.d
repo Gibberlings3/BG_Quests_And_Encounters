@@ -115,7 +115,7 @@ SAY @56
 + ~GlobalLT("C#Q01_Retransformation","GLOBAL",2) Global("C#Q01_BoughtAlternative","GLOBAL",0) Global("C#Q01_OfferedAlternative","GLOBAL",1)~ + @53 DO ~SetGlobal("C#Q01_OfferedAlternative","GLOBAL",2)~ + tulbor_15
 + ~GlobalLT("C#Q01_Retransformation","GLOBAL",2) PartyGoldGT(19) Global("C#Q01_BoughtAlternative","GLOBAL",0) Global("C#Q01_OfferedAlternative","GLOBAL",2)~ + @58 + tulbor_17
 + ~GlobalLT("C#Q01_Retransformation","GLOBAL",2) PartyGoldGT(99) Global("C#Q01_BoughtAntidote","GLOBAL",0)~ + @59 + tulbor_10
-+ ~Global("C#Q01_BoughtAntidote","GLOBAL",1)~ + @60 + tulbor_19
++ ~Global("C#Q01_BoughtAntidote","GLOBAL",1) PartyHasItem("C#Q01003")~ + @60 + tulbor_19
 + ~GlobalGT("C#Q01_Retransformation","GLOBAL",1)~ + @61 + tulbor_finished_01
 ++ @62 EXIT
 END
