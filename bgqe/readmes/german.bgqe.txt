@@ -13,7 +13,7 @@ Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1
 
 Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen für eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
 
-Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Die Komponente "Brages Schwert" muss vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, Brage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
 
 
 INHALT
@@ -110,16 +110,23 @@ Diese Komponente erweitert die originalen Spielquests um Tremains toten Sohn und
 14.B: Verrate den Priester Tremain an den Tempel der Tymora: Tremain bittet den HC ja im Spiel, ihm seinen toten Sohn aus dem Tempel der Wassergöttin zu bringen, so dass er ihn wiederbeleben kann. Diese Komponente fügt die Möglichkeit ein, ihn an seinen Tempel, dem Haus der Dame, zu verraten. 
 
 
-15.  Ein besorgter Bauer (nicht für original BG1)
+15.  Ein besorgter Bauer (nicht für original BG1), von Lumorus und White Agnus
 ------
 In Beregost/Nashkell gibt es einige Gerüchte von ein paar Bauern, diese werden in dieser Reihe aufgegriffen (bis jetzt nur ein Gerücht realisiert): Fragt einen Bauern in Beregost, bis er Euch von dem seltsamen Geräuschen erzählt, die er nachts in seinem Garten hört. Er wird Euch dann bitten, das mal zu untersuchen.
 
 
-16.  Leichen für einen guten Zweck
+16.  Leichen für einen guten Zweck, von Lumorus und White Agnus
 ------
 Diese Komponente spielt in Baldurs Tor, und widmet sich auch dem "Umweltschutz". :D
 Bringt dem Nekromanten Sylar einige Leichen aus den Abwasserkanälen für sein spezielles Forschungsvorhaben.
 
+
+17. Cordyrs Quest ohne Sils Tod abschließen, von Lumorus
+-------
+Mit dieser Komponente kann man Cordils Quest bzw. seine Bitte, dass die Gruppe sich um die Sirenen in seinen alten Fischgründen "kümmert" abschließen, ohne dass man Sil und ihre Sirenen dazu töten muss. 
+Geichzeitig wird die Tür zu Cordyrs Haus aufgeschlossen und Cordyrs Dialog so geändert, dass jeder HC den Quest erhält (im Originalspiel war das nur für Gruppen niederen Rufes möglich).
+
+Die Komponente ist kompatibel mit den Änderungen an Sil und ihren Sirenen durch bg1re und Lure of Sirine's Call. 
 
 
 
@@ -175,13 +182,16 @@ Brage's Redemption: Die Komponente "Brages Schwert" sollte vor Brage's Redemptio
 
 
 Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das heißt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
--Echons "Field of the Dead" (ab Version 1.07)
 -BG1 Unfinished Business
--NTotSC (non-WeiDU)
--Grey Clan Episode 1
--Herbs and Potions Add-In
 -BG1 Adventure and CoM Forge
 -BG1 Ajantis Expansion Mod
+-bg1re BG1 Romantic Encounters
+-Echons "Field of the Dead" (ab Version 1.07)
+-Grey Clan Episode 1
+-Herbs and Potions Add-In
+-DSotSC (BGT/EET version)
+-Lure of Sirine's Call
+-NTotSC 
 -Xan Friendship Mod
 
 
@@ -216,13 +226,15 @@ Angel: Vielen Dank für das Hamster BAM (c#q10004.bam), Item Fixes und mehr für v
 
 berelinde: Korrekturlesen der englischen Übersetzung
 
-Chev: Alpha- und Betatester
-
-cujo: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
-
 Cahir: beta testing
 
 Caillean: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version 
+
+Chev: Alpha- und Betatester
+
+Coland: heavy revision of Italian translation and translations of new component for v23
+
+cujo: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
 
 Drogan Di'Umptu: Alpha- und Betatester
 
@@ -260,14 +272,19 @@ zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktio
 
 -Übersetzungen-
 
-Französische Übersetzung: Le Marquis (des d'Oghmatiques) und Jarvis, v22 von Jarvis (mit Korrekturlesen von Le Marqui und Elisabeth)
-Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin.
+French translation: v22 and v23 completed by Jazira (proof readings by Le Marqui and Elisabeth).
+v21 by Le Marquis (des d'Oghmatiques) and Jazira.
+
+Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin. Neue Komponente v23 von yota13, Korrekturlesen von Austin.
+
+Italian translation: Heavy revision of Italian translation and translations of new component for v23 by Coland.
+Updates v12 - 22 completed by ilot, mapnotes by jojo678.
+Old translations of v12 by Stoneangel.
+First translation of the slimequest by Jakkus & Lord Hagen (GIMT).
 
 -v8-
 
 Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
-
-Italienische Übersetzung: Stoneangel, mit der Übersetzung des Schleimquests von Jakkus & Lord Hagen (GIMT)
 
 Polnische Übersetzung: Zed Nocear
 
@@ -324,6 +341,13 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 23:
+-new component added: "Finish Cordyr's Quest without killing Sil" by Lumorus, coding by jastey. Russian translation by yota13, proofreading by Austin. Italian translation by Coland.
+-"A Warm PLace for Noober": journal entry will reflect whether player knows about Joseph's death
+-French translation finished by Jazira-
+-Italian translation heavily revised and improved by Coland.
+-Added Dynamic Install Order categories to support Project Infinity.
 
 Version 22:
 -French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)

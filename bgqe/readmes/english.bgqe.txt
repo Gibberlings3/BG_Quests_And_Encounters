@@ -12,7 +12,7 @@ Since Version 9, the Bjornin Extention is moved to the RE BG1 mod (Romantic Enco
 
 Install this mod before bg1npc project. Otherwise, some reply options are gone. 
 
-The mod "Brage's Redemption" inserts the same quest as bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
+The mod "Brage's Redemption" inserts the same quest as bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. Note: If both mods are installed, BGQE has to be installed before Brage's Redemption.
 
 
 DESCRIPTION
@@ -116,14 +116,24 @@ This component extends the original game quest about priest Tremain's dead son a
 14.B Tremain's Sellout: in the original game, Tremain asks the PC to retrieve his dead son from the temple of Umberlee, so he can revive him. The PC now has the possibility to bring the son to the temple, instead. 
 
 
-15. A worried farmer (not for original BG1) (LABEL bgqe_worriedfarmer)
+15. A worried farmer (not for original BG1) (LABEL bgqe_worriedfarmer), by Lumorus and White Agnus
 -------
 In Beregost/Nashkel there are some rumors by a few farmers, so far one of them is addressed in this component: talk to a farmer in Beregost until he tells the PC about a creature making noises behind his house at night. He will then ask the PC to help him to get rid of it.
 
 
-16. Bodies for a good cause (LABEL bgqe_bodiesforgoodcause)
+16. Bodies for a good cause (LABEL bgqe_bodiesforgoodcause), by Lumorus and White Agnus
 -------
 This mod plays in Baldur's Gate. Bring the corpses you find in the sewers to Sylar, a necromancer with a special research. This component is also good for PCs that care about the environment! :D
+
+
+17. Finish Cordyr's Quest without killing Sil, by Lumorus
+-------
+This component expands on Cordyr's Quest twofold:
+-The door to his house will be unlocked and all PCs no matter the reputation will get the quest to take care of the sirines who took over Cordyr's old fishing grounds.
+-The conflict can be solved without having to kill Sil and the sirines.
+
+This component is compatible with all changes to Sil and her sirines by bg1re and Lure of Sirine's Call.
+
 
 
 INSTALLATION
@@ -177,17 +187,24 @@ BG1NPC Project: the component "Brage's Sword" from bgqe has to be installed befo
 
 Brage's Redemption: The mod "Brage's Redemption" inserts the same quest as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
 
+bg1re: fully compatibility of all components (I'm putting this here because both mods change Sil's dialogue)
+
+Lure of Sirine's Call: fully compatibility of all components (I'm putting this here because both mods change Sil's dialogue)
+
 
 If you play it with the original BG, the mod is compatible with
 -Echon's "Field of the Dead" (Version 1.07)
 
 For original BG, the mod should also be technically compatible with (this does not necessarily imply that the listed mods are all compatible with each other):
 -BG1 Unfinished Business
--NTotSC (non-WeiDU)
--Grey Clan Episode 1
--Herbs and Potions Add-In
 -BG1 Adventure and CoM Forge
 -BG1 Ajantis Expansion Mod
+-bg1re BG1 Romantic Encounters
+-Grey Clan Episode 1
+-Herbs and Potions Add-In
+-DSotSC (BGT/EET version)
+-Lure of Sirine's Call
+-NTotSC 
 -Xan Friendship Mod
 
 
@@ -197,7 +214,7 @@ KNOWN ISSUES
 
 -"Many little paws" I am also sometimes left with one or two hamsters after the boy supposedly takes them all, although which ones exactly differs each try. (I hope this will be fixed for v16)
 
--"Brage's Sword" (BG:EE / EET): after returning Brage to Nashkell, the journal entry "The Tale of Captain Brage(Finished)" will remain in the journal, but without any text attached to it. Obviously the journal system is not meant to remove titels even if the entries are removed. This is an engine problem. (Let's see whether this will change for 2.5)
+-"Brage's Sword" (BG:EE / EET): after returning Brage to Nashkell, the journal entry "The Tale of Captain Brage(Finished)" will remain in the journal, but without any text attached to it. Obviously the journal system is not meant to remove titels even if the entries are removed. This is an engine problem.
 
 -"A Warm PLace for Noober" (BG1:TotSC): It can happen that Joseph's widow's mother will sleep on the floor, while a generic sleeping woman sleeps in the bed. Just imagine Joseph's widow to have a real great heart for needing souls.
 
@@ -223,13 +240,15 @@ Angel: thank you for the hamster BAM (c#q10004.bam), item fixes and more for v21
 
 berelinde: proofreading of English translation
 
-Chev: alpha and beta testing
-
-cujo: alpha and beta testing, ideas for quest developpment / NPC-reactions
-
 Cahir: beta testing
 
 Caillean: alpha and beta testing, ideas for quest developpment / NPC-reactions, proof-reading of German translation 
+
+Chev: alpha and beta testing
+
+Coland: heavy revision of Italian translation and translations of new component for v23
+
+cujo: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 Drogan Di'Umptu: alpha and beta testing
 
@@ -266,12 +285,20 @@ zenblack: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 -translations-
 
-French translation: Le Marquis (des d'Oghmatiques) and Jazira, v22 completed by Jazira (proof readings by Le Marqui and Elisabeth)
-Russian translation: v8 by hawkmoon & arcanecoast.ru team, v20 completed by d0lphin, v22 revised, corrected, and updated by d0lphin
+French translation: v22 and v23 completed by Jazira (proof readings by Le Marqui and Elisabeth).
+v21 by Le Marquis (des d'Oghmatiques) and Jazira.
+ 
+Russian translation: New component in v23 by yota13, proofreading by Austin.
+v22 revised, corrected, and updated by d0lphin.
+v20 completed by d0lphin.
+v8 by hawkmoon & arcanecoast.ru team.
 
+Italian translation: Heavy revision of Italian translation and translations of new component for v23 by Coland.
+Updates v12 - 22 completed by ilot, mapnotes by jojo678.
+Old translations of v12 by Stoneangel.
+First translation of the slimequest by Jakkus & Lord Hagen (GIMT). 
 
--old translations v8-
-Italian translation: Stoneangel, with translation of the slimequest by Jakkus & Lord Hagen (GIMT)
+-old translations v8:
 Polish translation: Zed Nocear
 Spanish translation: Excalibur (slime quest), Immortality (proofreading)
 
@@ -279,7 +306,7 @@ Spanish translation: Excalibur (slime quest), Immortality (proofreading)
 
 CamDawg, cmorgan and G3 staff: Uploading to G3 site and actualisation of links
 
-CamDawg (G3-Team), Hedian, Fridtjof, Sir Darian, Tim und Vernochan (Kerzenburgforum): Hosting of the Mod.
+CamDawg, Mike1072, theacefes (G3); Hedian, Fridtjof (Rosenrankenforum); Sir Darian, Tim and Vernochan (Kerzenburgforum): Hosting of the Mod.
 
 
 TOOLS USED
@@ -323,14 +350,21 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORY
 
+Version 23:
+-new component added: "Finish Cordyr's Quest without killing Sil" by Lumorus, coding by jastey. Russian translation by yota13, proofreading by Austin. Italian translation by Coland.
+-"A Warm PLace for Noober": journal entry will reflect whether player knows about Joseph's death
+-French translation finished by Jazira-
+-Italian translation heavily revised and improved by Coland.
+-Added Dynamic Install Order categories to support Project Infinity.
+
 Version 22:
 -French translation completed (translation: Jazira, proof reading: Le Marquis, Elisabeth)
 -"Brage's Sword": will not be stuck in the trial scene for Tutu
 -"Many Little Paws": vendor should not respawn at the Carnival, should not disappear after 12 days if PC hasn't spoken to him yet, should not be at FAI if hamster was given to boy.
--"Slimequest": Tulbor can only be asked about the effects ot the antidote if the antidote is in the group's inventory.
+-"Slimequest": Tulbor can only be asked about the effects of the antidote if the antidote is in the group's inventory.
 -"Warm Place for Noober": shouldn't give doubled journal entry about Brage if talked to Nalin.
 -"Legal Searchart Sources": Calahan should spawn always after talking to Mendas.
-- "Unexpected Help": Sir Trun should have his shield in the inventory, not in the shield slot or the shield slot.
+- "Unexpected Help": Sir Trun should have his shield in the inventory, not in the shield slot or the quick item slot.
 -Added LABEL declarations to components.
 -(English version) Typo corrections.
 -(Russian version) Serious updates and corrections of the Russian translation from d0lphin.
