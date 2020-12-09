@@ -76,6 +76,7 @@ END
 
 IF ~~ THEN friendly_sil_06
 SAY @22
+IF ~~ THEN + friendly_sil_07
 END
 
 IF ~~ THEN friendly_sil_07
