@@ -1,39 +1,41 @@
 @0    = ~*russa*~
 @1    = ~Certamente non dovremmo lasciarlo qui fuori da solo.~
-@2    = ~*sigh* In effetti il suo stato lo rende bisognoso di aiuto. Tutto questo ritardo non sarebbe necessario se il folle non avesse bevuto così tanto.~
-@3    = ~Non starai certamente pensando di toccare quest'uomo puzzolente, vero? Lasciamolo lì, i lupi lo troveranno. Saranno meno problemi per tutti noi.~
-@4    = ~Sai, ho sempre cercato di uccidere un lich. Ma mi divertirò comunque uccidendo un uomo! Non ho mai provato ad uccidere un uomo che si sente un lich. Presumo sarebbe una delusione comunque.~
-@5    = ~Noi siamo responsabili di quest'uomo smarrito, <CHARNAME>.~
-@6    = ~Aiutiamo questo ubriaco a ritornare nella società, prima che calpesti qualche erba rara o svuoterà il suo stomaco su di esse.~
+@2    = ~*sospira* In effetti il suo stato lo rende bisognoso di aiuto. Tutto questo ritardo non ci sarebbe stato se il folle non avesse bevuto così tanto.~
+@3    = ~Non starai certamente pensando di toccare quest'uomo puzzolente, vero? Lasciamolo lì, i lupi lo troveranno. Meno problemi per tutti noi.~
+@4    = ~Sai, ho sempre voluto uccidere un lich. E mi piace uccidere un uomo! Ma non ho mai provato ad uccidere un uomo che si crede un lich. Presumo sarebbe una delusione comunque.~
+@5    = ~Noi siamo responsabili per quest'uomo smarrito, <CHARNAME>.~
+@6    = ~Aiutiamo questo ubriaco a ritornare nella società, prima che calpesti qualche erba rara o svuoti il suo stomaco su una di esse.~
 @7    = ~Benché Minsc non approva l'odore di quest'uomo, lui e Boo sono certi che non sarebbe un bene che lui fosse lasciato qui da solo.~
-@8    = ~Ah... il suo alito é... davvero impressionante. Ho paura che i lupi e i gibberling non ne rimarranno impressionati, comunque.~
-@9    = ~Hmpf...Huh?~
+@8    = ~Ah... il suo alito è... davvero impressionante. Ho paura che i lupi e i gibberling non ne rimarranno impressionati, comunque.~
+@9    = ~Mmpf...Uh?~
 @10   = ~Sei tornato per -singhiozzo- darmi i soldi adesso?!~
-@11   = ~Niente di tutto questo. Guarda, é pericoloso rimanere qui fuori. Penso che dovremmo portarti a casa tua.~
-@12   = ~Beh, si, naturalmente, qui c'é tutto quello che ho.~
+		~Sei tornata per -singhiozzo- darmi i soldi adesso?!~
+@11   = ~Niente di tutto questo. Guarda, è pericoloso rimanere qui fuori. Penso che dovremmo portarti a casa tua.~
+@12   = ~Beh, si, naturalmente, qui c'è tutto quello che ho.~
 @13   = ~Sembra che ti sia perso, folle. Non hai paura?~
-@14   = ~Nahah! Non c'é niente di peri... col... oso per un LICH! Non osare toccarmi. Voglio dire io, il Lich!~
+@14   = ~Nahah! Non c'è niente di peri... col... oso per un LICH! Non osare toccarmi. Voglio dire io, il Lich!~
 //@15   
 @16   = ~Cosa vuoi adesso? Non voglio parlare più con te. Le mie labbra sono sigillate!~
-@17   = ~C'é un ubriaco fuori, a Nord-Ovest del tempio. Preferirei vederlo in un luogo più sicuro.~
+@17   = ~C'è un ubriaco fuori, a Nord-Ovest del tempio. Preferirei vederlo in un luogo più sicuro.~
 @18   = ~Ah, Martin, presumo... Si, temo che probabilmente sia uscito fuori di senno ancora una volta. So che può essere abbastanza determinato da evitare qualsiasi tipo di aiuto.~
 @19   = ~Gli daremo un'occhiata. Non preoccuparti, ci penseremo noi. Grazie per averci avvisato. Probabilmente lo lasceremo là, ma ci assicureremo che sia al sicuro.~
 //@20   
-@21   = ~Wow, questo é un -singhiozzo- sacchetto di soldi davvero pesante.~
-@22   = ~Woah - non credi che era un pò troppo quello che gli abbiamo dato?~
-@23   = ~Perché lo hai fatto? Questo folle probabilmente spenderà tutto per comprare della birra. Dovremmo fare un miglior uso dei nostri soldi!~
+@21   = ~Wow, questo è un -singhiozzo- sacchetto di monete davvero pesante.~
+@22   = ~Wow - non credi di avergli dato un po' troppo?~
+@23   = ~Perché lo hai fatto? Questo folle probabilmente spenderà tutto per comprare altra birra. Dovremmo fare un miglior uso dei nostri soldi!~
 @24   = ~Non voglio fare il criticone, ma hai appena dato a quest'uomo puzzolente TUTTI I NOSTRI SOLDI!~
-@25   = ~Arrrrh, <CHARNAME>, ora sei un misero poveraccio ed ucciderti nel sonno senza nulla da rubarti sarà meno divertente!~
-@26   = ~Questo... probabilmente non é stato un gesto molto saggio.~
-@27   = ~Che senso ha avergli dato ogni cosa, <CHARNAME>? Probabilmente si berrà tutto fino alla morte, e noi dovremmo vivere di quello che abbiamo nelle nostre borse almeno per qualche giorno.~
-@28   = ~Oh, Minsc non é sicuro che sia stata una cosa furba, dare a quell'uomo tutti i nostri soldi. Anche Boo la pensa così, sebbene sia contento che tu non gli abbia dato anche i biscotti.~
-@29   = ~Er, sai, posso cantare canzoni di generosità e carità <CHARNAME> senza che tu vada in giro a *dare* tutti i nostri soldi.~
-@30   = ~Ora, dove dovrei andare...~
+@25   = ~Arrrrh, <CHARNAME>, ora sei più al verde di un poveraccio ed ucciderti nel sonno senza nulla da rubarti sarà meno divertente!~
+@26   = ~Questo... probabilmente non è stato un gesto molto saggio.~
+@27   = ~Che senso ha avergli dato ogni cosa, <CHARNAME>? Probabilmente si berrà tutto fino alla morte, e noi dovremo vivere solo di quello che abbiamo nei nostri zaini almeno per qualche giorno.~
+@28   = ~Oh, Minsc non è sicuro che sia stata una cosa furba, dare a quell'uomo tutti i nostri soldi. Anche Boo la pensa così, sebbene sia contento che tu non gli abbia dato anche i biscotti.~
+@29   = ~Err, sai, posso cantare canzoni di generosità e carità <CHARNAME> senza che tu vada in giro a *dare* tutti i nostri soldi.~
+@30   = ~Ora, dove sschtavo andando...~
 @31   = ~Che ne pensi se ci prendiamo *cura* di questo ubriaco e risparmiamo il lavoro ai lupi?~
 @32   = ~Come ha fatto ad evitare tutti i lupi fino ad ora? Forse i lupi hanno evitato lui.~
 @33   = ~Ah, che triste vista. Ma sarebbe ancora più triste se quest'uomo subisse dei danni a causa della nostra mancanza di azione. I lupi non verranno finché rimarrà così vicino al tempio ma non sarà completamente al sicuro se rimarrà qui per sempre.~
 @34   = ~Non possiamo prenderlo con noi. Forse dovremmo chiedere aiuto a quelli del tempio.~
-@35   = ~<CHARNAME>, sei diventato COMPLETAMENTE SCIOCCO?~
+@35   = ~<CHARNAME>, sei diventato COMPLETAMENTE IDIOTA?~
+		~<CHARNAME>, sei diventata COMPLETAMENTE IDIOTA?~
 @36   = ~Sai, stavo cercando di dirlo nel modo più diplomatico possibile, ma Dorn è stato molto eloquente.~
 
 @37   = ~Tu sei davvero completamente ubriaco. Andrò a vedere se troverò qualcuno che si prenda cura di te.~
