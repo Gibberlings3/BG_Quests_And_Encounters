@@ -94,15 +94,15 @@ Noober a trouvé un nouveau chez-lui ! Il semble être la personne idéale pour div
 @75   = ~Une histoire ?~
 @76   = ~Nan, je suis trop fatigué pour raconter quoi que ce soit.~
 
+/*
 @77  = ~L'histoire du capitaine Brage
 
 Nalin au Temple de Heaum semble penser que Brage se trouve sous l'influence de quelque force maléfique. Si je le leur remets, il se peut qu'il ne soit pas tué pour ses crimes.~
-
-/* new for v16 */
+*/
 @78  = ~Hum, pas de chance, vous savez. Il semblerait que la seule âme prête à prendre soin de vous ne soit plus de ce monde.~
 @79  = ~Dommage qu'elle soit *morte* maintenant, n'est-ce pas ? Humpf.~
 @80  = ~C'est... très bien, je suppose. Il est étrange, il ne peut pas parler et il essaie de m'aider, mais ce n'est pas ce qu'il devrait faire vu qu'il a besoin de repos.~
 
 /* new for v19 */
 @81  = ~Nous voulions vous demander quelque chose...~
-@82  = ~Oui, Les aventuriers ont l'habitude de venir poser des questions à propos des mines.~
+@82  = ~Oui, les aventuriers ont l'habitude de venir poser des questions à propos des mines.~

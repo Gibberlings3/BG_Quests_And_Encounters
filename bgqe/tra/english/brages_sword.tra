@@ -1,3 +1,4 @@
+/* This file is the same as in Brage Redemption mod. Please check if an existing translation in your language is not already available */
 @0    = ~We may be a garrison without a Commander but we have not lost our ability to defend this city!~
 @1    = ~Wow, this was impressive. We *knew* our Commander didn't lose his mind! The poor man has a lot to face now. I wouldn't want to go on, knowing I butchered my family! Still, thank you for collecting the evidence. He shouldn't be remembered as a crazy murderer.~
 @2    = ~Wow, I never would have thought Brage really lost his mind. I guess he will be remembered as a crazy murderer.~
@@ -42,7 +43,7 @@
 @41   = ~Well... There are still a lot of bandits out there, aren't they? I could... I could protect the weak on the road...~
 @42   = ~No, I will not sell it. I will not profit from that sword. I leave it to you, <CHARNAME>, because it will be of more use there.~
 @43   = ~Fine, if this is your last wish, then I thank you.~
-/* do not change line 44, it needs to be the same as in bgqe */
+/* Do not change line 44, it needs to be the same as in Brage Redemption mod */
 @44   = ~It's an intriguing thought, but I do not have the self-confidence and trust to do this just now. I will... I will take the sword. Helm give me the strength! I know your words are true, but I am... I am not ready to face it just now. I will remain here and do as much as I can... for now.~
 @45   = ~I thank you, <CHARNAME>.~
 @46   = ~So, you brought Brage in alive. I care not about the tears the others shed over this 'Commander'. All this talk about Brage's honor and righteousness and the suspicions about a foul magic being involved!~
@@ -231,5 +232,5 @@ Brage is a free man! Nashkel authorities accepted the evidence I found that prov
 
 Brage was hanged! I think I did this rather well. It's always nice to see 'justice' take its turn. And above all - that fool Brage was thankful for it! I should watch out, or the warm feeling in my belly will give me a hiccup.~
 
-/* needs to be the exact same wording as in bragesword_extentions.tra */
+/* Needs to be the exact same wording as in bragesword_extentions.tra from Brage Redemption mod */
 @1021 = ~Captain Brage's Guilt~
