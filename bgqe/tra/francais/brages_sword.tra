@@ -1,58 +1,59 @@
+/* This file is the same as in Brage Redemption mod. Please check if an existing translation in your language is not already available */
 @0    = ~Nous sommes peut-être une garnison sans commandant, mais nous n'avons pas perdu nos capacités à défendre cette ville !~
 @1    = ~Waouh, c'était impressionnant. Nous *savions* que notre commandant n'avait pas perdu la tête ! Le pauvre homme a beaucoup de choses à surmonter à présent. Je ne voudrais pas continuer à vivre, sachant que j'ai massacré toute ma famille ! Néanmoins, merci d'avoir rassemblé les preuves. On ne devrait pas se souvenir de lui comme d'un meurtrier dément.~
 @2    = ~Waouh, je n'aurais jamais pensé que Brage avait totalement perdu l'esprit. Je suppose qu'on se souviendra de lui comme d'un meurtrier psychopathe.~
-@3    = ~Désolé d't'avoir crié dessus là-dedans. C'est à cause d'not' commandant. Si nous n'l'avions pas laissé partir seul sur c'te mission... Mais il a insisté, parce que c'était censé n'être qu'un seul cadavre. Mais quand nous sommes finalement arrivés, tout c'que nous avons trouvé c't'un chariot fracassé et la vieille lame du commandant ent' les deux, alors nous avons pensé qu'il était dans la mouise. Et puis nous sommes rev'nus ici et... et nous avons trouvé sa famille et... Vous n'allez pas dire à not' lieut'nant que j'vous ai crié d'ssus, non ? Sans rancune, hein ?~
+@3    = ~Désolé d't'avoir crié dessus là-dedans. C'est à cause d'not' commandant. Si nous n'l'avions pas laissé partir seul sur c'te mission... Mais il a insisté, parce que c'était censé n'être qu'un seul cadavre. Mais quand nous sommes finalement arrivés, tout c'que nous avons trouvé c't'un chariot fracassé et la vieille lame du commandant ent' les deux, alors nous avons pensé qu'il était dans la mouise. Et puis nous sommes rev'nus ici et... et nous avons trouvé sa famille et... Vous n'allez pas dire à not' lieut'nant que j'vous ai crié d'ssus, n'est-ce pas ? Sans rancune, hein ?~
 @4    = ~Vous êtes recherché pour meurtre, commandant Brage. Je suis ici pour vous amener devant la justice. Suivez-moi auprès des autorités de Nashkel, pour recevoir votre jugement final.~
-@5    = ~Je me tiens devant vous avec ma culpabilité. J'ai pris de nombreuses vies... et je ne sais pas pourquoi. Accordez-moi justice, je suis prêt à recevoir la seule vraie peine que je mérite après avoir commis tous ces actes malfaisants.~
+@5    = ~Je me tiens devant vous avec ma culpabilité. J'ai pris de nombreuses vies... et je ne sais pas pourquoi. Accordez-moi votre jugement. Je suis prêt à recevoir le seul véritable châtiment que je mérite après avoir commis tous ces actes malfaisants.~
 @6    = ~Brage, que s'est-il passé cette nuit-là ?~
 @7    = ~Adieu.~
-@8    = ~Le dossier n'est-il pas déjà bien rempli ? Vous n'avez pas entendu tout ce qu'on vous a dit à la caserne, dans les auberges, Oublek ne vous a-t-il pas dit ce qu'ont fait ces mains ? Pourquoi voudriez-vous que je raconte comment j'ai assassiné ma famille, ma chère femme et mes filles... Mes camarades, venus à mon secours ! Comment j'ai massacré et détruit toute une caravane, avec des innocents qui ont à peine réussi à éviter les bandits sur la route ? Comment j'ai même... J'ai même découpé un homme déjà mort jusqu'à ce qu'il n'en reste plus rien...~
-@9    = ~Ne vous demandez-vous pas ce qui vous a poussé à faire cela ? Vous ne soupçonnez pas que quelque chose d'autre aurait pu vous faire perdre le contrôle ?~
+@8    = ~Les rumeurs ne sont-elles pas assez explicites ? Ne les avez-vous pas entendues à la caserne, dans les auberges ? Oublek ne vous a-t-il pas dit ce que j'ai fait avec ces mains ? Pourquoi voudriez-vous que je raconte comment j'ai assassiné ma famille, ma chère femme et mes filles... mes camarades, venus à mon secours ! Comment j'ai massacré et détruit toute une caravane, ces innocents qui ont à peine réussi à éviter les bandits sur la route ? Comment j'ai même... j'ai même taillé en pièces un homme déjà mort jusqu'à ce qu'il n'en reste plus rien...~
+@9    = ~Ne vous demandez-vous pas ce qui vous a poussé à faire cela ? Ne soupçonnez-vous pas que c'est quelque chose d'autre qui aurait pu vous faire perdre le contrôle ?~
 @10   = ~Euh, je voulais dire *avant* ça.~
-@11   = ~Quelque chose a déclenché votre folie meurtrière. De quoi vous souvenez-vous concernant ce qui s'est passé auparavant ?~
+@11   = ~Quelque chose a déclenché votre folie meurtrière. De quoi vous souvenez-vous concernant ce qui s'est passé avant cela ?~
 @12   = ~Ah, non, en effet, je n'ai aucune envie d'entendre cela à nouveau. Vous êtes un assassin, et considérez vous chanceux que le temple vous ait accueilli !~
 @13   = ~Je ne pense pas vouloir en entendre davantage.~
 @14   = ~Ne gaspillez pas votre temps avec moi, mes amis. Je n'en vaux pas la peine, si ce n'est pour me maudire de mes actions.~
-@15   = ~Avant ? Rien de spécial ne s'est produit avant. Un ivrogne a signalé un cadavre sur les routes. Il a dit qu'il ressemblait à un commerçant, avec beaucoup de marchandises sur lui. Je... J'ai été intrigué par cette événement. Si le cadavre n'a pas été pillé, alors ce ne sont pas des bandits qui l'ont tué. Si c'était le marchand que j'attendais, je devais au moins m'assurer que les marchandises étaient en sécurité. J'ai commandé une nouvelle épée il y a quelque temps. Avec la crise du fer et tout ça, j'ai attendu pendant longtemps une épée fiable venant de la lointaine Eauprofonde.~
+@15   = ~Avant ? Rien de spécial ne s'est produit avant. Un ivrogne a signalé un cadavre sur les routes. Il a dit qu'il ressemblait à un commerçant, avec beaucoup de marchandises sur lui. Je... j'ai été intrigué et je suis allé enquêter. Si le cadavre n'a pas été pillé, alors ce ne sont pas des bandits qui l'ont tué. Et si c'était bien le marchand que j'attendais, je devais au moins m'assurer que ses marchandises étaient en sécurité. J'ai commandé une nouvelle épée il y a quelque temps. Avec la crise du fer et tout ça, j'ai attendu pendant longtemps une épée fiable venant de la lointaine Eauprofonde.~
 @16   = ~Et en effet, c'était bien le marchand que nous attendions. J'ai fouillé dans sa cargaison et j'ai trouvé une épée, qui m'était personnellement adressée. Je l'ai donc prise...~
 @17   = ~Le reste est confus. Je me souviens avoir fait ce que j'ai fait, mais pourquoi... je ne sais pas.~
 @18   = ~Eh bien, nous savons que l'épée était maudite.~
-@19   = ~Eh bien, quelque chose clochait avec cette épée, c'est sûr.~
+@19   = ~Eh bien, quelque chose clochait avec cette épée. C'est une certitude.~
 @20   = ~Vous ne vous souvenez de rien d'autre ? Rien qui ne sorte de l'ordinaire ? Une idée de ce qui est arrivé à ce marchand ?~
 @21   = ~Vous avez dit que la marchandise était toujours sur lui. Qu'est-ce qui l'a tué alors ?~
-@22   = ~Je ne pense pas que cela mène à quoi que ce soit. Au revoir.~
-@23   = ~Mon ami, essayez d'imaginer avoir fait toutes ces choses... Voir la peur dans les yeux de ceux que vous aimez, entendre leurs hurlements pendant que vous les massacrez ! Il n'y a aucun doute que j'ai *fait* tout cela, et je me souviens de tout... clairement...~ ~Mon amie, essayez d'imaginer avoir fait toutes ces choses... Voir la peur dans les yeux de ceux que vous aimez, entendre leurs hurlements pendant que vous les massacrez ! Il n'y a aucun doute que j'ai *fait* tout cela, et je me souviens de tout... clairement...~
+@22   = ~Je ne pense pas que cela ne mène à quoi que ce soit. Au revoir.~
+@23   = ~Mon ami, essayez d'imaginer avoir fait toutes ces choses... Voir la peur dans les yeux de ceux que vous aimez, entendre leurs hurlements pendant que vous les massacrez ! Il n'y a aucun doute que c'est *moi* qui ai fait tout cela, et je me souviens de tout... clairement...~ ~Mon amie, essayez d'imaginer avoir fait toutes ces choses... Voir la peur dans les yeux de ceux que vous aimez, entendre leurs hurlements pendant que vous les massacrez ! Il n'y a aucun doute que c'est *moi* qui ai fait tout cela, et je me souviens de tout... clairement...~
 @24   = ~Maudite... Cela ne change pas les horribles souvenirs que j'ai dans ma tête, ni les atrocités que j'ai commises.~
 @25   = ~Oui, c'est de l'avoir brandie qui a causé tout ça !~
-@26   = ~Malheureusement, avec toutes les activités des bandits, trouver un cadavre n'a plus rien d'inhabituel de nos jours. Mais voir la charrette encore pleine de marchandises... C'était vraiment étrange. J'ai d'abord pensé qu'il s'agissait d'une attaque d'animaux sauvages. Mais c'est bien une lame qui a fait ça. Ce marchand a effectivement été tué par des bandits, mais ils n'ont pas touché à sa cargaison.~
+@26   = ~Malheureusement, avec toutes les activités des bandits, trouver un cadavre n'a plus rien d'inhabituel de nos jours. Mais voir la charrette encore pleine de marchandises... c'était vraiment inhabituel. J'ai d'abord pensé qu'il s'agissait d'une attaque d'animaux sauvages. Mais c'est bien une lame qui a fait ça. Ce marchand a effectivement été tué par des bandits, mais ils n'ont pas touché à sa cargaison.~
 @27   = ~Quoiqu'il en soit, ils n'étaient plus là. La première chose que j'ai faite après avoir ramassé l'épée a été de détruire tout ce qui se trouvait sur cette route... Ceci, mon ami, est tout ce que je peux vous dire.~ ~Quoiqu'il en soit, ils n'étaient plus là. La première chose que j'ai faite après avoir ramassé l'épée a été de détruire tout ce qui se trouvait sur cette route... Ceci, mon amie, est tout ce que je peux vous dire.~
 @28   = ~S'il vous plaît, laissez-moi tranquille. Je dois expier mes fautes.~
-@29   = ~Ne perdez pas votre temps avec ça. La potence est ce qui m'attend, et il n'y aurait pas de meilleur endroit pour un meurtrier comme moi.~
+@29   = ~Ne perdez pas votre temps avec ça. La potence est tout ce qui m'attend. Il n'y aurait pas de meilleur endroit pour un meurtrier comme moi.~
 @30   = ~Je vous remercie d'avoir cru en moi, <CHARNAME>. Je comprends maintenant que c'est le bon châtiment, continuer à vivre avec tout ce sang sur les mains. Je vais expier mes fautes. Nombreuses sont les familles qui ont perdu un père... un être cher à cause de mes actes, et je veillerai à ce qu'elles reçoivent toutes au moins une petite quantité d'or... autant que je pourrai en rassembler. Nalin m'a offert une place ici au temple, alors je vais rester ici, pour l'instant.~
 @31   = ~Je chéris la chance d'œuvrer pour la rédemption, je remercie les dieux pour cette miséricorde qu'ils me témoignent. Et vous, <CHARNAME>, que votre chemin puisse être paisible.~
-@32   = ~Je travaillerai dur pour ça, et je n'oublierai jamais les efforts que vous avez déployés pour me donner cette chance.~
+@32   = ~Je travaillerai dur pour ça. Et je n'oublierai jamais les efforts que vous avez déployés pour me donner cette chance.~
 @33   = ~Brage, j'ai trouvé l'épée que vous étiez censé recevoir. C'est une très belle épée à deux mains. Prenez-la, elle est à vous.~
 @34   = ~Brage. Cette épée est à vous, vous l'avez payée. Prenez-la !~
 @35   = ~Brage. L'épée est à vous, et je veux que vous la preniez.~
-@36   = ~Quoi ? Non. Non, je ne tiendrai plus jamais une épée dans mes mains. Gardez-la, brave <PRO_MANWOMAN>. Entre vos mains, elle fera beaucoup plus de bien.~
-@37   = ~Ne m'accablez pas, <CHARNAME>. Vous comprenez sûrement pourquoi je ne pourrai pas reprendre une épée ! Vendez-la, si vous n'en avez pas l'utilité. Je n'y toucherai pas.~
+@36   = ~Quoi ? Non. Non, je ne tiendrai plus jamais une épée dans mes mains. Gardez-la, mon brave. Entre vos mains, elle fera beaucoup plus de bien.~ ~Quoi ? Non. Non, je ne tiendrai plus jamais une épée dans mes mains. Gardez-la, ma brave. Entre vos mains, elle fera beaucoup plus de bien.~
+@37   = ~Ne m'accablez pas, <CHARNAME>. Vous comprenez sûrement pourquoi je ne pourrai pas reprendre une épée dans mes mains de sitôt ! Vendez-la, si vous n'en avez pas l'utilité, mais moi je n'y toucherai pas.~
 @38   = ~Mais... pourquoi ? Pourquoi insistez-vous tant ? N'est-il pas évident que je ne retoucherai plus jamais une épée ?~
-@39   = ~Vous avez dit que vous vouliez gagner le plus d'or possible pour dédommager les veuves et les orphelins. Eh bien, combattre et protéger les gens, c'est tout ce que vous savez faire, Brage. Je suis sûr que le nettoyage du temple est une tâche très importante, mais ne pensez-vous pas que vous pourriez récolter plus d'or en travaillant comme mercenaire ? Ou travailler comme garde du corps, si cela vous convient mieux.~
-@40   = ~Alors, vendez-la vous-même, si vous ne voulez pas la garder. Mais elle est à vous.~
-@41   = ~Eh bien... Il y a encore beaucoup de bandits par ici, n'est-ce pas ? Je pourrais... Je pourrais protéger les faibles sur la route...~
-@42   = ~Non, je ne la vendrai pas. Je ne veux rien gagner avec une épée. Je la remets entre vos mains, <CHARNAME>, car elle y sera bien plus utile.~
+@39   = ~Vous avez dit que vous vouliez gagner le plus d'or possible pour dédommager les veuves et les orphelins. Eh bien, combattre et protéger les gens, c'est tout ce que vous savez faire, Brage. Je suis sûr que le nettoyage du temple est une tâche très importante, mais ne pensez-vous pas que vous pourriez récolter plus d'or en travaillant comme mercenaire, ou comme garde du corps, si cela vous convient mieux.~ ~Vous avez dit que vous vouliez gagner le plus d'or possible pour dédommager les veuves et les orphelins. Eh bien, combattre et protéger les gens, c'est tout ce que vous savez faire, Brage. Je suis sûre que le nettoyage du temple est une tâche très importante, mais ne pensez-vous pas que vous pourriez récolter plus d'or en travaillant comme mercenaire, ou comme garde du corps, si cela vous convient mieux.~
+@40   = ~Alors, vendez-la vous-même, si vous ne voulez pas la garder. Mais dans tous les cas, elle vous appartient.~
+@41   = ~Eh bien... Il y a encore beaucoup de bandits par ici, n'est-ce pas ? Je pourrais... je pourrais protéger les faibles sur la route...~
+@42   = ~Non, je ne la vendrai pas. Je ne veux tirer aucun profit de cette épée. Je la remets entre vos mains, <CHARNAME>, car elle y sera bien plus utile.~
 @43   = ~Très bien, si c'est votre dernier mot, alors je vous remercie.~
-/* do not change line 44, it needs to be the same as in bgqe */
-@44   = ~C'est une idée intéressante, mais je n'ai pas la confiance en moi ni l'aisance nécessaire pour le faire en ce moment. Je vais... Je vais prendre l'épée. Que Heaum me donne la force ! Je sais que vos paroles sont justes, mais je suis... Je ne suis pas prêt à y faire face pour l'instant. Je vais rester ici et faire tout ce que je peux... pour le moment.~
+/* Do not change line 44, it needs to be the same as in Brage Redemption mod */
+@44   = ~C'est une idée intéressante, mais je n'ai pas la confiance en moi ni l'aisance nécessaire pour le faire en ce moment. Je vais... je vais prendre l'épée. Que Heaum me donne la force ! Je sais que vos paroles sont justes, mais je suis... je ne suis pas prêt à y faire face pour l'instant. Je vais rester ici et faire tout ce que je peux... pour le moment.~
 @45   = ~Je vous remercie, <CHARNAME>.~
-@46   = ~Ainsi vous avez ramené Brage vivant. Je n'ai cure des larmes que certains ont versées pour ce "commandant". Tout ce baratin sur l'honneur et la droiture de Brage et les suspicions sur l'implication d'une magie maléfique !~
+@46   = ~Ainsi vous avez ramené Brage vivant. Je n'ai cure des larmes que certains ont versées pour ce "commandant". Ou de tout ce baratin sur l'honneur et la droiture de Brage et les suspicions sur l'implication d'une magie maléfique !~
 @47   = ~La condamnation de ce meurtrier sera rapide et sans encombre, car tout prouve sa culpabilité. Il est presque dommage que le procès de Brage doive attendre un certain temps, avec la garde actuellement débordée et en sous-effectif. Peu importe, ce meurtrier aura ainsi le temps de se "préparer" pour son dernier jour !~
 @48   = ~Ah, mais pourquoi l'avez-vous donc laissé se cacher dans le temple !~
-@49   = ~Le prêtre Nalin a déjà confirmé qu'il n'était pas sous l'effet d'un sortilège lorsque vous l'avez amené. Brage a dit qu'il vous avait donné son épée, je dois vous demander, je vous prie, d'aller voir Nalin et de le laisser prouver qu'il n'y a rien de suspect à propos de cette lame, pour que cette rumeur selon laquelle Brage serait en fait innocent puisse enfin cesser. Voyons, que faut-il de plus pour prouver que c'est un assassin, le massacre que Brage a commis sur sa propre famille et ses camarades ne suffit-il pas ?!~
+@49   = ~Le prêtre Nalin a déjà confirmé qu'il n'était pas sous l'effet d'un sortilège lorsque vous l'avez amené. Brage a dit qu'il vous avait donné son épée. Je dois vous demander, je vous prie, d'aller voir Nalin et de le laisser prouver qu'il n'y a rien de suspect à propos de cette lame. Ainsi, cette rumeur affirmant que Brage serait en fait innocent pourrait enfin cesser. Voyons, que faut-il de plus pour prouver que c'est un assassin, le massacre que Brage a commis sur sa propre famille et ses camarades ne suffit-il pas ?!~
 @50   = ~Ah, <CHARNAME>. J'ai déjà eu vent de de vos efforts pour prouver l'innocence de Brage, et je vous soutiendrai de toutes les manières possibles. Laissez-moi jeter un coup d'œil à cette épée.~
 @51   = ~(Montrer la bonne épée) La voici.~
 @52   = ~Je ne l'ai pas sur moi.~
-@53   = ~Eh bien... J'ai la bonne épée, et je suis certain qu'il y a quelque chose qui ne va vraiment pas avec elle. Mais, pourquoi vous la montrerais-je ? Pourquoi je la montrerais à qui que ce soit ? Qu'ai-je à y gagner ?~ ~Eh bien... J'ai la bonne épée, et je suis certaine qu'il y a quelque chose qui ne va vraiment pas avec elle. Mais, pourquoi vous la montrerais-je ? Pourquoi je la montrerais à qui que ce soit ? Qu'ai-je à y gagner ?~
+@53   = ~Eh bien... j'ai la bonne épée, et je suis certain qu'il y a quelque chose qui ne va vraiment pas avec elle. Mais, pourquoi vous la montrerais-je ? Pourquoi je la montrerais à qui que ce soit ? Qu'ai-je à y gagner ?~ ~Eh bien... j'ai la bonne épée, et je suis certaine qu'il y a quelque chose qui ne va vraiment pas avec elle. Mais, pourquoi vous la montrerais-je ? Pourquoi je la montrerais à qui que ce soit ? Qu'ai-je à y gagner ?~
 @54   = ~(Montrer une autre épée à deux mains) La voici.~
 @55   = ~Pas tout de suite, j'ai d'abord besoin de vos services.~
 @56   = ~Veuillez me l'apporter. Nous avons tous besoin de connaître la vérité.~
@@ -60,11 +61,11 @@
 @58   = ~Oh, mais quel étourdi ! Non, ce n'est pas celle-là. Voici l'épée. (Montrer la bonne épée)~ ~Oh, mais quelle étourdie ! Non, ce n'est pas celle-là. Voici l'épée. (Montrer la bonne épée)~
 @59   = ~(Continuer de montrer une autre épée) Ab-so-lument. C'est l'épée que Brage maniait, et je veux que votre jugement soit basé sur celle-ci.~
 @60   = ~Pourquoi ne pas remettre cette question à plus tard ? Au revoir.~
-@61   = ~Vous... vous êtes un rapace ! C'est de l'or que vous voulez ? Nous parlons d'empêcher la mort d'un homme honorable et vous essayez d'en tirer profit ? Eh bien, je suppose qu'il y a des gens qui ne travaillent que pour l'or. Très bien. Rassemblez les preuves de l'innocence de Brage, et je vous paierai 400 pièces d'or supplémentaires. 200 maintenant, 200 quand son innocence sera prouvée. Qu'en dites-vous ?~
+@61   = ~Vous... vous êtes un rapace ! C'est de l'or que vous voulez ? Nous parlons d'empêcher l'exécution d'un homme honorable et vous essayez d'en tirer profit ? Eh bien, je suppose qu'il y a des gens qui ne travaillent que pour l'or. Très bien. Rassemblez les preuves de l'innocence de Brage, et je vous paierai 400 pièces d'or supplémentaires. 200 maintenant, 200 quand son innocence sera prouvée. Qu'en dites-vous ?~
 @62   = ~(Montrer la bonne épée) offrez-m'en plus, et c'est d'accord.~
 @63   = ~(Montrer la bonne épée) Ça me va. C'est d'accord.~
 @64   = ~Je vais y réfléchir.~
-@65   = ~Humpf. Ce sera 500 pièces d'or !~
+@65   = ~Humpf. Ce sera 500 pièces d'or, alors !~
 @66   = ~Ah, <CHARNAME>. Vous avez prouvé l'innocence de Brage, et nous avons passé un contrat. Tenir nos engagements est le devoir du clergé de Heaum.~
 @67   = ~Voici les 200 pièces d'or manquantes. Que Heaum puisse vous guider.~
 @68   = ~Voici les 250 pièces d'or manquantes. Que Heaum puisse vous guider.~
@@ -74,7 +75,7 @@
 @72   = ~"Mince" ?!~
 @73   = ~Ceci, mon ami, change *tout*. Ce ne sont pas vos longues années de combat qui vous ont rendu cruel et insensible à la souffrance des autres. Vous devrez expier ce qui a été fait, mais pas pour la raison pour laquelle vous l'avez fait. Pas si <CHARNAME> réussit à prouver la tromperie !~
 @74   = ~Une épée maudite a été remise entre les mains bienveillantes du commandant Brage. Ceci, mon ami, change tout. Ce ne sont pas les longues années de combat qui ont rendu un homme bon, cruel et insensible à la souffrance des autres. Brage devra expier ce qu'il a fait, mais pas pour la raison pour laquelle il l'a fait. Pas si vous réussissez à prouver la tromperie !~
-@75   = ~Eh bien... Je dois vous croire sur parole. Brage ne se souvient pas de la lame qu'il maniait, et il vous l'a donnée, alors...~
+@75   = ~Eh bien... je dois vous croire sur parole. Brage ne se souvient pas de la lame qu'il maniait, et il vous l'a donnée, alors...~
 @76   = ~(soupir) Non, cette lame n'a rien de particulier. C'est une épée banale...~
 @77   = ~Vous devez regarder la réalité en face, prêtre. Vous donnez asile à un meurtrier. Si seulement je savais pourquoi j'ai fait ça...~
 @78   = ~Vous avez votre place ici, dans le temple, et à juste titre. Vous allez expier vos crimes, Brage. Heaum vous donnera la force de surmonter cette épreuve.~
@@ -82,54 +83,54 @@
 @80   = ~Salutations. Nous nous sommes déjà rencontrés. Je suis Laryssa, la cousine de Brage. Vous avez réussi à le capturer vivant, je vous en suis très reconnaissante. Je me suis sauvée la dernière fois que nous nous sommes vus, car je m'attendais soit à ce que vous tuiez mon cousin, soit à ce qu'il vous tue, et je ne voulais pas prendre part à cela.~ ~Salutations. Nous nous sommes déjà rencontrées. Je suis Laryssa, la cousine de Brage. Vous avez réussi à le capturer vivant, je vous en suis très reconnaissante. Je me suis sauvée la dernière fois que nous nous sommes vues, car je m'attendais soit à ce que vous tuiez mon cousin, soit à ce qu'il vous tue, et je ne voulais pas prendre part à cela.~
 @81   = ~Je... comprends pourquoi vous l'avez amené aux autorités.~
 @82   = ~Je... vous remercie sincèrement de l'avoir mis sous la protection du temple et de ne pas l'avoir remis aux autorités.~
-@83   = ~Il a commis tous ces meurtres, et pour cela il aurait peut-être mérité d'être pendu. Mais son esprit était troublé. S'il y a bien une chose dont je suis sûre, c'est qu'il avait complètement perdu la tête. Le Brage que je connais est un homme bon, sincère et loyal. Jamais il ne lèverait une arme contre un faible ou un innocent. Et surtout, pas contre sa propre famille.~
-@84   = ~On dirait qu'il n'y a rien à faire pour lever officiellement sa culpabilité. Je vous remercie néanmoins pour vos efforts et pour la deuxième chance que vous lui avez accordée. Que les dieux vous bénissent.~
+@83   = ~Il a commis tous ces meurtres, et pour cela il aurait été pendu, et à juste titre. Mais son esprit était troublé. S'il y a bien une chose dont je suis sûre, c'est qu'il avait complètement perdu la tête. Le Brage que je connais est un homme bon, sincère et loyal. Jamais il ne lèverait une arme contre un faible ou un innocent. Et surtout, pas contre sa propre famille.~
+@84   = ~On dirait qu'il n'y a rien à faire pour prouver, officiellement, son innocence. Je vous remercie néanmoins pour vos efforts et pour la deuxième chance que vous lui avez accordée. Que les dieux vous bénissent.~
 @85   = ~Il semble que rien ne puisse être fait pour le sauver. Je vous remercie néanmoins pour vos efforts. Que les dieux vous bénissent.~
-@86   = ~Je suis votre enquête avec beaucoup d'intérêt, <CHARNAME>. J'ai retrouvé un peu d'espoir pour mon cousin. Que les dieux vous bénissent.~
-@87   = ~Ce qui nous amène à la raison pour laquelle je suis ici. J'ai remarqué que vous avez montré un certain... intérêt à prouver l'innocence de Brage. Vous pouvez comprendre que c'est aussi dans mon intérêt. J'ai fait une petite enquête, et j'ai effectivement trouvé quelque chose. J'ai localisé l'ivrogne qui a signalé le cadavre qui n'a pas été pillé sur la route, ce qui a déclenché toute cette affaire, et grâce à lui j'ai identifié d'autres individus qui étaient en déplacement cette nuit-là. Il semble qu'il y avait un marchand sur cette route, un marchand dont la réputation est fort douteuse.~
-@88   = ~Nous avons trouvé cette lettre chez un marchand escroc déclarant clairement que l'épée commandée par Brage avait été échangée avec une épée maudite.~
+@86   = ~J'ai suivi votre enquête avec beaucoup d'intérêt, <CHARNAME>. J'ai retrouvé un peu d'espoir pour mon cousin. Que les dieux vous bénissent.~
+@87   = ~Ce qui nous amène à la raison pour laquelle je suis ici. J'ai remarqué que vous avez montré un certain... intérêt à prouver l'innocence de Brage. Vous pouvez comprendre que c'est aussi dans mon intérêt. J'ai fait une petite enquête, et j'ai effectivement trouvé quelque chose. J'ai retrouvé l'ivrogne qui avait signalé ce cadavre sur la route, qui a déclenché toute cette affaire. Grâce à lui, j'ai identifié d'autres individus qui étaient également en déplacement cette nuit-là. Il semble qu'il y avait un marchand sur cette route, un marchand dont la réputation est fort douteuse.~
+@88   = ~Nous avons trouvé cette lettre chez un marchand escroc. Elle stipule clairement que l'épée commandée par Brage avait été échangée avec une épée maudite.~
 @89   = ~Nous avons trouvé cette lettre sur des bandits, dans les mines. Elle indique clairement qu'ils avaient planifié d'affaiblir la garnison de Nashkel par une machination infâme avec l'épée de Brage.~
 @90   = ~À propos de Brage...~
 @91   = ~Oui, qu'en est-il ?~
 @92   = ~Brage est en prison, comme vous le savez. J'enquête sur ce qui s'est passé et j'aimerais lui poser quelques questions. Puis-je lui parler ?~
 @93   = ~Le prêtre Nalin du Temple de Heaum confirme la thèse de l'épée maudite.~
 @94   = ~Rien, au revoir.~
-@95   = ~Eh bien, la garnison a été affaiblie, en effet. Et oui, la nouvelle épée de Brage a eu une incidence sur cela aussi, étant donné la façon dont il l'a utilisée. Cela ne prouve pas que Brage n'est pas le meurtrier qu'il semble être, si telle était votre intention.~
+@95   = ~La garnison a été affaiblie, en effet. Et oui, la nouvelle épée de Brage n'a fait qu'empirer la situation, étant donné la façon dont il l'a utilisée. Cela ne prouve pas que Brage n'est pas le meurtrier qu'il semble être, si telle était votre intention.~
 @96   = ~Hum, il semblerait donc que l'épée avec laquelle Brage a commis ses crimes était bien maudite.~
-@97   = ~Cela ne prouve pas pour autant que le "Commandant" n'a pas pris cette épée exprès, pour faire le mal qu'il avait prévu de faire !~
+@97   = ~Cependant, cela ne prouve pas pour autant que le "Commandant" n'a pas pris cette épée intentionnellement, pour faire le mal qu'il avait prévu de faire !~
 @98   = ~Hum, oui, cela prouve bien qu'il était *planifié* d'échanger l'épée de Brage avec une autre, maudite.~
-@99   = ~Mais cela ne prouve pas que *c'est avec* une lame maudite que Brage, envoûté, a commencé à massacrer des innocents et ses propres camarades !~
-@100  = ~Cela signifie qu'il y a des preuves que Brage avait une épée maudite *et* qu'il a été dupé afin de la prendre. Je vais en parler au maire Berrun Tuemort, même si cela me fait de la peine qu'un tel meurtrier puisse être relâché. Très bien. La prochaine fois que vous viendrez ici, le procès aura peut-être lieu.~
-@101  = ~Oh, une épée maudite maintenant, c'est ça ? Oui, je qualifierais bien de "maudite" une lame comme celle-ci, qui a servi à tuer autant d'innocents. Si vous faites référence à la sorcellerie, quel dommage que nous n'ayons ni Brage ni cette épée ici pour prouver quoi que ce soit, n'est-ce pas ?~
+@99   = ~Mais cela ne prouve pas que c'est *avec* une lame maudite que Brage, envoûté, a commencé à massacrer des innocents et ses propres camarades !~
+@100  = ~Cela signifie qu'il y a bien des preuves que Brage avait une épée maudite *et* qu'il a été dupé afin de la prendre. Je vais en parler au maire Berrun Tuemort, même si cela me fait de la peine de savoir qu'un tel meurtrier puisse être relâché. Très bien, la prochaine fois que vous viendrez ici, le procès aura peut-être lieu.~
+@101  = ~Oh, une épée maudite maintenant, c'est ça ? Oui, je qualifierais bien de "maudite" une lame comme celle-ci, qui a servi à tuer autant d'innocents. Si vous faites cependant référence à de la sorcellerie, quel dommage que nous *n'ayons* ni Brage ni cette épée ici pour prouver quoi que ce soit, n'est-ce pas ?~
 @102  = ~Humpf. Je suppose qu'il n'y a aucune raison de ne pas le faire. Mais je vous préviens, ne faites rien de stupide. Et choisissez bien vos questions, parce que vous n'aurez pas d'autre opportunité.~
 @103  = ~Quoi...~
 @104  = ~<CHARNAME> a quelques questions à vous poser, Brage. Racontez-lui ce qui s'est passé.~
-@105  = ~Ah, <CHARNAME>. Le maire Berrun Tuemort est prêt à ouvrir le procès du meurtrier Brage.~
+@105  = ~Ah, <CHARNAME>. Le maire Berrun Tuemort est prêt à présider le procès du meurtrier Brage.~
 @106  = ~Vu les chances de l'emporter, Nalin a accepté que le procès ait lieu, et ce couard de Brage est sorti du temple.~
 @107  = ~Comme c'est vous qui avez recueilli les preuves, vous y êtes le bienvenu. Suivez-moi.~ ~Comme c'est vous qui avez recueilli les preuves, vous y êtes la bienvenue. Suivez-moi.~
-@108  = ~Ah, <CHARNAME>. Vous avez fait du bon travail en rassemblant les preuves contre cet assassin de Brage. Une épée maudite, murmurait le peuple. Il y a quelque chose qui ne va pas, disaient-ils. Non, rien de la sorte. Brage n'est rien d'autre qu'un simple meurtrier, et la ville ne l'oubliera pas. Ce couard puant peut se cacher dans le temple, mais nous serons prêts dès qu'il sortira, je vous l'assure.~
+@108  = ~Ah, <CHARNAME>. Vous avez fait du bon travail en rassemblant les preuves contre cet assassin de Brage. Nous avons tous entendu la rumeur d'une épée maudite, que quelque chose ne tourne pas rond dans cette histoire. Mais moi je dis "Non !", rien de la sorte. Brage n'est rien d'autre qu'un simple meurtrier, et la ville ne l'oubliera pas. Ce couard puant peut se cacher dans le temple, mais nous serons prêts dès qu'il sortira, ça je vous l'assure.~
 @109  = ~Commandant Brage, les accusations portées contre vous sont graves. Vous êtes accusé d'avoir tué votre famille, cinq de nos soldats et les voyageurs d'une caravane. Qu'avez-vous à dire pour votre défense ?~
 @110  = ~Coupable de toutes les charges.~
 @111  = ~Eh bien, <CHARNAME> a recueilli des preuves concernant votre culpabilité. Oublek, pourriez-vous récapituler les faits ?~
 @112  = ~Oui. Comme l'a confirmé le prêtre Nalin, l'épée utilisée par l'accusé pour ces homicides était maudite. Comme cette lettre l'indique, l'épée maudite a été intentionnellement placée dans les mains du commandant Brage, et ce pour affaiblir la garnison de Nashkel.~
-@113  = ~Je... Je ne sais pas quoi dire.~
-@114  = ~Alors je vais le dire pour vous, Brage. Vous êtes innocenté du chef d'inculpation d'avoir commis des meurtres intentionnellement et de votre plein gré. La peine de mort est donc levée.~
+@113  = ~Je... je ne sais pas quoi dire.~
+@114  = ~Alors je vais le dire pour vous, Brage. Vous êtes innocenté de tous les chefs d'inculpation d'avoir commis des meurtres intentionnellement et de votre plein gré. La peine de mort est donc levée.~
 @115  = ~Non... non, après tout ce que j'ai fait, je ne peux continuer à vivre avec ce fardeau...~
 @116  = ~Le mal est fait, effectivement. Par les pouvoirs qui me sont conférés, je vous condamne à rembourser votre dette pour les vies que vous avez prises et les dommages que vous avez causés. Vous êtes dépouillé de tous vos titres et congédié des forces amniennes. Vous pouvez partir en homme libre, Brage, bien que je craigne que vous ne soyez plus qu'un pauvre homme brisé. Je suis vraiment désolé pour tout ce qui s'est passé.~
 @117  = ~Oui. Comme l'a confirmé le prêtre Nalin, l'épée utilisée par l'accusé pour ces meurtres était tout à fait normale. Aucune force maléfique n'a donc guidé les mains de ce meurtrier !~
 @118  = ~(soupir) Ainsi c'est donc vrai. Brage, par les pouvoirs qui me sont conférés, je vous condamne à mort par pendaison. Je suis vraiment désolé pour ce qui s'est produit.~
-@119  = ~Je... Je vous remercie. Justice sera rendue... Ma pauvre famille.~
-@120  = ~Je suis impressionné par tous vos efforts pour prouver l'innocence du commandant. Non seulement lui, mais toute la ville vous est redevable. Les soldats sont beaucoup moins bouleversés maintenant que nous savons que c'était une conspiration, c'est déjà ça. Cela ne signifie pas que nous ne sommes pas en état d'alerte, bien sûr. Il semblerait que Nashkel ait beaucoup d'ennemis.~
-@121  = ~Merci d'avoir aidé notre commandant. (soupir) Quelle triste histoire. Mon cœur s'alourdit en pensant à sa famille. La garnison a perdu cinq hommes à cause de cette sorcellerie infâme... Non, six au total, si on compte aussi le commandant Brage !~
-@122  = ~Et tous reliés aux bandits qui ont envahi nos mines ?!~
-@123  = ~Une conspiration pour affaiblir notre garnison ! Voyez-vous ça !~
-@124  = ~Les autorités doivent être informées de ces événements. J'aimerais beaucoup vous aider à trouver les coupables de ce stratagème, mais je ne peux pas quitter mon poste. Et un soldat de Nashkel enquêtant sur la Côte des Épées ne serait pas une bonne idée non plus. Il ne me reste plus qu'à vous souhaiter bonne chance pour retrouver qui est derrière tout ça.~
+@119  = ~Je... je vous remercie. Justice sera rendue... ma pauvre famille.~
+@120  = ~Je suis impressionné par tous vos efforts pour prouver l'innocence du commandant. Non seulement lui, mais toute la ville vous est redevable. Au moins, les soldats sont beaucoup moins bouleversés maintenant que nous savons que c'était une conspiration, c'est déjà ça. Cela ne signifie pas que nous ne sommes plus en état d'alerte, bien sûr. Il semblerait que Nashkel ait beaucoup d'ennemis.~
+@121  = ~Merci d'avoir aidé notre commandant. (soupir) Quelle triste histoire. Mon cœur s'alourdit rien qu'en pensant à sa famille. La garnison a perdu cinq hommes à cause de cette sorcellerie infâme... non, six au total, si on compte aussi le commandant Brage !~
+@122  = ~Et tout ceci est connecté aux bandits qui ont envahi nos mines ?!~
+@123  = ~Une conspiration pour affaiblir notre garnison ! Et voilà !~
+@124  = ~Les autorités doivent être informées de ces événements. J'aimerais beaucoup vous aider à trouver les coupables de ce stratagème, mais je ne peux pas quitter mon poste, et un soldat de Nashkel enquêtant sur la Côte des Épées ne serait pas une bonne idée. Tout ce que je peux faire c'est de vous souhaiter bonne chance pour retrouver qui est derrière tout ça.~
 @125  = ~Étranges potions magiques, hein ? Voyez-vous, je cherche le contact d'un criminel et meurtrier, un "marchand assez désespéré" pour acheter des "potions spéciales". Pensez-vous que cette description vous corresponde ?~
 @126  = ~Nous recherchons un commerçant qui propose des objets maudits et des potions. Il a été vu pour la dernière fois ici au festival. Vos potions ressemblent énormément aux siennes, alors vous feriez mieux de tout me dire, et en vitesse.~
 @127  = ~Ah, faites donc ça, et nous verrons qui les gardes emmèneront avec eux ! Voyez-vous, je cherche le contact d'un criminel et d'un meurtrier, un "marchand assez désespéré" pour acheter des "potions spéciales". Pensez-vous que cette description vous corresponde ?~
 @128  = ~Voyez-vous, je cherche le contact d'un criminel et d'un meurtrier, un "marchand assez désespéré" pour acheter des "potions spéciales". Pensez-vous que cette description vous corresponde ?~
 @129  = ~Quoi ?! Comment osez-vous... Ah, mais je suis assez sage pour ne pas provoquer des gens aussi lourdement armés que vous. Oui, j'ai acheté les potions à un marchand ambulant que je connais à peine... mais cela ne fait pas de moi un criminel ! Mes potions ne sont pas maudites elles sont juste, eh bien, spéciales. Je ne connais pas cet homme, je le jure !~
-@130  = ~Eh bien la seule chose que je peux vous dire, c'est qu'il est allé à la tente du Lotus Noir la dernière fois qu'il est venu ici, mais je ne sais pas si c'était pour son propre plaisir ou à la recherche d'autres clients.~
+@130  = ~Eh bien, la seule chose que je peux vous dire, c'est qu'il est allé à la tente du lotus noir la dernière fois qu'il est venu ici, mais je ne sais pas si c'était pour son propre plaisir ou à la recherche d'autres clients.~
 @131  = ~Il est reparti, vers l'ouest. J'ai mes propres sources, surtout dans un domaine aussi sensible que les relations d'affaires. Ma "source" a perdu sa trace quelque part à l'ouest de la ville.~
 @132  = ~Si jamais il réapparaît je vous avertirai, je vous le promets ! Mais pour l'instant, veuillez je vous vous prie quitter ma tente.~
 @133  = ~À moins que vous ne vouliez essayer une de mes potions très spéciales, bien sûr. Comme je l'ai déjà dit auparavant, la violette vous rendra très, très fort.~ ~À moins que vous ne vouliez essayer une de mes potions très spéciales, bien sûr. Comme je l'ai déjà dit auparavant, la violette vous rendra très, très forte.~
@@ -137,8 +138,8 @@
 @135  = ~Je ne l'ai pas vu depuis longtemps. Je jure que les potions que je propose ne sont pas maudites ! Si jamais il réapparaît, je vous avertirai, je vous le promets ! Mais pour l'instant, veuillez je vous prie quitter ma tente.~
 @136  = ~Hum, vous êtes louche comme marchand, à rôder dans les bois ! Je cherche un marchand d'objets maudits. En seriez-vous un ?!~
 @137  = ~Vous ! Vous êtes celui qui a vendu l'épée maudite au commandant de la garnison de Nashkel !~
-@138  = ~De quoi m'accusez-vous ?! Eh bien, eh bien, il semble que vous n'êtes pas un acheteur, après tout. Il semble que vous soyez plutôt un fournisseur ! Oui, maintenant ça va barder.~
-@139  = ~Ah, vous avez fouiné assez longtemps maintenant, fourrant votre nez dans des choses qui ne vous concernent pas ! Vous essayez de me démasquer en interrogeant mes collaborateurs, hein ? Eh bien, félicitations ! Vous m'avez trouvé. Mais mauvaise nouvelle : je ne suis pas entièrement *sans ressources*, voyez-vous.~
+@138  = ~De quoi m'accusez-vous ?! Eh bien, eh bien, il semble que vous n'êtes pas un acheteur, après tout, mais un fournisseur ! Oui, maintenant ça va barder.~
+@139  = ~Ah, vous avez fouiné assez longtemps, fourrant votre nez dans des choses qui ne vous concernent pas ! Vous essayez de me démasquer en interrogeant mes collaborateurs, hein ? Eh bien, félicitations ! Vous m'avez trouvé. Mais mauvaise nouvelle, je ne suis pas entièrement *sans ressources*, voyez-vous.~
 @140  = ~Cet homme a déclaré qu'il n'avait acheté chez ce marchand que parce qu'il l'avait remarqué au festival de Nashkel auparavant. Mais le parchemin qu'il a acheté était maudit ! Sachant que la nouvelle épée de Brage était également maudite, ce marchand constitue une piste très intéressante. Je vais essayer de la remonter. Mais il se pourrait bien que je me trompe, alors le mieux serait de poursuivre votre propre investigation. Je vous remercie au nom de Brage pour votre aide.~
 @141  = ~...Hum, il n'y a rien de spécial... Etes-vous certain que c'est la lame que Brage maniait lorsqu'il a commis les crimes dont il est accusé ?~ ~...Hum, il n'y a rien de spécial... Etes-vous certaine que c'est la lame que Brage maniait lorsqu'il a commis les crimes dont il est accusé ?~
 /* Imoen */
@@ -159,8 +160,8 @@
 @149  = ~Jeune <PRO_MANWOMAN>, ce n'est pas un jeu, tu sais. Ce n'est pas la bonne épée.~
 /* Kivan */
 @150  = ~Je me suis associé à vous pour arrêter les bandits, et non pour agir moi-même comme tel. Ce n'est pas l'épée que Brage a brandie.~
-@151  = ~Écoutez, j'ai des raisons de ne pas montrer l'épée de Brage. N'insistez pas.~
-@152  = ~Je vois. C'est bien triste, mais nous accepterons votre décision.~
+@151  = ~Écoutez, j'ai mes raisons de ne pas vous montrer l'épée de Brage. N'insistez pas.~
+@152  = ~Je vois. C'est bien triste, mais nous acceptons votre décision.~
 
 
 
@@ -169,7 +170,7 @@
 
 @1000 = ~La culpabilité du capitaine Brage
 
-Le lieutenant Bardolan a mentionné la disparition du commandant de la garnison de Nashkel. Les gens n'arrêtent pas d'en parler en ville, quelque chose de terrible semble s'être passé.~
+Le lieutenant Bardolan a mentionné la disparition du commandant de la garnison de Nashkel. Les gens n'arrêtent pas d'en parler en ville, quelque chose de terrible est arrivé.~
 @1001 = ~La culpabilité du capitaine Brage
 
 Un des soldats amniens m'a dit que son commandant, Brage, était parti en mission seul la nuit où il est devenu fou. Ce qui est intéressant, c'est qu'il n'avait pas sa vieille épée quand il a commencé la tuerie.~
@@ -178,28 +179,28 @@ Un des soldats amniens m'a dit que son commandant, Brage, était parti en mission
 Malheureusement, rien de ce que Brage m'a dit ne me donne d'indice sur celui ou ceux qui auraient pu avoir intérêt à le piéger.~
 @1003 = ~La culpabilité du capitaine Brage
 
-Brage m'a raconté quelque chose d'intéressant sur la nuit où il est devenu fou. Il semble qu'un marchand ait été tué sur la route par des bandits, mais ses marchandises sont restées intactes. Soit les bandits ont été interrompus après l'avoir tué, soit tout cela n'était qu'un coup monté, dans les deux cas, je cherche un meurtrier qui a laissé un cadeau empoisonné à la garde amnienne. Malheureusement, rien de ce que Brage m'a dit ne me donne d'indice sur l'endroit où commencer à chercher celui ou ceux qui ont fait ça.~
+Brage m'a raconté quelque chose d'intéressant sur la nuit où il est devenu fou. Il semble qu'un marchand ait été tué sur la route par des bandits, mais ses marchandises sont restées intactes. Soit les bandits ont été interrompus après l'avoir tué, soit tout cela n'était qu'un coup monté. Dans les deux cas, je cherche un meurtrier qui a laissé un cadeau empoisonné à la garde amnienne. Malheureusement, rien de ce que Brage m'a dit ne me donne d'indice sur l'endroit où commencer à chercher celui ou ceux qui ont fait ça.~
 @1004 = ~La culpabilité du capitaine Brage
 
-J'ai escorté Brage à la garnison pour qu'il puisse recevoir le jugement qu'il mérite. Mais quelque chose ne tourne pas rond. Les gens qui le connaissent sont convaincus que le changement de Brage est plus compliqué qu'il n'y paraît, comme s'il était sous l'influence d'un genre de sortilège. Oublek m'a demandé de laisser Nalin jeter un coup d'œil sur l'épée de Brage pour "prouver qu'elle n'a rien de particulier". Eh bien, il y a certainement quelque chose qui ne va pas avec l'épée de Brage. Brage est en prison actuellement, en attente de son procès. J'ai l'impression que ce sera à moi de décider de l'issue du procès, étant donné que tout dépend de si je présente la bonne épée à Nalin ou non...~
+J'ai escorté Brage à la garnison pour qu'il puisse recevoir le jugement qu'il mérite. Mais quelque chose ne tourne pas rond. Les gens qui le connaissent sont convaincus que le changement de Brage est plus compliqué qu'il n'y paraît, comme s'il était sous l'influence d'un genre de sortilège. Oublek m'a demandé de laisser Nalin jeter un coup d'œil sur l'épée de Brage pour "prouver qu'elle n'a rien de particulier". Eh bien, il y a certainement quelque chose qui ne va pas avec l'épée de Brage. Brage est en prison actuellement, en attente de son procès. J'ai l'impression que ce sera mes actes qui dicterons l'issue du procès, étant donné que tout dépend de si je présente la bonne épée à Nalin ou non...~
 @1005 = ~La culpabilité du capitaine Brage
 
-Il me semble justifié d'avoir amené Brage au temple de Heaum au lieu de la garnison où une mort certaine l'attendait. Mais quelque chose ne tourne pas rond. Les gens qui le connaissent sont convaincus que le changement de Brage est plus compliqué qu'il n'y paraît, comme s'il était sous l'influence d'un genre de sortilège. Oublek m'a demandé de laisser Nalin jeter un coup d'œil sur l'épée de Brage pour "prouver qu'elle n'a rien de particulier". Eh bien, il y a certainement quelque chose qui ne va pas avec l'épée de Brage. Brage a trouvé refuge dans le temple. J'ai l'impression que ce sera à moi de décider si Brage aura la chance d'y trouver la rédemption, étant donné que tout dépend de si je présente la bonne épée à Nalin ou non...~
+Il me semble justifié d'avoir amené Brage au temple de Heaum au lieu de la garnison, où une mort certaine l'attendait. Mais quelque chose ne tourne pas rond. Les gens qui le connaissent sont convaincus que le changement de Brage est plus compliqué qu'il n'y paraît, comme s'il était sous l'influence d'un genre de sortilège. Oublek m'a demandé de laisser Nalin jeter un coup d'œil sur l'épée de Brage pour "prouver qu'elle n'a rien de particulier". Eh bien, il y a certainement quelque chose qui ne va pas avec l'épée de Brage. Brage a trouvé refuge dans le temple. J'ai l'impression que ce sera à moi de décider si Brage aura la chance d'y trouver la rédemption, étant donné que tout dépend de si je présente la bonne épée à Nalin ou non...~
 @1006 = ~La culpabilité du capitaine Brage
 
-Nalin a affirmé que l'épée est maudite !~
+Nalin témoignera que l'épée est maudite !~
 @1007 = ~La culpabilité du capitaine Brage
 
-Nalin a affirmé que l'épée est tout à fait normale. Eh bien, montrer la mauvaise épée aurait pu amener à cela... mais il faut parfois donner un petit coup de pouce à la "justice". Finalement, Brage ira à la potence.~
+Nalin témoignera que l'épée serait tout à fait normale. Eh bien, montrer la mauvaise épée aurait pu amener à cela... mais il faut parfois donner un petit coup de pouce à la "justice". Brage ira à la potence, finalement.~
 @1008 = ~La culpabilité du capitaine Brage
 
-Nalin a affirmé que l'épée est tout à fait normale. Eh bien, montrer la mauvaise épée aurait pu amener à cela... mais il faut parfois donner un petit coup de pouce à la "justice".~
+Nalin a témoigné que l'épée est tout à fait normale. Eh bien, montrer la mauvaise épée aurait pu amener à cela... mais il faut parfois donner un petit coup de pouce à la "justice".~
 @1009 = ~La culpabilité du capitaine Brage
 
-Laryssa, la cousine de Brage, a mentionné qu'un marchand qui vend des objets maudits a été vu au festival de Nashkel. Je pourrais peut-être jeter un coup d'œil là-bas pour voir si je trouve quelqu'un qui l'aurait vu, ou peut-être l'un de ses contacts. S'il vend des objets maudits, j'ai du mal à croire qu'il tenterait une action trop audacieuse près de la ville avec tous les soldats, mais peut-être qu'il a quand même tenté sa chance avec l'un des marchands du festival.~
+Laryssa, la cousine de Brage, a mentionné qu'un marchand qui vend des objets maudits a été vu au festival de Nashkel. Je pourrais peut-être jeter un coup d'œil là-bas pour voir si je trouve quelqu'un qui l'aurait vu, ou peut-être l'un de ses contacts. S'il vend des objets maudits, j'ai du mal à croire qu'il tenterait quoi que ce soit si près de la ville avec tous les soldats. Mais peut-être qu'il a quand même tenté sa chance avec l'un des marchands du festival.~
 @1010 = ~La culpabilité du capitaine Brage
 
-J'ai dit à Oublek que Nalin affirme que l'épée de Brage était maudite, mais cela ne suffit pas à prouver son innocence. J'ai besoin de la preuve que cette épée lui a été remise à son insu.~
+J'ai dit à Oublek que Nalin a accepté de témoinger que l'épée de Brage était maudite, mais cela ne suffit pas à prouver son innocence. J'ai besoin de la preuve que cette épée lui a été remise à son insu.~
 @1011 = ~La culpabilité du capitaine Brage
 
 Oh, Quelle coïncidence. Le marchand d'objets maudits m'a tendu une embuscade au festival de Nashkel. Je devrais le fouiller minutieusement pour trouver des preuves concernant cette histoire avec Brage.~
@@ -208,26 +209,28 @@ Oh, Quelle coïncidence. Le marchand d'objets maudits m'a tendu une embuscade au 
 J'ai retrouvé le marchand d'objets maudits dont Laryssa a parlé. Je devrais le fouiller minutieusement pour trouver des preuves concernant cette histoire avec Brage.~
 @1013 = ~La culpabilité du capitaine Brage
 
-La note, pourtant explicite, de la substitution de l'épée de Brage par une autre, maudite, et la mise en place d'un stratagème pour que Brage obtienne cette épée ne sont pas des preuves suffisantes pour convaincre Oublek que c'est ainsi que tout s'est passé. Il pense que cela ne prouve toujours pas que Brage n'aurait pas commis ce qu'il a fait avec une épée normale. Je dois aussi montrer l'épée à Nalin si je veux prouver que Brage était sous l'emprise d'un charme maléfique.~
+La note, pourtant explicite, de la substitution de l'épée de Brage par une autre, maudite, et la mise en place d'un stratagème pour que Brage obtienne cette épée ne sont pas des preuves suffisantes pour convaincre Oublek que c'est ainsi que tout s'est passé. Il pense que cela ne prouve toujours pas que Brage n'aurait pas également commis ce qu'il a fait avec une épée normale. Je dois aussi montrer l'épée à Nalin si je veux prouver que Brage était sous l'emprise d'un charme maléfique.~
 @1014 = ~La culpabilité du capitaine Brage
 
 J'ai rassemblé toutes les preuves nécessaires pour prouver l'innocence de Brage ! La prochaine fois que je serai à Nashkel, je pourrai assister à son procès.~
 @1015 = ~La culpabilité du capitaine Brage
 
-La note, pourtant explicite, de la substitution de l'épée de Brage par une autre, maudite, et la mise en place d'un stratagème pour que Brage obtienne cette épée ne sont pas des preuves suffisantes pour convaincre Oublek que c'est ainsi que tout s'est passé. Il pense que cela ne prouve toujours pas que Brage n'aurait pas commis ce qu'il a fait avec une épée normale. Je suppose que l'on ne pourra répondre à toutes ces questions concernant l'épée de Brage que si on retrouve l'ancien commandant.~
+La note, pourtant explicite, de la substitution de l'épée de Brage par une autre, maudite, et la mise en place d'un stratagème pour que Brage obtienne cette épée ne sont pas des preuves suffisantes pour convaincre Oublek que c'est ainsi que tout s'est passé. Il pense que cela ne prouve toujours pas que Brage n'aurait pas également commis ce qu'il a fait avec une épée normale. Je suppose que l'on ne pourra répondre à toutes ces questions concernant l'épée de Brage que si on retrouve l'ancien commandant.~
 @1016 = ~La culpabilité du capitaine Brage
 
-Le marchand d'objets maudits aime fréquenter la tente du Lotus Noir au festival de Nashkel. Il a été vu pour la dernière fois à l'ouest de la ville.~
+Le marchand d'objets maudits aime fréquenter la tente du lotus noir au festival de Nashkel. Il a été vu pour la dernière fois à l'ouest de la ville.~
 @1017 = ~La culpabilité du capitaine Brage
 
-Le marchand d'objets maudits aime fréquenter la tente du Lotus Noir au festival de Nashkel.~
+Le marchand d'objets maudits aime fréquenter la tente du lotus noir au festival de Nashkel.~
 @1018 = ~La culpabilité du capitaine Brage
 
-Les autorités de Nashkel pensent que Brage est bien le meurtrier qu'il semble être. Eh bien, montrer la mauvaise épée aurait pu amener à cela... il faut parfois donner un petit coup de pouce à la "justice". Je ne peux pas empêcher que Brage se réfugie au temple à moins de causer un véritable bain de sang, mais au moins les gens de la ville ne lui pardonneront pas.~
+Les autorités de Nashkel pensent que Brage est bien le meurtrier qu'il semble être. Eh bien, montrer la mauvaise épée aurait pu amener à cela... il faut parfois donner un petit coup de pouce à la "justice". Déloger Brage de son sanctuaire au temple ne peut être fait sans causer un véritable bain de sang, mais au moins les gens de la ville ne lui pardonneront pas.~
 @1019 = ~La culpabilité du capitaine Brage
 
-Brage est un homme libre ! Les autorités de Nashkel ont accepté les preuves que j'ai trouvées et qui montrent que toute l'affaire avec l'épée maudite de Brage était une conspiration. L'ancien commandant est un homme libre maintenant, mais vu ce qui s'est passé, je doute qu'il puisse être à nouveau heureux un jour. Nalin lui a offert un refuge, donc si je veux revoir Brage je suppose que c'est au temple de Nashkel que je le trouverai.~
+Brage est un homme libre ! Les autorités de Nashkel ont accepté les preuves que j'ai trouvées et qui montrent que toute l'affaire avec l'épée maudite de Brage était une conspiration dont il n'avait pas connaissance. L'ancien commandant est un homme libre maintenant, mais vu ce qui s'est passé, je doute qu'il puisse être à nouveau heureux un jour. Nalin lui a offert un refuge, donc si je veux revoir Brage je suppose que c'est au temple de Nashkel que je le trouverai.~
 @1020 = ~La culpabilité du capitaine Brage
 
 Brage a été pendu ! Je pense que j'ai bien mené ma barque. C'est toujours agréable de voir la "justice" à l'œuvre. Et cerise sur le gâteau, cet idiot de Brage en était reconnaissant ! Il faut que je fasse attention sinon je vais finir par attraper le hoquet à force de rire !~
+
+/* Needs to be the exact same wording as in bragesword_extentions.tra from Brage Redemption mod */
 @1021 = ~La culpabilité du capitaine Brage~
