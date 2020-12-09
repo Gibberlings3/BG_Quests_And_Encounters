@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v22~ 
+VERSION ~v23~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -1789,7 +1789,7 @@ LAF extend_area_script STR_VAR area="%EBaldursGate_SilencesShop%" bottom="bgqe/S
 
 COMPILE EVALUATE_BUFFER ~bgqe/Sylar/d~
 
-/*
+
 
 //////////////////////////////////////////////////////////////////
 /* Cordyrs Quest ohne Sil's Tod abschlieﬂen - von Lumorus */
@@ -1856,4 +1856,4 @@ END
 USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~ 
 
 END
-*/
+
