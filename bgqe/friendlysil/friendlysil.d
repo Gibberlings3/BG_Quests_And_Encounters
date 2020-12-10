@@ -29,9 +29,9 @@ APPEND %tutu_var%SIL
 IF ~~ THEN friendly_sil
 SAY @3
 IF ~~ THEN + friendly_sil_01
-IF ~OR(2)
-Global("c#lc_silencounter","GLOBAL",2) //bg1re: Sil's Blessing
-Global("J#PirateFight","GLOBAL",3) //Lure of Sirine's Call
+IF ~Global("c#lc_silencounter","GLOBAL",2) //bg1re: Sil's Blessing
+~ + friendly_sil_03
+IF ~Global("J#PirateFight","GLOBAL",3) //Lure of Sirine's Call
 ~ + friendly_sil_03
 END
 
