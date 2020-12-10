@@ -108,12 +108,14 @@ Nalin au Temple de Heaum semble penser que Brage se trouve sous l'influence de q
 @82  = ~Oui, les aventuriers ont l'habitude de venir poser des questions à propos des mines.~
 
 
-/* new for v23 */
-/* same as @59, only "wife" instead of "widow" */
-@83   = ~Un endroit douillet pour Noober
+ /* same as @59, only "wife" instead of "widow" */
 
-Noober a trouvé chez la femme de Joseph un bon endroit pour se soigner. Je me demande cependant ce qui se passera lorsqu'il aura recouvré sa voix. Peut-être devrais-je revenir jeter un coup d'œil dans quelques temps.~
+@83 = ~Un endroit douillet pour Noober
+
+Noober a trouvé chez l'épouse de Joseph un bon endroit pour se soigner. Je me demande cependant ce qui se passera lorsqu'il aura recouvré sa voix. Peut-être devrais-je revenir jeter un coup d'œil dans quelques temps.~
+
 /* same as @65, only "wife" instead of "widow" */
-@84   = ~Un endroit douillet pour Noober
 
-Noober a trouvé un nouveau chez-lui ! Il semble être la personne idéale pour divertir la vieille mère de la femme de Joseph. Et encore une fois, les dieux nous ont montré que tout un chacun a sa place quelque part.~
+@84 = ~Un endroit douillet pour Noober
+
+Noober a trouvé un nouveau chez-lui ! Il semble être la personne idéale pour divertir la vieille mère de l'épouse de Joseph. Et encore une fois, les dieux nous ont montré que tout un chacun a sa place quelque part.~ 
