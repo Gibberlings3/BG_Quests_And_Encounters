@@ -281,11 +281,13 @@ Zed Nocear: Coding of spell effect, alpha and beta testing, ideas for quest deve
 zenblack: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 
--translations-
+Translations:
+-------------------
 
-French translation: v22 and v23 completed by Jazira (proof readings by Le Marqui and Elisabeth).
+French translation: v23 completed by Jazira.
+v22 completed by Jazira (proof readings by Le Marqui and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
- 
+  
 Russian translation: New component in v23 by yota13, proofreading by Austin.
 v22 revised, corrected, and updated by d0lphin.
 v20 completed by d0lphin.
@@ -349,9 +351,9 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 HISTORY
 
 Version 23:
--new component added: "Finish Cordyr's Quest without killing Sil" by Lumorus, coding by jastey. Russian translation by yota13, proofreading by Austin. Italian translation by Coland.
--"A Warm PLace for Noober": journal entry will reflect whether player knows about Joseph's death
--French translation finished by Jazira-
+-new component added: "Finish Cordyr's Quest without killing Sil" by Lumorus, coding by jastey. Russian translation by yota13, proofreading by Austin. Italian translation by Coland. French translation by Jazira.
+-"A Warm PLace for Noober": journal entry will reflect whether player knows about Joseph's death (new lines: Italian by Coland, Russian by Austin, French by Jazira, English and German by jastey)
+-French translation finished by Jazira.
 -Italian translation heavily revised and improved by Coland.
 -Added Dynamic Install Order categories to support Project Infinity.
 
