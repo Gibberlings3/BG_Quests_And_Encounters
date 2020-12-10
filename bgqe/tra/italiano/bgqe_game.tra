@@ -116,15 +116,11 @@ Questa è la spada che Brage ha ordinato da Waterdeep.
 
 STATISTICHE:
 
-Danno: 1d10 (tagliente)
+Danno: 1D10
+Tipo di danno:  tagliente
 Fattore-velocità: 10
-Tipo di Competenza: Spada a Due Mani
+Tipo di Competenza: Spadone
 Tipo: A due mani
-
-Richiede:
-Forza 14
-
-Peso: 15
 
 Non utilizzabile da:
  Druido
@@ -139,16 +135,12 @@ Questa è la spada che Brage ha ordinato da Waterdeep.
 STATISTICHE:
 
 THAC0: +1
-Danno: 1d10+1 (tagliente)
-Fattore-velocità: 9
-Tipo di Competenza: Spada a Due Mani
-Tipo: A due mani
-
-Richiede:
-Forza 14
-
+Danno: 1D10+1
+Tipo di danno:  tagliente
 Peso: 12
-
+Fattore-velocità: 9
+Tipo di Competenza: Spadone
+Tipo: A due mani
 Non utilizzabile da:
  Druido
  Chierico
@@ -161,16 +153,13 @@ Questa è la spada che Brage ha ordinato da Waterdeep.
 
 STATISTICHE:
 
-Danno: 1d10 (tagliente)
+Danno: 1D10
+Tipo di danno:  tagliente
+Peso: 12
 Fattore-velocità: 10
 Tipo di Competenza: Spada a Due Mani
 Tipo: A due mani
-
-Richiede:
-Forza 14
-
-Peso: 12
-
+Richiede: Forza 14
 Non utilizzabile da:
  Druido
  Chierico
@@ -183,17 +172,14 @@ Questa è la spada che Brage ha ordinato da Waterdeep.
 
 STATISTICHE:
 
+Danno: 1D10+1 
 THAC0: +1
-Danno: 1d10+1 (tagliente)
+Tipo di danno:  tagliente
+Peso: 12
 Fattore-velocità: 9
 Tipo di Competenza: Spada a Due Mani
 Tipo: A due mani
-
-Richiede:
-Forza 14
-
-Peso: 12
-
+Richiede: Forza 14
 Non utilizzabile da:
  Druido
  Chierico

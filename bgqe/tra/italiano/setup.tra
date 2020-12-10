@@ -3,32 +3,32 @@
 
 @9    = ~Rilevato BGT. Sto usando il codice di installazione per BGT...~
 
-@13   = ~Missione della Famiglia di Beregost...~
+@13   = ~Missione della Famiglia di Beregost.~
 
-@19   = ~Missione della Cura dei Bambini, incluso l'Incontro al Carnevale...~
+@19   = ~Missione della Cura dei Bambini, incluso l'Incontro al Carnevale.~
 
 @38   = ~Missione della Fanghiglia...~
-@39   = ~Missione del Mostro di Nashkel...~
+@39   = ~Missione del Mostro di Nashkel.~
 
-@43   = ~Missione del Paladino Decaduto...~
+@43   = ~Missione del Paladino Decaduto.~
 
-@48   = ~Missione dell'Amore Imperituro...~
+@48   = ~Missione dell'Amore Imperituro.~
 
-@50   = ~Missione dell'Orco Innamorato...~
+@50   = ~Missione dell'Orco Innamorato.~
 
-@56   = ~Missione dell'Aiuto Inaspettato...~
+@56   = ~Missione dell'Aiuto Inaspettato.~
 
 /* new contents: v9 */
 
-@61   = ~Missione Tante Piccole Zampette...~
+@61   = ~Missione Tante Piccole Zampette.~
 
 @66   = ~BG:EE rilevato.~
 
-@98   = ~Missione L'Ubriaco al Tempio di Beregost...~
+@98   = ~Missione L'Ubriaco Vicino al Tempio di Beregost.~
 
 /* new contents v10 */
 
-@105  = ~Missione Un Posto Caldo per Noober...~
+@105  = ~Missione Un Posto Caldo per Noober.~
 
 /* new content v15 */
 
@@ -37,13 +37,13 @@
 /* new contents v16 */ 
 
 
-@5000 = ~Missione La Spada di Brage...~
-@5001 = ~Missione Fonti Lecite per le Carte Nautiche...~
-@5002 = ~Aggiunte al Palazzo della Signora e alla Casa della Regina delle Acque...~
+@5000 = ~Missione La Spada di Brage.~
+@5001 = ~Fonti Lecite per le Carte Nautiche.~
+@5002 = ~Aggiunte al Palazzo della Signora e alla Casa della Regina delle Acque.~
 @5003 = ~Il tuo gioco con SoD deve essere aggiornato con modmerge prima di poter installare dei mod. Controlla il readme per maggiori informazioni e i link per scaricare DLC Merger o Modmerge.~ 
 
-@5004 = ~Missione Un Contadino Preoccupato...~
-@5005 = ~Missione Cadaveri per una Giusta Causa...~
+@5004 = ~Missione Un Contadino Preoccupato.~
+@5005 = ~Missione Cadaveri per una Giusta Causa.~
 
 @5006 = ~Questo componente non è compatibile con la versione originale di Baldur's Gate 1.~
 

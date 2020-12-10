@@ -71,7 +71,7 @@ La donna che abita nella casa a sud est di Nashkel potrebbe prendersi cura di No
 @58   = ~(sospira) Per favore, ora vattene.~
 @59   = ~Un Posto Caldo per Noober
 
-Noober ha trovato un buon posto a casa della moglie di Joseph. Comunque mi chiedo cosa succederà una volta che avrà riacquistato la voce. Forse dovrei tornare a dare un'occhiata tra qualche tempo.~
+Noober ha trovato un buon posto a casa della vedova Joseph. Comunque mi chiedo cosa succederà una volta che avrà riacquistato la voce. Forse dovrei tornare a dare un'occhiata tra qualche tempo.~
 /* @60   = @55 */
 @61   = ~Guardali! Chi avrebbe mai immaginato che avrebbe funzionato così bene? Io gli sono molto riconoscente per l'aiuto che mi dà con mia madre. Lui è così paziente, e lei è abbastanza sorda da renderli una coppia perfetta.~
 @62   = ~E io sono libera di poter piangere il mio amato marito...~
@@ -79,7 +79,7 @@ Noober ha trovato un buon posto a casa della moglie di Joseph. Comunque mi chied
 @64   = ~Ti ringrazio. Ma ora ti chiedo di andartene.~
 @65   = ~Un Posto Caldo per Noober
 
-Noober ha trovato una nuova casa! Almeno per il momento, lui sembra essere il perfetto intrattenitore dell'anziana madre della Signora Joseph. E gli dèi hanno mostrato ancora una volta che ognuno di noi può trovare il suo posto a questo mondo.~
+Noober ha trovato una nuova casa! Almeno per il momento, lui sembra essere il perfetto intrattenitore dell'anziana madre della vedova Joseph. E gli dèi hanno mostrato ancora una volta che ognuno di noi può trovare il suo posto a questo mondo.~
 @66   = ~Un Posto Caldo per Noober~
 
 /* c#lcno01.baf */
@@ -117,4 +117,4 @@ Noober ha trovato un buon posto a casa della moglie di Joseph. Comunque mi chied
 /* same as @65, only "wife" instead of "widow" */
 @84   = ~Un Posto Caldo per Noober
 
-Noober ha trovato una nuova casa! Almeno per il momento, lui sembra essere il perfetto intrattenitore dell'anziana madre della Signora Joseph. E gli dèi hanno mostrato ancora una volta che ognuno di noi può trovare il suo posto a questo mondo.~
+Noober ha trovato una nuova casa! Almeno per il momento, sembra essere il perfetto intrattenitore dell'anziana madre della moglie di Joseph. E gli dèi hanno mostrato ancora una volta che ognuno di noi può trovare il suo posto a questo mondo.~
