@@ -285,7 +285,7 @@ Translations:
 -------------------
 
 French translation: v23 completed by Jazira.
-v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
+v22 completed by Jazira (proof readings by Le Marqui and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
   
 Russian translation: New component in v23 by yota13, proofreading by Austin.

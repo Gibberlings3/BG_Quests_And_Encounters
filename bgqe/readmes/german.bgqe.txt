@@ -274,7 +274,7 @@ zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktio
 -------------------
 
 French translation: v23 completed by Jazira.
-v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
+v22 completed by Jazira (proof readings by Le Marqui and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
 
 Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin. Neue Komponente v23 von yota13, Korrekturlesen von Austin.
