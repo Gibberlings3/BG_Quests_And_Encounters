@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v22~ 
+VERSION ~v23~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -576,7 +576,7 @@ LANGUAGE ~Espanol~
          ~bgqe/tra/espanol/bgqe_game.tra~
 */
 
-LANGUAGE ~Russian (hawkmoon & arcanecoast.ru team & d0lphin)~
+LANGUAGE ~Russian~
          ~russian~
          ~bgqe/tra/Russian/setup.tra~
          ~bgqe/tra/Russian/bgqe_game.tra~
@@ -1789,7 +1789,7 @@ LAF extend_area_script STR_VAR area="%EBaldursGate_SilencesShop%" bottom="bgqe/S
 
 COMPILE EVALUATE_BUFFER ~bgqe/Sylar/d~
 
-/*
+
 
 //////////////////////////////////////////////////////////////////
 /* Cordyrs Quest ohne Sil's Tod abschlieﬂen - von Lumorus */
@@ -1807,7 +1807,7 @@ ACTION_IF GAME_IS ~eet~ THEN BEGIN
   ADD_JOURNAL TITLE (#231307) @29 @30 USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~
 END
 
-INCLUDE ~bg1re/lib/func_fetch_journal_entries.tph~
+INCLUDE ~bgqe/lib/func_fetch_journal_entries.tph~
 COPY_EXISTING ~%tutu_var%cordyr.dlg~ ~override~
 	LPF ~READ_JOURNAL_STRREF~
 		INT_VAR
@@ -1856,4 +1856,4 @@ END
 USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~ 
 
 END
-*/
+

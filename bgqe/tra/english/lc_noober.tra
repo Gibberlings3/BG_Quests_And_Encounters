@@ -106,3 +106,13 @@ Nalin at the Temple of Helm in Nashkel seems to think that Brage might be under 
 /* new for v19 */
 @81  = ~We wanted to ask you something...~
 @82  = ~Yes, adventurers usually come in to ask someting about the mines.~
+
+/* new for v23 */
+/* same as @59, only "wife" instead of "widow" */
+@83   = ~A Warm Place for Noober
+
+Noober found a good nursery place with Joseph's wife. I do wonder what will happen once he gets his voice back, though. Maybe I should check in after some more time.~
+/* same as @65, only "wife" instead of "widow" */
+@84   = ~A Warm Place for Noober
+
+Noober found a new home! At least for the time being, he seems to be the perfect entertainer for the old mother of Joseph's wife. And again the gods showed that they have a use for everything.~

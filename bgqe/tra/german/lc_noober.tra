@@ -71,7 +71,7 @@ Laut Aussage des Ladenbesitzers könnte die Frau süd-östlich in Nashkell bereit s
 @58   = ~(seufz) Bitte, geht jetzt.~
 @59   = ~Ein warmer Platz für Noober
 
-Noober hat bei Jospeh's Witwe einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
+Noober hat bei Jospehs Witwe einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
 /* @60   = @55 */
 @61   = ~Schaut sie Euch an! Wer hätte gedacht, dass es sich so gut entwickeln würde? Ich bin so dankbar für die Hilfe mit Mutter. Er ist so geduldig, und sie so schwerhörig. Das perfekte Paar!~
 @62   = ~Und ich habe dadurch genau die benötigte Ruhe, um den Tod meines geliebten Ehemanns zu betrauern...~
@@ -107,3 +107,14 @@ Nalin im Tempel von Helm scheint zu glauben, dass Brage unter dem Einfluss einer
 /* new for v19 */
 @81  = ~Wir hätten eine Frage...~
 @82  = ~Ja, alle Abenteurer die hier reinkommen haben momentan immer eine Frage zu den Minen.~
+
+
+/* new for v23 */
+/* same as @59, only "wife" instead of "widow" */
+@83   = ~Ein warmer Platz für Noober
+
+Noober hat bei Jospehs Frau einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
+/* same as @65, only "wife" instead of "widow" */
+@84   = ~Ein warmer Platz für Noober
+
+Noober hat ein neues Zuhause gefunden! Zumindest für den Moment scheint er der perfekte Unterhalter für die alte Mutter von Jospehs Frau zu sein. Und wieder einmal zeigen uns die Götter, dass sie für jeden einen Platz vorgesehen haben.~

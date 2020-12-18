@@ -1,109 +1,120 @@
-@0    = ~*tossisce* Gracida! (Ack) *tossisce*~
-@1    = ~Cosa ti é successo alla voce?~
+@0    = ~*tossisce* Raaagh! (Acc.) *tossisce*~
+@1    = ~Cosa ti è successo alla voce?~
 @2    = ~Sembri essere malato, amico mio.~
-@3    = ~Ha-hahaHAHA! Noober senza voce! Che divertente.~
-@4    = ~(indica il fiume ed agita le braccia) Gracida! Gracida! (Ack) *tossisce* Gracida!!~
-@5    = ~Il fiume? ...Gettato nel... Ah, sei stato gettato nel fiume dai ragazzi della città? E probabilmente ti sei preso un brutto raffreddore.~
+@3    = ~Ah-ahAHAHah! Noober senza voce! Impagabile.~
+@4    = ~(indica il fiume ed agita le braccia) Raaagh! Graarh! (Acc.) *tossisce* Raaagh!!~
+@5    = ~Il fiume?...Gettato nel... Ah, sei stato gettato nel fiume dai ragazzi della città? E probabilmente ti sei preso un brutto raffreddore.~
 @6    = ~Non sforzare la tua voce ulteriormente. Ho capito che ti sei preso un brutto raffreddore.~
 @7    = ~Non importa. Vedo che sei malato.~
-@8    = ~Lasciami stare, folle. Ti sembro interessato a sapere quello che ti é successo, per caso?~
-@9    = ~Gracida!... *tossisce, tossisce*~
+@8    = ~Lasciami stare, folle. Pensi che mi interessi sapere quello che ti è successo, per caso?~
+@9    = ~Raaagh!... *tossisce furiosamente*~
 @10   = ~Un Posto Caldo per Noober
 
-Noober si é preso un brutto raffreddore dopo che é stato gettato nel fiume. Ha bisogno di un posto caldo per riposare e rimettersi in sesto. Ha inoltre bisogno di qualcuno che si prenda cura di lui. Non sembra aver ancora trovato un luogo simile. Forse potrei intenerire la gente della città affinché lo aiutino.~
+Noober si è preso un brutto raffreddore dopo che è stato gettato nel fiume. Ha bisogno di un posto caldo per riposare e rimettersi in sesto. Ha inoltre bisogno di qualcuno che si prenda cura di lui. Non sembra aver ancora trovato un luogo simile. Forse potrei intenerire la gente della città affinché lo aiutino.~
 @11   = ~Un Posto Caldo per Noober
 
-Quel folle di Noober si é preso un brutto raffreddore, sembra sia stato gettato nel fiume. Ora vaga per le strade, la sua voce é diventata semplicemente un rauco gracidare. Probabilmente perché si é trovato rifiutato del calore dell'intera città.~
-@12   = ~Croak?~
+Quel folle di Noober si è preso un brutto raffreddore, sembra sia stato gettato nel fiume. Ora vaga per le strade, la sua voce è diventata semplicemente un rauco gracidare. Probabilmente perché si è trovato rifiutato del calore dell'intera città.~
+@12   = ~Graarh?~
 @13   = ~Buone notizie, amico mio. La moglie di Joseph si occuperà di te e della tua salute.~
-@14   = ~Risparmiati la voce, Noober, e cerca di riposare.~
-@15   = ~Haha! Ancora gracidi. E' *molto* divertente!~
-@16   = ~...? (sospiro di sollievo) Gracida!~
+@14   = ~Risparmia la voce, Noober, e cerca di riposare.~
+@15   = ~Ahah! Ancora gracidi. È *molto* divertente!~
+@16   = ~...? (sospira di sollievo) Raaagh!~
 @17   = ~Un Posto Caldo per Noober
 
-La buona donna nella casa a sud est di Nashkel si prenderà cura di Noober. Devo andare a dirglielo il prima possibile.~
+Una donna gentile nella casa a sud est di Nashkel si prenderà cura di Noober. Devo andare a dirglielo il prima possibile.~
 @18   = ~Un Posto Caldo per Noober
 
 Noober sta andando in un posto caldo. Di tanto in tanto potrei andare lì a vedere come vanno le cose.~
-@19   = ~... - gracida! *tossisce*~
-@20   = ~Gracida?! Gracida! *tossisce* *tossisce*~
-@21   = ~Gracida!~
-@22   = ~Ciao!~
-@23   = ~Cosa c'é? Mi dispiace, non ho tempo per parlare. Ho da fare con l'anziana Signora Joseph.~
-@24   = ~Noober ha un brutto raffreddore. Potreste prendervi cura di lui e cercargli un luogo appropriato affinché possa recuperare le forze?~
-@25   = ~Il mio dio mi fornisce i poteri di guarigione, ma un semplice raffreddore dovrebbe essere guarito come si fa di solito. Purtroppo i miei impegni mi tengono impegnato qui nel tempio, e questo temo che non sia il posto migliore per guarire un raffreddore. Continua a chiedere alla gente della città, sono sicuro che troverai un'anima volenterosa che metterà a sua disposizione un letto caldo. In ogni caso, se non dovessi trovare nessuno che lo aiuti, ritorna pure.~
-@26   = ~No, non ho né il tempo e né la voglia, e non ho nemmeno un letto disponibile anche se volessi. Sicuramente troverai una persona disponibile tra contadini, soprattutto se gli offrirai qualche moneta d'oro con la tua richiesta.~
-@27   = ~Hm, la moglie di Joseph é un'anima abbastanza gentile per prendersi cura di gente come Noober. La sua casa è a sud est di Nashkel~
-@28   = ~Hm, la povera vedova di Joseph é un'anima abbastanza gentile per prendersi cura di gente come Noober.~
-@29   = ~Tuttavia, di solito, ha la porta chiusa. Ma non avere paura di entrare. Se la avvicini in modo amichevole, lei sarà pronta ad ascoltarti.~
+@19   = ~... - Raaagh! *tossisce*~
+@20   = ~Graarh?! Raaagh! *tossisce forte*~
+@21   = ~Raaagh!~
+@22   = ~Salve!~
+@23   = ~Cosa c'è? Mi dispiace, non ho tempo per chiacchierare. Sto parlando con l'anziana Signora Joseph.~
+@24   = ~Noober ha un brutto raffreddore. Potresti prenderti cura di lui e cercargli un luogo appropriato affinché possa recuperare le forze?~
+@25   = ~Il mio dio mi fornisce i poteri della guarigione, ma un semplice raffreddore dovrebbe essere guarito come si fa di solito. Purtroppo, i miei impegni mi tengono occupato qui nel tempio, e questo temo che non sia il posto migliore per guarire un raffreddore. Continua a chiedere alla gente della città, sono sicuro che troverai un'anima volenterosa che metterà a sua disposizione un letto caldo. In ogni caso, se non dovessi trovare nessuno che lo aiuti, ritorna pure.~
+@26   = ~No, non ho né il tempo e né la voglia, e non ho nemmeno un letto disponibile anche se volessi. Sicuramente troverai una persona disponibile tra i contadini, soprattutto se gli offrirai qualche moneta d'oro con la tua richiesta.~
+@27   = ~Mmm, la moglie di Joseph è un'anima abbastanza gentile per prendersi cura di gente come Noober. La sua casa è a sud est di Nashkel~
+@28   = ~Mmm, la povera vedova di Joseph è un'anima abbastanza gentile per prendersi cura di gente come Noober.~
+@29   = ~Tuttavia, di solito, ha la porta chiusa. Ma non avere paura di entrare. Se la avvicini in modo amichevole, sarà disposta ad ascoltarti.~
 @30   = ~Ma sarebbe inutile chiederglielo, non dopo che l'hai trattata in quel modo! Beh, forse potrei chiederglielo io quando chiuderò il negozio questa sera.~
 /* @31   */
 @32   = ~Un Posto Caldo per Noober
 
-Secondo il negoziante, la donna che abita nella casa a sud est di Nashkel potrebbe prendersi cura di Noober. Lui mi ha anche detto di non aver paura ad entrare anche se la porta é chiusa, se sarò disposto a spiegare il motivo della mia intrusione in modo amichevole.~
+Secondo il negoziante, la donna che abita nella casa a sud est di Nashkel potrebbe prendersi cura di Noober. Mi ha anche detto di non aver paura ad entrare anche se la porta fosse chiusa, se sarò disposto a spiegare il motivo della mia intrusione in modo amichevole.~
 @33   = ~Un Posto Caldo per Noober
 
-La donna che abita nella casa a sud est di Nashkel potrebbe prendersi cura di Noober. Il negoziante di Nashkel parlerà con lei, perché non ha senso per me giocare a fare il messaggero (e specialmente in casa di quella sciocca donna). Presumo che il problema sia risolto, allora. E non mi aspetto che nessuno mi racconti come va a finire.~
+La donna che abita nella casa a sud est di Nashkel potrebbe prendersi cura di Noober. Il negoziante di Nashkel parlerà con lei, perché non ha senso per me giocare a fare il messaggero (e specialmente in casa di quella sciocca donna). Presumo che il problema sia risolto, allora. E non mi aspetto che nessuno mi racconti come vada a finire.~
 @34   = ~Cosa? Ti sembro un'infermiera forse? Qui potrà avere una birra forte per scaldarsi lo stomaco e la testa, se può permettersela. Altrimenti farebbe meglio a rimanere fuori, prima che metta paura alla clientela. Di nuovo.~
-@35   = ~Beh, le mie camere sono calde e confortevoli, ma ho cacciato via Noober più di una volta poiché i miei clienti sono infastiditi da lui, quindi sono contento se non ha i soldi sufficienti per permettersi una stanza, non so se capisci.~
-@36   = ~Noober?! Sai, si potrebbe pensare che farei qualsiasi cosa per un pò d'oro. Ma Noober non lo accoglierei per tutto l'oro del mondo. Non puoi chiedermi di fare questo, chi sopporterebbe tutte quelle chiacchiere senza fine!~
-@37   = ~Che idiota! Nessuno é mai morto di raffreddore ancora. Ho altre cose più importanti da fare di accudire qualcuno!~
+@35   = ~Beh, le mie camere sono calde e confortevoli, ma ho cacciato via Noober più di una volta poiché i miei clienti sono infastiditi da lui, quindi sono contento se non ha i soldi sufficienti per permettersi una stanza, non so se mi capisci.~
+@36   = ~Noober?! Sai, si potrebbe pensare che farei qualsiasi cosa per un po' d'oro. Ma Noober non lo accoglierei per tutto l'oro del mondo. Non puoi chiedermi di fare questo, chi sopporterebbe tutte quelle chiacchiere senza fine!~
+@37   = ~Che idiota! Nessuno è mai morto di raffreddore ancora. Ho altre cose più importanti da fare che accudire qualcuno!~
 @38   = ~Le giornate sono così lente e noiose... Vorrei avere un *qualche* tipo di passatempo. A parte mia mamma, naturalmente...~
-@39   = ~Huh? Hai detto qualcosa?~
+@39   = ~Uh? Hai detto qualcosa?~
 @40   = ~Ho detto che tu sei il mio unico passatempo, al momento.~
-@41   = ~Huh?~
+@41   = ~Uh?~
 @42   = ~Ho detto che tu sei il mio solo passatempo!~
 @43   = ~Ho detto che TU MI AIUTI A PASSARE IL TEMPO!~
-@44   = ~Huh? Ti stai ancora lamentando, vero?~
-@45   = ~(sigh)~
+@44   = ~Uh? Ti stai ancora lamentando, vero?~
+@45   = ~(sospira)~
 @46   = ~Ti prego, vorrei che adesso te ne andassi.~
-@47   = ~Mi scusi se la disturbo, buona donna, ma uno degli abitanti della vostra città ha bisogno di un posto in cui stare per poter guarire. E' Noober, e può a malapena parlare dopo quello che gli é successo recentemente.~
+@47   = ~Mi scusi se la disturbo, gentile donna, ma uno degli abitanti di questa città ha bisogno di un posto in cui stare per poter guarire. Si tratta di Noober, e può a malapena parlare dopo quello che gli è successo recentemente.~
 @48   = ~Allora me ne vado.~
-@49   = ~(sigh) Noober... Il suo continuo parlare é *l'ultima* cosa di cui ho bisogno. Ma se il pover'uomo è malato... Io devo occuparmi anche di mia madre, comunque. E con Joseph che non c'é più... Ogni cosa che mi tiene occupata mi sarà di beneficio, in effetti...~
-@50   = ~(sigh) Si. Si, digli di venire qui. Mi è rimasto un piccolo letto, e finché non può parlare molto - poiché non può, se non ho capito male - vedrò di farlo riposare bene. Con la gola irritata dovrà mangiare i brodini e i budini che faccio anche per mia mamma, probabilmente, quindi non dovrò cucinare extra...~
+@49   = ~(sospira) Noober... Il suo continuo parlare è *l'ultima* cosa di cui ho bisogno. Ma se il pover'uomo è malato... Io devo occuparmi anche di mia madre, comunque. E con Joseph che non c'è più... Ogni cosa che mi tiene occupata mi sarà di beneficio, in effetti...~
+@50   = ~(sospira) Si. Si, digli di venire qui. Mi è rimasto un piccolo letto, e finché non può parlare molto - perché non può, se non ho capito male - vedrò di farlo riposare bene. Con la gola irritata dovrà mangiare i brodini e i budini che faccio anche per mia mamma, probabilmente, quindi non dovrò cucinare extra...~
 /* @51   = @32 */
-@52   = ~Per piacere vai, se non c'é altro che vuoi.~
+@52   = ~Per piacere vai, se non c'è altro.~
 @53   = ~Buona giornata.~
 @54   = ~Non sei il benvenuto qui. Apprezzo il tuo aiuto nell'aver portato Noober qui, ma non sei il benvenuto. Vattene!~
-@55   = ~Noober é venuto qui. E'... giusto, credo.~
+@55   = ~Noober è venuto qui. E'... giusto, credo.~
 @56   = ~Si, stiamo parlando di te, Noober. Torna a letto!~
 @57   = ~No, non te - tutto a posto, mamma!~
-@58   = ~(sigh) Per favore, ora vattene.~
+@58   = ~(sospira) Per favore, ora vattene.~
 @59   = ~Un Posto Caldo per Noober
 
-Noober ha trovato un buon posto a casa della moglie di Joseph. Comunque mi chiedo cosa succederà una volta che avrà riacquistato la voce. Forse dovrei tornare a dare un'occhiata tra qualche tempo.~
+Noober ha trovato un buon posto a casa della vedova Joseph. Comunque mi chiedo cosa succederà una volta che avrà riacquistato la voce. Forse dovrei tornare a dare un'occhiata tra qualche tempo.~
 /* @60   = @55 */
 @61   = ~Guardali! Chi avrebbe mai immaginato che avrebbe funzionato così bene? Io gli sono molto riconoscente per l'aiuto che mi dà con mia madre. Lui è così paziente, e lei è abbastanza sorda da renderli una coppia perfetta.~
-@62   = ~E sono libera di poter piangere il mio amato marito...~
-@63   = ~Ed ho la libertà necessaria per fare il mio lavoro con tranquillità, sperando che il mio amato marito ritorni...~
+@62   = ~E io sono libera di poter piangere il mio amato marito...~
+@63   = ~Ed io ho la libertà necessaria per fare il mio lavoro con tranquillità, sperando che il mio amato marito ritorni...~
 @64   = ~Ti ringrazio. Ma ora ti chiedo di andartene.~
 @65   = ~Un Posto Caldo per Noober
 
-Noober ha trovato una nuova casa! Almeno per il momento, lui sembra essere il perfetto intrattenitore dell'anziana madre della Signora Joseph. E gli dei hanno mostrato ancora una volta che ognuno di noi ha un posto per ogni cosa.~
+Noober ha trovato una nuova casa! Almeno per il momento, lui sembra essere il perfetto intrattenitore dell'anziana madre della vedova Joseph. E gli dèi hanno mostrato ancora una volta che ognuno di noi può trovare il suo posto a questo mondo.~
 @66   = ~Un Posto Caldo per Noober~
 
 /* c#lcno01.baf */
-@67   = ~Bel tempo, non é vero?~
-@68   = ~Huh?~
+@67   = ~Bel tempo, non è vero?~
+@68   = ~Uh?~
 @69   = ~Hai bisogno di bere qualcosa?~
 @70   = ~Acqua?!~
 @71   = ~Ah, piove di nuovo?~
 @72   = ~Che dire ora?~
-@73   = ~Cosa c'é? Pensi che non sia in grado di farlo da sola?!~
+@73   = ~Cosa c'è? Pensi che non sia in grado di farlo da me?!~
 @74   = ~Vuoi sentire una storia?~
 @75   = ~Una storia?~
 @76   = ~No, sono troppo stanca per raccontare qualcosa.~
 
-@77   = ~La storia del Capitano Bradge
+@77   = ~La storia del Capitano Brage
 
 Nalin al Tempio di Helm a Nashkel sembra essere convinto che Brage sia sotto l'influenza di qualche forza malvagia. Se lo riporto da lui, forse non verrà ucciso per i suoi crimini.~
 
 /* new for v16 */
-@78  = ~Hm, tough luck, you know. Seems the only soul who would have been ready to care for you is gone.~
-@79  = ~Too bad she's *dead* now, isn't it? Hmph.~
-@80  = ~E' strano, non é in grado di parlare, ma cerca di aiutare, anche se non é così che dovrebbe essere. Lui ha bisogno di riposo.~
+@78  = ~Mmm, che sfortuna, vedi. Sembra che l'unica anima che avrebbe potuto occuparsi di te sia morta.~
+@79  = ~Un peccato che sia *morta*, vero? Mmpf.~
+@80  = ~Va... bene, credo. Non è in grado di parlare, ma cerca di aiutare, anche se non è così che dovrebbe essere. Ha bisogno di riposo.~
 
 
 /* new for v19 */
-@81  = ~We wanted to ask you something...~
-@82  = ~Yes, adventurers usually come in to ask someting about the mines.~
+@81  = ~Volevo chiederti una cosa...~
+@82  = ~Sì, gli avventurieri di solito vengono a chiedere qualcosa sulle miniere.~
+
+
+/* new for v23 */
+/* same as @59, only "wife" instead of "widow" */
+@83   = ~Un Posto Caldo per Noober
+
+Noober ha trovato un buon posto a casa della moglie di Joseph. Comunque mi chiedo cosa succederà una volta che avrà riacquistato la voce. Forse dovrei tornare a dare un'occhiata tra qualche tempo.~
+/* same as @65, only "wife" instead of "widow" */
+@84   = ~Un Posto Caldo per Noober
+
+Noober ha trovato una nuova casa! Almeno per il momento, sembra essere il perfetto intrattenitore dell'anziana madre della moglie di Joseph. E gli dèi hanno mostrato ancora una volta che ognuno di noi può trovare il suo posto a questo mondo.~

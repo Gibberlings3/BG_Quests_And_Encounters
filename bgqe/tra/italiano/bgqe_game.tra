@@ -1,15 +1,16 @@
 @3    = ~Bottiglia vuota~
-@4    = ~Questa è la bottiglia vuota che Alanna ha trovato nella casa di Eltolth. La scritta sull'etichetta dice "Magnifica Sorpresa:
+@4    = ~Questa è la bottiglia vuota che Alanna ha trovato nella casa di Eltolth. La scritta sull'etichetta dice: 
+"Magnifica Sorpresa:
 Tempo perché agisca: da 5 secondi a 1 minuto, durata con il corretto dosaggio: 1 ora.
-Non usare un dosaggio eccessivo, Possibili effetti collaterali sconosciuti!!
+Non usare un dosaggio eccessivo, Possibili effetti collaterali indesiderati!!
 Il venditore non si assume alcuna responsabilità!"
-Firmato incomprensibilmente con un nome che inizia per "T".~
+È firmata incomprensibilmente con un nome che inizia per "T".~
 @5    = ~Note di Eltolth~
-@6    = ~Sembra una specie di diario appartenente al marito di Alanna, Eltolth. Sfogliando le pagine trovi qualcosa che potrebbe indicare cosa è successo prima della trasformazione:
-"...parlato ancora a Tulbor. Incontrati al solito posto. Come al solito, ci siamo seduti lontano dal bar, e ho dovuto offrirgli qualcosa (...) Dice che le sue pozioni sono buone come quelle di Juoma, ma meno costose. (...) Mi ha offerto quella speciale ancora, costa una fortuna, ma ne dovrebbe valere la pena! Stavolta la proverò."
+@6    = ~Sembra una specie di diario appartenente al vicino di Alanna, Eltolth. Sfogliando le pagine trovi qualcosa che potrebbe indicare cosa è successo prima della trasformazione:
+"... ho parlato ancora con Tulbor. Ci siamo visti al solito posto. Come sempre, ci siamo seduti lontano dal bar, e ho dovuto offrirgli qualcosa (...) Dice che le sue pozioni sono buone come quelle di Juoma, ma meno costose. (...) Mi ha offerto ancora quella speciale, costa una fortuna, ma ne dovrebbe valere la pena! Stavolta la proverò."
 Qui finiscono le note.~
-@7    = ~Elisir della trasformazione~
-@8    = ~Questo è l'elisir che dovrebbe trasformare il povero Elltoth nel suo proprio se stesso. In caso di sovradosaggio, dovrebbe dare un punto bonus di forza. Bere l'intera bottiglia dovrebbe produrre questo effetto.~
+@7    = ~Elisir della Trasformazione~
+@8    = ~Questo è l'elisir che dovrebbe ri-trasformare il povero Eltolth. In caso di sovradosaggio, dovrebbe dare un bonus alla forza. Bere l'intera bottiglia dovrebbe produrre questo effetto.~
 
 @10   = ~Alanna~
 @11   = ~Eltolth~
@@ -26,17 +27,17 @@ Qui finiscono le note.~
 @22   = ~Tom~
 @23   = ~Tina~
 @24   = ~Bambola di Sarah~
-@25   = ~Questa è la bambola di Sarah. I colori del viso sono già sbiaditi, ma è vestita con un abito abilmente tessuto a maglia e scarpe.~
+@25   = ~Questa è la bambola di Sarah. I colori del viso sono già sbiaditi, ma è vestita con un abito abilmente tessuto a maglia e delle scarpe.~
 @26   = ~Orsetto di Tom~
 @27   = ~Questo è l'orsetto di Tom. Sembra vecchio, usato, appiccicoso e sporco, esattamente come dovrebbe sembrare un orsetto molto amato da un bambino.~
 @28   = ~Bottiglia di Sarah~
-@29   = ~Questa è la bottiglia di Sarah che la Sig.ra Blackwood ti ha dato. È coperta di tracce di liquido appiccicoso, con evidenti tracce di sabbia e sporcizia. Sei sicuro di non voler bere da essa.~
+@29   = ~Questa è la bottiglia di Sarah che la Sig.ra Blackwood ti ha dato. È coperta di avanzi di liquido appiccicoso, con evidenti tracce di sabbia e sporcizia. Di certo non vuoi usarla per bere.~
 @30   = ~Bottiglia di Tom~
-@31   = ~Questa è la bottiglia di Tom che la Sig.ra Blackwood ti ha dato. È coperta di tracce di liquido appiccicoso, con evidenti tracce di sabbia e sporcizia, come alcune foglie, semi e una formica morta. Sei sicuro di non voler bere da essa.~
-@32   = ~Caramelle~
+@31   = ~Questa è la bottiglia di Tom che la Sig.ra Blackwood ti ha dato. È coperta di avanzi di liquido appiccicoso, con evidenti tracce di sabbia e sporcizia, come alcune foglie, semi e una formica morta. Di certo non vuoi usarla per bere.~
+@32   = ~Dolci~
 @33   = ~Questi sono alcuni dolci che la Sig.ra Blackwood ti ha dato per i bambini. Sono una sorta di caramelle colorate, dolci e appiccicose.~
 @34   = ~Dolci~
-@35   = ~Questi sono alcuni dolci che la Sig.ra Blackwood ti ha dato per i bambini. Sembrano una sorta di mandorle candite.~
+@35   = ~Questi sono alcuni biscotti che la Sig.ra Blackwood ti ha dato per i bambini. Sembrano una sorta di mandorle candite.~
 @36   = ~Soprabito di Sarah~
 @37   = ~Questo è il soprabito di Sarah.~
 
@@ -55,12 +56,12 @@ Qui finiscono le note.~
 @52   = ~Viola~
 @53   = ~Sig.ra Kenn~
 @54   = ~Sig. Kenn~
-@55   = ~Sto installando l'Incontro Migliorato con Bjornin...~
+@55   = ~Installazione Incontro Migliorato con Bjornin...~
 
 @57   = ~Sir Trun~
 @58   = ~Linda~
 @59   = ~Antidoto Alternativo~
-@60   = ~Questa è una pozione economica alternativa. Dovrebbe trasformare Eldoth nel suo se stesso precedente...~
+@60   = ~Questa è una pozione economica alternativa. Dovrebbe ri-trasformare Eltolth...~
 
 
 
@@ -70,7 +71,7 @@ Qui finiscono le note.~
 
 
 @62   = ~Criceto~
-@63   = ~Questo è il criceto del venditore di animali che ha "dormito" con Minsc, ossia con Boo... Hai il forte sospetto che esso sia di sesso opposto a Boo, e da ciò che ricordi sulla frequenza di riproduzione dei roditori entrambi potrebbero portare molto presto delle conseguenze.~ 
+@63   = ~Questo è il criceto del venditore di animali che ha "dormito" con Minsc, ossia con Boo... Hai il forte sospetto che sia di sesso opposto a Boo, e da ciò che ricordi sulla frequenza di riproduzione dei roditori ci potrebbero essere molto presto delle conseguenze.~ 
 @64   = ~Questo è uno dei criceti nati da poco dalla relazione di Boo con quel criceto senza nome.~
 @65   = ~Edward~
 
@@ -80,15 +81,15 @@ Qui finiscono le note.~
 @99   = ~Mago~
 @100  = ~Teodor~
 @101  = ~Uovo~
-@102  = ~Questo é una sorta di uovo che l'uomo delle consegne ti ha dato dopo che lo hai salvato. Può essere indossato come una Pietra Incantata e sembra indubbiamente potente. Comunque hai l'impressione che dentro si muova qualcosa.~
+@102  = ~Questo è una sorta di uovo che il fattorino ti ha dato dopo che lo hai salvato. Può essere indossato come una Pietra Ioun e sembra indubbiamente potente. Comunque, hai l'impressione che dentro si muova qualcosa.~
 @103  = ~Uovo di Ragno Ghiacciato~
-@104  = ~Questo è l'uovo conservato di un Ragno Incorporeo. Indossato come una Pietra Incantata, ha un aspetto sicuramente ripugnante, ma protegge colui che lo indossa dal blocco magico.
+@104  = ~Questo è l'uovo conservato di un Ragno Incorporeo. Indossato come una Pietra Ioun, ha un aspetto sicuramente ripugnante, ma protegge colui che lo indossa dal blocco magico.
 
 STATISTICHE:
  
-
-Speciale: Il possessore é immune al blocco.
-Carisma: Abbassato di 3 punti mentre é indossato
+Abilità durante l'uso:
+ - Il possessore è immune a Blocca Persone.
+ - Carisma: -3
 
 Peso: 2~
 
@@ -106,181 +107,184 @@ Peso: 2~
 
 /* new content v16 */
 
-@110  = ~Brage's Sword~
-@111  = ~Brage's Two-Handed Sword +1~
+@110  = ~La Spada di Brage~
+@111  = ~Spada a Due Mani di Brage +1~
 /* unidentified description bg1:totsc */
-@112  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. 
+@112  = ~La spada a due mani deriva dalla spada lunga. I fabbri hanno sempre cercato nuovi modi per migliorare le armi già esistenti. Nel tentativo di potenziare la spada lunga, la lama dell'arma venne allungata. Si rese così necessario rendere più grande l'impugnatura, e le due mani divennero indispensabili per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare coloro che combattono a dorso di un destriero e spezzare le formazioni armate di lance.
 
-This is the sword Brage ordered in Waterdeep.
+Questa è la spada che Brage ha ordinato da Waterdeep.
 
-STATISTICS:
+STATISTICHE:
 
-Damage:  1D10
-Damage type:  slashing
-Weight: 15
-Speed Factor: 10
-Proficiency Type: Large Sword
-Type:  2-handed
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
+Danno: 1D10
+Tipo di danno:  tagliente
+Fattore-velocità: 10
+Tipo di Competenza: Spadone
+Tipo: A due mani
+
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
 /* identified description bg1:totsc */
-@113  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+@113  = ~La spada a due mani deriva dalla spada lunga. I fabbri hanno sempre cercato nuovi modi per migliorare le armi già esistenti. Nel tentativo di potenziare la spada lunga, la lama dell'arma venne allungata. Si rese così necessario rendere più grande l'impugnatura, e le due mani divennero indispensabili per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare coloro che combattono a dorso di un destriero e spezzare le formazioni armate di lance. Questa fa particolarmente bene il suo lavoro ed è stata incantata con alcune proprietà magiche.
 
-This is the sword Brage ordered in Waterdeep.
+Questa è la spada che Brage ha ordinato da Waterdeep.
 
-STATISTICS:
-
-Damage:  1D10 +1
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 12
-Speed Factor: 9
-Proficiency Type: Large Sword
-Type:  2-handed
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* unidentified description tutu / bgt */
-@114  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
-
-This is the sword Brage ordered in Waterdeep.
-
-STATISTICS:
-
-Damage:  1D10
-Damage type:  slashing
-Weight: 12
-Speed Factor: 10
-Proficiency Type: Two Handed sword
-Type:  2-handed
-Requires: 14 Strength
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* identified description tutu / bgt */
-@115  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
-
-This is the sword Brage ordered in Waterdeep.
-
-STATISTICS:
-
-Damage:  1D10 +1
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 12
-Speed Factor: 9
-Proficiency Type: Two Handed sword
-Type:  2-handed
-Requires: 14 Strength
-Not Usable By:
- Druid
- Cleric
- Mage 
- Thief~
-/* identified description bgee / eet */
-@116  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
-This one is particularly good at its job as it has been enchanted with a few magical properties.
-
-This is the sword Brage ordered in Waterdeep.
-
-STATISTICS:
+STATISTICHE:
 
 THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 9
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 14 Strength
+Danno: 1D10+1
+Tipo di danno:  tagliente
+Peso: 12
+Fattore-velocità: 9
+Tipo di Competenza: Spadone
+Tipo: A due mani
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+/* unidentified description tutu / bgt */
+@114  = ~La spada a due mani deriva dalla spada lunga. I fabbri hanno sempre cercato nuovi modi per migliorare le armi già esistenti. Nel tentativo di potenziare la spada lunga, la lama dell'arma venne allungata. Si rese così necessario rendere più grande l'impugnatura, e le due mani divennero indispensabili per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare coloro che combattono a dorso di un destriero e spezzare le formazioni armate di lance.
 
-Weight: 12~
+Questa è la spada che Brage ha ordinato da Waterdeep.
+
+STATISTICHE:
+
+Danno: 1D10
+Tipo di danno:  tagliente
+Peso: 12
+Fattore-velocità: 10
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Richiede: Forza 14
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+/* identified description tutu / bgt */
+@115  = ~La spada a due mani deriva dalla spada lunga. I fabbri hanno sempre cercato nuovi modi per migliorare le armi già esistenti. Nel tentativo di potenziare la spada lunga, la lama dell'arma venne allungata. Si rese così necessario rendere più grande l'impugnatura, e le due mani divennero indispensabili per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare coloro che combattono a dorso di un destriero e spezzare le formazioni armate di lance. Questa fa particolarmente bene il suo lavoro ed è stata incantata con alcune proprietà magiche.
+
+Questa è la spada che Brage ha ordinato da Waterdeep.
+
+STATISTICHE:
+
+Danno: 1D10+1 
+THAC0: +1
+Tipo di danno:  tagliente
+Peso: 12
+Fattore-velocità: 9
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Richiede: Forza 14
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+/* identified description bgee / eet */
+@116  = ~La spada a due mani deriva dalla spada lunga. I fabbri hanno sempre cercato nuovi modi per migliorare le armi già esistenti. Nel tentativo di potenziare la spada lunga, la lama dell'arma venne allungata. Si rese così necessario rendere più grande l'impugnatura, e le due mani divennero indispensabili per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare coloro che combattono a dorso di un destriero e spezzare le formazioni armate di lance. 
+Questa fa paricolarmente bene il suo lavoro ed è stata incantata con alcune proprietà magiche.
+
+Questa è la spada che Brage ha ordinato da Waterdeep.
+
+STATISTICHE:
+
+THAC0: +1
+Danno: 1d10+1 (tagliente)
+Fattore-velocità: 9
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+
+Richiede:
+Forza 14
+
+Peso: 12~
 @117  = ~Hick~
-@118  = ~My servant Mulahey,
+@118  = ~Mio servitore Mulahey,
 
-your stupid carelessness has made D. to interfere. He sent a nice surprise to the Nashkel Commander, who found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel oblidged to investigate the sightings of your stupid kobolds. Do not fail me again. 
+la tua stupida sbadataggine ha fatto interferire D. Ha inviato una bella sorpresa al comandante di Nashkel, che ha trovato la sua nuova spada più speciale di quanto si aspettasse. Le forze dell'Amn per ora sono indebolite e non entreranno nei livelli più profondi delle miniere. Tuttavia, preparati a degli intrusi, poiché numerose forze si sentono in dovere di indagare sugli avvistamenti dei tuoi stupidi coboldi. Non deludermi di nuovo. 
 
 TAZOK~
 @119  = ~Borda,
 
-we don't care whether you put all your effort into the task we ordered you to do. It's not our fault that the Commander went alone on his investigation and therefore found the new sword while being alone on the road instead of being inside the barracks. It is your oversight the whole thing nearly failed. You are lucky as it is that this fool went back to Nashkel at all, so the gold we spent on this blade with its special curse is not lost alltogether. No, you will not receive the second amount of the payment. You can still keep the original sword that Brage was supposed to receive. That is enough compensation. Be glad we don't hunt you down.
+non ci interessa se hai dedicato tutto il tuo impegno al compito che ti abbiamo ordinato di svolgere. Non è colpa nostra se il Comandante è andato da solo a indagare e ha trovato la nuova spada mentre era solo per strada invece che dentro la caserma. È a causa della tua negligenza che l'intera operazione è quasi fallita. Sei fortunato perché questo pazzo è tornato a Nashkel, quindi l'oro che abbiamo speso per questa lama con la sua maledizione speciale non è andato perduto del tutto. No, non riceverai il secondo importo del pagamento. Puoi ancora conservare la spada originale che Brage avrebbe dovuto ricevere. È una compensazione sufficiente. Sii felice che non ti diamo la caccia.
 
 TAZOK~
 @120  = ~Tazok,
 
-I demand you pay me the second half of what we agreed upon - the Commander only butchering his own family and not half of the garrison is not my fault. The Nashkel forces are weakened and that was the deal! You can send any letters for me to my contact at Nashkel Carnival. I found a merchant desperate enough to buy some of my special potions, he will pass on any letters, as well.
+pretendo il pagamento della seconda metà di quanto concordato: che il Comandante abbia massacrato solo la sua famiglia e non metà della guarnigione non è colpa mia. Le forze di Nashkel sono indebolite e questo era quanto prevedeva il nostro accordo! Puoi inviare qualsiasi lettera per me al mio contatto al Carnevale di Nashkel. Ho trovato un mercante abbastanza disperato da comprare alcune delle mie pozioni speciali, e trasmetterà qualsiasi lettera.
 
 Borda~
-@121  = ~Letter to Captain Tollar Kieres~
-@122  = ~This letter bears the official signet of the Merchants' League of Baldur's Gate. It was handed to you by Aldeth Sashenstar and is addressed to Captain Kieres who currently resides in the League's Counting House in the north-eastern part of town.~ 
+@121  = ~Lettera al Capitano Tollar Kieres~
+@122  = ~Questa lettera porta il sigillo ufficiale della Lega dei Mercanti di Baldur's Gate. Ti è stata consegnata da Aldeth Sashenstar ed è indirizzata al Capitano Kieres che attualmente risiede nella Casa dei Conti della Lega nella parte nord-orientale della città.~ 
 
-@123  =  ~Signet Ring of the Merchants' League~
-@124  =  ~These rings are only handed to people who enjoy the full trust of the Merchants' League. They serve as identification and should grant you free and full access to the normally restricted Counting House. 
-Rumors are that these rings are one of the reasons for the League's success, apparently being enchanted in some way.
+@123  =  ~Anello con Sigillo della Lega dei Mercanti~
+@124  =  ~Questi anelli vengono consegnati solo a persone che godono della piena fiducia della Lega dei Mercanti. Servono come identificazione e dovrebbero garantirti un accesso libero e completo alla Casa dei Conti. 
+Si dice che questi anelli siano una delle ragioni del successo della Lega, e che siano in qualche modo incantati.
 
-STATISTICS:
+STATISTICHE:
 
-Luck 3 times per day
-Charm Person 3 times per day~
-@125  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one is particularly good at its job as it has been enchanted with a few magical properties.
+Abilità durante l'uso:
+ - Fortuna 3 volte al giorno
+ - Charmare Persone 3 volte al giorno~
+@125  = ~La spada a due mani deriva dalla spada lunga. I fabbri hanno sempre cercato nuovi modi per migliorare le armi già esistenti. Nel tentativo di potenziare la spada lunga, la lama dell'arma venne allungata. Si rese così necessario rendere più grande l'impugnatura, e le due mani divennero indispensabili per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare coloro che combattono a dorso di un destriero e spezzare le formazioni armate di lance. Questa fa particolarmente bene il suo lavoro ed è stata incantata con alcune proprietà magiche.
 
-This is the sword Brage ordered in Waterdeep.
+Questa è la spada che Brage ha ordinato da Waterdeep.
 
-STATISTICS:
+STATISTICHE:
 
 THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 9
-Proficiency Type: Two-handed Sword
-Type: Two-handed
-Requires:
- 14 Strength
+Danno: 1d10+1 (tagliente)
+Fattore-velocità: 9
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
 
-Weight: 12~
+Richiede:
+Forza 14
+
+Peso: 12~
 
 
-@126  = ~House of a worried Farmer~
+@126  = ~Casa del Contadino Preoccupato~
 
 
 
 
 
 @2002    = ~Ghoul~
-@2003    = ~Farmer~
-@2004	   = ~A worried Farmer
+@2003    = ~Contadino~
+@2004	   = ~Un Contadino Preoccupato
 
-A farmer asked me to come over to his house, if we want to take care of a matter that's been bothering him.~
-@2005	 = ~A worried Farmer
+Un contadino mi ha chiesto di andare a casa sua, se volessi occuparmi di una questione che lo preoccupa.~
+@2005	 = ~Un Contadino Preoccupato
 	
-The farmer from Beregost does not need to worry anymore, the ghoul who haunted him every night is now truly dead.~
-@2006	 = ~A worried Farmer
+Il contadino di Beregost non ha più bisogno di preoccuparsi, il ghoul che lo perseguitava ogni notte ora è veramente morto.~
+@2006	 = ~Un Contadino Preoccupato
 
-A farmer told us that he has seen something moving about close to his home. He doesn't know what it was though.~
+Un contadino ci ha detto di aver visto qualcosa muoversi vicino a casa sua. Non sa che cosa fosse però.~
 
-@2007	   = ~A worried Farmer~
+@2007	   = ~Un Contadino Preoccupato~
 
 @9002   = ~Sylar~
-@9003	  = ~Bodies for a good Cause
+@9003	  = ~Cadaveri per una giusta Causa
 
-In Silence's Shop I met an elven necromancer called Sylar. Apparently he has discovered a new method that uses necromancy to resurrect creatures like a cleric. Should he do that, he can improve the image of the necromantic arts, or so he says. For his research, however, he needs corpses that I should get for him out of the sewers.
-He is willing to pay 150 gold pieces per delivered corpse. 
+Nella bottega di Silence ho incontrato un negromante elfo chiamato Sylar. Apparentemente ha scoperto un nuovo metodo che usa la negromanzia per resuscitare creature come un chierico. Se ci riuscisse, potrebbe migliorare l'immagine delle arti necromantiche, o almeno così dice. Per le sue ricerche, tuttavia, ha bisogno di cadaveri che dovrei tirargli fuori dalle fogne.
+È disposto a pagare 150 monete d'oro per cadavere consegnato. 
 
-So I can kill three birds with one stone: helping science, getting some extra gold and doing something for the environment!~
+Così posso prendere tre piccioni con una fava: aiutare la scienza, ottenere dell'oro extra e fare qualcosa per l'ambiente!~
 
-@9004	= ~Bodies for a good Cause
+@9004	= ~Cadaveri per una giusta Causa
 
-In Silence's Shop I met an elven necromancer called Sylar. Apparently he has discovered a new method that uses necromancy to resurrect creatures like a cleric. Should he do that, he can improve the image of the necromantic arts, or so he says. For his research, however, he needs dead bodies that I should get for him out of the sewers.
-He is willing to pay 150 gold pieces per delivered corpse. 
+Nella bottega di Silence ho incontrato un negromante elfo chiamato Sylar. Apparentemente ha scoperto un nuovo metodo che usa la negromanzia per resuscitare creature come un chierico. Se ci riuscisse, potrebbe migliorare l'immagine delle arti necromantiche, o almeno così dice. Per le sue ricerche, tuttavia, ha bisogno di cadaveri che dovrei tirargli fuori dalle fogne.
+È disposto a pagare 150 monete d'oro per cadavere consegnato. 
 
-However, I was not interested in helping him. Should I change my mind, I know where I can find him.~
+Tuttavia, al momento non mi interessa aiutarlo. Se dovessi cambiare idea, so dove posso trovarlo.~
 
-@9005	= ~Bodies for a good Cause~
+@9005	= ~Cadaveri per una giusta Causa~
 
 
 
@@ -297,17 +301,17 @@ However, I was not interested in helping him. Should I change my mind, I know wh
 //@63 (c#q01001.tra)
 @10001  = ~Beregost: il Vicino di Alanna è nei Guai
 
-Una donna disperata, di nome Alanna, mi ha avvicinato in Beregost. Ha qualche problema col suo vicino. Forse dovrei andare a dare un'occhiata.~
+Una donna disperata, di nome Alanna, mi si è avvicinata a Beregost. Ha qualche problema col suo vicino. Forse dovrei andare a dare un'occhiata.~
 
 //@64 (c#q01001.tra)
 @10002  = ~Beregost: il Vicino di Alanna è nei Guai
 
-Una donna disperata, di nome Alanna, mi ha avvicinato in Beregost. Ha qualche problema col suo vicino.~
+Una donna disperata, di nome Alanna, mi si è avvicinata a Beregost. Ha qualche problema col suo vicino.~
 
 //@65 (c#q01001.tra)
 @10003  = ~Beregost: il Vicino di Alanna è nei Guai
 
-Eltolth mi ha dato 200 monete d'oro per il nostro aiuto. Ho lasciato casa sua sapendo di aver reso felici due persone.~
+Eltolth mi ha dato 200 monete d'oro per il mio aiuto. Ho lasciato casa sua sapendo di aver reso felici due persone.~
 
 //@66 (c#q01001.tra)
 @10004  = ~Beregost: il Vicino di Alanna è nei Guai
@@ -327,12 +331,12 @@ La pozione alternativa non ha funzionato. Beh, immagino che dovranno trovare aiu
 //@103 (c#q01001.tra)
 @10064   = ~Beregost: il Vicino di Alanna è nei Guai
 
-La pozione alternativa non ha funzionato. Ma valeva la pena guardare, la donna ha baciato la fanghiglia!~
+La pozione alternativa non ha funzionato. Ma è valsa la pena guardare, quella donna ha baciato una fanghiglia!~
 
 //@110 (c#q01001.tra)
 @10007  = ~Beregost: il Vicino di Alanna è nei Guai
 
-Oops. Sembra che Alanna e il suo vicino di casa siano pacificamente uniti... come melme (morte). Tulbor non ha mentito quando mi ha messo in guardia sui possibili effetti indesiderati di questa pozione economica.~
+Oops. Sembra che Alanna e il suo vicino di casa siano pacificamente uniti... come melme (morte). Tulbor non mentiva quando mi ha messo in guardia sui possibili effetti indesiderati di quella pozione economica.~
 
 //@7 (c#q01003.tra)
 @10008  = ~Beregost: il Vicino di Alanna è nei Guai
@@ -343,55 +347,58 @@ Sembra che questo Eltolth non sappia stare agli scherzi. Ho dovuto ammazzare... 
 //family treasure: c#q02005.tra
 
 
-@10009  = ~La Famiglia Quarrel a Beregost~
+@10009  = ~Questioni in famiglia a Beregost~
 
 //@4 
-@10010  = ~La Famiglia Quarrel a Beregost
+@10010  = ~Questioni in famiglia a Beregost
 
-Ho incontrato una strana coppia in una delle case a Beregost. A quanto pare, marito e moglie tra loro non si parlano più. Forse dovrei indagare ulteriormente.~
+Ho incontrato una strana coppia in una delle case a Beregost. A quanto pare, marito e moglie non si parlano più. Forse dovrei indagare ulteriormente.~
 
 //@25
-@10011  = ~La Famiglia Quarrel a Beregost
+@10011  = ~Questioni in famiglia a Beregost
 
-Ho comprato la collana dalla famiglia Dudley per le 500 mo promesse. Il loro problema di soldi dovrebbe essere risolto adesso.~
+Ho comprato la collana dalla famiglia Dudley per le 500 monete d'oro promesse. Il loro problema di soldi dovrebbe essere risolto adesso.~
 
 //@27
-@10012  = ~La Famiglia Quarrel a Beregost
+@10012  = ~Questioni in famiglia a Beregost
 
-Ho comprato la collana dalla famiglia Dudley. Invece di dargli solo le 500 mo promesse, sono riuscito ad "infilare" altre 50 mo nella borsa del signor Dudley. Spero che la famiglia stia bene ora.~
+Ho comprato la collana dalla famiglia Dudley. Invece di dargli solo le 500 monete d'oro promesse, sono riuscito ad "infilare" altre 50 monete d'oro nella borsa del signor Dudley. Spero che la famiglia stia bene ora.~
 
 //@29
-@10013  = ~La Famiglia Quarrel a Beregost
+@10013  = ~Questioni in famiglia a Beregost
 
-Ho comprato la collana dalla famiglia Dudley. Invece di dargli solo le 500 mo promesse, sono riuscito ad "infilare" altre 100 mo nella borsa del signor Dudley. Spero che la famiglia stia bene ora.~
+Ho comprato la collana dalla famiglia Dudley. Invece di dargli solo le 500 monete d'oro promesse, sono riuscito ad "infilare" altre 100 monete d'oro nella borsa del signor Dudley. Spero che la famiglia stia bene ora.~
 
 //@110
-@10014  = ~La Famiglia Quarrel a Beregost
+@10014  = ~Questioni in famiglia a Beregost
 
-Ho promesso ai Dudley a Beregost di acquistare la loro collana di perle per 500 mo.~
+Ho promesso ai Dudley a Beregost di acquistare la loro collana di perle per 500 monete d'oro.~
 
 //@114
-@10015  = ~La Famiglia Quarrel a Beregost
+@10015  = ~Questioni in famiglia a Beregost
 
-Il problema è risolto. La figlia ha preso la collana in modo che non potesse essere venduta... La restituirà adesso.~
+Il problema è risolto. La figlia aveva preso la collana in modo che non potesse essere venduta... La restituirà adesso.~
 
 //@145
-@10016  = ~La Famiglia Quarrel a Beregost
+@10016  = ~Questioni in famiglia a Beregost
 
 Il Sig. Dudley mi ha riportato l'oro extra... I Dudley sono gente onesta e fiera. Beh, il loro problema di soldi ad ogni modo dovrebbe essere risolto.~
 
 //@146
-@10017  = ~La Famiglia Quarrel a Beregost
+@10017  = ~Questioni in famiglia a Beregost
 
 Il Sig. Dudley voleva restituirmi l'oro extra... I Dudley sono gente onesta e fiera. Sono riuscito a convincerlo ad accettarli, però. Il loro problema di soldi dovrebbe essere risolto adesso.~
+		  ~Questioni in famiglia a Beregost
+
+Il Sig. Dudley voleva restituirmi l'oro extra... I Dudley sono gente onesta e fiera. Sono riuscita a convincerlo ad accettarli, però. Il loro problema di soldi dovrebbe essere risolto adesso.~
 
 //@155
-@10018  = ~La Famiglia Quarrel a Beregost
+@10018  = ~Questioni in famiglia a Beregost
 
 Ho risolto il problema, in un certo senso.~
 
 //@160
-@10019  = ~La Famiglia Quarrel a Beregost
+@10019  = ~Questioni in famiglia a Beregost
 
 Il problema è risolto. La figlia aveva preso la collana in modo che non potesse essere venduta... L'ho restituita a loro.~
 
@@ -409,7 +416,7 @@ La madre è venuta a prendere i suoi due figli. Tutto è andato bene, per quel che
 //@49
 @10022  = ~Cura dei Bambini a Nashkel
 
-Mi sono offerto di occuparmi di due bambini a Nashkel, ma la madre non ha accettato. Sembra che io non fossi abbastanza affidabile... però.~
+Volevo occuparmi di due bambini a Nashkel, ma la madre non ha accettato. Sembra che io non fossi abbastanza affidabile...~
 
 //@54
 @10023  = ~Cura dei Bambini a Nashkel
@@ -419,12 +426,12 @@ Ho accettato di prendermi cura di due bambini a Nashkel. La madre aspetterà con 
 //@56
 @10024  = ~Cura dei Bambini a Nashkel
 
-Mi sono offerto di prendermi cura di due bambini a Nashkel, ma ho ritirato la mia offerta. Tuttavia la madre sembra abbastanza disperata da accettare se mi offrissi di nuovo.~
+Volevo prendermi cura di due bambini a Nashkel, ma ho ritirato la mia offerta. Tuttavia, la madre sembra abbastanza disperata da accettare se mi offrissi di nuovo.~
 
 //@66
 @10025  = ~Cura dei Bambini a Nashkel
 
-Ho accettato di prendermi cura di due bambini a Nashkel. La madre dovrebbe essere di nuovo qui in mezz'ora e si aspetta di incontrarci nella stessa area. Non dovrei lasciare l'area per evitare qualsiasi malinteso.~
+Ho accettato di prendermi cura di due bambini a Nashkel. La madre dovrebbe essere di nuovo qui entro mezz'ora e si aspetta di incontrarci nella stessa zona. Non dovrei lasciare l'area per evitare qualsiasi malinteso.~
 
 @10065  = ~Cura dei Bambini a Nashkel
 
@@ -432,7 +439,7 @@ C'era una madre con due... marmocchi a Nashkel. Li ho un po' maltrattati. Non ri
 
 @10066  = ~Cura dei Bambini a Nashkel
 
-Huh, sembra che la madre di Nashkel si sia imbattuta in un paio di corpulenti berserker di buon cuore che pensavano di dovermi dare una lezione. Immagino che non hanno vissuto a lungo per imparare...~
+Uh, sembra che la madre di Nashkel si sia imbattuta in un paio di corpulenti berserker di buon cuore che pensavano di dovermi dare una lezione. Immagino che non abbiano vissuto abbastanza a lungo per impararla...~
 
 /* Nashkel Monster: c#q04001_3_4_5.tra */
 
@@ -440,45 +447,47 @@ Huh, sembra che la madre di Nashkel si sia imbattuta in un paio di corpulenti be
 //@1 (c#q04001_3_4_5.tra)
 @10026  = ~Il Mostro di Nashkel
 
-Ho ucciso un cucciolo di viverna a Nashkel che stava inseguendo un giovane...~
+Ho ucciso un cucciolo di viverna a Nashkel che stava inseguendo un ragazzino...~
 
 @10027  = ~Il Mostro di Nashkel~
 
 //@16 (c#q04001_3_4_5.tra)
 @10028  = ~Il Mostro di Nashkel
 
-La famiglia del ragazzo voleva che i soldati mi arrestassero. Il ragazzo, ovviamente, ha mentito sul nostro primo incontro. Ho deciso di combattere le autorità cittadine.~
+La famiglia del ragazzo voleva che i soldati mi arrestassero. Il ragazzino, ovviamente, ha mentito sul nostro primo incontro. Ho deciso di combattere le autorità cittadine.~
 
 //@49 (c#q04001_3_4_5.tra)
 @10029  = ~Il Mostro di Nashkel
 
-La famiglia del ragazzo voleva che i soldati mi arrestassero. Il ragazzo, ovviamente, ha mentito sul nostro primo incontro, perché aveva paura della rabbia di suo padre per aver perduto il suo animale domestico "esotico". Per fortuna, sono riuscito a tirarmene fuori.~
+La famiglia del ragazzo voleva che i soldati mi arrestassero. Il ragazzino, ovviamente, ha mentito sul nostro primo incontro, perché aveva paura della rabbia di suo padre per aver perduto il suo animale domestico "esotico". Per fortuna, sono riuscito a tirarmene fuori.~
+		~Il Mostro di Nashkel
 
+La famiglia del ragazzo voleva che i soldati mi arrestassero. Il ragazzino, ovviamente, ha mentito sul nostro primo incontro, perché aveva paura della rabbia di suo padre per aver perduto il suo animale domestico "esotico". Per fortuna, sono riuscita a tirarmene fuori.~
 @10030   = ~L'Uovo Sconosciuto~
 
 @10031   = ~L'Uovo Sconosciuto 
 
-Abbiamo incontrato il mago che doveva avere l'uovo di "pietra". Ci ha detto alcune cose misteriose riguardo ad una sgradevole sorpresa che avrò se non farò vedere l'uovo ad un mago esperto...~
+Abbiamo incontrato il mago che doveva ricevere l'uovo di "pietra". Ci ha detto alcune cose misteriose riguardo ad una sgradevole sorpresa che avrò se non farò vedere l'uovo ad un mago esperto...~
 
 @10032   = ~L'Uovo Sconosciuto 
 
-Ora l'uovo é definitivamente al sicuro. E' ancora un oggetto magico e potrebbe essere di qualche utilità. Era l'uovo di un Ragno Incorporeo, pronto a nascere! Ora il pericolo é passato.~
+Ora l'uovo è definitivamente al sicuro. È ancora un oggetto magico e potrebbe essere di qualche utilità. Era l'uovo di un Ragno Incorporeo, pronto a nascere! Ora il pericolo è passato.~
 
 @10033   = ~L'Uovo Sconosciuto 
 
-Ho liberato un uomo delle consegne che era tenuto prigioniero in una grotta da un bandito che addestrava viverne! Mi ha dato una strana pietra dall'aspetto di un uovo. Mi ha detto che il mago a cui doveva consegnarlo potrebbe essere ancora nei dintorni di Baldur's Gate. Forse potrei riportarglielo.~
+Ho liberato un fattorino che era tenuto prigioniero in una grotta da un bandito che addestrava viverne! Mi ha dato una strana pietra dall'aspetto simile a un uovo. Mi ha detto che il mago a cui doveva consegnarla potrebbe essere ancora nei dintorni di Baldur's Gate. Forse potrei riportargliela.~
 
 @10034   = ~L'Uovo Sconosciuto 
 
-L'uovo ora é distrutto. Era l'uovo di un Ragno Incorporeo, pronto a nascere! Adesso questo pericolo non c'é più.~
+L'uovo ora è distrutto. Era l'uovo di un Ragno Incorporeo, pronto a nascere! Adesso questo pericolo non c'è più.~
 
 @10035   = ~L'Uovo Sconosciuto 
 
-L'uovo era di un Ragno Incorporeo, ed é nato nella mia borsa!~
+L'uovo era di un Ragno Incorporeo, ed è nato nella mia borsa!~
 
 @10067   = ~L'Uovo Sconosciuto
 
-Ho liberato un uomo delle consegne che era tenuto prigioniero in una grotta da un bandito che addestrava viverne! Mi ha dato un uovo pronto alla consegna ma tuttavia ancora vivente di un Ragno Incorporeo! Mi ha detto che il mago a cui doveva consegnarlo potrebbe essere ancora nei dintorni di Baldur's Gate. Forse potrei riportarglielo.~
+Ho liberato un fattorino che era tenuto prigioniero in una grotta da un bandito che addestrava viverne! Mi ha dato un uovo pronto alla consegna, ma tuttavia ancora vivente, di un Ragno Incorporeo! Mi ha detto che il mago a cui doveva consegnarlo potrebbe essere ancora nei dintorni di Baldur's Gate. Forse potrei riportarglielo.~
 
 
 /* Fallen Paladin: from c#q05001.tra */
@@ -499,7 +508,7 @@ Ho incontrato una donna che stava parlando di una bambina che ha sviluppato impr
 //@34
 @10039   = ~Il Paladino Decaduto nel Tempio di Helm
 
-La madre della bambina uccisa ha confermato la storia del paladino sulla possessione demoniaca. Ha detto che sua figlia ha sviluppato improvvisamente forti poteri magici. Questo mi ricorda la bambinaia che ho incontrato di recente in città. Il bambino di Luskan di cui parlava mostrava gli stessi "sintomi"? Forse dovrei parlare di ciò con il paladino, se voglio aiutarlo.~
+La madre della bambina uccisa ha confermato la storia del paladino sulla possessione demoniaca. Ha detto che sua figlia ha sviluppato improvvisamente forti poteri magici. Questo mi ricorda la bambinaia che ho incontrato di recente in città. Il bambino di Luskan di cui parlava mostrava gli stessi "sintomi". Forse dovrei parlare di ciò con il paladino, se voglio aiutarlo.~
 
 //@35
 @10040   = ~Il Paladino Decaduto nel Tempio di Helm
@@ -540,12 +549,12 @@ Nel villaggio di pescatori una donna è minacciata da un mostro in agguato dietro
 //@25
 @10047   = ~La Vedova Spaventata nel Villaggio di Pescatori
 
-Ho ucciso il marito non morto della donna. Adesso dovrebbe essere in grado di vivere in pace.~
+Ho ucciso il marito non-morto della donna. Adesso dovrebbe essere in grado di vivere in pace.~
 
 //@36
 @10048   = ~La Vedova Spaventata nel Villaggio di Pescatori
 
-Ho ucciso la creatura non morta che stava minacciando la donna. Adesso dovrebbe essere in grado di vivere in pace.~
+Ho ucciso la creatura non-morta che stava minacciando la donna. Adesso dovrebbe essere in grado di vivere in pace.~
 
 //@88
 @10049   = ~La Vedova Spaventata nel Villaggio di Pescatori
@@ -560,12 +569,12 @@ Ho suggerito alla vedova di rispettare il contratto, e la donna ha lasciato il v
 //@56
 @10051   = ~Attacco degli Orchi a Baldur's Gate
 
-La diceria di attacchi degli orchi in una casa di Baldur's Gate era esattamente questo... una diceria. Era solo il povero mezz'orco, Uguth, il cui aspetto è stata la causa della diffusione delle voci. È sempre la stessa storia con le voci!~
+La diceria di un attacco degli orchi in una casa di Baldur's Gate era esattamente questo... una diceria. Era solo un povero mezz'orco, Uguth, il cui aspetto è stata la causa della diffusione delle voci. È sempre la stessa storia con le voci!~
 
 //@65
 @10052   = ~Attacco degli Orchi a Baldur's Gate
 
-C'è una diceria che riporta che una casa vicino alla Taverna del Canto dell'Elfo è stata attaccata dagli orchi e che gli abitanti hanno bisogno di aiuto.~
+C'è una diceria che riporta che una casa vicino alla Taverna del Canto Elfico è stata attaccata dagli orchi e che gli abitanti abbiano bisogno di aiuto.~
 
 
 /////////////////////////////////////////
@@ -577,12 +586,12 @@ C'è una diceria che riporta che una casa vicino alla Taverna del Canto dell'Elfo
 //@57
 @10054   = ~Linda e Sir Trun
 
-Ho aiutato Sir Trun a superare il suo problema. Allenerà Linda nella scherma. Spero che possano superare l'orribile avventura che hanno avuto.~
+Ho aiutato Sir Trun a superare il suo problema. Allenerà Linda al combattimento. Spero che possano superare l'orribile avventura che hanno vissuto.~
 
 //@98
 @10055   = ~Linda e Sir Trun
 
-Ho incontrato Linda nella Locanda di Candlekeep. Lei è la fidanzata di Sir Trun, che si sta riprendendo dalle ferite nell'infermeria Candlekeep. Hanno avuto un incontro traumatico e non si parlano da allora.~
+Ho incontrato Linda nella Locanda di Candlekeep. Lei è la fidanzata di Sir Trun, che si sta riprendendo dalle ferite nell'infermeria di Candlekeep. Hanno avuto un incontro traumatico e non si parlano da allora.~
 
 
 ///////////////////////////////////////////////////////////
@@ -596,11 +605,11 @@ Ci siamo sbarazzati del secondo criceto... Spero che Boo non ne abbia il cuore a
 
 @10058   = ~Il Dilemma del Criceto
 
-Minsc in qualche modo é riuscito a prendere un criceto da quel venditore di animali, e si rifiuta di sbarazzarsene e non lo darà a nessun altro che non sia il venditore. Immagino che ora dovrò cercare dove si trova quel venditore.~
+Minsc in qualche modo è riuscito a prendere un criceto da quel venditore di animali, e si rifiuta di sbarazzarsene e non lo darà a nessun altro che non sia il venditore. Immagino che ora dovrò cercare dove si trova quel venditore.~
 
 @10059   = ~Il Dilemma del Criceto
 
-Ci siamo sbarazzai del secondo criceto... Spero che Boo non ne abbia il cuore affranto. Ci siamo tenuti solo i piccoletti. Devo sbarazzarmi anche di questi prima che crescano... Non c'era un ragazzo al Carnevale di Nashkel che cercava disperatamente un criceto?~
+Ci siamo sbarazzati del secondo criceto... Spero che Boo non ne abbia il cuore affranto. Ci siamo tenuti solo i piccoletti. Devo sbarazzarmi anche di questi prima che crescano... Non c'era un ragazzo al Carnevale di Nashkel che cercava disperatamente un criceto?~
 
 @10060   = ~Il Dilemma del Criceto
 
@@ -608,9 +617,9 @@ Ci siamo sbarazzati del secondo criceto... e di tutti i piccoli.~
 
 /* new for v16 */
 
-@10069   = ~Hamster Dilemma
+@10069   = ~Il Dilemma del Criceto
 
-The boy at Nashkel Carnival took all the little hamsters. I have a feeling he will do so in the future, too, if it ever comes to that.~
+Il ragazzo al carnevale di Nashkel ha preso tutti i piccoli criceti. Ho la sensazione che lo farà anche in futuro, se mai si arriverà a questo.~
 
 
 
@@ -621,7 +630,7 @@ The boy at Nashkel Carnival took all the little hamsters. I have a feeling he wi
 
 @10062   = ~L'Ubriaco vicino al Tempio di Beregost
 
-Ho incontrato un ubriaco vicino al Tempio di Beregost. Sono sicuro che non è in grado di difendersi se viene attaccato da qualche creatura selvaggia, ma nemmeno si lascia aiutare. Forse potrei informare qualcuno della sua presenza qui.~
+Ho incontrato un ubriaco vicino al Tempio di Beregost. Sono sicuro che non sarebbe in grado di difendersi se venisse attaccato da qualche creatura selvaggia, ma nemmeno si lascia aiutare. Forse potrei informare qualcuno della sua presenza qui.~
 
 @10063   = ~L'Ubriaco vicino al Tempio di Beregost
 

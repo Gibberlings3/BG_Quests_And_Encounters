@@ -1,224 +1,222 @@
 			Baldur's Gate Mini Quests and Encounters
 					Modification 
-	for BG1:TotSC, BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
-					by jastey 
+	per BG1:TotSC, BG1Tutu v4, EasyTutu, BGT, BG:EE, ed EET
+					di jastey 
 
 
-Baldur's Gate Mini Quests and Encounters Modification (BGQE) is a mod for "vanilla" BG1 (with the add-on Tales of the Sword Coast), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET, adding several small quests and encounters to the game. Vanilla BG1 without TotSC is no longer officially supported, but it should still work for it.
+Baldur's Gate Mini Quests and Encounters Modification (BGQE) è una mod per BG1 "originale" (con l'add-on Tales of the Sword Coast), BG1Tutu v4, EasyTutu, BGT, BG:EE, ed EET, che aggiunge numerose piccole missioni ed incontri al gioco. BG1 originale privo di TotSC non è più ufficialmente supportato, ma dovrebbe comunque funzionare.
 
-The duration of the game time added by this mod is approximately 30 to 60 minutes, depending on playing style.
+La durata del tempo di gioco aggiunto da questa mod è di circa 30-60 minuti, a seconda dello stile di gioco.
 
-Since Version 9, the Bjornin Extention is moved to the RE BG1 mod (Romantic Encouters for BG1). That is where it belonged all along.
+Dalla versione 9, l'estensione Bjornin è stata spostata nella mod RE BG1 (Romantic Encounters for BG1). Il suo posto è sempre stato lì.
 
-Install this mod before bg1npc project. Otherwise, some reply options are gone. 
+Installa questa mod prima del BG1NPC Project. Altrimenti, alcune opzioni di risposta andranno perse. 
 
-The mod "Brage's Redemption" inserts the same quest as bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. Note: If both mods are installed, BGQE has to be installed before Brage's Redemption.
+La mod "Brage's Redemption" inserisce la stessa missione del componente di bgqe "La Spada di Brage" come prerequisito prima che Brage possa essere portato nel gruppo. La missione viene estesa dalla mod Brage's Redemption con ulteriori suggerimenti e voci di diario. Si consiglia di installare Brage's Redemption per vedere il contenuto extra, ma non è necessario per giocare la missione. Nota: se entrambe le mod sono installate, BGQE deve essere installato prima di Brage's Redemption.
 
 
-DESCRIPTION
+DESSCRIZIONE
 
-1. Slime Quest (LABEL bgqe_slimequest)
+1. Missione della Fanghiglia (LABEL bgqe_slimequest)
 ------
-This quest is located in Beregost. If you pass one of the houses in the northwest, a woman dressed in red should approach you. There are some strange things going on in the house of her neighbor, and she wants your help.
+Questa missione si svolge a Beregost. Se passi davanti a una delle case a nord-ovest, una donna vestita di rosso dovrebbe avvicinarti. Strane cose accadono nella casa della sua vicina e lei vuole il tuo aiuto.
 
-This release revises the quest to meet known compatibility issues and adds a (more) evil quest solution. 
+Questa versione rivede la missione per risolvere i problemi di compatibilità noti e aggiunge una (o più) soluzioni malvagie.
 
 
-2. Family Treasure Quest (LABEL bgqe_familyquest)
+2. Missione della Famiglia di Beregost (LABEL bgqe_familyquest)
 ------
-This quest is also located in Beregost. If you go into another house in the northwest, you will meet a strange couple. They obviously have a serious problem, but haven't talked to each other for some time now. Although it seems that they aren't interested in talking to you either, it might just be that you can solve the riddle and ease their worries... or betray them and ruin the family completely.
+Anche questa missione si svolge a Beregost. Se entri in un'altra casa a nord-ovest, incontrerai una strana coppia. Hanno ovviamente un problema serio, ma non si parlano da qualche tempo. Anche se sembra che non siano interessati nemmeno a parlare con te, potrebbe essere che tu possa risolvere l'enigma e alleviare le loro preoccupazioni... o tradirli e rovinare completamente una famiglia.
 
 
-3. Babysitting in Nashkel, including Carnival Encounter (LABEL bgqe_babysitting)
+3. Missione della Cura dei Bambini, incluso l'Incontro al Carnevale (LABEL bgqe_babysitting)
 ------
-This quest occurs in Nashkel. Did you meet the desperate mother of two little children? She has something important to do, and is in great need of a trustworthy person who will watch over her children while she is away. So, fearless monster fighter, will you be ready for this challenge?
+Questa missione si svolge a Nashkel. Hai incontrato la madre disperata di due bambini piccoli? Ha qualcosa di importante da fare e ha un enorme bisogno di una persona affidabile che vegli sui suoi figli mentre lei è via. Allora, coraggioso combattente di mostri, sarai pronto per questa sfida?
 
-The babysitting is only available for paladin PCs or for non-evil aligned PC's with reputation higher than 12. Evil PCs can bully the mother away, which will lead to a follow-up.
+Il servizio di babysitter è disponibile solo per PG paladini o per quelli di allineamento non malvagio con reputazione superiore a 12. I PG malvagi possono costringere la madre ad allontanarsi, il che porterà a un seguito.
 
-At the Nashkel carnival, you can find Tina. The young woman is another tragic soul in need of some money... or so she says.
+Al carnevale di Nashkel, puoi trovare Tina. La giovane donna è un'altra anima disperata bisognosa di soldi... o almeno così dice.
 
 
-4. Monster in Nashkel (LABEL bgqe_nashkelmonster)
+4. Missione del Mostro di Nashkel (LABEL bgqe_nashkelmonster)
 ------
-Near the Manor House in Nashkel you can save little Arnim from a monster that's chasing him. He is staying with his parents in the Nashkel Inn. For such a heroic deed, the thankfulness of his parents should be all yours... shouldn't it?
+Vicino al Maniero di Nashkel puoi salvare il piccolo Arnim da un mostro che lo insegue. Alloggia con i suoi genitori alla Locanda di Nashkel. Per un atto così eroico, la gratitudine dei suoi genitori dovrebbe essere tutta per te... non è vero?
 
-The delivery man who mixed up the egg deliveries will be met later in the game. One of his customers is very, very unhappy about what he got and both will be delighted to see you. 
+Il fattorino che ha scambiato le consegne di uova verrà incontrato più avanti nel gioco. Uno dei suoi clienti è molto, molto scontento di quello che ha ricevuto ed entrambi saranno felici di vederti.
 
 
-5. Fallen Paladin in Baldur's Gate (LABEL bgqe_fallenpaladin)
+5. Missione del Paladino Decaduto a Baldur's Gate (LABEL bgqe_fallenpaladin)
 ------
-In the northern part of the city, in the temple of Helm, an evil fallen paladin is hiding. He slaughtered a little girl without hesitation... at least that's what the angry people in front of the temple are saying.
+Nella parte settentrionale della città, nel tempio di Helm, si nasconde un malvagio paladino decaduto. Ha massacrato una bambina senza esitazione... almeno questo è quello che dicono le persone inferocite davanti all'ingresso del tempio.
 
 
-6. Undying Love in the Fishing Village (LABEL bgqe_undyinglove)
+6. Missione dell'Amore Imperituro nel Villaggio di Pescatori (LABEL bgqe_undyinglove)
 ------
-The frightened woman in the left house tells you she is threatened by a monster hiding behind her house. Maybe you should go and take a look?
+La donna spaventata nella casa sulla sinistra dice di essere minacciata da un mostro nascosto dietro la sua abitazione. Forse dovresti andare a dare un'occhiata?
 
 
-7. Lovesick Half-Orc (LABEL bgqe_orclover)
+7. Missione dell'Orco Innamorato (LABEL bgqe_orclover)
 ------
-On the road north of Nashkel, you meet Uguth. He is on his way to Baldur's Gate, to his beloved. Due to his appearance, being clearly descended from orcs, he has to overcome a special hindrance before he can take her into his arms.
+Sulla strada a nord di Nashkel, incontri Uguth. Sta andando a Baldur's Gate, dalla sua amata. A causa del suo aspetto, essendo chiaramente discendente dagli orchi, deve superare un ostacolo speciale prima di poterla prendere tra le sue braccia.
 
 
-8. Unexpected Help (LABEL bgqe_unexpectedhelp)
+8. Missione dell'Aiuto Inaspettato (LABEL bgqe_unexpectedhelp)
 ------
-In the Candlekeep infirmary, glum Sir Trun seeks healing from his wounds. He was injured badly in a fight, but that doesn't seem to be his actual problem, as Linda, his fiancee who is staying in Candlekeep Inn, can tell you...
-This quest is accessible both during the Prologue or after the return to Candlekeep. Note: Since most players finish this quest in the prologue, there are no NPC reactions for this quest.
+Nell'Infermeria di Candlekeep, il cupo Sir Trun cerca di guarire dalle sue lesioni. È stato ferito gravemente in una battaglia, ma questo non sembra essere il suo vero problema, come può dirti Linda, la sua fidanzata che si trova nella Locanda di Candlekeep...
+Questa missione è accessibile sia durante il Prologo che dopo il ritorno a Candlekeep. Nota: poiché la maggior parte dei giocatori termina questa missione nel prologo, non ci sono reazioni dei PNG per questa missione.
 
-Note: The "Extension of Bjornin Encounter" is moved to "bg1re: Romantic Encounters for BG1" where it belongs.
+Nota: la "Extension of Bjornin Encounter" viene spostata in "bg1re: Romantic Encounters for BG1" a cui appartiene.
 
 
-9. Many little paws (LABEL bgqe_manypaws)
+9. Missione Tante Piccole Zampette (LABEL bgqe_manypaws)
 ------
-Formerly meant as an Easter Egg quest I figured it makes sense to tell players it's actually there. Make sure you have Minsc in your party when talking to the vendor at the Nashkel Carnival. Everything else will develop from there - promise!
+Inizialmente intesa come Easter Egg, ho pensato che avesse senso dire ai giocatori che è effettivamente esista. Assicurati di avere Minsc nel gruppo festa quando parli con il venditore al Carnevale di Nashkel. Tutto il resto si svilupperà da lì - te lo prometto!
 
 Spoiler:
-The pet vendor will reappear after three ingame days at the 3rd level of the Friendly Arm Inn.
+Il venditore di animali riapparirà dopo tre giorni di gioco al terzo piano della Locanda del Braccio Amico.
 
 
-10. Drunk near Beregost Temple (LABEL bgqe_drunk)
+10. Missione L'Ubriaco Vicino al Tempio di Beregost (LABEL bgqe_drunk)
 ------
-Inform the priests in Beregost Temple about the drunken wannabe Lich outside so they can keep an eye on his safety!
+Informa i sacerdoti nel tempio di Beregost dell'ubriaco aspirante Lich all'esterno in modo che possano vigliare sulla sua sicurezza!
 
 
-11. A Warm Place for Noober (LABEL bgqe_noober)
+11. Missione Un Posto Caldo per Noober (LABEL bgqe_noober)
 ------
-Approximately three days after the first Noober contact in Nashkel, your PC will witness an oxymoron: a Noober who cannot talk! Show mercy and find a kind soul ready to take him in and help him to cure his sickness - and also a place where, finally, Noober can put his talkativeness into good use, as well.
+Circa tre giorni dopo il primo contatto con Noober a Nashkel, il tuo PG assisterà a un ossimoro: un Noober che non può parlare! Mostra misericordia e trova un'anima gentile pronta ad accoglierlo e aiutarlo a curare la sua malattia - e anche un luogo dove, finalmente, Noober potrà persino mettere a frutto la sua loquacità.
 
 
-12. Brage's Sword (not for original BG1) (LABEL bgqe_bragesword)
+12. Missione La Spada di Brage (non per BG1 originale) (LABEL bgqe_bragesword)
 ------
-This component gives the player the possibility to prove that Brage fell victim to an intrigue and save him from a death by the gallows - if the PC wants to. There is an evil quest option, of course.
-Brage has to be brought to Nashkel alive. The mod also adds the possibility to bring him to Oublek (i.e. the Nashkel authorities) instead of to the temple. This was unfinished original game content. (For this possibility, please note the install order as mentioned above).
+Questo componente offre al giocatore la possibilità di dimostrare che Brage è caduto vittima di un intrigo e salvarlo da una morte per impiccagione, se il PG lo desidera. C'è anche un'opzione di missione malvagia, ovviamente.
+Brage deve essere portato vivo a Nashkel. La mod aggiunge anche la possibilità di consegnarlo a Oublek (ovvero le autorità di Nashkel) invece che al tempio. Questo era un contenuto di gioco originale incompiuto. (Per questo motivo, verifica l'ordine di installazione come menzionato sopra).
 
-The quest about Brage's sword starts when talking to Oublek after bringing Brage to Nashkel alive.
+La missione sulla spada di Brage inizia quando si parla con Oublek dopo aver portato Brage a Nashkel vivo.
 
-Note: The mod "Brage's Redemption" inserts the same quest as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
-BGQE should be installed before BG1NPC Project or some of the added reply options to Brage and Borda will be lost.
+Note: La mod "Brage's Redemption" inserisce la stessa missione del componente di bgqe "La Spada di Brage" come prerequisito prima che Brage possa essere portato nel gruppo. La missione viene estesa dalla mod Brage's Redemption con ulteriori suggerimenti e voci di diario. Si consiglia di installare Brage's Redemption per vedere il contenuto extra, ma non è necessario per giocare la missione. BGQE dovrebbe essere installato prima di Brage's Redemption.
+BGQE dovrebbe essere installato prima del BG1NPC Project altrimenti alcune delle opzioni di risposta aggiunte a Brage e a Borda andranno perse.
 
 ***** Spoiler *****
--The merchant Borda (original game content) plays a role in this quest. Originally, he can be met in the area with the Xvart village. Depending on quest status the PC can confront him here. If he was already met, there will be a second meeting. 
--Brage's sword plays a role, as well. It has to be presented to Nalin at some point. After that, it is no  longer needed for this mod (and can e.g. be used for Thalantyr's Item Upgrade Mod). 
--The quest can be solved completely before clearing the Nashkel mines (or later). For the case that Laryssa, Brage's cousin, was killed upon the first confrontation, the last needed quest clue will be found no sooner than Tazok's tent.
+-Il mercante Borda (contenuto di gioco originale) ha un ruolo in questa missione. In origine, può essere incontrato nella zona con il villaggio Xvart. A seconda dello stato della missione, il PG può affrontarlo qui. Se è già stato incontrato, ci sarà un secondo incontro.
+-Anche la spada di Brage ha un ruolo. Deve essere presentata a Nalin a un certo punto. Dopodiché, non sarà più necessaria per questa mod (e può essere utilizzato ad esempio per la Mod Thalantyr's Item Upgrade).
+-La missione può essere risolta completamente prima di liberare le miniere di Nashkel (o successivamente). Nel caso in cui Laryssa, la cugina di Brage, sia stata uccisa al primo scontro, l'ultimo indizio necessario per la missione verrà trovato non prima della tenda di Tazok.
 
 
-13. Legal Seachart Sources (not for original BG1) (LABEL bgqe_seacharts)
+13. Fonti Lecite per le Carte Nautiche (non per BG1 originale) (LABEL bgqe_seacharts)
 -------
-This component adds two more possibilities to receive the sea charts for Mendas' trip to Balduran's island. Both ways will be installed. 
-13.A by Lumorus: If the PC helped Aldeth Sashenstar in the Cloakwood as well inside the Merchants' League, Aldeth will be very interested in the research and Balduran's artefacts. He will enable access to the sea charts without the need to steal them or intoxicate the captain.
-13.B CALABALD (= Calahan + Balduran's Island) by Shuv-Oohl: The sailor Calahan in Ulgoth's Beard wouldn't be a real sailor if he wouldn't have sea charts of his own. He won't part with them without an appropriate compensation, though... PCs with enough gold have now the possibility to go to Balduran's island before entering Baldur's Gate.
+Questo componente aggiunge altre due possibilità per ricevere le carte nautiche per il viaggio di Mendas all'isola di Balduran. Verranno installati entrambi i modi.
+13.A di Lumorus: se il PG ha aiutato Aldeth Sashenstar nel Bosco Ammantato e all'interno della Lega dei Mercanti, Aldeth sarà molto interessato alla ricerca e ai manufatti di Balduran. Consentirà l'accesso alle carte nautiche senza la necessità di rubarle o intossicare il capitano.
+13.B CALABALD (= Calahan + Isola di Baldurannd) di Shuv-Oohl: Il marinaio Calahan a Ulgoth's Beard non sarebbe un vero marinaio se non avesse le sue carte nautiche. Non si separerà da loro senza un adeguato compenso, però... i PG con abbastanza oro hanno ora la possibilità di raggiungere l'isola di Balduran prima di entrare a Baldur's Gate.
 
 
-14. Additions to the House of the Lady and the Bitch Queen's Temple (LABEL bgqe_waterqueentemple)
+14. Aggiunte al Palazzo della Signora e alla Casa della Regina delle Acque (LABEL bgqe_waterqueentemple)
 -------
-This component extends the original game quest about priest Tremain's dead son and the scoll of dispel from the temple of Umberlee.
-14.A Prevent Jalanthe from Making a Mistake, by Lumorus: The High Priest of the Water Queen requests a Book of Wisdom for the scroll of dispel. But would it really be a wise idea for her to rely on another god's help? The PC now can ask explicitly whether the priestess is sure that Umberlee would be pleased if the ceremony was done with the wisdom received by Tymora... 
-14.B Tremain's Sellout: in the original game, Tremain asks the PC to retrieve his dead son from the temple of Umberlee, so he can revive him. The PC now has the possibility to bring the son to the temple, instead. 
+Questo componente estende la missione di gioco originale sul figlio morto del sacerdote Tremain e la pergamena Rimuovi Costrizione dal tempio di Umberlee.
+14.A Impedisci a Jalanthe di Commettere un Errore, di Lumorus: L'Alta Chierica della Regina della Acque richiede un Tomo della Comprensione per la pergamena di Rimuovi Costrizioni. Ma sarebbe davvero un'idea saggia per lei fare affidamento sull'aiuto di un altro dio? Il pg ora può chiedere esplicitamente se la sacerdotessa è sicura che Umberlee sarebbe contenta se la cerimonia fosse fatta con la saggezza ricevuta da Tymora...
+14.B Tremain: nel gioco originale, Tremain chiede al PG di recuperare suo figlio morto dal tempio di Umberlee, in modo che possa rianimarlo. Il PG ora ha invece la possibilità di portare il figlio al tempio.
 
 
-15. A worried farmer (not for original BG1) (LABEL bgqe_worriedfarmer), by Lumorus and White Agnus
+15. Missione Un Contadino Preoccupato (non per BG1 originale) (LABEL bgqe_worriedfarmer), di Lumorus e White Agnus
 -------
-In Beregost/Nashkel there are some rumors by a few farmers, so far one of them is addressed in this component: talk to a farmer in Beregost until he tells the PC about a creature making noises behind his house at night. He will then ask the PC to help him to get rid of it.
+A Beregost/Nashkel ci sono voci su alcuni agricoltori, finora una di queste è affrontata in questo componente: parla con un contadino di Beregost finché non dice al PG di una creatura che la notte fa strani rumori dietro casa sua. Quindi chiederà al PG di aiutarlo a sbarazzarsene.
 
 
-16. Bodies for a good cause (LABEL bgqe_bodiesforgoodcause), by Lumorus and White Agnus
+16. Missione Cadaveri per una Giusta Causa (LABEL bgqe_bodiesforgoodcause), di Lumorus e White Agnus
 -------
-This mod plays in Baldur's Gate. Bring the corpses you find in the sewers to Sylar, a necromancer with a special research. This component is also good for PCs that care about the environment! :D
+Questa mod si svolge a Baldur's Gate. Porta i cadaveri che trovi nelle fogne a Sylar, un necromante con una ricerca speciale. Questo componente è utile anche per i Pg che hanno a cuore l'ambiente! :D
 
 
-17. Finish Cordyr's Quest without killing Sil, by Lumorus
+17. Completare la Missione di Cordyr senza uccidere Sil, di Lumorus
 -------
-This component expands on Cordyr's Quest twofold:
--The door to his house will be unlocked and all PCs no matter the reputation will get the quest to take care of the sirines who took over Cordyr's old fishing grounds.
--The conflict can be solved without having to kill Sil and the sirines.
+Questo componente espande la Missione di Cordyr in due modi:
+-La porta di casa sua verrà sbloccata e tutti i PG, indipendentemente dalla reputazione, riceveranno la missione di occuparsi delle sirine che hanno preso il controllo della zona di pesca di Cordyr.
+-Il conflitto può ora essere risolto senza dover uccidere Sil e le sirine.
 
-This component is compatible with all changes to Sil and her sirines by bg1re and Lure of Sirine's Call.
-
-
-
-INSTALLATION
-
-Note: If you've previously installed the mod, remove it before extracting the new version. To do this, uninstall all previously installed components and delete the mod folder and executables. When installing or uninstalling, do not close the DOS window by clicking on the X button! Instead, press the Enter key when instructed to do so.
+Questo componente è compatibile con tutte le modifiche apportate a Sil e alle sue sirine dalle mod bg1re e Lure of Sirine's Call.
 
 
-BGII:EE
-If you use BG Enhanced Edition from GOG or Steam, you need to prepare your game before installing any mods:
+
+INSTALLAZIONE
+
+Nota: se hai già installato la mod, rimuovila prima di estrarre la nuova versione. Per fare ciò, disinstalla tutti i componenti installati in precedenza ed elimina la cartella mod e gli eseguibili. Durante l'installazione o la disinstallazione, non chiudere la finestra DOS facendo clic sul pulsante X! Invece, premi il tasto Invio quando viene richiesto di farlo.
+
+
+BG:EE
+Se usi BG Enhanced Edition da GOG o Steam, devi preparare il tuo gioco prima di installare una qualsiasi mod:
 Link: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
 
-(deprecated tool: 
+(strumento obsoleto: 
 https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use/p1)
 
  
-General (Windows, Mac OS X, and Linux)
-Make sure you back up your game acordingly, just to be sure. 
+Generale (Windows, Mac OS X, e Linux)
+Assicurati di eseguire un backup del gioco a prescindere, solo per essere sicuro.
 
-Extract the contents of the mod archive to your game's main directory. 
-NOTE: For BG:EE it is important that you istall the mod to the language version you are playing the game in. Otherwise, the dialogues of the mod will not show but give error messages.
+Estrai il contenuto dell'archivio mod nella directory principale del gioco.
+NOTA: Per BG:EE è importante che installi la mod nella lingua in cui stai giocando. Altrimenti, i dialoghi della mod non verranno mostrati ma daranno messaggi di errore.
 
 
 Windows
-On successful extraction, there should be an bgqe folder and a setup-bgqe.exe file in your game folder. To install, simply double-click setup-bgqe.exe and follow the instructions on screen.
-Run setup-bgqe.exe in your game folder to reinstall, uninstall or otherwise change components.
+Se l'estrazione ha avuto successo, dovrebbero esserci una cartella bgqe e un file setup-bgqe.exe nella cartella di gioco. Per installare, fai semplicemente doppio clic su setup-bgqe.exe e segui le istruzioni sullo schermo.
+Esegui setup-bgqe.exe nella cartella di gioco per reinstallare, disinstallare o modificare in altro modo i componenti.
 
 Mac OS X
-If properly extracted, you should have a bgqe folder, setup-bgqe, and setup-bgqe.command in your game's main directory folder. To install, simply double-click setup-bgqe.command and follow the instructions on screen.
+Se l'estrazione ha avuto successo, dovresti avere una cartella bgqe, setup-bgqe e setup-bgqe.command nella cartella della directory principale del gioco. Per installare, fai semplicemente doppio clic su setup-bgqe.command e segui le istruzioni sullo schermo.
 
 Linux
-Download the latest version of WeiDU for Linux from WeiDU.org and copy WeiDU and WeInstall to /usr/bin. Following that, open a terminal, cd to your BG installation directory, run 'tolower' and answer Y to both queries. You can avoid running the second option (linux.ini) if you have already ran it once in the same directory. If you are unsure, running tolower and choosing both options is the safe bet.
-Run WeInstall setup-bgqe in your game folder to install the mod. Then run wine BGMain.exe and start playing.
+Scarica l'ultima versione di WeiDU per Linux da WeiDU.org e copia WeiDU e WeInstall in /usr/bin. Successivamente, apri un terminale, vai nella directory di installazione di BG, esegui "tolower" e rispondi Y a entrambe le domande. Puoi evitare di eseguire la seconda opzione (linux.ini) se l'hai già eseguita una volta nella stessa directory. Se non sei sicuro, lanciare tolower e scegliere entrambe le opzioni è la scelta sicura.
+Esegui WeInstall setup-bgqe nella cartella di gioco per installare la mod. Quindi esegui BGMain.exe e inizia a giocare.
 
 
-NOTE: BG(II):EE are actively supported games. Please note that every patch update will wipe your current mod setup! If in the middle of a modded game you might want to delay the patch update as even after reinstalling the mods, you might not be able to continue with your old savegames. 
+NOTA: BG(II): EE sono giochi supportati attivamente. Tieni presente che ogni aggiornamento della patch cancellerà la configurazione della tua attuale mod! Nel corso di una partita modificata potresti voler ritardare l'aggiornamento della patch poiché anche dopo aver reinstallato le mod, potresti non essere in grado di continuare con i tuoi vecchi salvataggi.
 
 
-If you have installation problems or encounter any bugs, please post your bug report in one of the forum threads given below.
+Se hai problemi di installazione o riscontri bug, invia la tua segnalazione di bug in uno dei thread del forum indicati di seguito.
 
-Direkt links: 
-English forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
-
-
-German thread at Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
-
-COMPATIBILITY
-
-Baldur's Gate Mini Quests and Encounters Mod is coded using WeiDU and does not overwrite any files. It should be compatible with most other (WeiDU) mods. 
-
-BG1NPC Project: the component "Brage's Sword" from bgqe has to be installed before the BG1NPC Project or some reply options in Brage's original dialogue might not show.
-
-Brage's Redemption: The mod "Brage's Redemption" inserts the same quest as a prerequirement before Brage can be taken into the party. The quest gets extended by Brage's Redemption mod with additional hints and journal entries. It is recommended that you install Brage's Redemption to see the extra content but it is not required to play the quest. BGQE should be installed before Brage's Redemption.
-
-bg1re: fully compatibility of all components (I'm putting this here because both mods change Sil's dialogue)
-
-Lure of Sirine's Call: fully compatibility of all components (I'm putting this here because both mods change Sil's dialogue)
+Link diretti: 
+Forum Inglese: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
 
 
-If you play it with the original BG, the mod is compatible with
+Topic Tedesco su Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
+
+COMPATIBILITA'
+
+Baldur's Gate Mini Quests and Encounters Mod è codificato usando WeiDU e non sovrascrive alcun file. Dovrebbe essere compatibile con la maggior parte delle altre mod (WeiDU). 
+
+BG1NPC Project: il componente "La Spada di Brage" di bgqe deve essere installato prima del BG1NPC Project o alcune opzioni di risposta nel dialogo originale di Brage potrebbero non venire visualizzate.
+
+Brage's Redemption: la mod "Brage's Redemption" inserisce la stessa missione del componente di bgqe "La Spada di Brage" come prerequisito prima che Brage possa essere portato nel gruppo. La missione viene estesa dalla mod Brage's Redemption con ulteriori suggerimenti e voci di diario. Si consiglia di installare Brage's Redemption per vedere il contenuto extra, ma non è necessario per giocare la missione. BGQE dovrebbe essere installato prima di Brage's Redemption.
+
+bg1re: piena compatibilità di tutti i componenti (lo metto qui perché entrambe le mod cambiano i dialoghi con Sil)
+
+Lure of Sirine's Call: piena compatibilità di tutti i componenti (lo metto qui perché entrambe le mod cambiano i dialoghi con Sil)
+
+Se giochi con Baldur's Gate originale, la mod è compatibile con
 -Echon's "Field of the Dead" (Version 1.07)
 
-For original BG, the mod should also be technically compatible with (this does not necessarily imply that the listed mods are all compatible with each other):
+Per Baldur's Gate originale, la mod dovrebbe anche essere tecnicamente compatibile con (questo non implica necessariamente che le mod elencate siano tutte compatibili tra loro):
 -BG1 Unfinished Business
 -BG1 Adventure and CoM Forge
 -BG1 Ajantis Expansion Mod
 -bg1re BG1 Romantic Encounters
 -Grey Clan Episode 1
 -Herbs and Potions Add-In
--DSotSC (BGT/EET version)
--Lure of Sirine's Call
--NTotSC 
+-DSotSC (versione BGT/EET)
+-NTotSC (non-WeiDU)
 -Xan Friendship Mod
 
 
 
 
-KNOWN ISSUES
+PROBLEMI CONOSCIUTI
 
--"Many little paws" I am also sometimes left with one or two hamsters after the boy supposedly takes them all, although which ones exactly differs each try. (I hope this will be fixed for v16)
+-"Tante Piccole Zampette" A volte mi rimangono uno o due criceti dopo che il ragazzo presumibilmente li abbia presi tutti, il quali cambia a ogni tentativo. (Spero che questo verrà risolto per la v16)
 
--"Brage's Sword" (BG:EE / EET): after returning Brage to Nashkell, the journal entry "The Tale of Captain Brage(Finished)" will remain in the journal, but without any text attached to it. Obviously the journal system is not meant to remove titels even if the entries are removed. This is an engine problem.
+-"La Spada di Brage" (BG:EE/EET): dopo aver riportato Brage a Nashkell, la voce di diario "la Storia del Capitano Brage (Completata)" rimarrà nel diario, ma senza alcun testo allegato. Ovviamente il sistema del diario non ha lo scopo di rimuovere i titoli anche se le voci vengono rimosse. Questo è un problema del motore.
 
--"A Warm PLace for Noober" (BG1:TotSC): It can happen that Joseph's widow's mother will sleep on the floor, while a generic sleeping woman sleeps in the bed. Just imagine Joseph's widow to have a real great heart for needing souls.
+-"Un Posto Caldo per Noober" (BG1:TotSC): Può succedere che la madre della vedova di Joseph dorma per terra, mentre una generica donna addormentata dorme nel letto. Immagina che la vedova di Joseph abbia solo un cuore veramente grande per le anime bisognose.
 
--"Drunk near Beregost Temple" (BG1:TotSC): Polus the drunk still preforms his silly folk dance when you talk to him (falls down on the ground and gets up 15 or so times). 
+-"Ubriaco vicino al Tempio di Beregost" (BG1:TotSC): Polus l'ubriaco esegue ancora la sua stupida danza popolare quando gli parli (cade a terra e si alza circa 15 volte).
 
 
 
@@ -289,7 +287,7 @@ Translations:
 French translation: v23 completed by Jazira.
 v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
- 
+  
 Russian translation: New component in v23 by yota13, proofreading by Austin.
 v22 revised, corrected, and updated by d0lphin.
 v20 completed by d0lphin.
