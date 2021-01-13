@@ -205,17 +205,17 @@ Poids : 12~
 @117  = ~Hick~
 @118  = ~Mon serviteur Mulahey,
 
-votre stupide négligence à poussé D. à intervenir. Il a envoyé une belle surprise au commandant de Nashkel, qui trouvera sa nouvelle épée plus particulière qu'il ne s'y attendait. Les forces amniennes sont affaiblies pour le moment et ne viendront pas dans les niveaux inférieurs des mines. Quoi qu'il en soit, préparez-vous à des intrusions, car bon nombre de groupes sont suffisamment motivés pour enquêter sur les rapports d'observation de vos imbéciles de kobolds. Ne me décevez pas une nouvelle fois. 
+Votre stupide négligence à poussé D. à intervenir. Il a envoyé une belle surprise au commandant de Nashkel, qui trouvera sa nouvelle épée plus particulière qu'il ne s'y attendait. Les forces amniennes sont affaiblies pour le moment et ne viendront pas dans les niveaux inférieurs des mines. Quoi qu'il en soit, préparez-vous à des intrusions, car bon nombre de groupes sont suffisamment motivés pour enquêter sur les rapports d'observation de vos imbéciles de kobolds. Ne me décevez pas une nouvelle fois. 
 
 TAZOK~
 @119  = ~Borda,
 
-nous nous moquons que vous accomplissiez de votre mieux la tâche que nous vous avons confiée. Ce n'est pas de notre faute si le commandant est parti enquêter seul et a ainsi trouvé la nouvelle épée alors qu'il voyageait au lieu d'être à l'intérieur de sa caserne. C'est votre incompétence qui a failli tout faire échouer. Vous avez de la chance que cet imbécile soit finalement retourné à Nashkel, de sorte que l'or que nous avons dépensé pour cette lame maudite n'a pas été entièrement perdu. Non, vous ne recevrez pas le deuxième montant de votre paiement. Vous pouvez toujours garder l'épée originale que Brage était censé recevoir. C'est une compensation suffisante. Soyez heureux que nous ne lancions pas à votre poursuite.
+Nous nous moquons que vous accomplissiez de votre mieux la tâche que nous vous avons confiée. Ce n'est pas de notre faute si le commandant est parti enquêter seul et a ainsi trouvé la nouvelle épée alors qu'il voyageait au lieu d'être à l'intérieur de sa caserne. C'est votre incompétence qui a failli tout faire échouer. Vous avez de la chance que cet imbécile soit finalement retourné à Nashkel, de sorte que l'or que nous avons dépensé pour cette lame maudite n'a pas été entièrement perdu. Non, vous ne recevrez pas le deuxième montant de votre paiement. Vous pouvez toujours garder l'épée originale que Brage était censé recevoir. C'est une compensation suffisante. Soyez heureux que nous ne lancions pas à votre poursuite.
 
 TAZOK~
 @120  = ~Tazok,
 
-je demande à ce que vous me payiez la deuxième moitié de ce que nous avons convenu, le commandant ne massacrant que sa propre famille et non la moitié de la garnison n'est pas de mon fait. Les forces de Nashkel sont affaiblies et c'était l'accord convenu ! Vous pouvez envoyer toutes les lettres qui me sont destinées à mon contact au festival de Nashkel. J'ai trouvé un marchand assez désespéré pour acheter certaines de mes potions spéciales, il me transmettra également toutes les lettres.
+Je demande à ce que vous me payiez la deuxième moitié de ce que nous avons convenu, le commandant ne massacrant que sa propre famille et non la moitié de la garnison n'est pas de mon fait. Les forces de Nashkel sont affaiblies et c'était l'accord convenu ! Vous pouvez envoyer toutes les lettres qui me sont destinées à mon contact au festival de Nashkel. J'ai trouvé un marchand assez désespéré pour acheter certaines de mes potions spéciales, il me transmettra également toutes les lettres.
 
 Borda~
 @121  = ~Lettre au Capitaine Tollar Kieres~
@@ -257,7 +257,7 @@ Poids : 12~
 
 @2002    = ~Goule~
 @2003    = ~Fermier~
-@2004	   = ~Un fermier inquiet
+@2004	 = ~Un fermier inquiet
 
 Un fermier m'a demandé de le rejoindre à son domicile, si nous souhaitons nous occuper de ce qui le tracasse.~
 @2005	 = ~Un fermier inquiet
@@ -267,10 +267,10 @@ Le fermier de Bérégost n'a plus à s'inquiéter désormais, la goule qui le hantait
 
 Un fermier nous à dit qu'il a vu une chose rôder près de sa maison, cependant il ignore ce que c'est.~
 
-@2007	   = ~Un fermier inquiet~
+@2007	 = ~Un fermier inquiet~
 
-@9002   = ~Sylar~
-@9003	  = ~Des corps pour une bonne cause
+@9002    = ~Sylar~
+@9003	 = ~Des corps pour une bonne cause
 
 Dans le Magasin de Silence j'ai rencontré un nécromancien elfe nommé Sylar. Apparemment il a découvert une nouvelle méthode de nécromancie pour ressusciter à la manière d'un clerc. S'il fait ça, il pourra améliorer l'image des arts nécromantiques, enfin c'est ce qu'il prétend. Quoi qu'il en soit, pour ses recherches, il a besoin de corps que je pourrais récupérer pour lui dans les égouts.
 Il est prêt à me payer 150 pièces d'or par corps livré.
@@ -586,7 +586,7 @@ Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
 choisir un parmi :"
 @-1031= "] ?
 [R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
-@-1032= "ECHEC DE L'INSTALLATION EN RAISON D'ERREURS"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
 @-1033= "INSTALLATION AVEC DES ALERTES"
 @-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
 @-1035= "Dans la langue"
@@ -625,3 +625,7 @@ Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe c
 @-1061= "
 Utilisation de"
 @-1062= " et "
+
+@-1063= "INSTALLATION ABANDONNEE"
+@-1064= "Abandon de l'installation de ["
+@-1065= "], retour à l'etat anterieur"
