@@ -1,6 +1,7 @@
 IF
-	Global("C#Q08_TalkedToTrun","GLOBAL",5)
+	GlobalGT("C#Q08_LindaCreationOutside","GLOBAL",0)
 	Exists("C#Q08002")
+	InMyArea("C#Q08002")
 THEN
 	RESPONSE #100
             ActionOverride("C#Q08002",DestroySelf()) //Linda

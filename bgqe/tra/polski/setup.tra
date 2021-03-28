@@ -1,73 +1,27 @@
-/*BG2engine*/
-@0    = ~Modyfikacja "Baldur's Gate Mini-Questy i Spotkania"~
+@0    = ~Modyfikacja "Baldur's Gate Mini-Questy i Spotkania"~ 
 @1    = ~Wykryto Tutu. Uzycie kodu instalacji dla BG1Tutu...~
-@2    = ~Uzycie kodu instalacji dla oryginalnej gry BG...~
-@3    = ~Pusta Butelka~
-@4    = ~To jest pusta butelka, któr¹ Alanna znalaz³a w domu Eltoltha. Na etykiecie napisano:
-
-"Wspania³a Niespodzianka:
-Jednorazowo wypiæ tylko ma³y ³yk. Dzia³anie zaczyna siê po 5 sekundach do 10 minut i utrzymuje siê do godziny. Nie przedawkowaæ, mo¿liwe niespodziewane efekty! Nie udziela siê ¿adnej gwarancji w przypadku niepowodzenia!"
-
-Opis sygnowany jest liter¹ "T" przechodz¹c¹ w nieczytelny podpis.~
-@5    = ~Notatki Eltoltha~
-@6    = ~Wydaje siê to byæ jakimœ rodzajem dziennika, nale¿¹cym do Eltoltha, s¹siada Alanny. Przy przegl¹daniu stron natrafiasz na kilka interesuj¹cych zapisków, które mog¹ rzuciæ œwiat³o na poprzedzaj¹ce zdarzenia:
-
-"...Znowu spotka³em Tulbora. Jak zawsze siedzia³ na sta³ym miejscu, daleko od kontuaru. Musia³em mu zafundowaæ napitek, aby chcia³ ze mn¹ rozmawiaæ. (...) Powiedzia³, ¿e jego mikstury s¹ przynajmniej tak dobre, jak te Joumy, ale znacznie tañsze. (...) Ponownie zaoferowa³ mi swój specjalny napój. Kosztuje fortunê, ale tym razem go kupi³em. Jest chyba wart tego."
-
-Tu notatki koñcz¹ siê.~
-@7    = ~Eliksir Transformacji~
-@8    = ~To jest eliksir kupiony od Tulbora. Powinien przywróciæ biednemu Eltolthowi jego dawn¹ postaæ. Ponadto przedawkowany mo¿e powodowaæ sympatyczny efekt uboczny w postaci wzrostu si³y. Wypicie ca³ej butelki na pewno wywo³a ten efekt.~
+@2    = ~Uzycie kodu instalacji dla oryginalnej gry BG...~ 
 @9    = ~Wykryto BGT. Uzycie kodu instalacji dla BGT...~
-@10   = ~Alanna~
-@11   = ~Eltolth~
-@12   = ~Tulbor~
-@13   = ~ Instalacja questu "Klotnia Rodzinna w Beregoscie"~
-@14   = ~Pani Dudley~
-@15   = ~Pan Dudley~
-@16   = ~Annie Dudley~
-@17   = ~Naszyjnik Dudley'ów ~
-@18   = ~Naszyjnik rodziny Dudley
-Ten naszyjnik pere³ jest poszukiwan¹ bi¿uteri¹ rodow¹ rodziny Dudley.~
-@19   = ~ Instalacja questu "Opieka nad Dziecmi w Nashkel", zawiera spotkanie na Jarmarku~
-@20   = ~Pani Blackwood~
-@21   = ~Sarah~
-@22   = ~Tom~
-@23   = ~Tina~
-@24   = ~Lalka Sarah~
-@25   = ~To jest ulubiona lalka Sarah. Kolory twarzy ju¿ wyblak³y, ale ubranko lalki jest kunsztownie wydziergane na drutach.~
-@26   = ~Miœ Toma~
-@27   = ~To jest pluszowy miœ Toma. Stary i mocno podniszczony, brudny i klej¹cy wygl¹da dok³adnie tak, jak mo¿e wygl¹daæ ulubiona zabawka-zwierzaczek ma³ego dziecka.~
-@28   = ~Butelka Sarah~
-@29   = ~To jest butelka z piciem dla Sarah, któr¹ otrzyma³eœ od pani Blackwood. Jest pokryta zaciekami zaschniêtej lepkiej cieczy w po³¹czeniu z obowi¹zkowym piaskiem i innym brudem. Z pewnoœci¹ nie zamierzasz siê z niej napiæ.~
-@30   = ~Butelka Toma~
-@31   = ~To jest butelka z piciem dla Toma, któr¹ otrzyma³eœ od pani Blackwood. Jest pokryta zaciekami zaschniêtej lepkiej cieczy w po³¹czeniu z obowi¹zkowym piaskiem i innym brudem, w tym liœæmi, nasionami traw i martwymi mrówkami. Z pewnoœci¹ nie zamierzasz siê z niej napiæ.~
-@32   = ~Cukierki~
-@33   = ~To s¹ s³odycze, która pani Blackwood da³a ci dla swoich dzieci. To pewien rodzaj kandyzowanych cukierków, s³odkich i bardzo klej¹cych.~
-@34   = ~Migda³y w karmelu~
-@35   = ~To s¹ s³odycze, która pani Blackwood da³a ci dla swoich dzieci. Wydaje siê, ¿e to pewien rodzaj migda³ów sma¿onych w cukrze.~
-@36   = ~P³aszcz Sarah~
-@37   = ~To jest p³aszczyk Sarah.~
-@38   = ~ Instalacja questu "Przygoda ze Szlamem (w Beregoscie)"~
-@39   = ~ Instalacja questu "Potwor w Nashkel"~
-@40   = ~Arnim~
-@41   = ~Lady von Undenzieht~
-@42   = ~Lord von Undenzieht~
-@43   = ~ Instalacja questu "Upadly Paladyn we Wrotach Baldura"~
-@44   = ~Dauron~
-@45   = ~Uczestnik zbiegowiska~       //jak stworzyæ liczbê pojedyncz¹ od "gapie" – "gap" wg s³ownika poprawne; "uczestnik zbiegowiska" d³ugie ale brzmi lepiej?
-@46   = ~Matka Luisy~
-@47   = ~Piastunka~
-@48   = ~ Instalacja questu "Niesmiertelna Milosc w Wiosce Rybackiej"~
-@49   = ~Leila~
-@50   = ~ Instalacja questu "Zakochany Polork"~
-@51   = ~Uguth~
-@52   = ~Viola~
-@53   = ~Pani Kenn~
-@54   = ~Pan Kenn~
-@55   = ~ Instalacja komponentu "Rozszerzenie Spotkania z Bjorninem"~
-@56   = ~ Instalacja questu "Nieoczekiwana Pomoc"~
-@57   = ~Sir Trun~
-@58   = ~Linda~
-@59   = ~Alternatywna Odtrutka~
-@60   = ~To jest tania, alternatywna wersja mikstury, która ma przywróciæ Eltolthowi jego pierwotn¹ postaæ...~
-
+@13   = ~Instalacja questu "Klotnia rodzinna w Beregoscie"~ 
+@19   = ~Instalacja questu "Opieka nad dziecmi w Nashkel", zawiera spotkanie na Jarmarku~
+@38   = ~Instalacja questu "Przygoda ze Szlamem"~
+@39   = ~Instalacja questu "Potwor w Nashkel"~ 
+@43   = ~Instalacja questu "Upadly Paladyn we Wrotach Baldura"~
+@48   = ~Instalacja questu "Niesmiertelna milosc w wiosce rybackiej"~ 
+@50   = ~Instalacja questu "Zakochany Polork"~
+@56   = ~Instalacja questu "Nieoczekiwana Pomoc"~
+@61   = ~Instalacja questu "Wiele malych lapek"~ 
+@66   = ~Wykryto BG:EE.~
+@98   = ~Instalacja questu "Pijak przy swiatyni w Beregoscie"~ 
+@105  = ~Instalacja questu "Schronienie dla Noobera"~
+@109  = ~Wykryto EET.~
+@5000 = ~Instalacja questu "Miecz Brage'a"~
+@5001 = ~Instalacja questu "Legalne pozyskanie map morskich"~ 
+@5002 = ~Instalacja questu "Dodatki do Domu Pani oraz Swiatyni Krolowej Suki"~
+@5003 = ~Twoja instalacja SoD musi zostac odpowiednio przygotowana do instalowania modow. Plik readme zawiera wiecej informacji oraz linki do programow: DLC Merger oraz Modmerge.~ 
+@5004 = ~Instalacja questu "Zaniepokojony rolnik"~ 
+@5005 = ~Instalacja questu "Zw³oki w szczytnym celu"~
+@5006 = ~Ten komponent nie jest kompatybilny z oryginalnym Baldur's Gate 1.~ 
+@5007 = ~Zadanie "Miecz Brage'a" jest juz zawarte w modzie "Brage's Redemption".~
+@5008 = ~Mod bgqe nie jest kompatybilny z ta gra.~
+@5009 = ~Instalacja questu "Ukonczenie zadania Cordyra bez zabijania Sil"~

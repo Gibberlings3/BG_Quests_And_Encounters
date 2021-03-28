@@ -61,16 +61,16 @@
 @60   = ~Hmpf. At least we had some fun with those beasts and the tamer. Ye see what we get for saving a man's life? A stone!~
 @61   = ~Here we go! Not the kind of delivery I want in my pocket... Although it looks like it's petrified, so maybe it's alright.~
 @62   = ~*snort* "Stone"! I have seen these eggs a lot, <CHARNAME>. That is a wraith spider's. It seems to be preserved in some way, but all my senses tell me that it is not dead yet.~
-@63   = ~Ah, travellers. On your way to Baldur's Gate, as well? You haven't by any chance seen a delivery man on your way? I expected his arrival over two weeks ago but he did not show up. Now I am on my way home again. He... But wait a minute! What do I see there? That is... You have it! That egg... That stone-like egg you have there. Where do you have it from, pray tell?~
+@63   = ~Ah, travellers. On your way to Baldur's Gate, as well? You haven't by any chance seen a delivery man on your way? I expected his arrival over a tenday ago but he did not show up. Now I am on my way home again. He... But wait a minute! What do I see there? That is... You have it! That egg... That stone-like egg you have there. Where do you have it from, pray tell?~
 @64   = ~I guess it's yours. The delivery man didn't want to deliver it, but he wouldn't tell us who should receive it, either.~
 @65   = ~Take it, if you think it is yours.~
 @66   = ~I could give it to you but that makes 500 gold for the transport.~
 @67   = ~Hands off! That is mine.~
 @68   = ~Ah, no, it is... You are carrying it wrongly! It is ruined! You let it get hot, didn't you? Don't say anything, it is useless. The whole travel, all for nothing! I needed it preserved! Now it got warm!~
 @69   = ~Ah, whatever! I couldn't take it, even if I wanted to! Way too dangerous now. I lost interest in this. You fix it! Just take that thing away, far away from me! It is your responsibility now!~
-@70   = ~One advice, stranger - take that thing to a magically experienced person who knows how to fix it, or you will have a nasty surprise in a week or two!~
+@70   = ~One advice, stranger - take that thing to a magically experienced person who knows how to fix it, or you will have a nasty surprise in a tenday or two!~
 //@71   
-@72   = ~I have this egg here... I was told I should show it to someone who knows about magic, or I would have a nasty surprise in a week.~
+@72   = ~I have this egg here... I was told I should show it to someone who knows about magic, or I would have a nasty surprise in a tenday.~
 @73   = ~No, you get out of here with that thing in your backpack! I cannot risk having a wraith spider hatch in here!~
 @74   = ~Alright, I agree. Please do whatever you wanted to do with it.~
 @75   = ~Seems I haven't got enough gold right now to let you fix that.~
@@ -87,7 +87,7 @@
 @86   = ~Very well. Let me take it... Quickly...~
 @87   = ~Here it is... I had to force it a bit, and it is dead now. It has lost quite a lot of its power, and it... well, it doesn't look quite so attractive anymore. It's the best I could do.~
 //@88   
-@89   = ~Hm? Ah- AhahaHAHA! Ahem. Nasty surprise, indeed. This, young traveller, is the magically enhanced egg of a wraith spider, and by the looks of it, it got too warm. It would have been a very nice utensil for a spell I know if it was still cool, but since the spider started to grow and will probably hatch in a week, it is useless.~
+@89   = ~Hm? Ah- AhahaHAHA! Ahem. Nasty surprise, indeed. This, young traveller, is the magically enhanced egg of a wraith spider, and by the looks of it, it got too warm. It would have been a very nice utensil for a spell I know if it was still cool, but since the spider started to grow and will probably hatch in a tenday, it is useless.~
 @90   = ~Can you help me with this?~
 @91   = ~I am carrying a wraith spider egg in my backpack...~
 @92   = ~Well, thank you for the information.~

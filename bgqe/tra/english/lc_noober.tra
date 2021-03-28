@@ -105,7 +105,7 @@ Nalin at the Temple of Helm in Nashkel seems to think that Brage might be under 
 
 /* new for v19 */
 @81  = ~We wanted to ask you something...~
-@82  = ~Yes, adventurers usually come in to ask someting about the mines.~
+@82  = ~Yes, adventurers usually come in to ask something about the mines.~
 
 /* new for v23 */
 /* same as @59, only "wife" instead of "widow" */

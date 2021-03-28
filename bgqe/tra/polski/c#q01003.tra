@@ -1,31 +1,8 @@
-/*BG2engine*/
-@0    = ~(Spogl¹dasz na szlam)~
-@1    = ~(Zostawiasz szlam w spokoju)~
-@2    = ~(Szturchasz szlam)~
-@3    = ~(Ogl¹dasz szlam uwa¿nie)~
-@4    = ~(Odkrywasz notatnik na wpó³ zatopiony w szlamie i mo¿esz go wyci¹gn¹æ. Strony notatnika nie s¹ zniszczone.)~
-@5    = ~(Szlam przelewa siê ruchem, który mo¿na zinterpretowaæ jako wyraz irytacji.)~ 
-@6    = ~(To by³ o jeden raz za du¿o. Szlam atakuje ciê!)~ 
-@7    = ~Beregost: S¹siad Alanny ma k³opoty
-
-Ten Eltolth nie zna siê zupe³nie na ¿artach. Musia³em go w tej p³ynnej postaci zabiæ...~ 
-@8    = ~Proszê, przestañ... Jestem pewna, ¿e on tego nie lubi!~
-
-
-
-@63   = ~Beregost: S¹siad Alanny ma k³opoty
-
-Zrozpaczona kobieta imieniem Alanna zaczepi³a mnie na ulicy Beregostu. Coœ z³ego sta³o siê z jej s¹siadem. Muszê siê przyjrzeæ tej sprawie.~
-@64   = ~Beregost: S¹siad Alanny ma k³opoty
-
-Zrozpaczona kobieta imieniem Alanna zaczepi³a mnie na ulicy Beregostu. Coœ z³ego sta³o siê z jej s¹siadem. Czy zawsze muszê siê o wszystkich troszczyæ?~
-@65   = ~Beregost: S¹siad Alanny ma k³opoty
-
-Eltolth da³ nam 200 sz za nasz¹ pomoc. Opuszczam jego dom ze œwiadomoœci¹, ¿e uszczêœliwiliœmy dwoje ludzi... ~
-@66   = ~Beregost: S¹siad Alanny ma k³opoty
-
-Znalaz³em sprzedawcê eliksiru, który zamieni³ Eltoltha w szlam, ale potrzebujê dowodów jego winy.~
-@67   = ~Beregost: S¹siad Alanny ma k³opoty
-
-Eliksir odwracaj¹cy transformacjê Eltoltha bêdzie kosztowaæ 100 sz!~
-
+@0 = ~(obejrzyj szlam)~ 
+@1 = ~(zostaw szlam w spokoju)~
+@2 = ~(poszturchaj szlam)~ 
+@3 = ~(przyjrzyj siê szlamowi uwa¿nie)~
+@4 = ~(Odkrywasz notatnik na wpó³ zatopiony w szlamie i mo¿esz go wyci¹gn¹æ. Strony notatnika nie s¹ zniszczone.)~ 
+@5 = ~(Szlam przelewa siê ruchem, który mo¿na zinterpretowaæ jako wyraz irytacji.)~
+@6 = ~(To by³ o jeden raz za du¿o. Szlam atakuje ciê!)~
+@8 = ~Proszê, przestañ... Jestem pewna, ¿e on tego nie lubi!~ 

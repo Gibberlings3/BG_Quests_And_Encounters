@@ -17,7 +17,7 @@
 @16   = ~Nein, noch nichts weiter, tut mir leid.~
 @17   = ~Wir haben den Mann getroffen, der Eltolth den Trank verkauft hat. Das Gegenmittel soll 100 Goldmünzen kosten!~
 @18   = ~Ja, wir haben den Mann gefunden, der für das ganze verantwortlich war, und er hat uns dieses Gegenmittel verkauft.~
-@19   = ~Nun, da ist ein komische Typ in der Taverne, aber ich kann ihm nichts beweisen... Ich muss noch weiter suchen, vielleicht habe ich etwas übersehen.~
+@19   = ~Nun, da ist ein komischer Typ in der Taverne, aber ich kann ihm nichts beweisen... Ich muss noch weiter suchen, vielleicht habe ich etwas übersehen.~
 @20   = ~*100 Goldmünzen*! Das... ist viel Geld. Hier, nehmt diese 30 Goldmünzen. Das ist alles, was ich jetzt habe. Bitte, kauft diesen Trank! Ich bin sicher, Eltolth wird Euch Eure Ausgaben erstatten.~
 @21   = ~Dass Ihr mir Euer Erspartes gebt, ist nicht nötig. Ich werde das Geld selbstverständlich auslegen.~
 @22   = ~Das klingt wie eine gute Idee. Gebt mir das Geld.~
@@ -120,7 +120,7 @@
 @115  = ~Man kann wirklich nicht behaupten, dass man mit Euch langweilige Dinge erlebt, <CHARNAME>. Na, dann helfen wir also diesem Mann, der gerade ein Schleim ist, wieder ein Mann zu werden...~
 @116  = ~Wie? Was? Warum helfen, ich wüsste bessere Möglichkeiten mich mit diesem Schleim zu befassen. Eine Salbe aus Schleim... ja... das wäre es oder ich könnte ihn auflösen, ja, ein wunderbares Experiment.~
 @117  = ~Warum müssen wir uns mit solchen lächerlichen Dingen befassen? Bah, schlitzen wir ihn auf, zerteilen wir ihn und zerhacken ihn in kleine Stücke. Fertig.~
-@118  = ~Es ist gut, dass wir ihnen helfen. Diese armen Menschen brauche unsrere Hilfe, auch wenn es keine Schlacht ist, die wir hier schlagen müssen.~
+@118  = ~Es ist gut, dass wir ihnen helfen. Diese armen Menschen brauchen unsere Hilfe, auch wenn es keine Schlacht ist, die wir hier schlagen müssen.~
 @119  = ~Das ist wirklich eine, äh, missliche Lage, in der sich der Mann da befindet.~
 @120   = ~Also, ein Grinsen kann ich mir nicht ganz verkneifen...~
 @121   = ~An dieser Situation ist nichts witzig. Lasst uns schauen, wie wir diesem Mann helfen können. Meine Magie reicht dazu nicht aus.~
@@ -135,7 +135,7 @@
 @130   = ~Das "Ding" ist ein Mann, Skie.~
 @131   = ~Ich meine natürlich, ich halte mich fern von dem Mann... Bargh, nein, ich meine aber das Ding! Ich halte mich fern, solange der Mann ein solches Ding ist!~
 @132   = ~Lasst uns nicht vergessen, dass dieser Schleim ein recht wohlhabender Mann zu sein pflegte, dem Anschein nach. Eine nette Belohnung sollte hier drin sein.~
-@133   = ~Mich würde des Rätsels Lösung interessieren. Es scheint nicht ganz trivial zu sein. Ich muss gestehen, dass ich solch einem Fall noch nie begegnet bin. Ein Glück für die, nunja, etwas enfacheren Gemüter, dass wir hier sind und helfen können.~
+@133   = ~Mich würde des Rätsels Lösung interessieren. Es scheint nicht ganz trivial zu sein. Ich muss gestehen, dass ich solch einem Fall noch nie begegnet bin. Ein Glück für die, nunja, etwas einfacheren Gemüter, dass wir hier sind und helfen können.~
 @134   = ~D-da hat wohl jemand mit Kräften gespielt, mit denen er nicht umgehen k-konnte.~
 @135   = ~Es wäre nicht das erste mal, dass sich jemand selbst in eine solche missliche Lage gebracht hätte *seufz*. Und doch muss man beachten, mit welcher Motivation es geschehen ist.~
 @136   = ~Wir können ihn nicht so lassen. Es wäre mir allerdings lieber, wenn wir uns hier nicht allzu lange aufhalten würden.~
@@ -174,7 +174,7 @@
 @169   = ~Ich hoffe, Ihr nutzt Eure Zeit in Zukunft sinnvoller.~
 @170   = ~Ihr wusstet, dass dieser Trank nicht unbedingt wirkt, <CHARNAME>! Ich möchte nicht, dass wir so "helfen". Dann lasst uns nächstes Mal lieber die Bitte ausschlagen, so dass sie nach jemandem suchen können, der es ernst meint!~
 @171   = ~"Nebenwirkungen", ha! Wusste ich doch, dass der Trank nicht so wirken kann.~
-@172   = ~Ich kann die Art, wie Ihr Menschen in Not behandlet, nicht gutheißen, <CHARNAME>!~
+@172   = ~Ich kann die Art, wie Ihr Menschen in Not behandelt, nicht gutheißen, <CHARNAME>!~
 @173   = ~Das w-war kein schönes Ende.~
 @174   = ~Nehmt Ihr die Bedürfnisse anderer immer so wenig ernst, <CHARNAME>? Dann wäre es mir lieber, wenn Ihr Euch um andere Dinge kümmertet.~
 @175   = ~Die Frau sah nicht glücklich aus. Wollte <CHARNAME> ihr nicht helfen?~
@@ -210,9 +210,9 @@
 @205   = ~Tiax muss sich diesen Trank noch einmal genauer ansehen. Der Zorn des Tiax' wird unermesslich sein! Er wird seine Gegner in Schleime verwandeln, und sie zertreten, auf dass sie... Äh, oder vielleicht doch lieber zertreten *lassen*. Igitt.~
 @206   = ~Der Mann kann froh sein, dass er unversehrt geblieben ist. Es gibt Gesellschaften, da wäre nicht einmal genug von ihm übrig geblieben, um damit die Ritzen einer Schuhsohle zu füllen.~
 @207   = ~Tiax will nichts mehr über Schleim an Schuhen hören!~
-@208   = ~Hoffentlich hat der Mann etwas gelernt. Ich weiß, dass Ihr mich in einer ähnlichen Situaton vorgefunden habt, <CHARNAME>, daher verkneife ich mir eine Kritik an unserem Einmischen hier.~
+@208   = ~Hoffentlich hat der Mann etwas gelernt. Ich weiß, dass Ihr mich in einer ähnlichen Situation vorgefunden habt, <CHARNAME>, daher verkneife ich mir eine Kritik an unserem Einmischen hier.~
 @209   = ~Ich bin froh, dass wir diesen Menschen helfen konnten.~
-@210   = ~Minsk freut sich für die beiden Leute! Sie sehen so glücklich aus. Minsk hat allerdings nicht ganz verstanden, wieso. Vielleicht, weil jetzt der Schleim weg ist? Was sagst Du, Boo?~
+@210   = ~Minsk freut sich für die beiden Leute! Sie sehen so glücklich aus. Minsk hat allerdings nicht ganz verstanden, wieso. Vielleicht, weil jetzt der Schleim weg ist? Was sagst du, Boo?~
 @211   = ~Glaubt Ihr, ich kann hierrüber eine Ode schreiben? Wobei, so romantisch ist das mit dem Schleim doch nicht...~
 @212   = ~Ich sehe keinen großen Unterschied in der Gestalt dieses Mannes. Ein Wackelpudding, keine Muskeln, bah. Wozu der ganze Aufwand? Wenn sie ihn so will wie er jetzt ist, hätte sie ihn auch als Schleim nehmen können.~
 @213   = ~Danke.~
@@ -246,6 +246,6 @@
 @240   = ~*atmet aus* Gut, dann kann ich mich ja jetzt wieder entspannen. Ihr habt sehr, sehr, sehr viel Glück gehabt, dass das so gut ausgegangen ist. Darüber seid Ihr Euch hoffentlich im Klaren. Da wäre nur noch...~
 @241   = ~Bitte, was?~
 @242   = ~Oh, schon gut. Haltet Euch die nächsten Tage einfach etwas bedeckt, und... besser Ihr trinkt nichts Aufputschendes, dann sollte auch nichts passieren.~
-@243   = ~<CHARNAME>, meint Ihr, dass wir ihn über die potentielle Gefahr von Retransormationen warnen sollten? Ich meine die, die bei dieser Art von Gestaltwandlungen auftreten können, da sein Körper sich noch an die Schleimform erinnert und die Gefahr besteht, dass er sich vorübergehend wieder in einen verwandelt, wenn er sich zu sehr aufregt? - Guter Mann, Ihr wolltet nichts... Aufregendes unternehmen die nächste Zeit, oder?~
-@244   = ~Die Stücke würde ich natürlich klein genug machen, damit Ihr sie in Eure GTrankflasche gesteckt kriegt, Magier. Abgemacht?~
+@243   = ~<CHARNAME>, meint Ihr, dass wir ihn über die potentielle Gefahr von Retransformationen warnen sollten? Ich meine die, die bei dieser Art von Gestaltwandlungen auftreten können, da sein Körper sich noch an die Schleimform erinnert und die Gefahr besteht, dass er sich vorübergehend wieder in einen verwandelt, wenn er sich zu sehr aufregt? - Guter Mann, Ihr wolltet nichts... Aufregendes unternehmen die nächste Zeit, oder?~
+@244   = ~Die Stücke würde ich natürlich klein genug machen, damit Ihr sie in Eure Trankflasche gesteckt kriegt, Magier. Abgemacht?~
 @245   = ~Ihr seid immer so umsichtig, Montaron, Schätzchen!~

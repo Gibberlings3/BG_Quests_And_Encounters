@@ -56,7 +56,7 @@
 @59    = ~Gebt mir das richtige Gegenmittel.~ 
 @60    = ~Was wäre, wenn ich das "Gegenmittel" für mich selber verwenden möchte? Soweit ich es verstanden habe, gibt es einen netten Stärkeeffekt, wenn man die ganze Flasche auf einmal austrinkt.~ 
 @61   = ~Ihr seid also ein Zaubertränkehändler. Was könnt Ihr mir denn so anbieten?~ 
-@62   = ~Bin schon wieder weg,~ 
+@62   = ~Bin schon wieder weg.~ 
 @63   = ~Ah, nicht viel, ehrlich gesagt. Ich bin nahezu ausverkauft. Die Leute haben sich auch immer häufiger beschwert, und einen ausgegeben hat mir auch lange keiner mehr... Ich werde mich wohl bald aufmachen und woanders hinziehen. Mist, jetzt hat diese Flasche auch noch einen undichten Korken! Wenn Ihr eine leere Flasche habt, dann schenke ich Euch diesen Zaubertrank.~ 
 @64   = ~Was für ein Zufall, ich habe eine leere Flasche. Hier, nehmt!~ 
 @65   = ~Ich habe keine leere Flasche.~
@@ -68,7 +68,7 @@
 @71   = ~Ich habe nun eine leere Flasche, die Ihr verwenden könnt. Hier!~ 
 @72   = ~Schönen Tag noch.~
 @73   = ~Nun, seht Ihr, Ihr müsst ja nicht unbedingt das Gegenmittel kaufen, das zwar zuverlässig wirkt, aber in diesem Fall eben auch sehr teuer ist. Mit einer sehr hohen Wahrscheinlichkeit wirkt ein anderes meiner Mittel genauso gut. Hier, ich biete Euch dieses an, für nur schlappe 20 Goldmünzen! *Und* dies ermöglicht es Euch, das eigentliche Gegenmittel für Euch selbst zu verwenden. Überdosiert, also alles auf einmal getrunken, gibt es nämlich einen netten Stärkeeffekt, wenn auch nicht von langer Dauer.~
-@74   = ~"Mit hoher Wahrscheinlichleit" bedeutet, dass das alternative Mittel nicht immer wie erwartet wirkt?~ 
+@74   = ~"Mit hoher Wahrscheinlichkeit" bedeutet, dass das alternative Mittel nicht immer wie erwartet wirkt?~ 
 @75   = ~Auf keinen Fall spare ich Geld auf Kosten Anderer! Ich nehme das richtige Gegenmittel.~ 
 @76   = ~Auf keinen Fall spare ich Geld auf Kosten Anderer! Ich werde das richtige Gegenmittel kaufen, wenn ich genug Geld habe.~ 
 @77   = ~Das klingt gut. Ich nehme dieses alternative Mittel.~ 
@@ -79,7 +79,7 @@
 @82   = ~Eine gute Wahl! Hier ist es. Stellt sicher, dass er alles zu sich nimmt... und bleibt dabei besser in einem gebührenden Abstand. Nur so als Warnung zwischen guten Freunden.~ 
 @83   = ~Ich wiederhole mein Angebot: Ihr könnt zusätzlich noch das eigentliche Gegenmittel kaufen. Überdosiert macht es Euch für kurze Zeit sehr, sehr stark.~ 
 @84   = ~Nein, daran bin ich nicht interessiert.~ 
-@85   = ~Ja, das stimmt, aber nur, wenn Ihr wirklich die ganze Flasche in einem Zug lehrt. Das habe ich Euch nur erzählt, weil es meine lezte Flasche war. Weitere bekomme ich so schnell keine mehr rein, tut mir Leid.~ 
+@85   = ~Ja, das stimmt, aber nur, wenn Ihr wirklich die ganze Flasche in einem Zug lehrt. Das habe ich Euch nur erzählt, weil es meine letzte Flasche war. Weitere bekomme ich so schnell keine mehr rein, tut mir Leid.~ 
 @86   = ~Also müsste ich dann die billige Alternative an Eltolth ausprobieren... Nun, wir werden sehen.~ 
 @87   = ~Gibt es keinen anderen Weg, um Eltolth zurückzuverwandeln?~ 
 @88   = ~Ich möchte die billige Alternative kaufen.~ 
