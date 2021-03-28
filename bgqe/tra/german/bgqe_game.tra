@@ -95,7 +95,7 @@ Dies ist Sarahs Mantel.
 @100  = ~Teodor~
 @101  = ~Ei~
 @102  = ~Dies ist der eigeformte Stein, den Ihr von dem Lieferant erhalten habt. Er kann als Kopfstück getragen werden und scheint sehr mächtig zu sein. Ihr habt allerdings bei genauerer Betrachtung den Eindruck, dass sich darin etwas bewegt.~
-@103  = ~Ei der Geforenen Spinne~
+@103  = ~Ei der Gefrorenen Spinne~
 @104  = ~Dies ist ein konserviertes Ei einer Geisterspinne. Als Kopfstück getragen verschandelt es das Aussehen des Trägers, aber es schützt gleichzeitig davor, magisch gehalten zu werden.
 
 SPEZIFISCHE EIGENSCHAFTEN:
@@ -459,7 +459,7 @@ Die Familie des Jungen wollte mich von den Soldaten verhaften lassen... Der Jung
 //@49 (c#q04001_3_4_5.tra)
 @10029  = ~Nashkell Monster
 
-Die Familie des Jungen wollte mich von den Soldaten verhaften lassen... Der Junge hat offensichtlich über unsere erste Begegnung gelogen. Er hatt Angst vor der Reaktion seines Vaters... Zum Glück konnte ich mich rausreden.~
+Die Familie des Jungen wollte mich von den Soldaten verhaften lassen... Der Junge hat offensichtlich über unsere erste Begegnung gelogen. Er hatte Angst vor der Reaktion seines Vaters... Zum Glück konnte ich mich rausreden.~
 
 @10030   = ~Das unbekannte Ei~
 
@@ -557,7 +557,7 @@ Ich habe den Untoten, der die Frau bedrohte, erschlagen. Sie sollte nun in Ruhe 
 //@88
 @10049   = ~Bedrohte Witwe im Fischerdorf
 
-Ich habe der Frau naheglegt, den Vertrag zu respektieren, und sie hat das Dorf verlassen.~
+Ich habe der Frau nahegelegt, den Vertrag zu respektieren, und sie hat das Dorf verlassen.~
 
 
 /* Ork Lover: c#q07001.tra */
@@ -627,7 +627,7 @@ Der Junge auf dem Karneval in Nashkell hat mir die ganzen kleinen Hamster abgeno
 
 @10062   = ~Betrunkener nahe Tempel von Beregost
 
-Nahe des Tempels von Bergeost steht ein komplett besoffener Kerl. Ich bin mir ziemlich sicher, dass er sich nicht selbst zu helfen weiß, falls er von einem wilden Tier angegriffen wird. Vielleicht sollte ich mich darum kümmern.~
+Nahe des Tempels von Beregost steht ein komplett besoffener Kerl. Ich bin mir ziemlich sicher, dass er sich nicht selbst zu helfen weiß, falls er von einem wilden Tier angegriffen wird. Vielleicht sollte ich mich darum kümmern.~
 
 @10063   = ~Betrunkener nahe Tempel von Beregost
 

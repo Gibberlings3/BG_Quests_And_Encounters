@@ -1,187 +1,193 @@
-		Baldur's Gate Mini-Quests und Begegnungen
-				Modifikation  
-	für klassisches BG1:LdSk, BG1Tutu v4, EasyTutu, BGT, BG:EE und EET
-				von jastey 
+			   	Baldur's Gate Mini-Questy i Spotkania
+				   		Modyfikacja 
+	do oryginalnego BG1 (z lub bez OzWM), BG1Tutu v4, EasyTutu, BGT, BG:EE, lub EET 
+						autorstwa jastey
 
 
+Jest to modyfikacja do oryginalnego BG1 (z lub bez zainstalowanego rozszerzenia "Opowieœci z Wybrze¿a Mieczy"), BG1Tutu (v4), EasyTutu, BGT, BG:EE lub EET, która wprowadza do gry kilka ma³ych zadañ oraz spotkañ. Oryginalne BG1 bez dodatku "Opowieœci z Wybrze¿a Mieczy" oficjalnie nie jest ju¿ wspierane, ale mod powinien i w takim przypadku dzia³aæ. 
 
-Dies ist eine Mini-Modifikation für klassisches BG1 (mit installierter Erweiterung Legenden der Schwertküste), BG1Tutu (v4), EasyTutu, BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfügt. Klassisches BG1 ohne die Legenden der Schwertküste wird nicht mehr offiziell unterstützt, aber die Mod sollte trotzdem ohne große Probleme darauf laufen. 
+Czas przejœcia modyfikacji wynosi ³¹cznie oko³o 30-60 minut, zale¿nie od stylu gry.
 
-Die Spieldauer der Modifikation beträgt insgesamt ca. 30-60 Minuten, abhängig vom Spielstil. 
+Od wydania wersji 9 modu "Rozszerzenie spotkania z Bjorninem" zosta³o przeniesione do modyfikacji RE BG1 (Romantic Encounters for BG1), gdzie lepiej pasuje.
 
-Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1 Modification gewandert. Da gehört sie nämlich hin.
+Mod nale¿y instalowaæ przed BG1NPC Project. W przeciwnym razie pewne opcje odpowiedzi bêd¹ niewidoczne.
 
-Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen für eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
+Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a" jako wstêpny warunek przy³¹czenia Brage'a do dru¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. Uwaga: w przypadku instalacji obu modów BGQE musi byæ zainstalowane przed "Brage's Redemption".
+ 
 
-Die Komponente "Brages Schwert" muss vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, Brage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+ZAWARTOŒÆ
 
-
-INHALT
-
-1. Schleim-Quest (in Beregost)
+1. Przygoda ze Szlamem (bgqe_slimequest)
 ------
-Dieser Quest spielt in Beregost. Wenn Ihr ein Haus im Nord-Westen der Stadt passiert, sollte Euch eine rot gekleidete Frau ansprechen. Es gehen seltsame Dinge im Haus ihres Nachbarn vor sich und sie braucht Eure Hilfe... Der Quest wurde überarbeitet, um bekannte Kompatibilitätsprobleme zu beheben, und eine böse(re) Questlösung wurde eingefügt. 
+Komponent wprowadza nowy quest na obszarze Beregostu. Jeœli przejdziecie ko³o jednego z domów w pó³nocno-zachodniej czêœci Beregostu, zaczepi was na czerwono ubrana kobieta. Coœ dziwnego dzieje siê w domu jej s¹siada i kobieta prosi was o pomoc...
 
-2. Familienquest in Beregost
+To wydanie zawiera zrewidowan¹ wersjê komponentu, by unikn¹æ problemów z kompatybilnoœci¹; dodaje równie¿ z³e zakoñczenie zadania.
+
+
+2. K³ótnia Rodzinna w Beregoœcie (bgqe_familyquest)
 ------
-Dieser Quest spielt ebenfalls in Beregost, im Nachbarhaus zum Schleim-Quest. Wenn Ihr ein Haus im Nord-Westen der Stadt betretet, trefft Ihr auf ein seltsames Ehepaar. Obwohl sie ernste Probleme haben, haben sie seit längerem nicht mehr miteinander gesprochen. Auch mit Euch wollen sie nicht über ihr Problem sprechen, und doch scheint Ihr es zu sein, der das Rätsel lösen und der Familie helfen kann. Oder Ihr betrügt sie und treibt sie vollends in den Ruin...
+Quest równie¿ rozgrywa siê w Beregoœcie, w s¹siednim domu wobec "Przygody ze Szlamem". Jeœli wejdziecie do pewnego domu w pó³nocno-zachodniej czêœci miasta, spotkacie dziwne ma³¿eñstwo. Chocia¿ maj¹ powa¿ne problemy, nie rozmawiaj¹ ze sob¹ od d³u¿szego czasu. Z wami te¿ nie bêd¹ chcieli rozmawiaæ o swoich problemach, ale mimo to wydaje siê mo¿liwe rozwi¹zanie zagadki i pomoc tej rodzinie. Albo mo¿ecie ich oszukaæ, rujnuj¹c ich kompletnie...
 
-3. Babysitting in Nashkell, beinhaltet Karneval Begegnung
+
+3. Opieka nad Dzieæmi w Nashkel, zawiera spotkanie na Jarmarku (bgqe_babysitting)
 ------
-Dieser Quest spielt in Nashkell. Seht Ihr die verzweifelte Frau mit ihren zwei kleinen Kindern? Sie hat etwas Wichtiges zu erledigen und braucht dringend jemanden, der sich solange um ihre Kinder kümmert. Ihr habt schon vielen Gefahren ins Auge gesehen, habt Monster bezwungen... aber seid Ihr ernsthaft gewappnet für diese Aufgabe? 
+Quest rozgrywa siê w Nashkel. Widzicie zrozpaczon¹ kobietê z dwójk¹ ma³ych dzieci? Ma coœ wa¿nego do za³atwienia i pilnie potrzebuje kogoœ, kto zaopiekuje siê jej dzieæmi w tym czasie. Przeszliœcie wiele niebezpieczeñstw i zabiliœcie mrowie potworów... ale czy jesteœcie odpowiednio uzbrojeni na to zadanie? 
 
-Das Babysitting ist nur erhältlich für HCs der Profession Paladin oder für nicht-bösem HC mit Ruf höher als 12 Punkte. Böse HCs (oder wenn der Ruf sehr niedrig ist) können die Mutter auch vertreiben, was aber nicht ohne Folgen bleibt.
+Quest da siê rozwi¹zaæ, je¿eli g³ówna postaæ jest paladynem lub reputacja dru¿yny wy¿sza ni¿ 12. Z³e postacie mog¹ zastraszyæ kobietê, co doprowadzi do dalszych konsekwencji.
 
-Auf dem Karneval trefft Ihr Tina. Die junge Frau braucht dringend etwas Geld und sucht Arbeit... sagt sie zumindest.
+Na jarmarku spotkacie m³od¹ kobietê imieniem Tina. Pilnie potrzebuje pieniêdzy i szuka pracy... przynajmniej tak mówi.
 
-4. Monstersichtung in Nashkell
+
+4. Potwór w Nashkel (bgqe_nashkelmonster)
 ------
-In der Nähe des Herrenhauses in Nashkell könnt Ihr den kleinen Armin vor einem Monster retten. Dafür müsste Euch die Dankbarkeit seiner Eltern eigentlich sicher sein... nicht wahr?
-Der Lieferant, der die Eier vertauscht hat, befindet sich derweil in einer sehr existentiellen... Diskussion mit einem sehr unzufriedenen Kunden. Spielt einfach das Spiel weiter, und Ihr werdet ihn treffen.
+W pobli¿u szlacheckiej rezydencji w Nashkel nadarzy siê okazja uratowania ma³ego Armina z paszczy potwora. Za taki czyn mo¿ecie byæ pewni wdziêcznoœci rodziców... prawda?
 
-5. Gefallener Paladin in Baldurs Tor
+Dorêczyciela, który pomyli³ przesy³ki zawieraj¹ce jaja mo¿na spotkaæ w dalszej czêœci gry. Jeden z jego klientów jest bardzo, bardzo niezadowolony z tego, co mu dostarczono, obaj zaœ uciesz¹ siê na twój widok.
+
+
+5. Upad³y Paladyn we Wrotach Baldura (bgqe_fallenpaladin)
 ------
-Im Norden der Stadt, im Tempel von Helm, versteckt sich ein böser, gefallener Paladin. Er hat ein kleines Mädchen blutrünstig abgeschlachtet... Zumindest sagen das die aufgebrachten Leute, die sich vor dem Tempel versammelt haben.
+W pó³nocnej czêœci miasta, w œwi¹tyni Helma, ukry³ siê z³y, upad³y paladyn. Bez wahania zaszlachtowa³ ma³¹ dziewczynkê... Tak przynajmniej twierdz¹ wzburzeni ludzie zebrani przed œwi¹tyni¹.
 
-6. Unvergängliche Liebe im Fischerdorf
+
+6. Nieœmiertelna Mi³oœæ w Wiosce Rybackiej (bgqe_undyinglove)
 ------
-Die verängstigte Frau in einem der Häuser im Fischerdorf sagt, dass hinter ihrem Haus ein Monster ist, das sie bedroht. Vielleicht solltet Ihr einmal nachschauen... 
+Przestraszona kobieta w jednym z domów rybackiej wioski twierdzi, ¿e za jej domem przebywa potwór i jej zagra¿a. Mo¿e powinniœcie sprawdziæ...
 
-7. Halbork in Liebesnöten
+
+7. Zakochany Pó³ork (bgqe_orclover)
 ------
-Auf der Straße, nördlich von Nashkell, werdet Ihr Uguth teffen, dem Äußeren nach eindeutig der Nachfahre eines Halborks. Er ist auf dem Weg nach Baldurs Tor, zu seiner Verlobten... und muss noch gewisse Hindernisse überwinden, bevor er sie tatsächlich in die Arme nehmen kann.
+Na trakcie na pó³noc od Nashkel spotkacie Ugutha, z wygl¹du ewidentnie potomka pó³orka. Jest w drodze do Wrót Baldura, do swojej ukochanej... i musi jeszcze przezwyciê¿yæ pewne przeszkody, nim bêdzie rzeczywiœcie móg³ j¹ wzi¹æ w ramiona.
 
-8. Unerwartete Hilfe
+
+8. Nieoczekiwana Pomoc (bgqe_unexpectedhelp)
 ------
-In Kerzenburg im Lazarett brütet Sir Trun vor sich hin. Er ist durch einen Kampf schwer verletzt worden, aber das scheint ihn weniger zu beschäftigen als die Tatsache, dass er nur durch sehr unerwartete Hilfe überlebt hat. Vielleicht weiß Linda, eine leicht verzweifelt Frau im Gasthaus mehr darüber...
-Dieser Quest ist sowohl im Prolog als auch später bei der Rückkehr nach Kerzenburg zugänglich. (Achtung: Da die meisten diese Quest im Prolog spielen, gibt es hier keine NPC-Einmischdialoge).
+W szpitalu Candlekeep przebywa pogr¹¿ony w myœlach sir Trun. Zosta³ ciê¿ko ranny w ostatniej walce, ale to wydaje siê go mniej martwiæ ni¿ fakt, ¿e prze¿y³ tylko dziêki nieoczekiwanej pomocy. Mo¿e coœ wiêcej wie Linda, lekko zdesperowana kobieta w gospodzie Candlekeep...
+Ten quest jest dostêpny zarówno w prologu, jak i póŸniej, po powrocie do Candlekeep. Uwaga: poniewa¿ wiêkszoœæ graczy wykonuje to zadanie podczas prologu, nie przewidziano w nim reakcji cz³onków dru¿yny.
 
-Hinweis: Die "Erweiterung der Bjornin Begegnung" ist in die Modifikation "bg1re: Romantic Encounters for BG1" gewandert. Dorthin gehört sie nämlich.
+Uwaga: "Rozszerzenie spotkania z Bjorninem" zosta³o przeniesione do "bg1re: Romantic Encounters for BG1", gdzie lepiej pasuje. 
 
-9. Viele kleine Pfoten
+
+9. Wiele Ma³ych £apek (bgqe_manypaws)
 ------
-Ursprünglich als reiner Easter-Egg gedacht, wollte ich zumindest darauf hinweisen, dass es ihn gibt. Startet die Quest mit Minsk in der Gruppe beim Ansprechen des Kleintierhändlers auf dem Jahrmarkt von Nashkell. Einen Tag später geht es dann weiter.
+Zadanie pomyœlane by³o pierwotnie jako easter egg. Teraz chcia³am przynajmniej wskazaæ graczom, ¿e ono w ogóle istnieje. Upewnij siê, ¿e masz w dru¿ynie Minsca podczas rozmowy ze sprzedawc¹ na Jarmarku Nashkel. Dalej wszystko potoczy siê samo - obiecujê!
 
-Tipp:
-Der Kleintierhändler erscheint nach drei Tagen im 2. OG des Freundlichen Arms.
+Spoiler:
+Sprzedawca zwierz¹t pojawi siê ponownie po trzech dniach czasu gry na trzecim poziomie gospody "Pod Pomocn¹ D³oni¹".
 
 
-10. Betrunkener nahe dem Tempel von Beregost
+10. Pijak w Pobli¿u Œwi¹tyni w Beregoœcie (bgqe_drunk)
 ------
-Der betrunkene Pseudo-Lich nahe dem Tempel bei Beregost kann nun im Tempel gemeldet werden, damit die Priester ein Auge auf ihn haben.
+Poinformuj kap³anów w œwi¹tyni w Beregoœcie o pijanym niedosz³ym liczu, by mogli go popilnowaæ!
 
 
-11. Ein warmer Platz für Noober
+11. Schronienie Dla Noobera (bgqe_noober)
 ------
-Ungefähr drei Tage nach der ersten Begegnung trefft Ihr Noober - der arme Mann ist ohne Stimme! Helft ihm, in Nashkell einen warmen Platz zu finden, wo er genesen kann - und schließlich tatsächlich ein Nutzen für seine ewige Plapperei besteht!
+Po oko³o trzech dniach od pierwszego spotkania z Nooberem w Nashkel mo¿na go spotkaæ ponownie, ale tym razem pozbawionego g³osu! Pomó¿ mu znaleŸæ jakieœ schronienie, by tam odzyska³ zdrowie, jak równie¿ znalaz³ zastosowanie dla swojej nieustannej paplaniny.
 
 
-12. Brages Schwert (nicht für original BG1)
+12. Miecz Brage'a (nie dla oryginalnego BG1) (bgqe_bragesword)
 ------
-Durch die Mod kann man die Hintergründe um Brages Schwert erkunden und nachweisen, dass Brage Opfer einer Intrige geworden ist und ihn so vor dem Galgen retten - wenn man das möchte. Es existieren böse Questlösungen.
-Voraussetzung ist, dass man Brage lebend nach Nashkell bringt. Hierzu fügt die Mod die Möglichkeit ein, ihn auch an Oublek auszuliefern, wie es im Originalspiel ursprünglich vorgesehen aber nicht realisiert war. (Hierzu die obige Warnung bzgl. Installationsreihenfolge beachten.)
+Ten komponent daje graczowi mo¿liwoœæ udowodnienia, ¿e Brage pad³ ofiar¹ intrygi, a tak¿e ocalenia go od szubienicy, jeœli taka jest wola gracza. Jest te¿ oczywiœcie opcja wykonania zadania przeznaczona dla z³ych postaci.
+Brage musi zostaæ dostarczony ¿ywy do Nashkel. Modyfikacja dodaje te¿ mo¿liwoœæ wydania go Oublekowi (tj. w³adzom Nashkel). Jest to niedokoñczona zawartoœæ z oryginalnej gry (by mieæ tê mo¿liwoœæ, zwróæ uwagê na kolejnoœæ instalacji podan¹ powy¿ej).
 
-Hinweise: 
-Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
-Diese Komponente muss vor dem BG1NPC Projekt installiert werden, da sonst eingefügte Antwortoptionen für Brage und Borda verloren gehen.
+Zadanie dotycz¹ce miecza Brage'a rozpoczyna siê od rozmowy z Oublekiem po doprowadzeniu Brage'a ¿ywego do Nashkel.
 
+Uwaga: Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a", jako wstêpny warunek przy³¹czenia Brage'a do dru¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. BGQE musi byæ zainstalowane przed "Brage's Redemption". BGQE powinno byæ te¿ zainstalowane przed BG1NPC Project, inaczej niektóre z dodanych odpowiedzi Brage'a oraz Bordy siê nie wyœwietl¹.
 
 ***** Spoiler *****
-Tipp:
--Eine Rolle spielt der Händler Borda, den man auf der Karte mit dem Xvartdorf trifft. Je nach Queststatus kann man ihn hier beim ersten Treffen konfrontieren. Ansonsten gibt es ein zweites Treffen, über dessen ungefährer Ort der HC im Spiel erfahren kann.
--Brages Schwert spielt ebenfalls eine Rolle. Es muss zur entsprechenden Zeit Nalin zur Begutachtung vorgelegt werden. Danach spielt es keine Rolle mehr (kann also z.B. für Thalantyr's Item Upgrade Mod verwendet werden.).
--Der Quest kann vollständig vor dem Räumen der Mine beendet werden. Falls Laryssa als Infogeberin ausfällt (man sie also vor der Konfrontation mit Brage getötet hat), findet man den letzten Hinweis (erst) in Tazoks Zelt.
-
--Ansonsten startet der Quest offiziell, wenn man Oublek anspricht, nachdem man Brage lebend nach Nashkel gebracht hat. Von da an sollte der Quest sich selbsterklärend entfalten.
+- Kupiec Borda (postaæ z oryginalnej gry) odgrywa rolê w tym zadaniu. Normalnie mo¿na go spotkaæ w lokacji z wiosk¹ xvartów. W zale¿noœci od stadium zadania gracz mo¿e go spotkaæ w³aœnie tam. Je¿eli gracz spotka³ go ju¿ wczeœniej, dojdzie do drugiego spotkania. 
+- Miecz Brage'a równie¿ odgrywa wa¿n¹ rolê. W pewnym momencie nalezy go pokazaæ Nalinowi. Potem jest ju¿ zbêdny dla fabu³y modu (i mo¿e byæ np. u¿yty przez Thalantyr's Item Upgrade Mod). 
+- Zadanie mo¿e zostaæ ukoñczone przed oczyszczeniem Kopalñ Nashkel. W przypadku, gdy Laryssa, kuzynka Brage'a, zosta³a zabita przy pierwszym spotkaniu, ostatni¹ wskazówkê wymagan¹ do ukoñczenia zadania bêdzie mo¿na znaleŸæ nie wczeœniej ni¿ w namiocie Tazoka.
 
 
-
-13. Legale Seekarten (nicht für original BG1) 
+13. Legalne Pozyskanie Map Morskich (nie dla oryginalnego BG1) (bgqe_seacharts)
 -------
-Die Komponente fügt zwei weitere Möglichkeiten ein, an die Seekarten zu kommen, die man für Mendas' Quest zu Baldurans Insel benötigt. Beide Wege werden installiert.
-13.A von Lumorus: Wenn man Aldeth mit all' seinen Problemen im Mantelwald und der Händlerliga geholfen hat, dann ist er selbst sehr an den Nachforschungen und Baldurans Gegenständen interessiert und verhilft dem HC zu den Seekarten, ohne dass dieser den Kapitän bestehlen oder benebeln muss.
-13.B CALABALD (= Calahan + Baldurs Insel) von Shuv-Oohl: Der Seemann Calahan wäre kein richtiger Seemann, wenn er nicht selbst Seekarten hätte. Die gibt es aber nicht umsonst... Der HC hat hier mit der nötigen Menge an Gold die Möglichkeit, den Abstecher auf die Insel bereits vor dem Betreten von Baldurs Tor zu machen.
+Ten komponent dodaje dwie dodatkowe mo¿liwoœci zdobycia map morskich potrzebnych do wykonania zadania dla Mendasa i wyruszenia w rejs na Wyspê Baldurana. Oba sposoby zostaj¹ zainstalowane. 
+13.A wg pomys³u Lumorusa: Je¿eli gracz pomóg³ Aldethowi Sashenstarowi zarówno w Kniei Otulisko, jak równie¿ w w Lidze Kupieckiej, bêdzie on bardzo zainteresowany poszukiwaniem artefaktów zwi¹zanych z Balduranem. Pomo¿e graczowi w uzyskaniu map morskich bez koniecznoœci ich kradzie¿y albo upicia kapitana Kieresa.
+13.B CALABALD (= Calahan + Balduran's Island) wg pomys³u Shuv-Oohl: Calahan z Brody Ulgotha nie by³by prawdziwym marynarzem, gdyby nie mia³ w³asnych map morskich. Ale nie ma niczego za darmo... Gracz z odpowiedni¹ iloœci¹ pieniêdzy ma teraz mo¿liwoœæ podró¿y na Wyspê Baldurana bez odwiedzin we Wrotach Baldura.
 
 
-14. Erweiterungen für das Haus der Dame und dem Tempel der Wasserkönigin
+14. Dodatki Dotycz¹ce Domu Pani Oraz Œwi¹tyni Królowej Suki (bgqe_waterqueentemple)
 -------
-Diese Komponente erweitert die originalen Spielquests um Tremains toten Sohn und der Bannspruchrolle für Lothanders Geas vom Tempel der Wasserkönigin.
-14.A Bewahre Jalanthe vor einer Dummheit (und behalte den Leitfaden der Weisheit, von Lumorus): Die Hohepriesterin der Wasserkönigin möchte ja einen Leitfaden der Weisheit als Gegenleistung für den Bannspruch für Lothanders Geas haben. Aber will sie das wirklich? Der HC kann nochmal explizit nachfragen und die Frage in den Raum stellen, ob die Wasserkönigin davon wirklich so begeistert wäre, wenn die Zeremonie nur deswegen gelänge, weil ihre Dienerin die Weisheit einer anderen Göttin genutzt hatte...
-14.B: Verrate den Priester Tremain an den Tempel der Tymora: Tremain bittet den HC ja im Spiel, ihm seinen toten Sohn aus dem Tempel der Wassergöttin zu bringen, so dass er ihn wiederbeleben kann. Diese Komponente fügt die Möglichkeit ein, ihn an seinen Tempel, dem Haus der Dame, zu verraten. 
+Komponent rozszerza zadania z oryginalnej gry zwi¹zane z Domem Pani Wód, jedno dotycz¹ce martwego syna kap³ana Tremaina, a drugie - zwoju zdejmuj¹cego geas z Lothandera.
+14.A Powstrzymaj Jalanthê przed pope³nieniem g³upstwa (i zatrzymaj dla siebie Wolumin Zrozumienia), wg pomys³u Lumorusa: arcykap³anka Królowej Wód domaga siê Woluminu Zrozumienia w zamian za zdjêcie geasu z Lothandera. Ale czy naprawdê tego chce? Gracz mo¿e teraz poddaæ w w¹tpliwoœæ, czy Umberlee by³aby zadowolona z faktu, ¿e ceremonia tylko dlatego dosz³a do skutku, ¿e jej kap³anka pos³u¿y³a siê m¹droœci¹ pochodz¹c¹ od innej bogini... 
+14.B Wydanie Tremaina œwi¹tyni Tymory: w oryginalnej grze Tremain prosi nas o odzyskanie cia³a swojego syna ze œwi¹tyni Umberlee, by móg³ go wskrzesiæ. Dziêki temu komponentowi gracz ma teraz mo¿liwoœæ zdradziæ Tremaina i zanieœæ zw³oki jego syna do Domu Pani. 
 
 
-15.  Ein besorgter Bauer (nicht für original BG1), von Lumorus und White Agnus
-------
-In Beregost/Nashkell gibt es einige Gerüchte von ein paar Bauern, diese werden in dieser Reihe aufgegriffen (bis jetzt nur ein Gerücht realisiert): Fragt einen Bauern in Beregost, bis er Euch von dem seltsamen Geräuschen erzählt, die er nachts in seinem Garten hört. Er wird Euch dann bitten, das mal zu untersuchen.
-
-
-16.  Leichen für einen guten Zweck, von Lumorus und White Agnus
-------
-Diese Komponente spielt in Baldurs Tor, und widmet sich auch dem "Umweltschutz". :D
-Bringt dem Nekromanten Sylar einige Leichen aus den Abwasserkanälen für sein spezielles Forschungsvorhaben.
-
-
-17. Cordyrs Quest ohne Sils Tod abschließen, von Lumorus
+15. Zaniepokojony Rolnik (nie dla oryginalnego BG1) (bgqe_worriedfarmer), wg pomys³u Lumorusa oraz White Agnusa
 -------
-Mit dieser Komponente kann man Cordils Quest bzw. seine Bitte, dass die Gruppe sich um die Sirenen in seinen alten Fischgründen "kümmert" abschließen, ohne dass man Sil und ihre Sirenen dazu töten muss. 
-Geichzeitig wird die Tür zu Cordyrs Haus aufgeschlossen und Cordyrs Dialog so geändert, dass jeder HC den Quest erhält (im Originalspiel war das nur für Gruppen niederen Rufes möglich).
-
-Die Komponente ist kompatibel mit den Änderungen an Sil und ihren Sirenen durch bg1re und Lure of Sirine's Call. 
+W Beregoœcie i Nashkel kr¹¿¹ pog³oski wœród kilku farmerów (w tym momencie tylko jedna czêœæ tego komponentu zosta³a wykonana). Porozmawiaj z pewnym farmerem z Beregostu, który opowie o dziwnych odg³osach, jakie s³yszy nocami w swoim ogrodzie. Nastêpnie poprosi on o zbadanie tej sprawy.
 
 
+16. Zw³oki w Szczytnym Celu (bgqe_bodiesforgoodcause), wg pomys³u Lumorusa oraz White Agnusa
+-------
+Ten komponent rozgrywa siê we Wrotach Baldura i skupia siê na ochronie œrodowiska. :D
+Przynieœ nekromancie Sylarowi cia³a z miejskich kana³ów, które pos³u¿¹ mu do specjalnych eksperymentów.
 
-INSTALLATION 
 
-BGII:EE
-If you use BGII Enhanced Edition from GOG or Steam, you need to prepare your game before installing any mods:
-Link: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+17. Ukoñczenie Zadania Cordyra Bez Zabijania Sil, wg pomys³u Lumorusa
+-------
+Ten komponent zmienia zadanie Cordyra na dwa sposoby:
+- Drzwi do jego domu bêd¹ otwarte i ka¿da postaæ gracza, niezale¿nie od reputacji, bêdzie mog³a dostaæ co wykonania zadanie rozprawienia siê z sirinami, które przejê³y ³owiska Cordyra.
+- Konflikt mo¿na teraz rozwi¹zaæ bez koniecznoœci zabicia Sil i pozosta³ych sirin.
 
-(deprecated tool: 
-https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use/p1)
+Komponent jest kompatybilny ze zmianami dotycz¹cymi Sil i jej sirin, które wprowadzaj¹ takie mody jak "BG1 Romantic Encounters" oraz "Lure of Sirine's Call".
 
-Für alle Versionen (Windown, Mac OS X, Linux):
 
-Zur Sicherheit sei das Anfertigen von Backups Eurer Installation empfohlen.
 
-Extrahiert den Inhalt des Mod-Archivs in das Hauptverzeichnis des Spieles (Baldur's Gate, BGT, BG1Tutu / EasyTutu oder BG:EE. Die Erkennung bei der Installation geschieht automatisch.) 
+INSTALACJA
 
-ACHTUNG: Bei BG:EE ist es wichtig, dass die Mod für die Sprachversion installiert wird, in der Ihr das Spiel spielt. Ansonsten seht Ihr nicht die Modtexte im Spiel, sondern Fehlermeldungen.
+BG:EE
+Je¿eli korzystasz z BG Enhanced Edition w wersjach z GOG lub Steam, bêdziesz musia³ u¿yæ któregoœ z poni¿szych narzêdzi przed instalacj¹ jakichkolwiek modów:
+https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+
+lub (przestarza³e narzêdzie)
+https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use/p1
+
+
+Dla wszystkich wersji (Windows, Mac OS X, Linux):
+
+Dla bezpieczeñstwa nale¿y przed instalacj¹ sporz¹dziæ kopiê zapasow¹ swojej instalacji gry.
+
+Zawartoœæ archiwum modu rozpakuj do g³ównego folderu gry (Baldur's Gate, BGT, BG1Tutu / EasyTutu lub BG:EE. Rozpoznanie rodzaju instalacji nast¹pi automatycznie.)
+
+Uwaga: W przypadku BG:EE wa¿ne jest zainstalowanie dodatku w takiej wersji jêzykowej, w której zainstalowana jest gra. W przeciwnym razie w dialogach z modu mog¹ pojawiæ siê b³êdy. 
 
 
 Windows
-Lasst die "setup-bgqe.exe" über Doppelklick laufen. Wählt Eure Sprache und bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. 
-
+Uruchom "setup-bgqe.exe" podwójnym klikniêciem. Wybierz wersjê jêzykow¹ i potwierdŸ rozpoczêcie instalacji. Teraz zostan¹ skopiowane niezbêdne dane i przeprowadzona instalacja. 
 
 Mac OS X
-Korrekt extrahiert, sollten in Eurem Spiel-Hauptverzeichnis ein bgqe Ordner, setup-bgqe, und setup-bgqe.command befinden. Zum Installieren einfach die setup-bgqe.command doppelklicken und den Instruktionen folgen.
+Upewnij siê, ¿e œci¹gn¹³eœ wersjê modu dla systemu Mac OS X. Po prawid³owym rozpakowaniu w g³ównym katalogu gry powinien znajdowaæ siê folder bgqe, setup-bgqe i setup-bgqe.command. Aby zainstalowaæ, kliknij dwukrotnie na setup-bgqe.command i postêpuj wed³ug instrukcji na ekranie.
 
 Linux
-Ladet die neueste Version von WeiDU für Linux von WeiDU.org und kopiert WeiDU und WeInstall nach /usr/bin. Öffnet nun ein Terminal, cd zu Eurem BG Installationsordner, und lasst 'tolower' laufen, mit der Antwort Y auf beide Nachfragen. Die zweite Option (linux.ini) könnt Ihr auslassen, wenn Ihr dies bereits einmal in Eurem Verzeichnis ausgeführt habt. Falls Ihr Euch nicht sicher seid, ist das Ausführen von tolower mit beiden Optionen der sichere Weg.
-Lasst WeInstall setup-bgqe in Euren Spielordner laufen, um die Modifikation zu installieren. Führt wine BGMain.exe aus, um das Spiel zu starten.
+Upewnij siê, ¿e masz wersjê moda dla systemu Linux.
+Œci¹gnij najnowsz¹ wersjê WeiDU dla Linux z WeiDU.org i skopiuj WeiDU oraz WeInstall do /usr/bin. Nastepnie otwórz terminal, przejdŸ do katalogu instalacyjnego BG, uruchom 'tolower' i odpowiedz TAK (Y) na oba pytania. Mo¿esz pomin¹æ drug¹ opcjê (linux.ini), jeœli chocia¿ raz by³a ju¿ uruchamiana w tym katalogu. Dla zaoszczêdzenia czasu pliki archiwum sa juz "tolowered", wiêc nie ma potrzeby uruchamiania tak¿e pierwszej opcji (ustawienie ma³ych liter w nazwach plików), o ile rozpakowywa³eœ wy³¹cznie ten mod od czasu ostatniego uruchomienia opcji ustawienia ma³ych liter w nazwach plików. Je¿eli nie masz pewnoœci, najbezpieczniej jest uruchomiæ 'tolower' i wybraæ obie opcje.
+Uruchom WeInstall setup-bgqe w katalogu z gr¹, aby zainstalowaæ mod. Nastêpnie uruchom "wine BGMain.exe" i zacznij grê.
 
 
-NOTE: BG(II):EE are actively supported games. Please note that every patch update will wipe your current mod setup! If in the middle of a modded game you might want to delay the patch update as even after reinstalling the mods, you might not be able to continue with your old savegames. 
+UWAGA: BG(II):EE to aktywnie wspierane gry. Miej na uwadze, ¿e ka¿da instalacja patcha usunie twoj¹ aktualn¹ konfiguracjê modów! W trakcie gry z modami mo¿esz uznaæ za stosowne, by opóŸniæ aktualizacjê gry, poniewa¿ nawet po przeinstalowaniu modów granie w dawne zapisy mo¿e siê okazaæ niemo¿liwe. 
 
 
-Es muss ein neues Spiel angefangen werden, um die Modifikation vollständig spielen zu können, bzw. darf das Gebiet "Tempel von Beregost" noch nicht besucht worden sein, ansonsten wird der Tod des Betrunkenen nicht erkannt.
+Aby móc rozegraæ dodatek w ca³oœci, nale¿y rozpocz¹æ now¹ grê, a przynajmniej nie wchodziæ wczeœniej na mapê ze œwi¹tyni¹ w Beregoœcie, inaczej wyst¹pi¹ b³êdy w zadaniu "Pijak w pobli¿u œwi¹tyni w Beregoœcie". 
 
-Sollten bei der Installation Fehler auftreten, so wendet Euch bitte mit der "setup-log"-Datei an einen der unten angegebenen Forenthreads. Das englische Forum befindet sich bei den Gibberlings Three: http://forums.gibberlings3.net/
+Gdyby podczas instalacji wyst¹pi³y b³êdy, proszê zwróciæ siê do mnie przedstawiaj¹c zawartoœæ pliku "setup-log" na którymœ z wymienionych poni¿ej  forum:
 
-Direkte Links: 
-Englisches Forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
+Bezpoœrednie linki: 
+Angielskie forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
 
-Deutscher Thread im Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
+Niemiecki w¹tek na Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
 
-KOMPATIBILITÄT 
+KOMPATYBILNOŒÆ 
 
-Die Modifikation wurde mit einem WeiDU-Installer gepackt und überschreibt keine existierenden Spieldateien (es werden nur neue Inhalte zum Spiel hinzugefügt). Technisch sollte daher Kompatibilität mit anderen WeiDU-Modifikationen gegeben sein. 
+Ta modyfikacja zosta³a utworzona z pomoc¹ instalatora WeiDU i nie nadpisuje istniej¹cych zasobów gry (a tylko dodaje now¹ zawartoœæ). Z technicznego punktu widzenia powinna zachowywaæ kompatybilnoœæ z wszystkimi innymi modami WeiDU.
 
-BG1NPC Projekt: Die Komponente "Brages Schwert" muss vor dem BG1NPC Projekt installiert werden, damit die von BGQE neu eingefügten Antwortoptionen angezeigt werden.
+BG1NPC Project: komponent "Miecz Brage'a" musi byæ instalowany przed BG1NPC Project, ¿eby opcje odpowiedzi dodane przez BGQE wyœwietla³y siê prawid³owo.
 
-Brage's Redemption: Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Brage's Redemption: komponent "Miecz Brage'a" powinien by¿ zainstalowany przed Brage's Redemption. Mod ten dodaje to samo zadanie, ale rozszerza je o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. 
 
-
-Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das heißt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
+Dla klasycznego BG1 mod powinien byæ kompatybilny z (co nie znaczy, ¿e wszystkie wymienione mody s¹ na pewno kompatybilne miêdzy sob¹):
 -BG1 Unfinished Business
 -BG1 Adventure and CoM Forge
 -BG1 Ajantis Expansion Mod
@@ -196,19 +202,18 @@ Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das h
 
 
 
-KNOWN ISSUES
+ZNANE PROBLEMY
 
--"Many little paws" I am also sometimes left with one or two hamsters after the boy supposedly takes them all, although which ones exactly differs each try. (I hope this will be fixed for v16)
+- "Wiele ma³ych ³apek": niekiedy ch³opiec, który powinien wzi¹æ od nas wszystkie chomiki, zostawia nam jednego lub dwa, choæ za ka¿dym razem inne. (powinno byæ to naprawione w wersji 16)
 
--"Brage's Sword" (BG:EE / EET): after returning Brage to Nashkell, the journal entry "The Tale of Captain Brage(Finished)" will remain in the journal, but without any text attached to it. Obviously the journal system is not meant to remove titels even if the entries are removed. This is an engine problem. (Let's see whether this will change for 2.5)
+- "Miecz Brage'a" (BG:EE / EET): po sprowadzeniu Brage'a do Nashkel wpis w dzienniku "Historia kapitana Brage'a" mo¿e pozostaæ w dzienniku, ale bez tekstu. Z powodu b³êdu w silniku system dziennika nie kasuje tytu³ów nawet jeœli same wpisy zostan¹ usuniête. (byæ mo¿e zostanie to naprawione w wersji 2.5 gry)
 
--"A Warm PLace for Noober" (BG1:TotSC): It can happen that Joseph's widow's mother will sleep on the floor, while a generic sleeping woman sleeps in the bed. Just imagine Joseph's widow to have a real great heart for needing souls.
+- "Schronienie dla Noobera" (BG1:TotSC): mo¿e siê zdarzyæ, ¿e matka ¿ony Józefa œpi na pod³odze, a w ³ó¿ku zamiast niej pojawia losowa œpi¹ca kobieta. Po prostu trzeba sobie wyobraziæ, ¿e wdowa po Józefie okazuje wielkie serce potrzebuj¹cym.
 
--"Drunk near Beregost Temple" (BG1:TotSC): Polus the drunk still preforms his silly folk dance when you talk to him (falls down on the ground and gets up 15 or so times). 
+- "Pijak w pobli¿u œwi¹tyni w Beregoœcie" (BG1:TotSC): pijany Polus wykonuje swój taniec, kiedy siê z nim porozmawia (upada na ziemie i wstaje po kilkanaœcie razy).
 
 
 ++++++++++++++++ Bitte ab hier nicht übersetzen ++++++++++++++++++++++++++++++++
-
 
 
 DANKSAGUNGEN
@@ -254,8 +259,6 @@ Gerri: Alpha- und Betatester
 
 grogerson: Alpha- und Betatester, Korrekturlesen der englischen Übersetzung
 
-hawkmoon: Russian translation
-
 Hedian: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
 
 hook71: Korrekturlesen der englischen Übersetzung
@@ -292,7 +295,7 @@ White Agnus: Autor, Alpha- und Betatester
 
 yota13: Russian Translation
 
-Zed Nocear: Coden eines Spell Effektes, Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+Zed Nocear: Coden eines Spell Effektes, Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Polish translation
 
 zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
 
@@ -317,12 +320,12 @@ Polnische Übersetzung: Aristo and Zed Nocear
 -v8: Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
 
 
-
 -Hosten-
 
 CamDawg, cmorgan and G3 staff: Uploading to G3 site and actualisation of links
 
-CamDawg, Mike1072, theacefes (G3); Hedian, Fridtjof (Rosenrankenforum); Sir Darian, Tim und Vernochan (Kerzenburgforum): Hosten der Mod.
+CamDawg, Mike1072, theacefes (G3); Hedian, Fridtjof (Rosenrankenforum); Sir Darian, Tim, and Vernochan (Kerzenburgforum): Hosting of the Mod.
+
 
 
 

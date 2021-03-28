@@ -13,7 +13,7 @@
 Noober wurde in den Fluss geworfen und hat sich danach eine heftige Erkältung zugezogen. Er bräuchte einen warmen Platz, an dem er wieder gesund werden kann, und möglichst eine pflegende Person dazu, aber einen solchen Ort scheint es für ihn nicht zu geben. Vielleicht kann ich die Herzen der Bewohner Nashkells diesbezüglich etwas erwärmen.~
 @11   = ~Ein warmer Platz für Noober
 
-Dieser Noober wurde in den Fluss geworfen und hat sich danach eine heftige Erkältung zugezogen. Jetzt krächzt der dieser Narr wie eine rostge Gießkanne und rennt durch die Straßen. Wahrscheinlich, weil er es sich mit allen hier in Nashkell verdorben hat.~
+Dieser Noober wurde in den Fluss geworfen und hat sich danach eine heftige Erkältung zugezogen. Jetzt krächzt der dieser Narr wie eine rostige Gießkanne und rennt durch die Straßen. Wahrscheinlich, weil er es sich mit allen hier in Nashkell verdorben hat.~
 @12   = ~Krächz?~
 @13   = ~Gute Neuigkeiten, mein Freund. Josephs Frau wird Euch bei sich aufnehmen und sich um Euch kümmern.~
 @14   = ~Schont Eure Stimme, Noober, und seht zu, dass Ihr etwas Ruhe kriegt.~
@@ -24,7 +24,7 @@ Dieser Noober wurde in den Fluss geworfen und hat sich danach eine heftige Erkäl
 Die gute Frau süd-östlich in Nashkell ist bereit, Noober bis zu seiner Genesung aufzunehmen. Ich sollte ihm dies so schnell wie möglich sagen.~
 @18   = ~Ein warmer Platz für Noober
 
-Noober ist auf dem Weg zu seinem warmen Bett. Ich könnte bals mal hingehen und nachsehen, wie es ihm ergeht.~
+Noober ist auf dem Weg zu seinem warmen Bett. Ich könnte bald mal hingehen und nachsehen, wie es ihm ergeht.~
 @19   = ~... - Krächz! *hust*~
 @20   = ~Krächz?! Krächz! *hust* *hust*~
 @21   = ~Krächz!~
@@ -71,7 +71,7 @@ Laut Aussage des Ladenbesitzers könnte die Frau süd-östlich in Nashkell bereit s
 @58   = ~(seufz) Bitte, geht jetzt.~
 @59   = ~Ein warmer Platz für Noober
 
-Noober hat bei Jospehs Witwe einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
+Noober hat bei Josephs Witwe einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
 /* @60   = @55 */
 @61   = ~Schaut sie Euch an! Wer hätte gedacht, dass es sich so gut entwickeln würde? Ich bin so dankbar für die Hilfe mit Mutter. Er ist so geduldig, und sie so schwerhörig. Das perfekte Paar!~
 @62   = ~Und ich habe dadurch genau die benötigte Ruhe, um den Tod meines geliebten Ehemanns zu betrauern...~
@@ -79,7 +79,7 @@ Noober hat bei Jospehs Witwe einen schönen Ort zum Erholen gefunden. Ich frage m
 @64   = ~Ich danke Euch, <PRO_LADYLORD>. Aber bitte, geht jetzt.~
 @65   = ~Ein warmer Platz für Noober
 
-Noober hat ein neues Zuhause gefunden! Zumindest für den Moment scheint er der perfekte Unterhalter für die alte Mutter von Jospehs Witwe zu sein. Und wieder einmal zeigen uns die Götter, dass sie für jeden einen Platz vorgesehen haben.~
+Noober hat ein neues Zuhause gefunden! Zumindest für den Moment scheint er der perfekte Unterhalter für die alte Mutter von Josephs Witwe zu sein. Und wieder einmal zeigen uns die Götter, dass sie für jeden einen Platz vorgesehen haben.~
 @66   = ~Ein warmer Platz für Noober~
 
 /* c#lcno01.baf */
@@ -113,8 +113,8 @@ Nalin im Tempel von Helm scheint zu glauben, dass Brage unter dem Einfluss einer
 /* same as @59, only "wife" instead of "widow" */
 @83   = ~Ein warmer Platz für Noober
 
-Noober hat bei Jospehs Frau einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
+Noober hat bei Josephs Frau einen schönen Ort zum Erholen gefunden. Ich frage mich allerdings, wie die Dinge stehen werden, wenn er seine Stimme wieder gefunden hat... Vielleicht sollte ich nach einigen Tagen noch einmal vorbei schauen.~
 /* same as @65, only "wife" instead of "widow" */
 @84   = ~Ein warmer Platz für Noober
 
-Noober hat ein neues Zuhause gefunden! Zumindest für den Moment scheint er der perfekte Unterhalter für die alte Mutter von Jospehs Frau zu sein. Und wieder einmal zeigen uns die Götter, dass sie für jeden einen Platz vorgesehen haben.~
+Noober hat ein neues Zuhause gefunden! Zumindest für den Moment scheint er der perfekte Unterhalter für die alte Mutter von Josephs Frau zu sein. Und wieder einmal zeigen uns die Götter, dass sie für jeden einen Platz vorgesehen haben.~

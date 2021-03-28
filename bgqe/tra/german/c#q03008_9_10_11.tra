@@ -15,10 +15,10 @@
 @14   = ~Wie könnt Ihr es wagen! Kinder, wir gehen weg von hier. Und zwar schnell!~ 
 //@15   = 
 @16   = ~Nun, ja, in gewisser Weise... Wisst Ihr, ich habe kein Geld. Ich war bei ihrem Vater, um ihn um Geld für unsere Reise nach Amn zu bitten. Er wird die Fahrt zu meiner Familie nun bezahlen, aber mehr auch nicht. Dieser Mistkerl! Huch, was für ein schlimmes Wort. Kinder, das wird nicht benutzt, ja?~ 
-@17   = ~Nun, ich fürchte, wir müssen jetzt gehen. Es ist wohl schwer zu verstehen, warum ich die eigenen Kinder nicht mit zu ihrem Vater nehmen kann, aber es ist nun mal so... *seufzt* Habt noch einmal vielen Dank für Eure Hilfe. ich werde nicht aufhören, darüber zu sprechen.~ 
+@17   = ~Nun, ich fürchte, wir müssen jetzt gehen. Es ist wohl schwer zu verstehen, warum ich die eigenen Kinder nicht mit zu ihrem Vater nehmen kann, aber es ist nun mal so... *seufzt* Habt noch einmal vielen Dank für Eure Hilfe. Ich werde nicht aufhören, darüber zu sprechen.~ 
 @18   = ~Habt noch einmal vielen Dank für Eure Hilfe. Es ist wohl schwer zu verstehen, warum ich die eigenen Kinder nicht mit zu ihrem Vater nehmen kann, aber es ist nun mal so... *seufzt* Ich werde nicht aufhören, von Eurer Hilfe zu erzählen.~
 @19   = ~Oh! das wird mir schwer fallen. Ich hätte so gerne erzählt, welch große Hilfe Ihr für mich wart, aber, ja, selbstverständlich werde ich das nicht tun, wenn Ihr es nicht wünscht.~ 
-@20   = ~Nun, ich fürchte, wir müssen jetzt gehen. Habt noch einmal vielen Dank für Eure Hilfe. Ich werde niemandem davon erzählen... Zumindst werde ich es versuchen.~
+@20   = ~Nun, ich fürchte, wir müssen jetzt gehen. Habt noch einmal vielen Dank für Eure Hilfe. Ich werde niemandem davon erzählen... Zumindest werde ich es versuchen.~
 @21   = ~Verzeiht, wir wollen Euch nicht belästigen. Kinder, steht nicht im Weg rum!~
 @22   = ~Ihr seht aus, als würde etwas Euch bedrücken. Kann ich Euch irgendwie behilflich sein?~  
 @23   = ~Nette Kinder habt Ihr da.~ 
@@ -57,8 +57,8 @@
 //@56   =  
 @57   = ~Ich bin nun bereit, auf die Kinder aufzupassen. Sarah, Tom, bleibt Ihr bei mir, während eure Mutter kurz weggeht?~ 
 @58   = ~Ich brauche noch etwas Zeit. Ich werde später zu Euch kommen.~  
-@59   = ~Such Ihr noch immer jemanden? Ich werde Euch wissen lassen, wenn ich jemanden treffe.~ 
-@60   = ~Würdet Ihr mir mittlerweile Eure Kinde anvertrauen? Ich könnte sie durchaus für Euch hüten.~ 
+@59   = ~Sucht Ihr noch immer jemanden? Ich werde Euch wissen lassen, wenn ich jemanden treffe.~ 
+@60   = ~Würdet Ihr mir mittlerweile Eure Kinder anvertrauen? Ich könnte sie durchaus für Euch hüten.~ 
 @61   = ~Habt Ihr noch immer niemanden gefunden? Würdet Ihr mir nun vertrauen, wenn ich auf Eure Kinder aufpassen möchte?~ 
 @62   = ~Ich habe meine Meinung geändert und bin bereit, Eure Kinder zu hüten, wenn Ihr das möchtet. Sarah, Tom, bleibt ihr bei mir, während eure Mutter kurz weggeht?~ 
 @63   = ~Nichts, schönen Tag noch.~ 
@@ -126,10 +126,10 @@
 @125  = ~Ich höre dir nicht zu.~ 
 @126  = ~Mama hat die Schuhe selber gestrickt. Die Wolle haben wir bei Tante Helena gekauft. Kennst du Tante Helena?~ 
 @127  = ~Tante Helena ist nicht wirklich meine Tante. Ich mag sie nicht. Sie hat so eine komische Nase.~ 
-@128  = ~Ihre Nase sieht aus wie die von einam roten Drachen. Hast du schon mal einen roten Drachen gesehen?~ 
+@128  = ~Ihre Nase sieht aus wie die von einem roten Drachen. Hast du schon mal einen roten Drachen gesehen?~ 
 @129  = ~Nun, ich habe...~
 @130  = ~Würdest du meine Antwort überhaupt anhören?~ 
-@131  = ~Sie ist so rot und... rot. Ich mag ihre Nase nicht. Aber die Wolle ist schön. Sie hat mir noch blaue Wolle gegeben, als Geschenk.Mama sagt, dass sie das nur getan hat, damit wir nochmal wiederkommen.~ 
+@131  = ~Sie ist so rot und... rot. Ich mag ihre Nase nicht. Aber die Wolle ist schön. Sie hat mir noch blaue Wolle gegeben, als Geschenk. Mama sagt, dass sie das nur getan hat, damit wir nochmal wiederkommen.~ 
 @132  = ~Weißt du, was Mama aus der blauen Wolle gemacht hat?~ 
 @133  = ~Den Schal?~ 
 @134  = ~Die Socken?~ 
@@ -161,7 +161,7 @@
 @160  = ~Lasst mich bloß in Ruhe, ja?~
 @161  = ~Aber ich möchte einen Saft!~
 @162  = ~Nein, Sarah, es gibt jetzt keinen Saft.~
-@163  = ~Tom! Pass auf, wie du deine Flasche hälst. Sie tropft!~ 
+@163  = ~Tom! Pass auf, wie du deine Flasche hältst. Sie tropft!~ 
 @164  = ~Kinder - Seid ruhig.~ 
 @165  = ~Wo ist Mama hingegangen?~ 
 @166  = ~Ich weiß es nicht, Sarah.~
@@ -213,7 +213,7 @@
 @212  = ~Auch!~
 @213  = ~Ich habe zuerst gefragt!~
 @214  = ~Tut mir leid, aber für heute gibt es nur Wasser aus euren Flaschen, keinen Saft.~ 
-@215  = ~Tom, sieh hin, wie du deine Flasche hälst. Sie tropft!~ 
+@215  = ~Tom, sieh hin, wie du deine Flasche hältst. Sie tropft!~ 
 @216  = ~Süßig'n!~
 @217  = ~Kriegen wir welche?~
 @218  = ~Ich auch!~
@@ -261,7 +261,7 @@
 @260  = ~Ihr schon wieder? Wen starrt Ihr jetzt an?~
 @261  = ~Nichts, einen schönen Tag noch.~ 
 @262  = ~Äh, haha. Nein, Ihr habt wohl Recht. Eigentlich brauche ich nur das Geld... Ihr wollt mir nicht zufälligerweise welches leihen, oder?~ 
-@263  = ~Das könnte ich machen. wieviel braucht Ihr?~ 
+@263  = ~Das könnte ich machen. Wieviel braucht Ihr?~ 
 @264  = ~Ich soll Euch Geld leihen? Und was wäre mein Pfand?~ 
 @265  = ~Nein, würde ich nicht.~
 @266  = ~Oh, das ist, äh, toll. Hört mal zu, ich suche ehrlich gesagt keine Arbeit, sondern nur Geld... Ihr wollt mir nicht zufälligerweise welches leihen, oder?~
@@ -308,7 +308,7 @@
 @302  = ~Ah, fröhliche Kinder hat Minsk immer gerne um sich! Das erinnert ihn an zu hause!~
 @303  = ~Wie glockenhell ihr Lachen klang. Diese Kinder wurden durch das Böse dieser Welt noch nicht verdorben. Lasst uns hoffen, dass es noch lange so bleiben wird.~
 @304  = ~Wann hat man die denn mal lachen gehört, die haben doch die ganze Zeit nur gebrüllt!~
-@305  = ~Ich gebe mein Leben, um die Unschuldigen und Wehrlosen zu beschützen. Es freut mich, dass Ihr dies ebenfalls so seht und der Frau mit ihren Kindern geholfen habt, <CHARNAME>. Auch, wenn die Unschuldigsten und Wehrlosesten manchmal die... Anstrengensten sind. *räuspert sich*~
+@305  = ~Ich gebe mein Leben, um die Unschuldigen und Wehrlosen zu beschützen. Es freut mich, dass Ihr dies ebenfalls so seht und der Frau mit ihren Kindern geholfen habt, <CHARNAME>. Auch, wenn die Unschuldigsten und Wehrlosesten manchmal die... Anstrengendsten sind. *räuspert sich*~
 @306  = ~Ich hätte die Kinder vielleicht mit ein paar Illusionen ablenken sollen?~
 @307  = ~Hätte ich ihnen vielleicht etwas vorsingen sollen? Ich kenne sehr schöne Schlaflieder. *singt* Jetzt geh'n wir zur Ruuu-uh...~
 @308  = ~Nein - bitte - dann doch lieber wieder die Kinder.~
@@ -332,7 +332,7 @@
 @404  = ~Warum sagt Ihr das so? Stinke ich vielleicht?~
 @405  = ~Du meine Güte. Was für Gören!~
 @406  = ~Sagte ich nicht *verschwindet*? Warum sehe ich Euch dann noch hier herumstehen?~
-@407  = ~Hall-ooooo? Jemand zu hause? Ich sagte: *Verschindet*!~
+@407  = ~Hall-ooooo? Jemand zu hause? Ich sagte: *Verschwindet*!~
 @408  = ~Und was, wenn ich Euch sage, dass Ihr verschwinden sollt, hm?~
 @409  = ~Schon gut.~
 @410  = ~N... Nein, verzeiht, Fremder.~
@@ -363,11 +363,11 @@
 @431  = ~Ich wünschte, wir hätten sie nicht so b-bedrängt. Eine Mutter alleine mit ihren K-kindern kann nicht so viel Hilfe erwarten.~ 
 @432  = ~Im Gegenteil, Khalid. Eine Mutter bekommt viel Hilfe von unerwarteter Seite, besonders mit kleinen Kindern.~ 
 @433  = ~Von uns hat sie keine Hilfe bekommen, so viel ist sicher.~
-@434  = ~Diese Mutter hat Hilfe von uns bekommen - offensichtlich wusste sie nicht, wann es die beste Zeit ist, diese Stat zu verlassen. Jetzt hat sie sich entschieden, zu gehen.~
+@434  = ~Diese Mutter hat Hilfe von uns bekommen - offensichtlich wusste sie nicht, wann es die beste Zeit ist, diese Stadt zu verlassen. Jetzt hat sie sich entschieden, zu gehen.~
 @435  = ~Oh, es ist so wunderschön, wenn wir anderen helfen! Mir ist ganz warm geworden.~
 @436  = ~Das ist höchstwahrscheinlich, weil Ihr es versäumt habt, rechtzeitig hinter die Büsche zu gehen, Xzar.~
 @437  = ~Sind wir hier jetzt fertig? Können wir gehen? (Und das schnell, möchte ich hinzufügen.)~
-@438  = ~*schnaubt* Ihr solltet auf einen sinnvollen Einsatz Eurer Kräfte achten, <CHARNAME>, wenn Ihr so viel Einsatz zum Verteiben einer Mutter mit Kindern aufbringt. Sie waren eine Störung, aber kein Grund, um sich mit der Stadtwache anzulegen. Das können wir auch einfacher haben.~
+@438  = ~*schnaubt* Ihr solltet auf einen sinnvollen Einsatz Eurer Kräfte achten, <CHARNAME>, wenn Ihr so viel Einsatz zum Vertreiben einer Mutter mit Kindern aufbringt. Sie waren eine Störung, aber kein Grund, um sich mit der Stadtwache anzulegen. Das können wir auch einfacher haben.~
 @439  = ~<CHARNAME>, Ihr *habt* all diese Amnischen Soldaten bemerkt, die hier so herumpatroullieren, bevor Ihr entschieden habt, diese Frau durch Drohungen davon zu jagen, ja? Ich frage nur.~
 @440  = ~Hm, warum habt Ihr sie denn verjagt? Jetzt kann ich es nicht mehr selbst tun. Ah, verängstigte Kinderaugen. Ein entzückender Anblick.~
 @441  = ~Unterschätzt niemals eine Mutter. So sehr ich die Abhängigkeit und Verantwortung verabscheue, in die sie sich durch diese Kinder versetzt hat, so sehr respektiere ich den Willen einer Mutter, für ihre Kinder einzustehen.~

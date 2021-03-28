@@ -57,3 +57,6 @@
 
 /* new for v23 */
 @5009   = ~Installation de la quete terminer la quete de Cordyr sans tuer Sil...~
+
+/* new for v24 */
+@5010   = ~This mod needs to be installed before EET_End on your EET install.~

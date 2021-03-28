@@ -19,7 +19,7 @@
 @18   = ~Ah, Ihr meint Minsks Hamster. Nein, der ist sicherlich nicht von Euch.~
 @19   = ~Dies ist ein gigantischer Miniaturhamster und gehört meinem Freund.~
 @20   = ~Es ist mir egal, was Ihr glaubt gesehen zu haben. Wenn Ihr Eure Anschuldigung wiederholt, dann lasse ich Euch quieken wie eines Eurer Tiere hier.~
-@21   = ~Ich weiß nicht, was heute los ist. Erst der Junge und dann das hier. Jetzt reicht's, ich ziehe mit dem Laden woanders hin. Das ist die Gelegenheit - ab zur Farm meines Bekannten, das prämierte Kaninchen abholen, und dann nichts wie ab nach Norden. Vielleicht Balsurs Tor? Geht mir aus dem Weg!~
+@21   = ~Ich weiß nicht, was heute los ist. Erst der Junge und dann das hier. Jetzt reicht's, ich ziehe mit dem Laden woanders hin. Das ist die Gelegenheit - ab zur Farm meines Bekannten, das prämierte Kaninchen abholen, und dann nichts wie ab nach Norden. Vielleicht Baldurs Tor? Geht mir aus dem Weg!~
 @22   = ~Ah, Ihr! Euch würde ich überall wiedererkennen. Nein, ich rede nicht über den gestohlenen Hamster, aber trotzdem wäre es mir lieb, wenn Ihr wieder gehen würdet.~
 @23   = ~Der Vorfall tut mir sehr leid. Es war ein Missverständnis. Ich hoffe, Ihr könnt uns verzeihen, und würde Euch den Hamster gerne zurückgeben.~
 @24   = ~Nehmt den dämlichen Hamster und lasst mich in Ruhe!~
@@ -77,7 +77,7 @@
 @73   = ~Ich handele nicht mehr mit kleinen Haustieren. Ich hatte unterwegs einen... Zwischenfall mit einem Pack Wölfen.~
 @74   = ~Das prämierte Kaninchen musste auch daran glauben. *seufzt*~
 @75   = ~Das ist ja schrecklich! Euch ist nichts geschehen, hoffe ich?~
-@76   = ~Ihr müsst den Hamster zurücknehmem! Mein Freund erlaubt nichts anderes.~
+@76   = ~Ihr müsst den Hamster zurücknehmen! Mein Freund erlaubt nichts anderes.~
 @77   = ~Wenn Ihr den Hamster nicht nehmt, dann landet er in der nächsten Tonne. Ich hatte genug Ärger mit diesem Vieh!~
 @78   = ~Im Gegenteil, ich habe sie tatsächlich von mir abwehren können. Nun, es könnte auch sein, dass sie zu sehr damit beschäftigt waren, sich an den Kleintieren zu laben...~
 @79   = ~Wie dem auch sei, ich habe Lust auf das Abenteurerleben bekommen. Ihr habt Glück, dass Ihr mich noch angetroffen habt, bevor ich wieder weiterziehe.~
@@ -121,7 +121,7 @@
 @116  = ~Hm. Nicht genug Fell für einen schönen Pelzmantel.~
 @117  = ~Oh, so süß. Da muss ich mich direkt zurückhalten, um nicht eins mitgehen zu lassen...~
 @118  = ~Habt Ihr meine Gedanken gelesen, Alora?~
-@119  = ~Vielleicht kriegen wir ja Straferlass, wenn wir uns gegeneitig je eins klauen, wegen Handlung aus Nächstenliebe.~
+@119  = ~Vielleicht kriegen wir ja Straferlass, wenn wir uns gegenseitig je eins klauen, wegen Handlung aus Nächstenliebe.~
 @120  = ~*kichert* Wird nicht klappen. <CHARNAME> hat uns gerade einen scharfen Blick zugeworfen!~
 @121  = ~Ja, meine wunderbaren Tiere sind immer ein erfreulicher Anblick!~
 @122  = ~*seufzt* Nun sind sie weg.~
@@ -137,7 +137,7 @@
 @132  = ~Schnell! Lasst uns jemanden töten. Bevor es ein *gestohlener Hamster* ist, der uns ins Gefängnis bringt!~
 @133  = ~Ich könnte einfach Euch töten, damit wären alle Probleme gelöst. Eure allemal.~
 @134  = ~Und dann für uns beide ins Gefängnis gehen? Ihr seid so selbstlos!~
-@135  = ~Das Stehlen eines Hamsters... Von allen vorstellbaren Möglichkeiten des unkontrollierbaren Unheils, das uns jederzeit ereilen könnte, ist dies zugegebener maßen... unerwartet.~
+@135  = ~Das Stehlen eines Hamsters... Von allen vorstellbaren Möglichkeiten des unkontrollierbaren Unheils, das uns jederzeit ereilen könnte, ist dies zugegebenermaßen... unerwartet.~
 @136  = ~Oh, kann ich ihn haben? Minsk, Ihr habt bereits einen. Das ist so unfair!~
 @137  = ~Äh, <CHARNAME>... Das ist ein *weiblicher* Hamster. Wir sollten ihn bald zurückbringen, oder wir haben bald noch mehr... Zumindest sollten wir die beiden räumlich trennen!~
 @138  = ~Nein, dieser Hamster bleibt bei Minsk.~
@@ -172,12 +172,12 @@
 @166  = ~Oh, Dorn! Ihr seid so... pragmatisch in Euren Ansichten. Ich möchte sie einfach nur knuddeln!~
 @167  = ~Wenn der Hunger Euch übermannt, werdet Ihr schnell genug aufhören mit "Knuddeln", Mensch.~
 @168  = ~Der Hunger wird mich nicht übermannen, weil ich gerade Eure geheimen Vorräte stibitzt habe... Nein, schaut mich NICHT so an ES WAR EIN SCHERZ! Es war ein Scherz, Dorn. Meine Güte!~
-@169  = ~Oh! Süße kleine Hamster gibt es auch... Wir könnten einen der Käfige keufen, für den Fall, dass meine Magie... Äh, ich habe nichts gesagt. Vergesst es!~
+@169  = ~Oh! Süße kleine Hamster gibt es auch... Wir könnten einen der Käfige kaufen, für den Fall, dass meine Magie... Äh, ich habe nichts gesagt. Vergesst es!~
 @170  = ~Dies erscheint eine simple Lösung. Und sicherlich besser, als sie in der Wildnis auszusetzen.~
 @171  = ~Ich bin mir nicht so sicher, dass dies für die Tiere die bessere Lösung ist als ein kurzes, aber freies Leben in der Natur. Kinder können sehr grausam sein, manchmal.~
 @172  = ~Es *war* lustig, sie dabei zu haben, zumindest bis zu einem gewissen Punkt. Ein bisschen wie das Ergebnis wilder Magie, bei der man nie weiß, wohin es führt... und ich war nicht dafür verantwortlich, ähem.~
 @173  = ~Oh, ich fürchte, dieser Hamster gehört diesem Kleintierverkäufer. Er hat ihn uns nicht gegeben, wir haben nicht dafür bezahlt. Wir sollten ihn so schnell wie möglich zurückgeben!~
-@174  = ~Haben wir genug Futter für zwei? Ich habe ein paar Nüsse, die trage ich immer bei mir, für den Fall, dass ich wieder... Äh, Ihr sagt bescheid, Minsk, ja?~
+@174  = ~Haben wir genug Futter für zwei? Ich habe ein paar Nüsse, die trage ich immer bei mir, für den Fall, dass ich wieder... Äh, Ihr sagt Bescheid, Minsk, ja?~
 @175  = ~Nein! Nein! Ich werde sie nicht nehmen. Glaubt Ihr, ich brauche... Gefährten, wenn meine Magie nächstes Mal wieder verrückt spielt, oder was? Danke auch!~
 @176  = ~Nun, ich habe wahrlich keinen Bedarf für solche Haustiere, aber wir müssen sie versorgen, fürchte ich... <CHARNAME>, es wäre angebracht, eine Lösung für dieses Dilemma zu finden... und zwar schnell!~
 @177  = ~Wir sind Krieger! Wir kämpfen! Wir kümmern uns nicht um Haustiere. *Ich* kümmere mich nicht um Haustiere!~

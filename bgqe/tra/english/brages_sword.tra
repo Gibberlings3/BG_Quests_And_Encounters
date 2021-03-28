@@ -3,7 +3,7 @@
 @1    = ~Wow, this was impressive. We *knew* our Commander didn't lose his mind! The poor man has a lot to face now. I wouldn't want to go on, knowing I butchered my family! Still, thank you for collecting the evidence. He shouldn't be remembered as a crazy murderer.~
 @2    = ~Wow, I never would have thought Brage really lost his mind. I guess he will be remembered as a crazy murderer.~
 @3    = ~Sorry 'bout yelling at ya in there. It's just because of our Commander. If we didn't let him go on that mission alone... But he insisted, because it was supposed to be only one corpse. But when we finally got there, all we found was a smashed pushwagon and the Commander's old sword inb'tween, so we thought he'd be in trouble. And then we got back here and... and found his family and... You're not gonna tell our lieutenant 'bout my yelling, are you? No hard feelings, eh?~
-@4    = ~You are wanted for murder, Commander Brage. I am here to bring you to justice. Accompany me to the authorities of Nashkel, to recieve your final judgement.~
+@4    = ~You are wanted for murder, Commander Brage. I am here to bring you to justice. Accompany me to the authorities of Nashkel, to receive your final judgement.~
 @5    = ~I stand before you in my guilt. Many lives I have taken... and I know not why. Bestow your judgement upon me. I am ready to receive the sentence that I have brought upon myself with my evil deeds.~
 @6    = ~Brage, what happened that night?~
 @7    = ~Farewell.~
@@ -36,7 +36,7 @@
 @34   = ~Brage. This sword is yours, you payed for it. Take it!~
 @35   = ~Brage. The sword is yours, and I want you to take it.~
 @36   = ~Wha-? No. No, I will never take a sword into my hands again. You keep it, good <PRO_MANWOMAN>. It will do much more good in your hands.~
-@37   = ~Do not shame me so, <CHARNAME>. Surely you see why I cannot take up a sword again?! Sell it if you don't need it, but I will not touch it.~
+@37   = ~Why are you tormenting me, <CHARNAME>? Surely you see that I cannot take up a sword again! Sell it if you don't need it, but I will not touch it.~
 @38   = ~But... why? Why do you insist on this? Is it not clear that I should never take up a sword again?~
 @39   = ~You said you wanted to earn as much gold as possible to pay for the widows and orphans. Well, fighting and protecting people is all you ever learned, Brage. I am sure cleaning the temple is important work, but don't you think you could gather more gold by working as a mercenary, or as a personal guard if that suits you better?~
 @40   = ~Well, sell it yourself if you don't want to keep it. Either way, it's yours.~
@@ -89,7 +89,7 @@
 @86   = ~I watched your investigations with great interest, <CHARNAME>. I found hope again for my cousin. May the gods bless you.~
 @87   = ~Which brings us to why I am here. I noticed you showed a certain... interest in proving Brage's innocence. You can imagine how this is to my interest, as well. I did a bit of investigation, and indeed found something. I located the drunk who report on the corpse on the road that started this whole ordeal. Through him, I identified others who were on the Way that night. It seems there was a merchant on the roads - one with a very shady reputation.~
 @88   = ~We found this letter with a fake merchant. It clearly states that the sword Brage ordered was swapped with a cursed one.~
-@89   = ~We found this letter with the bandits in the mines. It clearly states that it was planned to weaken the Nashkel Garrison though some foul trickery with Brage's sword.~
+@89   = ~We found this letter with the bandits in the mines. It clearly states that it was planned to weaken the Nashkel Garrison through some foul trickery with Brage's sword.~
 @90   = ~About Brage...~
 @91   = ~Yes, what of him?~
 @92   = ~Brage is in prison, as you know. I am investigating what happened and would like to ask him a few questions. Can I talk to him?~
@@ -100,7 +100,7 @@
 @97   = ~Still, this doesn't prove the 'Commander' didn't intentionally take up this sword - to carry out these evil deeds as had planned!~
 @98   = ~Hm, yes, this proves that it was *planned* to switch Brage's sword with a cursed one.~
 @99   = ~It doesn't prove that it *was* a cursed blade with which the cursed Brage started butchering innocents and his own comrades, though!~
-@100  = ~This means there is proof that Brage had a cursed sword *and* was tricked into taking it. I will talk to Mayor Gahstkill about this, though it makes my heart ache to know such a murderer might go free. Very well, it may well be that there will be a trial the next time you are here.~
+@100  = ~This means there is proof that Brage had a cursed sword *and* was tricked into taking it. I will talk to Mayor Ghastkill about this, though it makes my heart ache to know such a murderer might go free. Very well, it may well be that there will be a trial the next time you are here.~
 @101  = ~Oh, a cursed sword now, is it? Yes, I would call a blade that was used to kill innocents as much as this one 'cursed'. If you refer to witchcraft, however, it is a pity we *have* neither Brage nor the sword here to prove anything, isn't it?~
 @102  = ~Hmph. I guess there is no reason why not. But I warn you, do not think about doing something stupid. And - choose your questions well, because there won't be another chance.~
 @103  = ~What...~
@@ -170,7 +170,7 @@
 
 @1000 = ~Captain Brage's Guilt
 
-Lieutennant Bardolan mentioned something about the Commander of the Nashkel garrison being missing. The streets are rife with rumours that something very bad has happened.~
+Lieutenant Bardolan mentioned something about the Commander of the Nashkel garrison being missing. The streets are rife with rumours that something very bad has happened.~
 @1001 = ~Captain Brage's Guilt
 
 One of the Amnish soldiers told me that his Commander Brage went on a mission alone the night he went berserk. The interesting thing about it was that he didn't have is old sword when he started these murders.~

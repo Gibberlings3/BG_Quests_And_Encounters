@@ -192,11 +192,11 @@
 @186   = ~Das Kind wird hoffentlich angemessen bestraft. Es gibt keine Entschuldigung dafür, die Existenz der eigenen Gemeinschaft so zu gefährden!~
 @187   = ~Oh, nein! Hoffentlich tun sie das nicht!~
 @188   = ~Was geht mich das hier eigentlich an? Oberweltler und ihre Probleme, pah!~
-@189   = ~Damit sind ihre Probleme hoffentlich gelöst. Es wäre ein Jammer, sie weiterhin in Schierigkeiten zu sehen.~
+@189   = ~Damit sind ihre Probleme hoffentlich gelöst. Es wäre ein Jammer, sie weiterhin in Schwierigkeiten zu sehen.~
 @190   = ~Es ist großartig, dass sie jetzt alle glücklich sind, und so weiter, aber wie lange gedenkt Ihr eigentlich noch in dieser Stadt zu verweilen?~
 @191   = ~Es ist immer wieder seltsam zu sehen, welche Auswirkungen ein Zuwenig an Kommunikation haben kann. Nun, ich sollte vielleicht lieber schweigen, wenn ich bedenke, was *zu viel* Reden in meinem Fall für Auswirkungen hatte *seufzt*.~
 @192   = ~Gebt Euch nicht dem Gefühl der Schuld hin, mein Freund. Diese Bastarde haben uns alle leiden lassen.~
-@193   = ~Dieser Familie zu helfen mag nichtig und unwichtig erscheinen, aber jede gute Tat lässt die Wagschale zur richtigen Seite ausschlagen.~
+@193   = ~Dieser Familie zu helfen mag nichtig und unwichtig erscheinen, aber jede gute Tat lässt die Waagschale zur richtigen Seite ausschlagen.~
 @194   = ~Ihr nehmt mir die Worte aus dem Mund! Wir arbeiten in großen und kleinen Schritten gegen das Böse, dass sich an der Schwertküste niedergelassen hat, und das ist gut.~
 @195   = ~Wir haben eine gute Tat für eine Familie gutherziger Menschen getan. Ich danke Euch, <CHARNAME>.~
 @196   = ~Wir sollten mit diesen guten Taten vorsichtig sein. Zuviel von einer Sache führt immer zur Maßlosigkeit.~
@@ -204,7 +204,7 @@
 @198   = ~Ausgeglichen? Ich könnte auf die guten Taten komplett verzichten.~
 @199   = ~Es ist sch-schön, diese Menschen wieder vereint zu sehen.~
 @200   = ~Jetzt, da sie alle aufgereiht nebeneinander stehen, würde ein Axthieb genügen, um das ganze hier ein für alle mal zu beenden. <CHARNAME>, sagt, dass das Eure Intention war! Ihr hört Euch nicht länger dieses Gesabbel an, oder?!~
-@201   = ~Es gibt immer wieder Momente, in denen das beste Lied und die süßeste Melodie keinen Frohsinn verbreiten können, sondern es schlicht und ergreifend einer Handvoll Gold bedarf. Äh, sowas in der Tat ging mir auch durch den Kpf, als ich Euch für Silke angeheuert habe...~
+@201   = ~Es gibt immer wieder Momente, in denen das beste Lied und die süßeste Melodie keinen Frohsinn verbreiten können, sondern es schlicht und ergreifend einer Handvoll Gold bedarf. Äh, sowas in der Tat ging mir auch durch den Kopf, als ich Euch für Silke angeheuert habe...~
 @202   = ~Noch eine Familie, in der alle so tun, als würden sie sich lieb haben - bäh!~
 @203   = ~Nun schauen sie alle froh... aber wird es von Dauer sein?~
 @204   = ~Xan, in Euren Erinnerungen wird es fortdauern bis in alle Ewigkeit. Elfengedächtnis und so?~
@@ -237,7 +237,7 @@
 @231   = ~N-natürlich.~ 
 @232   = ~Was für ein Idiot! Da hätte er extra Gold haben können, und er bringt es zurück!~
 @233   = ~Er hat die Bedeutungslosigkeit seiner Existenz erkannt, wie wir es alle sollten.~ 
-@234   = ~Ich finde es äußerst erfeulich, dass er es zurückbringt!!~ 
+@234   = ~Ich finde es äußerst erfreulich, dass er es zurückbringt!!~ 
 @235   = ~<CHARNAME>, nächstes mal, wenn Ihr zu viel Gold habt, dann gebt es einfach uns.~
 @236   = ~Die Kette war schön, aber so ist es noch viel besser. Hast du ihren Blick gesehen?~ 
 @237   = ~Glückliche Kinderaugen! Oh, das ist großartig, nicht wahr, Boo?~ 
@@ -261,7 +261,7 @@
 @251   = ~Wir sollten jetzt aber mal das, nun, Beweisstück verschwinden lassen, am besten indem wir Gold dafür bekommen.~
 
 //Dorn
-@252   = ~Die Zeit hat für uns gearbeitet. Welch effektive und gleichzeitig unanstengende Methode, um andere zu zerstören. Viel zu unanstrengend, für meinen Geschmack.~
+@252   = ~Die Zeit hat für uns gearbeitet. Welch effektive und gleichzeitig unanstrengende Methode, um andere zu zerstören. Viel zu unanstrengend, für meinen Geschmack.~
 
 //Baeloth
 @253   = ~Das Zurückhalten von fremdem Eigentum würde ich nicht unbedingt als "nichts tun" bezeichnen, aber ja, dies war eindeutig effektiv destruktives Verhalten in Anbetracht des minimalen Aufwandes, den es erfordert hat.~

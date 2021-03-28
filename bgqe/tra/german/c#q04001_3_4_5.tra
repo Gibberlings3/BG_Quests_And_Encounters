@@ -31,7 +31,7 @@
 @30   = ~Unter den gegeben Umständen muss ich ihr die Möglichkeit geben, sich zu erklären. Es wird mir aber langsam etwas zu bunt!~
 @31   = ~Führt endlich die Verhaftung durch! Unser Sohn wäre beinahe getötet worden!~
 @32   = ~Und die kleine Grasschlange! Die Expresslieferung des Eies aus Tiefwasser hat mich ganze 500 Goldmünzen gekostet. Ich möchte die Ausgaben erstattet haben!~ 
-@33   = ~"Grasschlange"? Arnim, meinst du nicht, dass es langsam an der zeit ist, deinen Eltern die Wahrheit zu sagen?~ 
+@33   = ~"Grasschlange"? Arnim, meinst du nicht, dass es langsam an der Zeit ist, deinen Eltern die Wahrheit zu sagen?~ 
 @34   = ~Und ich wiederhole, dass es keine kleine Schlange, sondern ein Lindwurmbaby war. Euer Sohn lügt Euch an.~ 
 @35   = ~Hört endlich auf mit diesem Lindwurm! ...Nun, das Ei erschien mir in der Tat etwas... groß, aber der Händler meinte, es wäre eine besondere Zucht...~ 
 @36   = ~Arnim?!~
@@ -75,7 +75,7 @@
 @69   = ~Und wieder triumphiert gesunder Menschenverstand. Einen Moment lang befürchtete ich, dass die Situation eskalieren würde.~
 @70   = ~Ich verstehe die ganze Aufregung nicht. Die Drow haben Kreaturen als Haustiere, die sehr viel gefährlicher als ein frisch geschlüpfter Lindwurm sind. Der Mann sollte sich über diese Möglichkeit für seinen Sohn freuen, seine Kräfte zu üben!~
 @71   = ~Der verschmort jetzt hoffentlich im Gefängnis, nachdem er versucht hat, uns diese Sache so anzuhängen.~
-@72   = ~Was für ein Missverständnis. Dies kommt heraus, wenn Leute mit, ähem, niederen intellektuellen Fähigkeiten versuchen zu komunizieren. Lasst mich nächstes mal das Sprechen übernehmen, <CHARNAME>.~
+@72   = ~Was für ein Missverständnis. Dies kommt heraus, wenn Leute mit, ähem, niederen intellektuellen Fähigkeiten versuchen zu kommunizieren. Lasst mich nächstes mal das Sprechen übernehmen, <CHARNAME>.~
 @73   = ~Tiax hört Worte des Lobpreises. Ja, Bürgerlicher, Ihr dankt der richtigen Person. Ich, Tiax, habe die Monster getötet!~
 @74   = ~Tiax, es war nur eins, und obendrein ein Baby.~
 @75   = ~Ah! Lärm macht Tiax' Ohren taub!~
@@ -92,20 +92,20 @@
 @86   = ~Minsk muss sich in Erinnerung rufen, dass dies ein Unschuldiger ist! Sein Hintern bekommt sonst einen kräftigen Tritt!~
 @87   = ~Der Gedanke an eine Grasschlange als Haustier... *schüttelt sich*~
 @88   = ~Eine Grasschlange mag einfach wirken, aber sie kann sehr teuer sein, wenn sie aus einer guten Züchtung kommt. Ich kann den Ärger des Mannes verstehen.~
-@89   = ~Wenn mein Vater mir so ein Haustier geschenkt hätte, dann hätte ich... ich hätte... Hm, eigentlich ist es ein wiztiger Gedanke. Irgendwie... exotisch.~
+@89   = ~Wenn mein Vater mir so ein Haustier geschenkt hätte, dann hätte ich... ich hätte... Hm, eigentlich ist es ein witziger Gedanke. Irgendwie... exotisch.~
 @90   = ~Die Vorstellung, dass da ein Lindwurm aus dem Ei gekommen ist!~
 @91   = ~Guter Hinweis. Ich bin mir ziemlich sicher, dass ich das nicht gemocht hätte.~
 @92   = ~Der arme Junge. Er wird sich nie mehr trauen, Eier einzusammeln: Frösche, Schnecken, Schildkröten; Weil er nie sicher sein wird, was schlussendlich wirklich dabei heraus kommt!~
 @93   = ~Weil man es ja auch nie wirklich weiß. Was war ich stolz auf die Eier, die meine gefangenen Frösche vermeintlich in das Glas gelegt hatten... und heraus kamen hunderte kleine Wasserschnecken! Wobei mir klar ist, dass meine Enttäuschung wohl kein Vergleich ist zu der Angst, die dieser Junge gefühlt haben muss.~
 @94   = ~Ich weiß, warum ich nie etwas Lebendiges händeln wollte. Die Vorstellung eines schlüpfenden Monsters in einer Lieferung... Und genau das ist hier passiert, und auch noch zu einem Kind. Das ist das Schlimmste.~
-@95   = ~Sowas währe mir nie passiert. Ich koche die Eier immer erst. So schmecken sie eh besser.~
+@95   = ~Sowas wäre mir nie passiert. Ich koche die Eier immer erst. So schmecken sie eh besser.~
 @96   = ~Sehr witzig, Coran.~
 @97   = ~Bin ich die Einzige, die sich fragt, wohin das falsche Ei geliefert wurde? Und... wer würde denn bitte einen Lindwurm bestellen? Wenn wir davon ausgehen, dass dies eine verwechselte Lieferung war.~
 @98   = ~Wenigstens wissen wir bereits, wohin das Schlangenei geliefert wurde. Und dass es keine weiteren verwechselten Lieferungen geben wird!~
 @99   = ~Wenn dieser Vorfall nicht hätte aufgeklärt werden k-können, wäre das sehr schlimm gewesen.~
 @100  = ~Es ist gut zu wissen, dass dieser Vorfall geklärt werden konnte. Damit meine ich sowohl den frei laufenden Lindwurm, als auch die falschen Anschuldigungen. Und wir haben ein Kind gerettet.~
-@101  = ~Ja! Aber es macht doch alles Sinn! Wir habe einen wertvollen Besitz dieses Mannes zerstört, und nun versucht er als der Monsterbändiger, alle daran Beteiligten abzustrafen. Ah, ich fühle mich fast wie zu hause.~
-@102  = ~Die Kreatur haben wir bereits getötet. Wenn diese Familie nicht bald Ruhe gibt, habe ich kein Problam damit, mit ihr weiterzumachen.~
+@101  = ~Ja! Aber es macht doch alles Sinn! Wir haben einen wertvollen Besitz dieses Mannes zerstört, und nun versucht er als der Monsterbändiger, alle daran Beteiligten abzustrafen. Ah, ich fühle mich fast wie zu hause.~
+@102  = ~Die Kreatur haben wir bereits getötet. Wenn diese Familie nicht bald Ruhe gibt, habe ich kein Problem damit, mit ihr weiterzumachen.~
 @103  = ~Manche Leute brauchen noch nicht einmal Magie, um andere in Schwierigkeiten zu bringen! Komplette Ignoranz und Borniertheit reichen völlig!~
 
 /* new content v10 */

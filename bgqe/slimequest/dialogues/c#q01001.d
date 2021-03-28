@@ -720,7 +720,8 @@ InParty("%IMOEN_DV%") Detect("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOT
 = @48 
 == C#Q01001 @49  
 END
-++ @50 DO ~SetGlobal("C#Q01_Retransformation","GLOBAL",2) TakePartyItem("C#Q01002")~ EXTERN C#Q01002 elto_01
+++ @50 DO ~SetGlobal("C#Q01_Retransformation","GLOBAL",2) 
+ActionOverride("C#Q01002",TakePartyItem("C#Q01002"))~ EXTERN C#Q01002 elto_01
 + ~Gender(Player1,male)~ + @51 DO ~SetGlobal("C#Q01_Retransformation","GLOBAL",2)~ EXTERN C#Q01002 elto_03
 + ~Gender(Player1,female)~ + @52 DO ~SetGlobal("C#Q01_Retransformation","GLOBAL",2)~ EXTERN C#Q01002 elto_03
 ++ @53 DO ~SetGlobal("C#Q01_Retransformation","GLOBAL",2)~ EXTERN C#Q01002 elto_03
@@ -898,7 +899,7 @@ IF ~~ THEN DO ~%ERASEJOURNALENTRY_10001% %ERASEJOURNALENTRY_10002% %ERASEJOURNAL
 APPEND C#Q01002
 IF ~~ THEN elto_03
 SAY @58
-++ @59 DO ~SetGlobal("C#Q01_EltoFriendly","GLOBAL",2) TakePartyItem("C#Q01002") GiveGoldForce(200) AddexperienceParty(500)~ %SOLVED_JOURNAL% @10003 + elto_02
+++ @59 DO ~SetGlobal("C#Q01_EltoFriendly","GLOBAL",2) ActionOverride("C#Q01002",TakePartyItem("C#Q01002")) GiveGoldForce(200) AddexperienceParty(500)~ %SOLVED_JOURNAL% @10003 + elto_02
 END
 
 IF WEIGHT #1 ~Global("C#Q01_AlannaDead","GLOBAL",1)~ THEN alanna_dead

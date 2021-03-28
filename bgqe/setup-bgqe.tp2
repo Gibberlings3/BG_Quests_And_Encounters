@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v23~ 
+VERSION ~v24~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -568,6 +568,15 @@ LANGUAGE ~Italiano~
          ~bgqe/tra/italiano/setup.tra~
          ~bgqe/tra/italiano/bgqe_game.tra~
 
+LANGUAGE ~Russian~
+         ~russian~
+         ~bgqe/tra/english/setup.tra~
+         ~bgqe/tra/Russian/bgqe_game.tra~
+
+LANGUAGE ~Polski~
+         ~polski~
+         ~bgqe/tra/Polski/setup.tra~
+         ~bgqe/tra/Polski/bgqe_game.tra~
 
 /*
 LANGUAGE ~Espanol~
@@ -576,18 +585,6 @@ LANGUAGE ~Espanol~
          ~bgqe/tra/espanol/bgqe_game.tra~
 */
 
-LANGUAGE ~Russian~
-         ~russian~
-         ~bgqe/tra/Russian/setup.tra~
-         ~bgqe/tra/Russian/bgqe_game.tra~
-/*
-
-LANGUAGE ~Polski~
-         ~polski~
-         ~bgqe/tra/Polski/setup.tra~
-         ~bgqe/tra/Polski/bgqe_game.tra~
-
-*/
 
 
 
@@ -597,6 +594,8 @@ LANGUAGE ~Polski~
 
 BEGIN @38 DESIGNATED 0 LABEL bgqe_slimequest
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
    
 COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Dialogues/C#Q01001.D~
 COMPILE EVALUATE_BUFFER ~bgqe/SlimeQuest/Dialogues/C#Q01004.D~
@@ -669,6 +668,8 @@ END
 ///////////////////////////////////////////////////////////////
 BEGIN @13 DESIGNATED 1 LABEL bgqe_familyquest
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
    COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Scripts/C#Q02006.baf~
    COMPILE EVALUATE_BUFFER ~bgqe/Familytreasure/Scripts/C#Q02007.baf~
@@ -713,6 +714,8 @@ END
 //////////////////////////////////////////////////////////////////////
 BEGIN @19 DESIGNATED 2 LABEL bgqe_babysitting
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 COPY ~bgqe/Babysitting/BAMs~ ~override~
 
@@ -890,6 +893,8 @@ END
 /////////////////////////////////////////////////////////////////
 BEGIN @39 DESIGNATED 3 LABEL bgqe_nashkelmonster
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ADD_JOURNAL TITLE (@10027) @10026 @10028 @10029 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1054,6 +1059,8 @@ WRITE_ASCII 0x2cc ~C#Q04009~
 /////////////////////////////////////////////////////////////
 BEGIN @43 DESIGNATED 4 LABEL bgqe_fallenpaladin
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ADD_JOURNAL TITLE (@10036) @10037 @10038 @10039 @10040 @10041 @10042 @10043 @10044 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1131,6 +1138,8 @@ COPY ~bgqe/FallenPaladin/Creatures/C#Q05007.CRE~ ~Override/C#Q05007.CRE~
 /////////////////////////////////////////////////////////////
 BEGIN @48 DESIGNATED 5 LABEL bgqe_undyinglove
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ADD_JOURNAL TITLE (@10045) @10046 @10047 @10048 @10049 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1161,6 +1170,8 @@ COPY ~bgqe/UndyingLove/Creatures/C#Q06002.CRE~ ~Override/C#Q06002.CRE~
 /////////////////////////////////////////////////////////////
 BEGIN @50 DESIGNATED 6 LABEL bgqe_orclover
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ADD_JOURNAL TITLE (@10050) @10051 @10052 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1239,6 +1250,8 @@ COPY ~bgqe/OrkLover/Creatures/C#Q07005.CRE~ ~Override/C#Q07005.CRE~
 /////////////////////////////////////////////////////////////
 BEGIN @56 DESIGNATED 7 LABEL bgqe_unexpectedhelp
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ADD_JOURNAL TITLE (@10053) @10054 @10055 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1279,6 +1292,8 @@ COPY ~bgqe/UnexpectedHelp/Creatures/C#Q08002.CRE~ ~Override/C#Q08002.CRE~
 /////////////////////////////////////////////////////////////
  BEGIN @61 DESIGNATED 8 LABEL bgqe_manypaws
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ADD_JOURNAL TITLE (@10056) @10057 @10058 @10059 @10060 @10069 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1379,6 +1394,8 @@ END
 /////////////////////////////////////////////////////////////////
 BEGIN @98 DESIGNATED 9 LABEL bgqe_drunk
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 
 ADD_JOURNAL TITLE (@10061) @10062 @10063 @10068 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1415,8 +1432,10 @@ COMPILE EVALUATE_BUFFER ~bgqe/drunk/drunk_beregosttemple.d~
 
 BEGIN @105 DESIGNATED 10 LABEL bgqe_noober
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
-ADD_JOURNAL TITLE (@66) @10 @17 @18 @31 @51 @59 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
+ADD_JOURNAL TITLE (@66) @10 @17 @18 @32 @33 @51 @59 @65 @83 @84 USING ~bgqe/tra/%LANGUAGE%/lc_noober.tra~
 
 /* BGT: Erase journal entries upon transition to BGII */
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
@@ -1473,6 +1492,8 @@ BEGIN @5000 /* ~Brage's Sword~ */ DESIGNATED 11 LABEL bgqe_bragesword
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
 REQUIRE_PREDICATE NOT MOD_IS_INSTALLED ~setup-c#brage.TP2~ "0" @5007 /*~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~ */
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 INCLUDE ~bgqe/tpa/brages_sword_bgqe.tpa~
 
@@ -1484,6 +1505,8 @@ INCLUDE ~bgqe/tpa/brages_sword_bgqe.tpa~
 BEGIN @5001 /* ~Legal Sea Charts Sources~ */ DESIGNATED 12 LABEL bgqe_seacharts
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 
 /* Bgqe Erweiterte H‰ndlerliga: Aldeth und die Werwolfinsel, von Lumorus */
@@ -1667,6 +1690,8 @@ COMPILE EVALUATE_BUFFER ~bgqe/seacharts/CalaBald/calabald.d~
 
 BEGIN @5002 /* ~Additions to the House of the Lady and the Bitch Queen's Temple~ */ DESIGNATED 13 LABEL bgqe_waterqueentemple
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 
 COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/lothanders_geas.d~
@@ -1683,6 +1708,8 @@ COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/tremains_son.d~
 BEGIN @5004 DESIGNATED 14 LABEL bgqe_worriedfarmer
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 
 ADD_JOURNAL TITLE (@2007) @2004 @2005 @2006 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
@@ -1754,6 +1781,8 @@ LAF extend_area_script STR_VAR area="%Beregost_House08%" bottom="bgqe/farmer/baf
 
 BEGIN @5005 DESIGNATED 15 LABEL bgqe_bodiesforgoodcause
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
   OUTER_SPRINT ~PC_Kit_MAGESCHOOL_NECROMANCER~ ~False()~ 
@@ -1798,6 +1827,8 @@ COMPILE EVALUATE_BUFFER ~bgqe/Sylar/d~
 BEGIN @5009 /* ~Cordyrs Quest ohne Sil's Tod abschlieﬂen~ */
 DESIGNATED 16 LABEL bgqe_cordyrnokillingsil
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
+FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 /* ~Cordyr and the Sirines~ */
 ACTION_IF GAME_IS ~bgee~ THEN BEGIN

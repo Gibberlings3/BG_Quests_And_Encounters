@@ -232,9 +232,16 @@ Have fun playing this quest mod!
 -jastey
 
 
+
 Annalena: alpha and beta testing, ideas for quest development / NPC-reactions, proof-reading of German translation
 
 Angel: thank you for the hamster BAM (c#q10004.bam), item fixes and more for v21
+
+arcanecoast.ru team: Russian translation
+
+Aristo: Polish translation, proofreading (English, German)
+
+Austin: proofreading (Russian)
 
 berelinde: proofreading of English translation
 
@@ -248,7 +255,11 @@ Coland: heavy revision of Italian translation and translations of new component 
 
 cujo: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
+d0lphin: Russian translation
+
 Drogan Di'Umptu: alpha and beta testing
+
+Elisabeth: proofreading (French)
 
 Erg: beta testing
 
@@ -256,9 +267,23 @@ Gerri: alpha and beta testing
 
 grogerson: alpha and beta testing, proofreading of English translation
 
+hawkmoon: Russian translation
+
 Hedian: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 hook71: proofreading of English translation
+
+ilot: Italian translation
+
+Jakkus: Italian translation
+
+Jazira: French translation
+
+jojo678: Italian translation
+
+Le Marquis: proofreading (French)
+
+Lord Hagen (GIMT): Italian translation
 
 Lumorus: author, alpha and beta testing, ideas for quest developpment
 
@@ -270,13 +295,17 @@ Shuv-Oohl: author
 
 Sir Darian: alpha and beta testing
 
+Stoneangel: Italian translation
+
 StoneDog: proofreading of English translation
 
 Twani: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 White Agnus: author, alpha and beta testing
 
-Zed Nocear: Coding of spell effect, alpha and beta testing, ideas for quest developpment / NPC-reactions
+yota13: Russian Translation
+
+Zed Nocear: Coding of spell effect, alpha and beta testing, ideas for quest developpment / NPC-reactions, Polish translation
 
 zenblack: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
@@ -298,8 +327,9 @@ Updates v12 - 22 completed by ilot, mapnotes by jojo678.
 Old translations of v12 by Stoneangel.
 First translation of the slimequest by Jakkus & Lord Hagen (GIMT). 
 
+Polish translation: Aristo and Zed Nocear
+
 -old translations v8:
-Polish translation: Zed Nocear
 Spanish translation: Excalibur (slime quest), Immortality (proofreading)
 
 -hosting-
@@ -349,6 +379,17 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORY
+
+Version 24:
+-added Polish version, by Aristo and Zed Nocear.
+-Slimequest: Eltolth should take his journal and not put it into inventory of interjecting NPCs.
+-Unexpected Help: Linda should never be in tavern after meeting her outside.
+-Warm Place for Noober: all journal entries should be inserted correctly in EE, all entries should be removed when quest is done.
+-typo corrections (English, German).
+-corrected entry for "Beregost_House08_L2" in cmpvars.tpa.
+-Russian version now uses setup.tra out of English language folder.
+-added check to forbid installation after EET_End.
+-French version typo corrections and WEIDU prompts.
 
 Version 23:
 -new component added: "Finish Cordyr's Quest without killing Sil" by Lumorus, coding by jastey. Russian translation by yota13, proofreading by Austin. Italian translation by Coland. French translation by Jazira.
