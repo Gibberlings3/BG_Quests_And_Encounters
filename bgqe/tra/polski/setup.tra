@@ -20,8 +20,9 @@
 @5002 = ~Instalacja questu "Dodatki do Domu Pani oraz Swiatyni Krolowej Suki"~
 @5003 = ~Twoja instalacja SoD musi zostac odpowiednio przygotowana do instalowania modow. Plik readme zawiera wiecej informacji oraz linki do programow: DLC Merger oraz Modmerge.~ 
 @5004 = ~Instalacja questu "Zaniepokojony rolnik"~ 
-@5005 = ~Instalacja questu "Zw³oki w szczytnym celu"~
+@5005 = ~Instalacja questu "Zwloki w szczytnym celu"~
 @5006 = ~Ten komponent nie jest kompatybilny z oryginalnym Baldur's Gate 1.~ 
 @5007 = ~Zadanie "Miecz Brage'a" jest juz zawarte w modzie "Brage's Redemption".~
 @5008 = ~Mod bgqe nie jest kompatybilny z ta gra.~
 @5009 = ~Instalacja questu "Ukonczenie zadania Cordyra bez zabijania Sil"~
+@5010   = ~Ten mod powinien byc zainstalowany przed EET_End podczas instalacji EET.~
