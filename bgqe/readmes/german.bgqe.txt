@@ -371,6 +371,9 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORIE
 
+Version 24.1:
+-Polish setup.tra updated
+
 Version 24:
 -added Polish version, by Aristo and Zed Nocear.
 -Slimequest: Eltolth should take his journal and not put it into inventory of interjecting NPCs.
