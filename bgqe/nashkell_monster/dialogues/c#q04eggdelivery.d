@@ -33,7 +33,9 @@ END
 
 IF ~~ THEN delivery_00
 SAY @7
-IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",2) Enemy() EscapeArea()~ EXIT
+IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",2) 
+ActionOverride("C#Q04008",Enemy()) 
+ActionOverride("C#Q04008",EscapeArea())~ EXIT
 END
 
 IF ~~ THEN delivery_01
