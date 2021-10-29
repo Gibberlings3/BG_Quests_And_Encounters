@@ -374,6 +374,12 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORIE
 
+Version 25:
+-Italian setup.tra updated, by improbabile.
+-patching of Sil to make removing of turning hostile more stable.
+-changed dialogue for appearing spider into DisplayStringHead (egg should be removed after spider hatches).
+-added globally unique LABELs to support Project Infinity.
+
 Version 24.1:
 -Polish setup.tra updated
 
