@@ -1,4 +1,5 @@
-﻿@1    = ~Rilevato BG1Tutu. Sto usando il codice di installazione per BG1Tutu...~
+@0    = ~Baldur's Gate Mini-Quests and Encounters Mod~
+@1    = ~Rilevato BG1Tutu. Sto usando il codice di installazione per BG1Tutu...~
 @2    = ~Rilevato Baldur's Gate originale. Sto installando...~
 
 @9    = ~Rilevato BGT. Sto usando il codice di installazione per BGT...~
@@ -55,4 +56,4 @@
 @5009 = ~Completare la Missione di Cordyr senza uccidere Sil...~
 
 /* new for v24 */
-@5010   = ~This mod needs to be installed before EET_End on your EET install.~
+@5010   = ~This mod needs to be installed before EET End on your EET install.~
