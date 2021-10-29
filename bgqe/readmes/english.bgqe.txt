@@ -380,6 +380,10 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORY
 
+Version 24.2:
+-Italian setup.tra updated, by improbabile
+-patching of Sil to make removing of turning hostile more stable
+
 Version 24.1:
 -Polish setup.tra updated
 
