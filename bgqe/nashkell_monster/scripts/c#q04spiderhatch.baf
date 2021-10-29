@@ -8,8 +8,16 @@ IF
 	PartyHasItem("C#Q04001")
 THEN
 	RESPONSE #100
+		SetInterrupt(FALSE)
 		SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",9)
 		ActionOverride(Player1,CreateCreature("C#Q04009",[-1.-1]%FACE_0%))
-		ActionOverride("C#Q04009",%STARTDIALOGNOSET%([PC]))
+		ActionOverride("C#Q04009",TakePartyItem("c#q04001"))
+		ActionOverride("C#Q04009",DestroyItem("c#q04001"))
+		DisplayStringHead(Player1,@116)
+		%ERASEJOURNALENTRY_10031%
+		%ERASEJOURNALENTRY_10033% 
+		%ERASEJOURNALENTRY_10067%
+		AddJournalEntry(@10035%QUEST_DONE%)
+		SetInterrupt(TRUE)
 END
 

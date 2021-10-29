@@ -33,7 +33,9 @@ END
 
 IF ~~ THEN delivery_00
 SAY @7
-IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",2) Enemy() EscapeArea()~ EXIT
+IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",2) 
+ActionOverride("C#Q04008",Enemy()) 
+ActionOverride("C#Q04008",EscapeArea())~ EXIT
 END
 
 IF ~~ THEN delivery_01
@@ -419,37 +421,3 @@ SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",9) %ERASEJOURNALENTRY_10031% %ERASEJO
 END
 
 END //APPEND
-
-
-/* If Timer GlobalTimerExpired("c#q04_SpiderTimer","GLOBAL"), wraith spider will hatch -> in baldur.bcs for BGII, dplayer3.bcs in BG1. 
-
-
-
-IF
-	GlobalTimerExpired("c#q04_SpiderTimer","GLOBAL")
-	GlobalLT("C#Q04_WyvernDeliverer","GLOBAL",7)
-	PartyHasItem("C#Q04001")
-THEN
-	RESPONSE #100
-		SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",9)
-		CreateCreature("C#Q04009",[-1.-1]%FACE_0%)
-END
-
-
-
-*/ 
-
-
-
-BEGIN C#Q04009
-
-IF ~True()~ THEN hereiam
-SAY @116
-IF ~~ THEN DO ~TakePartyItem("c#q04001")
-DestroyItem("c#q04001")
-SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",9)
-%ERASEJOURNALENTRY_10031%
-%ERASEJOURNALENTRY_10033% 
-%ERASEJOURNALENTRY_10067%
-AddJournalEntry(@10035%QUEST_DONE%)~ EXIT
-END

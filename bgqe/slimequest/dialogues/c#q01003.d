@@ -15,7 +15,7 @@ END
 
 IF ~~ THEN slime_02
 SAY @4
-IF ~~ THEN DO ~GiveItemCreate("C#Q01002",[PC],1,0,0)~ EXIT
+IF ~~ THEN DO ~GiveItemCreate("C#Q01002",LastTalkedToBy(),1,0,0)~ EXIT
 END
 
 IF ~~ THEN slime_03

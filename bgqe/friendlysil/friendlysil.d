@@ -4,17 +4,15 @@ REPLACE_STATE_TRIGGER %tutu_var%sil 7 ~!Allegiance(Myself,[ENEMY])~
 
 REPLACE_STATE_TRIGGER %tutu_var%sil 11 ~Allegiance(Myself,[ENEMY])~
 
-REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 0 END BEGIN 0 END ~Shout(1)
-Enemy()~ ~~
+REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 0 END BEGIN END ~Enemy()~ ~~
+REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 1 END BEGIN END ~Enemy()~ ~~
 
-REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 1 END BEGIN 0 END ~Shout(1)
-Enemy()~ ~~
+REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 0 END BEGIN END ~Shout(1)~ ~~
+REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 1 END BEGIN END ~Shout(1)~ ~~
 
 /* bgee */
-REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 0 END BEGIN 0 END ~Shout(99)
-Enemy()~ ~~
-REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 1 END BEGIN 0 END ~Shout(99)
-Enemy()~ ~~
+REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 0 END BEGIN END ~Shout(99)~ ~~
+REPLACE_TRANS_ACTION %tutu_var%sil BEGIN 1 END BEGIN END ~Shout(99)~ ~~
 
 
 ADD_TRANS_TRIGGER %tutu_var%SIL 7 ~False()~ DO 0
