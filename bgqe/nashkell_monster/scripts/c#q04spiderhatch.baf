@@ -16,7 +16,7 @@ IF
 	PartyHasItem("C#Q04001")
 THEN
 	RESPONSE #100
-		ActionOverride(Player1,StartDialogOverride("player1",Player1))
+		ActionOverride(Player1,StartDialogOverride("C#Q04009",Player1))
 END
 
 IF

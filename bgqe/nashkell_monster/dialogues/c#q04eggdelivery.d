@@ -422,7 +422,7 @@ END
 
 END //APPEND
 
-APPEND player1
+BEGIN C#Q04009
 
 IF WEIGHT #-1
 ~Global("C#Q04_WyvernDeliverer","GLOBAL",10)~ THEN hereiam
@@ -434,5 +434,3 @@ IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",11)
 AddJournalEntry(@10035%QUEST_DONE%)
 CreateCreature("C#Q04009",[-1.-1]%FACE_0%)~ EXIT
 END
-
-END //APPEND

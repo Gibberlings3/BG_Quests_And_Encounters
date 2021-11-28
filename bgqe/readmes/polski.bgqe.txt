@@ -374,8 +374,12 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORIE
 
+Version 25.2:
+-fixed install error of "Nachkel Monster" for BG:EE (from v25.1).
+
 Version 25.1:
 -changed dialogue for appearing spider back into dialogue and egg should really be removed after spider hatches.
+-named Polish readme in correct syntax.
 
 Version 25:
 -Italian setup.tra updated, by improbabile.
