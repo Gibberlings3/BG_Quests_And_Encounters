@@ -32,6 +32,7 @@ IF
 	OR(2)
 		Global("C#q13Brage_FakeMerchant","GLOBAL",0)
 		Global("C#q13Brage_FakeMerchant","GLOBAL",1)
+	!Dead("BORDA") 
 	!Dead("Brage")
 	GlobalGT("C#q13Brage_NalinVouch","GLOBAL",1)
 	OR(2)

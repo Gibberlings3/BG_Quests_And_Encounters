@@ -380,6 +380,9 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORY
 
+Version 25.3:
+-"Brage's Sword": Larissa should not spawn twice if Borda was found and killed before finding and rescuing Brage.
+
 Version 25.2:
 -fixed install error of "Nashkel Monster" for BG:EE (from v25.1).
 
