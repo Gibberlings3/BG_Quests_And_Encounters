@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v25.3~ 
+VERSION ~v25.4~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -1212,16 +1212,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/OrkLover/Dialogues/cre_dialogues_Q07.d~
 
 END
 
-/* Workaround, as long as BG:EE's AR4300 has no scipt assigned and faulty ARAR4300.bcs is present */
-
-ACTION_IF GAME_IS ~bgee~ THEN BEGIN
-EXTEND_BOTTOM ~AR2700.bcs~ ~bgqe/OrkLover/Scripts/c#q07_ar2700_bgee.baf~
-      EVALUATE_BUFFER
-END
-
-ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN
 LAF extend_area_script STR_VAR area="%NorthNashkelRoad%" bottom="bgqe/OrkLover/Scripts/C#Q07_AR4300.baf" END
-END
 
 
 COMPILE EVALUATE_BUFFER ~bgqe/OrkLover/Scripts/C#Q07001.baf~
