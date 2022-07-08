@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v25.4~ 
+VERSION ~v25.5~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -1342,7 +1342,7 @@ SAY UNIDENTIFIED_DESC @64
 SAY IDENTIFIED_DESC @64
 
  
-EXTEND_BOTTOM ~%tutu_scriptbg%minsc.bcs~ ~bgqe/hamsterquest/Scripts/C#Q10_minsc.baf~
+EXTEND_BOTTOM ~%MINSC_BCS%.bcs~ ~bgqe/hamsterquest/Scripts/C#Q10_minsc.baf~
       EVALUATE_BUFFER USING ~bgqe/tra\%s\C#Q10001.tra~
 
 LAF extend_area_script STR_VAR area="%NashkelCarnival%" bottom="bgqe/hamsterquest/Scripts/C#Q10_AR4900.baf" END
