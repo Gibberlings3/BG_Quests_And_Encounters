@@ -1,3 +1,20 @@
+/* [Borda is still alive and has to appear a second time.] Laryssa spawns outside temple in Nashkel after Nalin looked at the sword: set variable */
+IF
+	Global("C#q13_LarissaSpawn","MYAREA",1)
+	OR(2)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",0)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",1)
+	AreaCheck("%Nashkel%")
+	GlobalGT("C#q13Brage_NalinVouch","GLOBAL",1)
+	OR(2)
+		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
+		Global("C#Q13_BragesSwordQuest","GLOBAL",6)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q13_LarissaSpawn","MYAREA",2)
+		IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",2)
+END
+
 IF
 	GlobalGT("BrageRiddle","GLOBAL",1)
 	AreaCheck("%ArchaeologicalSite%")

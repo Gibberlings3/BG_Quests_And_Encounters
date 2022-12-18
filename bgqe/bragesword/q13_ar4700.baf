@@ -1,5 +1,23 @@
 /* check, whether Borda was met the first time and is still alive */
 
+/* new for v25.6: IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",1) is set in Borda's greeting's dialogue no matter what. Correct the variable if he's killed and letter is picked up afterwards: - hopefully, this will prevent the quest from not kicking in because the player left the area too quickly */
+/* correct variable if letter is picked up */
+IF
+	OR(4)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",1)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",3)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",5)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",7)
+	Dead("BORDA")
+	PartyHasItem("c#q13le2") //letter on Borda
+THEN
+	RESPONSE #100
+		IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",-1)
+		Continue()
+END
+
+/* ald script blocks: I'll leave them in in case another mod adds to Borda after bgqe where the ADD_TRANS_ACTION was not patched to */ 
+/* met Borda before quest */
 IF
 	Global("C#q13Brage_FakeMerchant","GLOBAL",0)
 	!Exists("BORDA")

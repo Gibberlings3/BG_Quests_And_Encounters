@@ -180,8 +180,8 @@ END
 /* Give Borda, the merchant for cursed items the quest items */
 
 COPY_EXISTING ~%tutu_var%Borda.cre~ ~override~
-ADD_CRE_ITEM ~c#q13le2~ #0 #0 #0 ~IDENTIFIED~ ~inv3~
-ADD_CRE_ITEM ~c#q13swd~ #0 #0 #0 ~NONE~ ~inv4~
+ADD_CRE_ITEM ~c#q13le2~ #0 #0 #0 ~identified&unstealable~ ~inv3~
+ADD_CRE_ITEM ~c#q13swd~ #0 #0 #0 ~identified&unstealable~ ~inv4~
 
 
 
