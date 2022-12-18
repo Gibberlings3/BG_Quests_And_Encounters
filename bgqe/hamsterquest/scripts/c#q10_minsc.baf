@@ -11,7 +11,8 @@ END
 
 
 IF %BGT_VAR%
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	Global("C#Q10_HamsterQuest","GLOBAL",1)
 	InParty(Myself)
 	!StateCheck(Player1,CD_STATE_NOTVALID)
@@ -27,7 +28,8 @@ END
 /* check, ob itm in inventory -> triggers dialogue */
 
 IF %BGT_VAR%
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	Global("C#Q10_HamsterQuest","GLOBAL",2)
 	InParty(Myself)
 	See(Player1)
@@ -49,7 +51,8 @@ END
 IF %BGT_VAR%
 	!PartyHasItem("C#Q10002")
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	Global("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
@@ -66,7 +69,8 @@ END
 IF %BGT_VAR%
 	PartyHasItem("C#Q10002")
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	Global("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 	!StateCheck(Player1,CD_STATE_NOTVALID)
@@ -99,7 +103,8 @@ END
 
 IF %BGT_VAR%
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
@@ -110,7 +115,8 @@ END
 
 IF %BGT_VAR%
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
@@ -121,7 +127,8 @@ END
 
 IF %BGT_VAR%
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
@@ -132,7 +139,8 @@ END
 
 IF %BGT_VAR%
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
@@ -143,7 +151,8 @@ END
 
 IF %BGT_VAR%
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
@@ -154,7 +163,8 @@ END
 
 IF %BGT_VAR%
 	GlobalTimerExpired("C#Q10_HamsterTimer","GLOBAL")
-	PartyHasItem("C#Q10001")
+//	PartyHasItem("C#Q10001")
+	HasItem("C#Q10001",Myself)
 	GlobalGT("C#Q10_HamsterQuest","GLOBAL",3)
 	InParty(Myself)
 THEN
