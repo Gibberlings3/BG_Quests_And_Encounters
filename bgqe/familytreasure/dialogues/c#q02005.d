@@ -165,6 +165,7 @@ END
 IF ~Global("C#Q02_DudleyQuestSolved","GLOBAL",1) !Global("C#Q02_GaveMoney","GLOBAL",1)~ THEN husband_dudley_01
 SAY @57
 IF ~~ THEN EXTERN C#Q02005 wife_dudley_01
+IF ~Global("C#Q02_MoneyOffer","GLOBAL",1)~ THEN EXTERN C#Q02005 wife_dudley_chain_run
 END
 
 IF ~Global("C#Q02_GaveNecklace","GLOBAL",1)~ THEN necklace_husband
@@ -534,7 +535,8 @@ IF ~~ THEN DO ~SetGlobal("C#Q02_DudleysLeave","GLOBAL",3) ActionOverride("C#Q020
 
 CHAIN
 IF WEIGHT #-1
-~Global("C#Q02_DudleyQuestSolved","GLOBAL",1) !Global("C#Q02_GaveMoney","GLOBAL",1)~ THEN C#Q02005 wife_dudley_01
+~Global("C#Q02_DudleyQuestSolved","GLOBAL",1) !Global("C#Q02_GaveMoney","GLOBAL",1)
+!Global("C#Q02_MoneyOffer","GLOBAL",1)~ THEN C#Q02005 wife_dudley_01
 @9
 
 == %XZAR_JOINED% IF ~Global("C#BGQE_NPCReactions","GLOBAL",0)
@@ -668,17 +670,8 @@ InParty("DYNAHEIR") Detect("DYNAHEIR") !StateCheck("DYNAHEIR",CD_STATE_NOTVALID)
 
 //Rasaad
 == %RASAAD_JOINED% IF ~Global("C#BGQE_NPCReactions","GLOBAL",0) InParty("RASAAD") Detect("RASAAD") !StateCheck("RASAAD",CD_STATE_NOTVALID)~ THEN @256
-
-== C#Q02005 @249
 END
-+ ~Global("C#Q02_MoneyOffer","GLOBAL",0) !Global("C#Q02_GotReward","GLOBAL",1)~ + @10 DO ~AddExperienceParty(500) SetGlobal("C#Q02_GotReward","GLOBAL",1)~ EXTERN ~C#Q02006~ chain_moneyoffer
-+ ~!Global("C#Q02_GotReward","GLOBAL",1)~ + @11 DO ~AddExperienceParty(500) SetGlobal("C#Q02_GotReward","GLOBAL",1)~ EXIT
-+ ~!Global("C#Q02_GotReward","GLOBAL",1)~ + @12 DO ~AddExperienceParty(500) SetGlobal("C#Q02_GotReward","GLOBAL",1)~ EXIT
-+ ~Global("C#Q02_MoneyOffer","GLOBAL",0) Global("C#Q02_GotReward","GLOBAL",1)~ + @10 EXTERN ~C#Q02006~ chain_moneyoffer
-+ ~Global("C#Q02_GotReward","GLOBAL",1)~ + @11 EXIT
-+ ~Global("C#Q02_GotReward","GLOBAL",1)~ + @12 EXIT
-+ ~Global("C#Q02_MoneyOffer","GLOBAL",1) PartyGoldGT(499)~ + @13 DO ~SetGlobal("C#Q02_MoneyOffer","GLOBAL",0) %ERASEJOURNALENTRY_10014%~ + necklace_sold
-
+IF ~~ THEN EXTERN C#Q02005 wife_dudley_chain_run
 
 CHAIN
 IF ~~ THEN C#Q02005 necklace_sold
@@ -881,3 +874,15 @@ InParty("MONTARON") Detect("MONTARON") !StateCheck("MONTARON",CD_STATE_NOTVALID)
 END
 IF ~~ THEN DO ~GiveItemCreate("C#Q02004",[PC],1,0,0) SetGlobal("C#Q02_GaveNecklace","GLOBAL",1) SetGlobalTimer("C#Q02_GaveNecklaceT","GLOBAL",TWO_DAYS)~ EXIT 
 
+CHAIN
+IF WEIGHT #-1
+~Global("C#Q02_MoneyOffer","GLOBAL",1)~ THEN C#Q02005 wife_dudley_chain_run
+@249
+END
++ ~Global("C#Q02_MoneyOffer","GLOBAL",0) !Global("C#Q02_GotReward","GLOBAL",1)~ + @10 DO ~AddExperienceParty(500) SetGlobal("C#Q02_GotReward","GLOBAL",1)~ EXTERN ~C#Q02006~ chain_moneyoffer
++ ~!Global("C#Q02_GotReward","GLOBAL",1)~ + @11 DO ~AddExperienceParty(500) SetGlobal("C#Q02_GotReward","GLOBAL",1)~ EXIT
++ ~!Global("C#Q02_GotReward","GLOBAL",1)~ + @12 DO ~AddExperienceParty(500) SetGlobal("C#Q02_GotReward","GLOBAL",1)~ EXIT
++ ~Global("C#Q02_MoneyOffer","GLOBAL",0) Global("C#Q02_GotReward","GLOBAL",1)~ + @10 EXTERN ~C#Q02006~ chain_moneyoffer
++ ~Global("C#Q02_GotReward","GLOBAL",1)~ + @11 EXIT
++ ~Global("C#Q02_GotReward","GLOBAL",1)~ + @12 EXIT
++ ~Global("C#Q02_MoneyOffer","GLOBAL",1) PartyGoldGT(499)~ + @13 DO ~SetGlobal("C#Q02_MoneyOffer","GLOBAL",0) %ERASEJOURNALENTRY_10014%~ + necklace_sold
