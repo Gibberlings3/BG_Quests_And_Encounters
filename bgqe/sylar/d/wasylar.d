@@ -69,94 +69,32 @@ END
 IF ~GlobalLT("WAHelpSylar","Global",7)~ THEN BEGIN 11
 	SAY @22
 	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("%tutu_var%Misc80") GlobalLT("WAHelpSylar","Global",6)~ THEN REPLY @24 GOTO 12
-	IF ~PartyHasItem("%tutu_var%Misc80") Global("WAHelpSylar","Global",6)~ THEN REPLY @24 GOTO 22
+	IF ~OR(2)
+PartyHasItem("%tutu_var%Misc80") PartyHasItem("%tutu_scriptbg%Misc79")
+GlobalLT("WAHelpSylar","Global",6)~ THEN REPLY @24 GOTO 12
+	IF ~OR(2)
+PartyHasItem("%tutu_var%Misc80") PartyHasItem("%tutu_scriptbg%Misc79") 
+Global("WAHelpSylar","Global",6)~ THEN REPLY @24 GOTO 22
 END
 
 IF ~~ THEN BEGIN 12
 	SAY @25
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
+	IF ~PartyHasItem("%tutu_scriptbg%Misc79")~ THEN DO ~TakePartyItem("%tutu_scriptbg%Misc79")
+	GiveGoldForce(150)
+	IncrementGlobal("WAHelpSylar","Global",1)~ EXIT
+	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
 	GiveGoldForce(150)
 	IncrementGlobal("WAHelpSylar","Global",1)~ EXIT
 END
 
-/*
-
-IF ~Global("WAHelpSylar","Global",1)~ THEN BEGIN 11
-	SAY @22
-	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN REPLY @24 GOTO 12
-END
-
-IF ~~ THEN BEGIN 12
-	SAY @25
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
-	GiveGoldForce(150)
-	SetGlobal("WAHelpSylar","Global",2)~ EXIT
-END
-
-IF ~Global("WAHelpSylar","Global",2)~ THEN BEGIN 13
-	SAY @26
-	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN REPLY @24 GOTO 14
-END
-
-IF ~~ THEN BEGIN 14
-	SAY @25
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
-	GiveGoldForce(150)
-	SetGlobal("WAHelpSylar","Global",3)~ EXIT
-END
-
-IF ~Global("WAHelpSylar","Global",3)~ THEN BEGIN 15
-	SAY @26
-	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN REPLY @24 GOTO 16
-END
-
-IF ~~ THEN BEGIN 16
-	SAY @25
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
-	GiveGoldForce(150)
-	SetGlobal("WAHelpSylar","Global",4)~ EXIT
-END
-
-IF ~Global("WAHelpSylar","Global",4)~ THEN BEGIN 17
-	SAY @26
-	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN REPLY @24 GOTO 18
-END
-
-IF ~~ THEN BEGIN 18
-	SAY @25
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
-	GiveGoldForce(150)
-	SetGlobal("WAHelpSylar","Global",5)~ EXIT
-END
-
-IF ~Global("WAHelpSylar","Global",5)~ THEN BEGIN 19
-	SAY @26
-	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("Misc80")~ THEN REPLY @24 GOTO 20
-END
-
-IF ~~ THEN BEGIN 20
-	SAY @25
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
-	GiveGoldForce(150)
-	SetGlobal("WAHelpSylar","Global",6)~ EXIT
-END
-
-IF ~Global("WAHelpSylar","Global",6)~ THEN BEGIN 21
-	SAY @26
-	IF ~~ THEN REPLY @23 EXIT
-	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN REPLY @24 GOTO 22
-END
-*/
-
 IF ~~ THEN BEGIN 22
 	SAY @27
-	IF ~~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
+	IF ~PartyHasItem("%tutu_scriptbg%Misc79")~ THEN DO ~TakePartyItem("%tutu_scriptbg%Misc79")
+	GiveGoldForce(150)
+	SetGlobal("WAHelpSylar","Global",7)
+	%ERASEJOURNALENTRY_9003%
+	EscapeArea()~ EXIT
+	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
 	GiveGoldForce(150)
 	SetGlobal("WAHelpSylar","Global",7)
 	%ERASEJOURNALENTRY_9003%
