@@ -860,7 +860,7 @@ END
 
 /* Borda was not met yet */
 IF ~OR(2)
-	Global("C#q13Brage_FakeMerchant","GLOBAL",0) /* PC came with third letter fromTazok's tent */
+	Global("C#q13Brage_FakeMerchant","GLOBAL",0) /* PC came with third letter from Tazok's tent */
 	Global("C#q13Brage_FakeMerchant","GLOBAL",4)~ THEN DO ~SetGlobal("C#q13Brage_FakeMerchant","GLOBAL",6) EraseJournalEntry(@1009)~ UNSOLVED_JOURNAL @1016 EXIT
 IF ~OR(2)
 	Global("C#q13Brage_FakeMerchant","GLOBAL",0)
@@ -895,17 +895,14 @@ END //APPEND
 
 
 /* Borda, der Händler verfluchter Waren */
-/* if met before, Borda will approach the PC after he made inquiries at MYSMER */
 
+/* check for first meeting in AR4700.are: */
+/* Add check variable whether Borda was met first time */
+ADD_TRANS_ACTION BORDA BEGIN 0 END BEGIN END ~IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",1)~
 
 EXTEND_BOTTOM ~%tutu_var%BORDA~ 0
 /* PC heard from Laryssa about merchant of cursed items but didn't talk to MYSMER at Carneval and just tries his luck */
 + ~Global("C#q13Brage_FakeMerchant","GLOBAL",4)~ + @136 + confrontation_01
-
-/*
-/* PC spoke to MYSMER and confronts Borda */
-+ ~Global("C#q13Brage_FakeMerchant","GLOBAL",6)~ + @137 + confrontation_02
-*/
 END
 
 APPEND ~%tutu_var%BORDA~
@@ -918,6 +915,7 @@ EraseJournalEntry(@1009)
 Enemy()~ UNSOLVED_JOURNAL @1012 EXIT
 END
 
+/* PC spoke to MYSMER and confronts Borda: Borda will know at first meeting. */
 IF WEIGHT #-1
 ~Global("C#q13Brage_FakeMerchant","GLOBAL",6)~ THEN confrontation_02
 SAY @139
@@ -930,7 +928,7 @@ END
 
 END
 
-
+/* if met before, Borda will approach the PC after he made inquiries at MYSMER */
 BEGIN c#q13bor
 IF ~True()~ THEN confrontation
 SAY @139
@@ -940,5 +938,4 @@ EraseJournalEntry(@1003)
 EraseJournalEntry(@1016)
 EraseJournalEntry(@1017) Enemy()~ UNSOLVED_JOURNAL @1011 EXIT
 END
-
 
