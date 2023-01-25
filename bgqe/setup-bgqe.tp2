@@ -1712,11 +1712,11 @@ END
 
 COPY ~bgqe/farmer/cre/WAGHOUL.CRE~ ~override~
 SAY NAME1 @2002
-SAY NAME1 @2002
+SAY NAME2 @2002
 
 COPY ~bgqe/farmer/cre/WAFARM.CRE~ ~override~
 SAY NAME1 @2003
-SAY NAME1 @2003
+SAY NAME2 @2003
 
 
 ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
