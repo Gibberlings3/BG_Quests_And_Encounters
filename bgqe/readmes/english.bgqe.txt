@@ -380,11 +380,16 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORY
 
+Version 25.7:
+-Reply Option in Lady's Hall about Tremain plotting to revive his son should no longer be available after it happened. Journal entry should be removed, added dialogue state should use original game reply options (via COPY_TRANS).
+-Corrected dialogue transition in wasylar.d.
+-Set Tooltip in WAGHOUL.CRE and WAFARM.CRE.
+
 Version 25.6:
 -"Brage's Sword": optimized Laryssa's spawning and added check whether she's dead; made check whether Borda was met in AR4700.are more stable; letter and sword should not be stealable from Borda.
 -"Many Little Paws": no little hamsters should appear if not both hamsters are in Minsc's inventory.
 -"Bodies for a good cause": Sylar should also accept female bodies.
--"Family Treasure Quest": at end, dialogue should not repeat completely if the family is spoken to again in case PC didn#t have enough gold to buy necklace.
+-"Family Treasure Quest": at end, dialogue should not repeat completely if the family is spoken to again in case PC didn't have enough gold to buy necklace.
 
 Version 25.5:
 -"Many Little Paws" (EET): Minsc should start the quest.

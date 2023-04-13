@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v25.6~ 
+VERSION ~v25.7~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -83,74 +83,7 @@ BEGIN
     END
 END 
 
-
-/* argent77's function for fetching journal strrefs. With many thanks! */
-
-/* To be used later in the form:
-
-COPY_EXISTING ~husam.dlg~ ~override~
-  // get journal entry from first response associated with dialogue state 6
-  LPF READ_JOURNAL_STRREF
-  INT_VAR
-    state = 6
-//    stateResponse = 1 //As an example: This would be reply option #2 from top
-  RET
-    strref
-END
-
-    SET myUniqueVar = strref //adapt "myUniqueVar" as necessary
-/*
-  // just for debugging purposes: fetch journal text from strref and output it in console
-  GET_STRREF strref journalText
-  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
-*/
-BUT_ONLY
-
-*/
-
-DEFINE_PATCH_FUNCTION READ_JOURNAL_STRREF
-INT_VAR
-  // either use these two parameters if response index should be determined from a state index
-  state         = "-1"  // state index
-  stateResponse = 0     // relative response index (e.g. 0 for first response associated with the state, 1 for second response, and so on...)
-
-  // or use this parameter instead to specify response index directly
-  response      = "-1"  // (absolute) response index
-
-RET
-  strref    // returned string reference, or -1 if not available
-BEGIN
-  SET strref = "-1"
-
-  // determine response index from dialogue state if specified
-  PATCH_IF (state >= 0) BEGIN
-    READ_LONG 0x08 numStates
-    PATCH_IF (state < numStates) BEGIN
-      READ_LONG 0x0c ofsStates
-      SET ofs = ofsStates + (state * 0x10)  // calculate offset to specified state
-      READ_LONG (ofs + 4) firstResponse
-      READ_LONG (ofs + 8) numStateResponses
-      PATCH_IF (stateResponse >= 0 && stateResponse < numStateResponses) BEGIN
-        SET response = firstResponse + stateResponse  // calculate absolute response index (processed below)
-      END
-    END
-  END
-
-  // deal with dialogue response index directly
-  PATCH_IF (response >= 0) BEGIN
-    READ_LONG 0x10 numResponses
-    PATCH_IF (response < numResponses) BEGIN
-      READ_LONG 0x14 ofsResponses
-      SET ofs = ofsResponses + (response * 0x20)
-      READ_LONG ofs flags
-      PATCH_IF (flags & BIT4) BEGIN   // response flags bit 4 indicates available journal entry
-        READ_LONG (ofs + 8) strref
-      END
-    END
-  END
-END
-
-
+INCLUDE ~bgqe/lib/func_fetch_journal_entries.tph~
 
 
    ACTION_IF GAME_IS ~tutu tutu_totsc~ THEN BEGIN
@@ -1687,6 +1620,25 @@ FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/lothanders_geas.d~
 
+
+COPY_EXISTING ~%tutu_var%TREMAI.dlg~ ~override~
+  // get journal entry from first response associated with dialogue state 6
+  LPF READ_JOURNAL_STRREF
+  INT_VAR
+    state = 8
+    stateResponse = 0 //As an example: This would be reply option #2 from top
+  RET
+    strref
+END
+
+    SET tremain_journal_8 = strref 
+/*
+  // just for debugging purposes: fetch journal text from strref and output it in console
+  GET_STRREF strref journalText
+  PATCH_PRINT ~Journal entry #%strref%: %journalText%~
+*/
+BUT_ONLY
+
 COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/tremains_son.d~
 
 
@@ -1829,7 +1781,6 @@ ACTION_IF GAME_IS ~eet~ THEN BEGIN
   ADD_JOURNAL TITLE (#231307) @29 @30 USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~
 END
 
-INCLUDE ~bgqe/lib/func_fetch_journal_entries.tph~
 COPY_EXISTING ~%tutu_var%cordyr.dlg~ ~override~
 	LPF ~READ_JOURNAL_STRREF~
 		INT_VAR

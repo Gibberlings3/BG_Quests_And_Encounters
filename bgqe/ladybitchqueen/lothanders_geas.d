@@ -14,9 +14,8 @@ END
 APPEND ~%tutu_var%JALANT~
 IF ~~ THEN wise_idea
 SAY @1
-  IF ~~ THEN REPLY @2 /* ~We don't like your offer.  We'll be off now.~ */ EXIT
-  IF ~~ THEN REPLY @3 /* ~It looks as if we have no other choice, we're in.~ */ GOTO 6
 ++ @4 DO ~SetGlobal("C#q15_HelpJalantha","GLOBAL",1)~ + wise_idea_01
+COPY_TRANS ~%tutu_var%JALANT~ 5
 END
 
 IF ~~ THEN wise_idea_01
