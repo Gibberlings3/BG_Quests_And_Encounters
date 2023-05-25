@@ -380,6 +380,9 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORY
 
+Version 26:
+-Spanish version available again, by Melmoth, revised and fixed by davoker. 
+
 Version 25.7:
 -Reply Option in Lady's Hall about Tremain plotting to revive his son should no longer be available after it happened. Journal entry should be removed, added dialogue state should use original game reply options (via COPY_TRANS).
 -Corrected dialogue transition in wasylar.d.

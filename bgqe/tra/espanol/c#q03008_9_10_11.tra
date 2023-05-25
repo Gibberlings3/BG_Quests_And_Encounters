@@ -8,16 +8,12 @@
 @7    = ~Por favor, no se lo digáis a nadie. ¡Perderé mi reputación como cazador de monstruos si esto se sabe!~
 @8    = ~Coged a estos mocosos y llevaoslos tan rápido como podáis. ¡No quiero volverlos a ver!~
 @9    = ~Que persona más antipática. ¡Creía que eráis mejor persona! Bueno, entonces creo que no le contaré a la gente lo de vuestra ayuda. De todas formas me habéis ayudado bastante. Adiós.~
-@10   = ~De Niñera en Nashkel
-
-La madre vino a recoger a sus dos hijos. Puedo decir que todo fue bien.~
+//@10   
 @11   = ~¿Re.. recompensa? Yo... no... Mirad, no tengo dinero. Tengo que ir a hablar con su padre... en privado. Pagará por el traslado a nuestra familia de Amn, y eso es todo. ¡Bastardo! Uups, lo siento. Niños, eso es un taco, ¡nunca lo digáis! ¿Os puedo... ofrecer algo?~
 @12   = ~Realmente no os preocupéis. Ya veo que tenéis suficientes problemas. Adiós.~
 @13   = ~*sonriendo* ¿Qué tal un servicio privado, eh?~
 @14   = ~¡Cómo os atrevéis! ¡Creía que erais mejor persona! Niños, vámonos. ¡Y rápido!~
-@15   = ~De Niñera en Nashkel
-
-La madre vino a recoger a sus dos hijos. Puedo decir que todo fue bien.~
+//@15   
 @16   = ~Bueno, si, de alguna forma... Mirad, no tengo dinero. Tengo que ir a hablar con su padre... en privado. Pagará por el traslado a nuestra familia de Amn, y eso es todo. ¡Bastardo! Uups, lo siento. Niños, eso es un taco, ¡nunca lo digáis!~
 @17   = ~Bueno, creo que ahora nos tenemos que ir. Será duro comprender porqué no los puedo llevar con su padre... ¡Muchas gracias otra vez por vuestra ayuda! Hablaré a todos de vuestra generosidad.~
 @18   = ~Gracias. Habéis sido de gran ayuda, incluso aunque sea duro comprender porqué no los puedo llevar con su padre... Contaré a todos los amable que habéis sido.~
@@ -51,20 +47,14 @@ La madre vino a recoger a sus dos hijos. Puedo decir que todo fue bien.~
 @46   = ~De acuerdo. Quizás encuentre a otra persona. Os lo haré saber si eso sucede.~
 @47   = ~Por dios, ¡es duro teneros contenta, mujer! Entonces dejadme.~
 @48   = ~Ah, jaja, gracias. Estoy desesperada, pero no *quería*... de... decir esto, es muy amable por vuestra parte, pero no lo puedo aceptar. Es solo que... no os conozco del todo, y tampoco he oído de vos... Gracias de nuevo, pero... no.~
-@49   = ~De Niñera en Nashkel
-
-Me he ofrecido a cuidar de dos niños en Nashkel, pero la madre no aceptó. Parece que no me tiene bastante confianza... todavía.~
+//@49   
 @50   = ~Ah, jaja, gracias. Estoy desesperada, pero no *quería*... de... decir esto, es muy amable por vuestra parte, y he visto el niño que estaba con vos, pero no lo puedo aceptar. Es solo que... no os conozco del todo, y tampoco he oído de vos... Gracias de nuevo, pero... no.~
 @51   = ~¿Lo haríais? Q... quiero decir, no llevará más de media hora... Son encantadores, solo un poco... bueno, os mantendrán ocupados. Oh, creo que me encantará aceptar vuestra oferta. Parecéis una persona tan decente... Ultimamente he oído muchas cosas buenas de vos. Decidme cuando os va bien, y dejaré los niños a vuestro cuidado. Prometo que no os llevará más de media hora. Solo estad preparados... bueno, no tendréis mucho tiempo de hacer nada más durante ese rato.~
 @52   = ~Ya estamos preparados. Sarah, Tom, ¿os querríais quedar un rato con nosotros mientras vuestra madre está fuera?~
 @53   = ~Tengo que hacer algo antes. Volveré más tarde.~
-@54   = ~De Niñera en Nashkel
-
-He aceptado el cuidado de dos niños en Nashkel. La madre está esperando con los niños hasta que tenga tiempo para encargarme de su oferta.~
+//@54   
 @55   = ~Ah, quizás me entusiasme demasiado. No creo que quiera hacer esto.~
-@56   = ~De Niñera en Nashkel
-
-Me he ofrecido a cuidar de dos niños en Nashkel, pero he retirado la oferta. Aunque la madre parece lo suficientemente desesperada para aceptar la oferta si se la propongo de nuevo.~
+//@56   
 @57   = ~Ya estamos preparados para cuidar de los niños, si queréis. Sarah, Tom, ¿os querríais quedar un rato con nosotros mientras vuestra madre está fuera?~
 @58   = ~Necesito algo más de tiempo. Volveré más tarde.~
 @59   = ~¿Todavía buscáis una niñera? Si encuentro a alguien os lo haré saber.~
@@ -74,9 +64,7 @@ Me he ofrecido a cuidar de dos niños en Nashkel, pero he retirado la oferta. Aun
 @63   = ~Nada. Buenos días.~
 @64   = ~Lo siento... pero no.~
 @65   = ~No tenéis ni idea de como nos ayuda vuestra bondad. Ah, antes de que lo olvide: aquí está la botella de Tom, y su juguete. Dádselo si veis que está triste. Aquí está la botella de Sarah, y su muñeca. Aquí está su abrigo. No se lo ha querido poner. *suspiro* Quizás la hagáis entrar en razón. Ah, y algunos dulces, normalmente no les doy muchos, pero... bueno, les mantendrá ocupados durante un rato. ¡Niños, portaos bien! Mamá volverá pronto. ¡Adiós a los dos! Muchas gracias. Espero que os quedéis por esta zona, solo para estar seguros.~
-@66   = ~De Niñera en Nashkel
-
-He aceptado el cuidado de dos niños en Nashkel. La madre debería regresar en media hora y espera encontrarnos en el mismo lugar. No debería dejar esta zona para evitar malentendidos.~
+//@66   
 @67   = ~'nop.~
 @68   = ~Mamá.~
 @69   = ~¡'naa!~
@@ -302,3 +290,84 @@ He aceptado el cuidado de dos niños en Nashkel. La madre debería regresar en med
 @289  = ~¡Basta de quejas! Tomad los otros.~
 @290  = ~¡Coged los que quedan y estaos quietos!~
 
+/* contenido nuevo v9 */
+//--Reacciones de los NPC--
+@291 = ~¡Vamos, niños!~
+@292 = ~¡Por fin se han ido! ¡Era insoportable!~
+@293 = ~Qué pena que se hayan ido. Estaba pensando en sobornar a Tom para que me diera algunos de sus próximos dulces.~
+@294 = ~<CHARNAME>, la próxima vez le das a la mujer el oro que necesita, ¿vale? ¡¿Sí?! ¡¡Por favor!!~
+@295 = ~¡La próxima vez que perdamos el tiempo con algo como esto, necesitarás a alguien que te limpie los mocos de la nariz!~
+@296 = ~Eh, ¿qué? ¿Hubo alguien durante las últimas horas? ~
+@297 = ~¿Por qué no dejaste que el chico tuviera esa cosa, <CHARNAME>? Estaba a punto de empezar a ser divertido.~
+@298 = ~De verdad, <CHARNAME>, ¡debiste haberle exigido una recompensa a la madre!~
+@299 = ~Una recompensa no habría sido suficiente por esta molestia. ¡Compensación moral y mental y física se necesitaría! ~
+@300 = ~¡Por los dioses, siempre son tan ruidosos!~
+@301 = ~Los niños son un regalo. El ruido que hacen es música para los oídos de sus mayores.~
+@302 = ~Ah, a Minsc le gusta tener niños juguetones. ¡Le recuerda a su hogar!~
+@303 = ~Qué alegre era su risa. Estos niños aún no han visto la maldad de este mundo. Esperemos que no lo hagan por mucho tiempo.~
+@304 = ~¿Cuándo se rió alguno de ellos? ¡Gritar y chillar es todo lo que hicieron!~
+@305 = ~Daría mi vida para proteger a los débiles e inocentes, y estoy feliz de ver que al ayudar a esta mujer y a sus hijos, estabas haciendo precisamente eso, <CHARNAME>. Aunque a veces cueste entender que los más débiles e inocentes son los... más agotadores. *tos*~
+@306 = ~Hmm, algunas ilusiones podrían haber ayudado a entretener a esos niños.~
+@307 = ~¿Debería haberles cantado? Conozco algunas canciones infantiles muy bonitas. *canta* A la cama nos vamos por la noche...~
+@308 = ~No, por favor, si elijo entre los niños y *eso*, preferiría tener a los niños aquí de nuevo.~
+@309 = ~Cierra los ojos esta noche...~
+@310 = ~Argh - <CHARNAME>, ¡¡di algo!!~
+@311 = ~¡O alguien cierra la boca en este instante, o las cerraré yo!~
+@312 = ~¡Lo hiciste muy bien, <CHARNAME>! *risita* Ejem.~
+@313 = ~<CHARNAME>, admiro tu... paciencia...~
+@314 = ~*sonríe* Lo hiciste muy bien por tu cuenta, <CHARNAME>.~
+@315 = ~Jeje. Sabía que tenías talentos ocultos, <CHARNAME>.~
+@316 = ~¡Minsc solo retrocedió porque temía por Bu-bú!...~
+@317 = ~Tal vez, tal vez sea prudente esperar antes de tener hijos propios. ¿Qué dices, Jaheira?...~
+@318 = ~Esas mujeres se veían totalmente desgastadas, ¿viste eso? Privado de la flor de su vida! ¡Eso es lo que esas pequeñas criaturas mocosas le hacen a una mujer! ~
+@319 = ~La mujer que se ve tan asediada no es solo por la responsabilidad de los niños. ¿Por qué deja que le hagan esto? ¿Qué tal si le hacemos una "visita" a ese padre, eh?~
+@400 = ~Esas... migas de galleta y manchas secas de avena en su vestido tampoco mejoraron su apariencia.~
+@401 = ~La mujer se veía muy cansada y triste...~
+@402 = ~Er, por cierto, <CHARNAME>, los dulces que te sobraron... está bien... ya no están.~
+@403 = ~Siempre me abruma lo relajantes que son ese tipo de canciones... ¿Qué?~
+
+//extensión de búsqueda malvada
+@404 = ~¿Por qué dices eso así? ¿Apesto?~
+@405 = ~Buenos dioses. ¡Mocosos!~
+@406 = ~¿No te dije que *te perdieras*? ¿Por qué te veo parado aquí todavía?~
+@407 = ~Hola-holaaaa? ¿Hay alguien ahí? Te dije *¡Piérdete!*~
+@408 = ~¿Qué pasa si digo *perderse*, eh?~
+@409 = ~No hay problema.~
+@410 = ~N... No, perdóname, señor.~
+@411 = ~Yo... lo siento. Solo estamos esperando aquí, y no somos un problema para nadie. Por favor, déjanos en paz.~
+@412 = ~¿Tengo que usar la fuerza?~
+@413 = ~Si vuelvo a escuchar a alguno de esos mocosos quejarse, habrá problemas.~
+@414 = ~¿Qué? ¡No no! Yo voy a... Tenía la esperanza de conseguir... Quiero decir, durante todo el camino a Amn, necesitaría más... Pero estoy soñando despierta. Tiene que ser así. Vamos, niños, nos vamos. Vamos...~
+@415 = ~¿Por qué me asustas tanto? ¡Ya tengo suficientes problemas!~
+@416 = ~¡Hola! Pero no es ese el que describió la madre asustada. Oye, necesitas aprender una lección, señor. Intimidar a una madre con hijos así! Vamos, muchachos, esto debería ser divertido.~
+
+//BG:EE reacciones NPC
+
+@417 = ~La curiosidad y vivacidad de los niños pequeños es increíble. ¡Qué espíritu!~
+@418 = ~¡En mi línea! Esa era mi línea, mujer.~
+@419 = ~Estoy... sorprendida de la variedad de ocasiones en las que veo los beneficios de mi largo entrenamiento en la paciencia, debo agregar.~
+@420 = ~"¡Te mantendrán ocupado", de hecho! ¿Esa chica alguna vez dejó de hablar? ~
+@421 = ~Quiero decir... ¿*éramos* así cuando éramos jóvenes?~
+@422 = ~No.~
+@423 = ~Bueno, según mi tía yo era... er, peor.~
+@424 = ~Estaría muerto si hubiera sido así.~
+@425 = ~Aunque *arroja* una luz completamente nueva sobre la severa austeridad de las Doncellas de Lolth que nos criaron a mí y a mis hermanos.~
+@426 = ~Sabes, es lo mismo con los pájaros. El más pequeño suele hacer el "pío" más fuerte.~
+@427 = ~El pío más fuerte proviene de la gallina antes de que le parta el cuello.~
+@428 = ~<CHARNAME>, si alguna vez tengo que presenciar algo como esto otra vez, lamentaré que hayamos combinado fuerzas. Es decir, te arrepentirás de haber combinado fuerzas conmigo.~
+
+@429 = ~No sé, <CHARNAME>... La mujer parecía bastante infeliz. Incluso si no tienes ganas de ayudar, bien podría haber una recompensa, en alguna parte.~
+@430 = ~Hmph. Actos hostiles innecesarios como estos generalmente terminan en contraataques de algún tipo.~
+@431 = ~Ojalá no la hubiéramos intimidado tanto. No hay mucha ayuda que una madre pueda esperar de extraños.~
+@432 = ~Al contrario, Khalid. Una madre recibe ayuda de todos los lugares inesperados, especialmente con niños pequeños.~
+@433 = ~Ya, pero no recibió ayuda de nuestra parte.~
+@434 = ~Esa madre recibió nuestra ayuda - parece que no estaba segura de cuándo sería mejor irse de este lugar. Ahora se dio cuenta correctamente de que es hora de irse.~
+@435 = ~¡Oh, me encanta si ayudamos a los demás! Me siento caliente por dentro.~
+@436 = ~Eso es probablemente porque no te has ido detrás de los arbustos a tiempo, Xzar.~
+@437 = ~¿Hemos terminado aquí? ¿Nos podemos ir? (Y rápido, puedo agregar.) ~
+@438 = ~*resoplido* Deberías esforzarte en equilibrar tus poderes, <CHARNAME>, si no puedes controlar tu temperamento con a una madre con hijos. Eran una molestia, pero no había razón para entrar en conflicto con los soldados que custodiaban esta ciudad. Hay una manera mucho más fácil de lograrlo. ~
+@439 = ~<CHARNAME>, *no* notaste a todos los soldados amnienses caminando por este lugar antes de decidir amenazar a esa mujer, ¿no? Solo pregunto.~
+@440 = ~Hm, ¿por qué los asustaste, <CHARNAME>? Ahora no lo puedo hacer yo. Ah, ojos de niños asustados. Una hermosa vista.~
+@441 = ~Nunca subestimes a una madre. Por mucho que deteste las obligaciones en las que se ha metido al tener esos hijos, respeto la voluntad de una madre de luchar por su descendencia.~
+@442 = ~*escupe* No había mucha voluntad en esa mujer para defender a sus hijos. Se han ido, ahora vamos.~
+@443 = ~¡Nada importante aquí! ¿Por qué estamos esperando? ~

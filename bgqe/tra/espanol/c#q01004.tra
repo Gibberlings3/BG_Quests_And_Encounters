@@ -42,13 +42,6 @@
 @41   = ~Aquí estáis de nuevo. ¿Y ahora qué? ¿Compráis el antídoto?~ 
 @42   = ~¡No! ¡Es demasiado!~
 @43   = ~¿Vos de nuevo? ¿Va todo bien?~
-@44   = ~Beregost: Vecino de Alanna en problemas
-
-Encontré al vendedor del elixir de Eltolth, pero necesito una prueba de su culpabilidad.~
-@45   = ~Beregost: Vecino de Alanna en problemas
-
-¡El antídoto para Eltolth cuesta 100 piezas de oro!~
-
 
 
 @50    = ~No, por la forma en que lo decís está claro que no sería lo correcto. ¡No ahorraría el dinero si la vida de otro hombre dependiera de ello! Entonces, dadme el antídoto.~
@@ -93,3 +86,18 @@ Encontré al vendedor del elixir de Eltolth, pero necesito una prueba de su culpa
 @89   = ~Una pena. Bueno, entonces, eso es.~
 @90   = ~Umm, *podría* haber uno, si pienso en ello.~
 @100  = ~Aún no.~
+
+/* --- contenido nuevo v9 ---*/
+@101 = ~"¿No estás demasiado cerca?" Er, ¿qué acabamos de comprar, exactamente?~
+@102 = ~No me gustó la mirada de ese hombre cuando dijo eso, <CHARNAME>. Y esa poción se ve, ¡asquerosa!~
+@103 = ~No me gusta cómo suena eso, <CHARNAME>. No podemos confiar en esta poción alternativa, y espero que no la uses.~
+@104 = ~Esta poción barata es de origen dudoso. No quiero usarla en ese hombre.~
+@105 = ~¿Estás considerando seriamente usar esta sustancia de efecto desconocido en un hombre vivo?~
+@106 = ~No estoy de acuerdo con esto, <CHARNAME>. Es d-demasiado peligroso.~
+@107 = ~No uses esa poción, <CHARNAME>. No sabemos cómo funcionará.~
+@108 = ~Hm, parece haber algo de magia salvaje integrada en esa poción, por el sonido de la misma. (¡Aunque no creo que este tonto sea capaz de manejar algo así!)~
+@109 = ~Probemos esta poción en el limo, ¡rápido! Tengo curiosidad por ver qué pasará. Con suerte no será la transformación aburrida de nuevo en un hombre. ~
+@110 = ~¿Qué tal si se lo das y te quedas *muy cerca*?~
+@111 = ~Eso suena a magia salvaje... ¡Definitivamente no debemos *permanecer* cerca cuando la magia se desarrolle! Bueno, al menos queda probado que la magia salvaje *sí* conduce a cambios de forma. *suspiro*~
+@112 = ~No, Melicamp, no me refería a ti. Pero, sí, eres un buen ejemplo.~
+@113 = ~Me opongo a correr este riesgo con un hombre vivo, <CHARNAME>. Acordamos ayudarlo, por lo que es nuestra obligación hacerlo correctamente.~

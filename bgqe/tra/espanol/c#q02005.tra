@@ -25,17 +25,11 @@ He conocido a una extraña pareja en una de las casas de Beregost. Aparentemente,
 @22   = ~Nada. Adiós.~
 @23   = ~Muchas, muchas gracias. Nosotros... somos unas personas muy reservadas, y quizás un poco orgullosas. *sonrisa tímida* Sois una persona muy generosa y amistosa. Estamos en deuda con vos.~
 @24   = ~*Dais las 500 piezas de oro al Sr. Dudley.*~
-@25   = ~Disputa Familiar en Beregost
 
-He comprado el collar de la familia Dudley por las 500 piezas de oro que prometieron. Ahora, su problema de dinero debería estar resuelto.~
 @26   = ~*Ponéis 550 piezas de oro directamente en la bolsa de dinero del Sr. Dudley, intentando aseguraros que no se da cuenta del dinero extra.* *Gracias*, buena gente.~
-@27   = ~Disputa Familiar en Beregost
 
-He comprado el collar de la familia Dudley. En vez de darles solamente las 500 piezas de oro que prometieron, he "introducido" otras 50 piezas en la bolsa de dinero del Sr. Dudley. Espero que la familia ahora vaya bien.~
 @28   = ~*Ponéis 600 piezas de oro directamente en la bolsa de dinero del Sr. Dudley, intentando aseguraros que no se da cuenta del dinero extra.* Deseo que todo os vaya bien.~
-@29   = ~Disputa Familiar en Beregost
 
-He comprado el collar de la familia Dudley. En vez de darles solamente las 500 piezas de oro que prometieron, he "introducido" otras 100 piezas en la bolsa de dinero del Sr. Dudley. Espero que la familia ahora vaya bien.~
 @30   = ~Me habéis oído perfectamente. Al menos tened la decencia de limpiar vuestros zapatos antes de subir arriba.~
 @31   = ~Yo... Oh, no importa.~
 @32   = ~Como digáis. Al menos tened la decencia de limpiar vuestros zapatos antes de subir arriba.~
@@ -116,9 +110,7 @@ He comprado el collar de la familia Dudley. En vez de darles solamente las 500 p
 @107  = ~Si os habéis decidido, no discutiré con vos.~
 @108  = ~Si, si, acabemos ya con este trato.~
 @109  = ~Ah, me parece que ahora no tengo suficiente dinero. ¡Volveré más tarde!~
-@110  = ~Disputa Familiar en Beregost
 
-He prometido a los Dudley, en Beregost, comprarles su collar de perlas por 500 piezas de oro.~
 @111  = ~¡Mamá!~
 @112  = ~¡Papá!~
 @113  = ~¿Quienes sois? ¡Estáis asustados!~
@@ -152,15 +144,7 @@ He prometido a los Dudley, en Beregost, comprarles su collar de perlas por 500 p
 @141  = ~Pero yo.. yo.. *sollozo* ¡No *quiero* que se venda el collar! Es el último recuerdo que tenemos de la Abuela y yo.. yo.. creía que pensarían otra forma y *sollozo* lo cogí cuando estaban durmiendo y ahora están tan enfadados y todo va tan mal... *sollozo*~
 @142  = ~¡Oh *cielos*! ¡Otra mujer llorona! ¡No puedo resistirlo!~
 @143  = ~Qui.. *sollozo* Quizás tengáis razón. ¡Oh, espero que mamá no esté demasiado enfadada!~
-@144  = ~Disputa Familiar en Beregost
 
-El problema se ha resuelto. La hija cogió el collar para que no se pudiera vender... Ahora lo devolverá.~
-@145   = ~Disputa Familiar en Beregost
-
-El Sr. Dudley devolvió el dinero extra... Los Dudley son una gente honesta y orgullosa. Bueno, ahora podrán resolver sus problemas de finanzas.~
-@146   = ~Disputa Familiar en Beregost
-
-El Sr. Dudley quería devolver el dinero extra... Los Dudley son una gente honesta y orgullosa. Aunque podría hablar con él para que lo aceptara. Bueno, ahora podrán resolver sus problemas de finanzas.~
 
 @147   = ~¡Vos! No... ¡Cogisteis el collar de nuestra hija, verdad! No podemos probar nada, pero creo a mi hija. Soy un malvado... Tendremos que dar la casa, por que no podremos pagar la deuda. Nos marcharemos lejos para empezar de nuevo. ¡Qué pena me dais!~
 @148   = ~¿Todavía tenéis el collar? ¿Se lo daréis a Mamá, verdad?~
@@ -170,16 +154,12 @@ El Sr. Dudley quería devolver el dinero extra... Los Dudley son una gente honest
 @152   = ~No, mejor que no.~
 @153   = ~Si, claro. Solo imaginaos lo disgustada que estará vuestra madre cuando lo encuentre. ¡Entonces será mejor que no lo tengáis vos!~
 @154   = ~Si... si eso creéis. ¿Pero se lo daréis a Mamá, no?~
-@155   = ~Disputa Familiar en Beregost
 
-He solucionado el problema, de alguna forma.~
 @156   = ~¡Sois un canalla!~
 @157   = ~¡Cogisteis el collar! ¡Sois un malvado!~
 @158   = ~¿Porqué me contáis eso?~
 @159   = ~Aquí tenéis... vuestro collar. Fue Annie quién lo cogió.~
-@160   = ~Disputa Familiar en Beregost
 
-El problema está resuelto. La hija cogió el collar para que no se pudiera vender... Se lo he devuelto a ellos.~
 @161   = ~¡De verdad! Y vos nos lo dais. No se como os lo montasteis para que Annie os lo diera, ¡pero estamos en deuda con vuestra honestidad!~
 @162   = ~¡Mi collar! Y... Annie, ¿decís? Oh, ¿cómo lo encontrasteis? Muchas gracias por vuestra ayuda. ¡No tenéis ni idea de como se agradece vuestra ayuda tan honesta!~
 @163   = ~Tomad, Annie, devolved el collar. Os pertenece a vos, no a mi. ¡Os lo podéis quedar como regalo!~
@@ -187,3 +167,149 @@ El problema está resuelto. La hija cogió el collar para que no se pudiera vender
 @165   = ~¡Hola! Aún no he devuelto el collar a mis padres... Mamá estaba tan extraña con eso. Quizás se lo enseñe a Papá mañana.~
 
 
+/* contenido nuevo v9 */
+
+//---Reacciones de los PNJ
+
+@166 = ~MwahaHAHA! ¡Eso fue divertido! ¡Busquemos otra familia y hagamoslo de nuevo!~
+@167 = ~¡Eres taaaaan mi-je-je!~
+@168 = ~¡Se lo merecen si no pueden ayudarse a sí mismos!~
+@169 = ~¡Oh, no! ¿Estás seguro de que no hay nada que podamos hacer? Eso es malo...~
+@170 = ~¿Eso significa que ahora podemos comprar la casa por una pequeña cantidad?~
+@171 = ~¡Puedo ayudarlos a moveros con otra patada en el trasero!~
+@172 = ~Tal vez dejaron algunas cosas útiles en la casa. ¿Posiblemente tienen cosas que no pueden mover?~
+@173 = ~¡Oh, por supuesto que no! Era absolutamente imposible adivinar quién se llevó el collar. ¡Phaaaaargh, algunas personas! ~
+@174 = ~¡Y el premio por resolver acertijos es para - tachaan! - ¡<CHARNAME>! Salgamos de aquí.~
+@175 = ~Tiax no entiende lo que estamos haciendo en esta casa. ¡Esas personas no rinden homenaje al gran Tiax! ¡Ni siquiera lo miran!~
+@176 = ~No estoy seguro de lo que estamos haciendo aquí. Nada de los balbuceos de esa esposa y ese esposo tenía sentido para mí. Y la mocosa - ¡argh!~
+@177 = ~No puedo creer cómo se comportan algunas familias. ¿Por qué no podían simplemente *hablar* entre ellos?~
+@178 = ~No sería la primera familia en la que la hija juega con los padres...~
+@179 = ~Ejem. ¡Esa es una historia completamente diferente!~
+@180 = ~¡Nunca podría imaginar conservar un objeto valioso como lo hizo la chica!~
+@181 = ~No, probablemente lo mostrarías y te jactarías de él.~
+@182 = ~Conozco esa sensación. Cuando era joven, cogía objetos de valor y me los quería quedar porque también me gustaban mucho. Sin embargo, mi intención probablemente no era tan honorable como la de Annie.~
+@183 = ~*risas* Eres la pícara más honesta que he conocido, Alora.~
+@184 = ~*Yo* nunca robé joyas brillantes para mí. Siempre fueron para una chica hermosa...~
+@185 = ~Todavía estoy esperando, ya sabes, Coran...~
+@186 = ~Espero que castiguen a esa niña en consecuencia. ¡No hay excusa para amenazar la existencia de una familia así!~
+@187 = ~¡Oh, no! ¡Ojalá no lo hagan!~
+@188 = ~¡No sé por qué me importa! Superficiales y sus problemas, ¡bah!~
+@189 = ~Espero que hayan resuelto sus problemas. Sería una pena verlos en más problemas.~
+@190 = ~Es genial verlos felices y demás, pero ¿cuánto tiempo más tenemos que quedarnos en esta ciudad?~
+@191 = ~Es curioso los efectos que pueden tener la poca comunicación. Bueno, supongo que debería mantener la boca cerrada, considerando las consecuencias de hablar "demasiado" en mi caso *suspiro*.~
+@192 = ~No cedas ante los sentimientos de culpa, amigo mío. Esos bastardos nos hicieron sufrir a todos.~
+@193 = ~Ayudar a esta familia parece poco y sin importancia, pero cada buena acción inclina la balanza en la dirección correcta.~
+@194 = ~¡Me estás quitando las palabras de la boca! Trabajamos a grandes y pequeños pasos contra el mal que se extiende por la Costa de la Espada, y eso es bueno.~
+@195 = ~Hicimos una buena obra para una familia de buenas personas. Te lo agradezco, <CHARNAME>.~
+@196 = ~Debemos tener cuidado con las buenas obras que hacemos. Demasiado de cualquier cosa es un exceso.~
+@197 = ~Quería decir exactamente eso, Branwen. Tenemos que mantener el equilibrio.~
+@198 = ~ ¿Saldo? Podría dejar esas buenas acciones por completo.~
+@199 = ~Es agradable verlos tan unidos.~
+@200 = ~ Ahora que están todos unidos, bastaría con un golpe de mi hacha para acabar con ellos. ¡<CHARNAME>, di que esa era tu intención! ¡¿No vas a escuchar más estos balbuceos, verdad?!~
+@201 = ~Hay momentos en los que la mejor canción y la música más dulce no pueden ayudar, y todo se reduce a un puñado de oro puro. Er, eso es lo que pensé cuando te contraté para Silke...~
+@202 = ~Otra familia formada por miembros que fingen que se aman - ¡bah!~
+@203 = ~Ahora se ven todos felices... pero ¿cuánto vale? ¿Cuánto durará? ~
+@204 = ~Xan, en tu memoria durará toda la eternidad. ¿Memoria élfica y todo eso?~
+@205 = ~Ese recuerdo permanecerá en mi cabeza, de hecho, pero eres tonta, Imoen, al pensar que no será ahogado por cientos de malos recuerdos que comparten el mismo espacio en mi cerebro.~
+@206 = ~Ah, el corazón de Minsc brilla al ver felices a esas personas de nuevo.~
+@207 = ~Este es un buen final.~
+@208 = ~¡Oh, comprarlo sería tan guay! ¿Puedo tenerlo? ¿Por favor? ¿Por favor?~
+@209 = ~Es muy honorable estar allí en el momento adecuado, haciendo las cosas correctas...~
+@210 = ~Comprar ese collar ayudará a esas personas, aunque no estoy seguro de qué planeas hacer con él.~
+@211 = ~¿Estás seguro de que es una buena idea? Ya tenían un comprador para ese collar.~
+@212 = ~Quienquiera que sea ese "amigo" tuyo, estoy lista para llevar ese collar, si pesa demasiado para tu inventario.~
+@213 = ~Me pregunto quién será ese "amigo"...~
+@214 = ~Skie, eres muy linda.~
+@215 = ~¡Oh, gracias! *se sonroja*~
+@216 = ~*risas*~
+@217 = ~¡Oh, no! ¿No les vas a dar oro? ¡El oro siempre complica las cosas! ¡Especialmente entre amigos! ¡Wahahaa!~
+@218 = ~Mejor dame todo tu oro, Xzar, para hacer las cosas más sencillas y directas!~
+@219 = ~<CHARNAME>, tengo un par de cosas que también me gustaría venderte, si tienes tiempo...~
+@220 = ~El intento de darles felicidad es en vano, <CHARNAME>. Guarda tu oro. Aunque no sabría para qué... *suspiro*~
+@221 = ~Hm, dudo que esto haya sucedido por accidente... *sonríe*~
+@222 = ~¿Hiciste eso? <CHARNAME>, te honro.~
+@223 = ~¿Por qué siempre aquellos que lo necesitan y lo merecen son demasiado honestos para quedárselo?~
+@224 = ~Algunas personas son demasiado honestas para este mundo.~
+@225 = ~¡Algunas personas son demasiado orgullosas para este mundo!~
+@226 = ~Algunas personas son demasiado estúpidas para este mundo, si me lo preguntas a mi.~
+@227 = ~¿Podemos darle otros 100 de oro, solo por su honestidad?~
+@228 = ~No a todas las personas les gusta recibir donaciones.~
+@229 = ~Algunas personas son d-demasiado orgullosas para aceptar ayuda... ¿No es así, Jaheira?~
+@230 = ~Estamos hablando de esta familia, ¿sí?~
+@231 = ~Por supuesto.~
+@232 = ~¡Qué tonto! Podría tener oro de más, ¡y lo trajo de vuelta! ~
+@233 = ~Él entendió la insignificancia de su existencia, al igual que todos nosotros.~
+@234 = ~¡¡Estoy muy contento de que lo recupere!!~
+@235 = ~<CHARNAME>, la próxima vez que tengas demasiado oro, solo dánoslo.~
+@236 = ~Me gustó el collar, ¡pero eso es aún mejor! ¿Viste la mirada en sus ojos? ~
+@237 = ~¡Ojos de niños felices! Oh, eso es maravilloso, Bu-bú, ¿no crees?~
+@238 = ~Sé que tenías buenas intenciones, pero no puedo soportar más exclamaciones de alegría y felicidad.~
+@239 = ~¡Oh, no! Si tengo que enfrentarme a alguna de esas buenas obras pronto, comenzaré a ahogar bolas de fuego.~
+@240 = ~¡Espero que lo hayas tomado para dárselo tú mismo a los padres, <CHARNAME>!~
+@241 = ~Démonos prisa y llevemos el collar a los padres. Entiendo que lo necesitan con bastante urgencia.~
+@242 = ~Er, vamos a devolverlo, ¿verdad?~
+@243 = ~Déjame echarle un vistazo - hm, eso es muy bueno, de hecho. ¡Debería valer algo, si sabes a lo que me refiero!~
+@244 = ~Los niños son tan confiados.~
+@245 = ~¡Los niños son tan confiados que me rompe el corazón!~
+@246 = ~Oh, querido Xzar, ¡no llores! ¡El mundo es mezquino y sin corazón!~
+@247 = ~¡Tú eres mi consuelo!~
+@248 = ~Aquí está...~
+@249 = ~Estamos muy agradecidos por su ayuda.~
+
+//Neera
+@250 = ~¿Estas personas perdieron su casa? ¡Pero no *hicimos* nada!~
+
+//Eldoth (PartyHasItem("c#q02004"))
+@251 = ~Yo *recomendaría* que nos deshagamos de la evidencia... preferiblemente sacándole algo de oro.~
+
+//Dorn
+@252 = ~El tiempo estaba de nuestro lado. Un método muy eficaz e indoloro de destruir a los demás. Demasiado indoloro, para mi gusto.~
+
+//Baeloth
+@253 = ~Yo no llamaría exactamente a la retención de una propiedad "no hacer nada", pero sí, este fue un comportamiento destructivo bastante efectivo considerando los pocos esfuerzos que tomó.~
+
+//Dorn
+@254 = ~No podría importarme menos esta gente. Vamos, ya hemos perdido suficiente tiempo.~
+
+//Neera
+@255 = ~Te *hace* algo si la gente te mira con tanto agradecimiento. Y si es solo la voluntad de abandonar el lugar, rápido.~
+
+//Rasaad
+@256 = ~Ayudar a esta familia fue una buena acción, <CHARNAME>, sin importar cuán pequeña sea la acción.~
+//Neera
+@257 = ~No me siento muy cómodo con esto. Es un collar muy... *personal*.~
+//Rasaad
+@258 = ~Entiendo por qué querías comprar el collar tú mismo, y honro tu voluntad de ver este problema resuelto en buenos términos.~
+
+//Rasaad
+@259 = ~Aprecio el honor donde lo veo. Eso va por ti, <CHARNAME>. Y también para este esposo y padre. ¡Qué orgullo!~
+ 
+//Montarón
+@260 = ~Disculpad mientras me mato en esa esquina de allí.~
+
+//Xzar
+@261 = ~Tú... ¿tú *le diste* a ella? ¿Al igual que... al igual que es-es-eso?~
+//Montarón
+@262 = ~No seas celoso, mago, estoy seguro de que <CHARNAME> también te quiere.~
+
+//Rasaad
+@263 = ~Ojos de niños que brillan alegremente. No hay *nada* más estimulante que eso.~
+
+//Branwen
+@264 = ~¿Debería estar aliviado de que no tengamos suficiente oro para todas las personas que lo necesitan, o debería empezar a preocuparme? Tu interés en el bienestar de esta familia al azar es sorprendente, <CHARNAME>.~
+
+//Dorn
+@265 = ~Hmph. Esto podría haber sido fácil, pero ¿cuál es el punto de engañar a un niño? ¡Dame la guardia del pueblo con la queluchar!~
+
+//Neera (Dorn en fiesta)
+@266 = ~Eh, no te preocupes, Dorn. Si nos quedamos con el collar, bien podría estar allí y *estará* la guardia del pueblo pisándonos los talones.~
+
+//Neera
+@267 = ~Hm, esto no era exactamente robar, ¿verdad? ¿Qué harás con el collar, <CHARNAME>?~
+
+//Rasaad
+@268 = ~El exceso de confianza de la niña nos puso en una posición de gran responsabilidad hacia esta familia necesitada, <CHARNAME>. Espero que lo veas.~
+
+@269 = ~Jaheira, r-recuerdas el collar que quise comprarte una vez, el del tigre...~
+
+@270 = ~Estaba pensando exactamente en lo mismo, Khalid. Pero no hay necesidad de dejar que todos escuchen esa historia. Ejem.~
