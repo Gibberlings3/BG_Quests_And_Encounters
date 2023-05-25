@@ -1,0 +1,118 @@
+@0 = ~*tos* ¡Croak! (Ack) *tos*~
+@1 = ~¿Qué le pasó a tu voz?~
+@2 = ~Pareces enfermo, amigo.~
+@3 = ~¡Ja, ja, ja, ja! ¡Noober sin voz! No tiene precio.~
+@4 = ~(señala y agita los brazos) ¡Croak! ¡Croak! (Ack) *tos* ¡¡Croak!!~
+@5 = ~¿El río? ... Arrojado a... Ah, ¿los jóvenes del pueblo te tiraron al río? Y seguramente se resfrió después.~
+@6 = ~No fuerces más la voz. Entiendo que tengas un fuerte resfriado.~
+@7 = ~Lo que sea. Estás enfermo, puedo verlo.~
+@8 = ~Déjame en paz, tonto. ¿Parece como si estuviera interesado en lo que te pasó?~
+@9 = ~¡Croak!... *tos tos*~
+@10 = ~Un lugar cálido para Noober
+
+El tarado de Noober se resfrió después de que lo arrojaran al río. Necesita un lugar cálido para descansar y recuperarse e, idealmente, alguien que lo cuide, pero no parece existir un lugar así. Tal vez pueda calentar los corazones de la gente del pueblo a su favor.~
+@11 = ~Un lugar cálido para Noober
+
+Ese tonto de Noober se resfrió después de que lo arrojaran al río. Ahora deambula por las calles, su voz es solo un graznido oxidado. Probablemente porque consiguió que lo echaran del calor que le proporcionaba todo el pueblo.~
+@12 = ~¿Graznar?~
+@13 = ~Buenas noticias, amigo. La esposa de Joseph te acogerá y cuidará de ti.~
+@14 = ~Ahorra tu voz, Noober, y asegúrate de descansar bien.~
+@15 = ~¡Jaja! *Croak* (otra vez). ¡Este sonido es *tan* divertido!~
+@16 = ~...? (suspiro de alivio) ¡Croak!~
+@17 = ~Un lugar cálido para Noober
+
+La buena mujer de la casa del sureste de Nashkel se hará cargo de Noober. Debería decírselo lo antes posible.~
+@18 = ~Un lugar cálido para Noober
+
+Noober ys está de camino a un cálido hogar. Podría acercarme un momento para ver cómo les va.~
+@19 = ~... - ¡croak! *tos*~
+@20 = ~¡¿Croak?! ¡Croak! *tos* *tos*~
+@21 = ~¡Croak!~
+@22 = ~¡Hola!~
+@23 = ~¿Qué? Lo siento, no tengo tiempo para charlar. Estoy hablando con la anciana señora Joseph.~
+@24 = ~Noober tiene un fuerte resfriado. ¿Lo acogerías y te ocuparías de que teuviera una recuperación adecuada?~
+@25 = ~Mi dios me otorga poderes curativos, pero un simple resfriado tiene que curarse como siempre. Por desgracia, mis tareas me mantendrán aquí en el templo, y me temo que este no es el mejor lugar para curar un resfriado. Sigue preguntando a la gente del pueblo, estoy seguro de que hay un alma dispuesta con una cama caliente entre ellos. Pero regresa si no encuentras a nadie dispuesto a acogerlo.~
+@26 = ~No, no tengo ni el tiempo, ni la voluntad, ni siquiera una cama extra aunque quisiera. Estoy seguro de que encontrará un alma dispuesta junto a los granjeros, especialmente si ofrece alguna moneda junto con su demanda.~
+@27 = ~Hm, la esposa de Joseph sería un alma lo suficientemente amable como para acoger a alguien como Noober.~
+@28 = ~Hm, la viuda del pobre Joseph sería un alma lo suficientemente amable como para acoger a alguien como Noober.~
+@29 = ~Sin embargo suele cerrar la puerta con llave. Pero no tengas miedo de entrar de todos modos. Si te acercas a ella de manera amistosa, estará lista para escuchar.~
+@30 = ~¡Pero no tiene sentido que le preguntes, no después de cómo la trataste! Bueno, tal vez le pregunte cuando cierre la tienda esta noche.~
+/* @31 */
+@32 = ~Un lugar cálido para Noober
+
+Según el dueño de la tienda, la mujer de la casa del sureste de Nashkel podría acoger a Noober. También dijo que no debería asustarme por una puerta cerrada y entrar de todos modos, si estoy dispuesto a explicar mi allanamiento de manera amistosa. ~
+@33 = ~Un lugar cálido para Noober
+
+La mujer en la casa del sureste de Nashkel podría aceptar a Noober. El dueño de la tienda le preguntará, porque no tiene ningún sentido para mí jugar a ser el mensajero (y especialmente en la casa de esta mujer tonta). Supongo que queda resuelto, entonces. No hace falta que nadie me diga cómo terminó.~
+@34 = ~¿Qué? ¿Esto te parece una guardería? Puede tomarse una buena cerveza fuerte para calentar el estómago y la cabeza, si se lo puede permitir. Aparte de eso, deberías mantenerlo alejado antes de que asuste a los clientes. Otra vez.~
+@35 = ~Bueno, mis habitaciones son cálidas y acogedoras, pero eché a Noober más de una vez porque mis clientes se sintieron molestos por él, así que me alegro de que no tenga la cantidad de oro que se necesitaría para pagar una habitación. Ya me entiendes.~
+@36 = ~¿Noober? Sabes, podrías pensar que haría cualquier cosa para conseguir un poco suma de oro. Pero no aceptaría a Noober ni por todo el oro del mundo. ¡No puedes esperar que le haga eso a mi hermana, que tendría que escuchar sus interminables balbuceos!~
+@37 = ~¡Ese tonto! Aún nadie ha muerto de un resfriado. ¡Tengo cosas mucho más importantes que hacer que ayudar a alguien a recuperar su salud!~
+@38 = ~Los días son tan negros y aburridos... Desearía tener *algún* tipo de diversión. Excepto mamá, por supuesto...~
+@39 = ~ ¿Eh? ¿Dijiste algo?~
+@40 = ~Dije que eres mi única diversión, actualmente.~
+@41 = ~¿Eh?~
+@42 = ~¡Dije que eres mi única diversión!~
+@43 = ~¡Dije que ME MANTIENEN OCUPADO!~
+@44 = ~ ¿Eh? Quejándote de nuevo, ¿no?~
+@45 = ~(suspiro)~
+@46 = ~Por favor, te pediría que te vayas ahora.~
+@47 = ~Mis disculpas por molestarla, buena mujer, pero uno de los compañeros de su ciudad necesitaría un lugar para recuperarse. Se trata Noober, y apenas puede hablar después de lo que le pasó hace poco.~
+@48 = ~Me marcharé, entonces.~
+@49 = ~(suspiro) Noober... Su conversación constante es lo *último* que necesito. Pero si el pobre hombre está enfermo... Tengo que cuidar a mamá de todos modos. Y con Joseph fuera... Cualquier cosa que me mantenga ocupada estará bien, en realidad...~
+@50 = ~(suspiro) Sí. Sí, dile que venga aquí. Tengo una pequeña cama extra, y mientras no hable tanto, lo cual no puede hacer, si te entendí bien. Me encargaré de que descanse bien. Con dolor de garganta, probablemente disfrutará de los pudines y caldos de mamá, así que no tendría que cocinar aparte...~
+/* @51 = @32 */
+@52 = ~Por favor, puedes marcharte, si no quieres nada más.~
+@53 = ~Buen día.~
+@54 = ~No eres bienvenido aquí. Agradezco tu ayuda para traer a Noober aquí, pero no eres bienvenido. ¡Vete! ~
+@55 = ~Sí, verás que Noober encontró el camino hasta aquí.~
+@56 = ~Sí, estamos hablando de ti, Noober. ¡Vuelve a la cama!~
+@57 = ~No, tú no - ¡está bien, madre!~
+@58 = ~(suspiro) Por favor, vete ahora.~
+@59 = ~Un lugar cálido para Noober
+
+Noober encontró una buena lugar para que le cuiden con la viuda de Joseph. Sin embargo, me pregunto qué pasará una vez que recupere la voz. Tal vez debería comprobarlo cuando haya pasado de un poco más de tiempo.~
+/* @60 = @55 */
+@61 = ~Ahora, ¡míralos! ¿Quién podría haber imaginado que esto funcionaría tan bien? Estoy muy agradecida por la ayuda con la madre. Él es muy paciente y ella lo suficientemente sorda como para hacer de ellos la pareja perfecta.~
+@62 = ~Y tengo la libertad que necesito para llorar a mi amado esposo...~
+@63 = ~Y tengo la libertad que necesito para hacer mi trabajo en silencio, esperando que mi amado esposo regrese...~
+@64 = ~Te lo agradezco, buen <MANWOMAN>. Pero también te pido que te vayas ahora.~
+@65 = ~Un lugar cálido para Noober
+
+¡Noober encontró un nuevo hogar! Al menos por el momento, parece ser el animador perfecto para la anciana madre de la viuda de Joseph. Y de nuevo los dioses demostraron que tienen un uso para todo.~
+@66 = ~Un lugar cálido para Noober~
+
+/* c#lcno01.baf */
+@67 = ~Buen tiempo, ¿verdad?~
+@68 = ~¿Eh?~
+@69 = ~¿Necesitas beber algo?~
+@70 = ~¡Agua!~
+@71 = ~Ah, ¿está lloviendo otra vez?~
+@72 = ~¿Y ahora?~
+@73 = ~¿Qué es esto? ¡¿Crees que no soy capaz de hacer esto por mi cuenta?!~
+@74 = ~¿Quieres escuchar una historia?~
+@75 = ~¿Una historia?~
+@76 = ~Nah, estoy demasiado cansada para contar algo.~
+
+/*
+@77 = ~La historia del capitán Brage
+
+Nalin en el Templo de Helm en Nashkel parece pensar que Brage podría estar bajo la influencia de alguna fuerza maligna. Si devuelvo a Brage al templo, es posible que no lo maten por sus crímenes.~
+*/
+@78 = ~Hm, mala suerte, ya sabes. Parece que la única alma que hubiera estado lista para cuidar de ti se ha ido.~
+@79 = ~Lástima que ahora esté *muerta*, ¿no? Mmm.~
+@80 = ~Está... bien, supongo. Es extraño, él no puede hablar, y trata de ser de ayuda, aunque no es así como debería ser, ya que necesita descansar.~
+
+/* nuevo para v19 */
+@81 = ~Queríamos preguntarte algo...~
+@82 = ~Sí, los aventureros suelen venir a preguntar cosas sobre las minas.~
+
+/* nuevo para v23 */
+/* igual que @59, solo que "esposa" en lugar de "viuda" */
+@83 = ~Un lugar cálido para Noober
+
+Noober encontró una buena guardería con la esposa de Joseph. Sin embargo, me pregunto qué pasará una vez que recupere la voz. Tal vez debería comprobarlo cuando haya pasado de un poco más de tiempo.~
+/* igual que @65, solo "esposa" en lugar de "viuda" */
+@84 = ~Un lugar cálido para Noober
+
+¡Noober encontró un nuevo hogar! Al menos por el momento, parece ser el animador perfecto para la anciana madre de la esposa de Joseph. Y de nuevo los dioses demostraron que tienen un uso para todo.~

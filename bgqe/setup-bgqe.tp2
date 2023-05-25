@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~v25.7~ 
+VERSION ~26~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -511,12 +511,10 @@ LANGUAGE ~Polski~
          ~bgqe/tra/Polski/setup.tra~
          ~bgqe/tra/Polski/bgqe_game.tra~
 
-/*
 LANGUAGE ~Espanol~
          ~espanol~
          ~bgqe/tra/espanol/setup.tra~
          ~bgqe/tra/espanol/bgqe_game.tra~
-*/
 
 
 

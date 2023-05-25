@@ -4,9 +4,7 @@
 @3    = ~Si no os importa, solo quería echar un vistazo por aquí.~
 @4    = ~¡Para coger todo lo que pueda! Mejor que no os quedéis en mi camino.~
 @5    = ~¿Bueno... porqué no debería decíroslo? Quizás incluso me podáis ayudar con esto.~
-@6    = ~Viuda Asustada en la Aldea de Pescadores
-
-En la aldea de pescadores una mujer está asustada por un monstruo merodeando detrás de su casa. Quiere que lo mate.~
+//@6    
 @7    = ~Eso está bien... Parecéis tan imponente con vuestra armadura.~
 @8    = ~Pero... pero... no descubriréis nada. Parecéis tan imponente con vuestra armadura...~
 @9    = ~¿Estáis interesados en ganaros algo extra? Eliminad el monstruo que merodea detrás de mi casa y os recompensaré.~
@@ -25,9 +23,7 @@ En la aldea de pescadores una mujer está asustada por un monstruo merodeando det
 @22   = ~¿Y como va?~
 @23   = ~Aún sin cambios.~
 @24   = ~Todo se ha hecho como habéis pedido.~
-@25   = ~Viuda Asustada en la Aldea de Pescadores
-
-He matado al marido no muerto de la mujer. Ahora debería poder vivir en paz.~
+//@25   
 @26   = ~Vuestra situación es horrible, pero el contrato lo decía claramente. No mataré al zombie.~
 @27   = ~¿Porqué tan solo no quemáis el contrato?~
 @28   = ~¡No me voy a meter en esto!~
@@ -38,9 +34,7 @@ He matado al marido no muerto de la mujer. Ahora debería poder vivir en paz.~
 @33   = ~Estoy de camino.~
 @34   = ~¿Y, ahora, cómo va?~
 @35   = ~No mataré al zombie.~
-@36   = ~Viuda Asustada en la Aldea de Pescadores
-
-He matado a la criatura no muerta que estaba asustando a la mujer. Ahora debería poder vivir en paz.~
+//@36 
 @37   = ~Os callasteis algunos de los detalles. El zombie mencionó un contrato...~
 @38   = ~¡No haré esto!~
 @39   = ~¡Maravilloso! Aquí está vuestra recompensa. ¡Estoy tan feliz!~
@@ -92,9 +86,7 @@ He matado a la criatura no muerta que estaba asustando a la mujer. Ahora debería
 @85   = ~Es difícil de entender, pero es el camino más correcto.~
 @86   = ~No, eso es ridículo. Esperad un momento, iré y lo mataré por vos.~
 @87   = ~Gracias. Entiendo vuestro punto de vista, ya sabéis, toda esta situación *es* totalmente hilarante. Quizás me haga cuenta cuentos y gane algo de dinero en las tabernas del camino. Hay una carnaval en Nashkel, o eso he oído...~
-@88   = ~Viuda Asustada en la Aldea de Pescadores
-
-He sugerido a la viuda que mantenga el contrato, y la mujer ha dejado al aldea.~
+//@88   
 @89   = ~Si, eso es también lo que me dijo. Juro que nunca firmé un contrato con esta cosa.~
 @90   = ~Tenéis el poder de liberarme de esta criatura. Pensad en ello, ¡os lo ruego!~
 @91   = ~Groarrrrrrr...~
@@ -115,3 +107,30 @@ He sugerido a la viuda que mantenga el contrato, y la mujer ha dejado al aldea.~
 @106  = ~Queeeeeeé...~
 @107  = ~Nada.~
 @108  = ~¡Basta de charla! ¡Os mataré, monstruo!~
+
+//--Reacciones de los PNJ --
+@109 = ~¿Ese es el trabajo de un nigromante? ¡Bah! Este nigromante es un chapucero, un charlatán, un inútil, un holgazán... ¡El color de la piel es demasiado verde, el hedor es horrible! ¿Y por qué se pudre tan rápido? ¡Yo lo hubiera hecho mejor!~
+@110 = ~¡Por el amor de los dioses! Esto va en contra de toda naturaleza. El contrato no es válido.~
+@111 = ~Jaheira, en caso de que una vez dije que la muerte no...~
+@112 = ~Lo sé.~
+@113 = ~¡El dicho "la muerte no terminará con mi amor por ti" realmente tiene un significado completamente nuevo! Aunque... no creo que me guste esta nueva interpretación.~
+@114 = ~¿Cómo puede alguien prolongar su estancia en este mundo por su propia voluntad... Y de tal forma! Es realmente inútil. ~
+@115 = ~Cómo alguien puede sentirse tan apegado a este mundo también es un enigma para mí. Sin embargo, el deseo de estar unidos incluso después de la muerte de un amado lo entiendo muy bien... *suspiro*~
+@116 = ~Este hombre usó unos grandes poderes para cumplir con su plan, y poderes oscuros. No puedo sino respetar eso.~
+@117 = ~Los deseos de este esposo son comprensibles, pero sus medios son sórdidos.~
+@118 = ~Los deseos de este esposo son más que comprensibles, con una esposa tan hermosa. Entiendo a este hombre... Me refiero a este zombi... hm... lo que sea. Lo entiendo bien.~
+@119 = ~¡Uf! No puedo imaginarlo realmente feliz. ¿Tú puedes, <CHARNAME>?~
+@120 = ~¡Eeeeh! La idea de tal... cosa esperando... ¡agh!~
+@121 = ~Rápido, acércate a mí, Skie. Haré que te olvides de ese pensamiento.~
+@122 = ~La idea de las "tareas" de una esposa es bastante grotesca, ¡pero esto va mucho más allá! ¡Solo déjame salir por un momento, <CHARNAME>, y todo se solucionará!~
+@123 = ~Me gusta que la sangre salpique mis armas y mi armadura para impresionar a mis enemigos, pero si tuviera que matar a *esa cosa* probablemente me lavaría para quitarle ese olor - <CHARNAME> - ¿qué estamos haciendo? aquí?~
+@124 = ~No deberíamos perder tiempo aquí. Una bola de fuego aquí, otra allá, fin de la historia.~
+@125 = ~Hmm, el contrato está correctamente sellado... es legítimo, <CHARNAME>, y debe cumplirse. Me temo que no hay otra manera.~
+@126 = ~No lo dirás en serio, Ajantis, ¿verdad?~
+@127 = ~Es un contrato legítimo. Tengo mucho miedo de tener que decirlo. No hay lugar para la interpretación. La casa y todo lo que hay en ella pertenece al zombi.~
+@128 = ~<CHARNAME>, no aceptará este contrato, ¿verdad? ¡Dime que no lo harás!~
+@129 = ~No lo dirás en serio, Rasaad, ¿verdad?~
+@130 = ~¡Estás loco! ¡Los dos! ~
+@131 = ~Esta situación es completamente... absurda. Siento un cosquilleo en los dedos, <CHARNAME>. Honestamente.~
+@132 = ~Mientras estos dos tontos peleen por la propiedad, ¿qué tal si echamos un vistazo para ver si podemos... aliviar un poco su carga?~
+@133 = ~El único tipo de contrato que me importa es el que puedo firmar con mi espada. Cualquiera de las dos partes involucradas puede firmar conmigo.~

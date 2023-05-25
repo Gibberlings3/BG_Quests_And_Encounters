@@ -61,24 +61,12 @@
 @60   = ~Compré el antídoto, pero no lo traigo conmigo en este momento. Voy a por él.~  
 @61   = ~¡Qué... qué habéis hecho! ¡Alanna... Alanna, está muerta!~
 @62   = ~¡Qué... qué habéis hecho! ¡Eltolth! ¡Habéis matado a Eltolth!~
-@63   = ~Beregost: Vecino de Alanna en Problemas
 
-En Beregost, una mujer desesperada llamada Alanna se me acercó. Hay algo que no va bien con su vecino. Debería ir y echar un vistazo.~
-@64   = ~Beregost: Vecino de Alanna en Problemas
 
-En Beregost, una mujer desesperada llamada Alanna se me acercó. Hay algo que no va bien con su vecino. Debería ir y echar un vistazo.~
-@65   = ~Beregost: Vecino de Alanna en Problemas
 
-Eltolth me dio 200 piezas de oro por nuestra ayuda. Dejé su casa sabiendo que hice felices a dos personas.~
-@66   = ~Beregost: Vecino de Alanna en Problemas
 
-He encontrado al vendedor del elixir de transformación de Eltolth, pero necesitaré una prueba de su culpabilidad.~
-@67   = ~Beregost: Vecino de Alanna en Problemas
-
-¡El elixir de transformación para Eltolth costará 100 piezas de oro!~
 @68   = ~Sí, encontré este diario. Se menciona a alguien llamado "Tulbor". ¿Por casualidad no sabrías nada sobre esta persona?~
 @69   = ~¿"Tulbor..."? No, lo siento. Nunca escuché hablar de tal persona. ¡Pero por favor, no dejéis de buscar!~
-
 @70    = ~Eso haré. ¡No os preocupéis!~
 @71    = ~Esperad un momento. ¿Qué habrá para mi?~
 @72    = ~No creo que tenga tiempo para esto.~
@@ -105,26 +93,169 @@ He encontrado al vendedor del elixir de transformación de Eltolth, pero necesita
 @93   = ~Ya os digo que tenéis un extraño sentido del humor. Bueno, gracias por... lo que sea que hayáis hecho por nosotros.~
 @94   = ~Tomad estas 30 piezas de oro, son todo lo que os puedo ofrecer. Espero que cubra vuestros gastos.~
 @95   = ~Dejadme que me lleve las cosas que encontrasteis aquí... A...diós.~
-@96   = ~Beregost: Vecino de Alanna en problemas
 
-La poción alternativa no funcionó. Bueno, creo que encontrarán ayuda en otra parte.~
+
+
 @97   = ~No lo se... Solo me disteis una poción inservible, así que... Oh, ¡Caramba! (se inclina y da al lodo un tímido beso) Emm, ¿se supone que *ahora* debía suceder algo?~
 @98   = ~(ríe enérgicamente) No he conocido una mujer más ingenua en mi vida. Besar al lodo, ¡qué visión más refrescante!~
 @99   = ~Emm, parece que no funciona, tampoco. ¡Ey, este mago me ha mentido!...~
 @100   = ~(mentir con la cara erguida y seria) Porqué, por supuesto que no funciona. Está lejos de lo que yo llamaría un beso de verdad, ya sabéis. Creo que debéis intentarlo otra vez.~
 @101   = ~¡Oh, no! ¡No os creo!~
 @102   = ~¡Sois una persona malvada y cruel! ¡Estoy avergonzada de haber confiado en vos con esto! ¡Me llevaré a Eltolth conmigo, con gente que sea lo suficiente honesta para ayudarnos! ¡No os atreváis a tocar nada mientras estemos fuera!~
-@103   = ~Beregost: Vecino de Alanna en problemas
-
-La poción alternativa no funcionó. Pero valió la pena verlo, ¡una mujer besando el lodo!~
+//@103  = 
 @104   = ~(dar el antídoto) ¡Aquí tenéis! Esto debería retransformar a vuestro vecino en su apariencia normal.~
 @105   = ~(dar el antídoto alternativo barato) Aquí tengo el antídoto, se lo podéis dar a Eltolth ahora.~
 @106   = ~Solo otro momento.~
 @107   = ~Ahora no tengo tiempo para esto.~
 @108   = ~¡*100 piezas de oro*! Eso... es un montón de dinero. No os puedo dar más de lo que ya os di. Por favor, ¡id y comprad el antídoto! Seguro que Eltolth os reembolsará los gastos.~
 @109   = ~¿Oh, de verdad? ¡Qué... qué bien! Se lo voy a dar ahora.~
-@110   = ~Beregost: Vecino de Alanna en problemas
 
-Uups. Parece que Alanna y su vecino se han unido pacíficamente... Como lodo (muerto). Tulbor no mintió cuando nos advirtió de efectos adversos con esta poción barata.~
+
+/*--- nuevo contenido ---*/
+
+@111 = ~*risitas*~
+@112 = ~¡Shhh, Imoen!~
+@113 = ~Lady Imoen, esto no es algo de lo que deba burlarse. ¡Estas desafortunadas personas necesitan nuestra ayuda!~
+@114 = ~Sé que no debería reírme, pero... *risita* ejem.~
+@115 = ~Nadie puede decir que viajar contigo sea aburrido, <CHARNAME>. Bueno, entonces ayudemos a este hombre, que actualmente es un limo, a recuperar su forma de hombre...~
+@116 = ~ ¿Eh? ¿Qué? Por qué ayudar, conozco una mejor manera de lidiar con esto. Una loción de baba, sí, o podría disolverla, sí... un experimento maravilloso.~
+@117 = ~¿Por qué tenemos que lidiar con cosas tan ridículas? Bah, abrámoslo y cortémoslo en pedacitos. Y fin.~
+@118 = ~Estas personas necesitan nuestra ayuda. Aprobaría ayudarlos, incluso si no es una batalla que tengamos que pelear.~
+@119 = ~Ese hombre está en una situación realmente, um, desafortunada.~
+@120 = ~Tengo que admitir que no puedo evitar sonreír.~
+@121 = ~No hace ninguna gracia. Veamos cómo podemos ayudar a este hombre. Mi magia no es suficiente.~
+@122 = ~Tempus no tiene paciencia con las personas que se meten en situaciones como esta por sus propios errores.~
+@123 = ~Todavía no sabemos cómo llegó el hombre a esta situación. Deberíamos ayudarlo a recuperar su forma normal.~
+@124 = ~No estarás considerando seriamente ayudar, ¿verdad?~
+@125 = ~Déjalo en paz. Un tonto menos que no volverá a hacer travesuras.~
+@126 = ~Deberíamos ayudarlo, aunque solo sea para ver la sonrisa regresar al rostro de esta mujer.~
+@127 = ~¡Qué mal rollo, estar obligado a vagar por la tierra como un *limo*! (¡No hay nada más humillante, nada!) Por suerte, él es un don nadie. No habrá ninguna consecuencia relevante, independientemente de cómo termine esto.~
+@128 = ~¿Tenemos que tocarlo? Er, lo harás, <CHARNAME>, ¿sí?~
+@129 = ~Eeeh, ¡yo no me acerco a esa cosa!~
+@130 = ~Esa "cosa" parece ser un hombre, Skie.~
+@131 = ~Lo que quiero decir es que me mantendré alejada de ese hombre... ¡Ay, no, *estoy* hablando de eso! ¡Me mantendré alejada mientras este hombre sea esa cosa! ~
+@132 = ~No olvidemos que este limo parece ser un hombre bastante rico, por el aspecto de este apartamento. Deberíamos poder recibir una buena recompensa.~
+@133 = ~Me interesa solucionar este acertijo, ya que parece no ser trivial. No me he encontrado con nada de este tipo antes, tengo que admitirlo. Qué afortunada coincidencia para las, bueno, mentes más simples a las que vinimos a ayudar.~
+@134 = ~P-parece que alguien jugó con f-fuerzas más allá de su poder.~
+@135 = ~*suspiro* No sería la primera vez que alguien se hace daño a sí mismo. Y, sin embargo, es justo considerar la motivación de sus acciones.~
+@136 = ~No podemos dejarlo así. Sin embargo, preferiría que no pasemos demasiado tiempo en esta ciudad.~
+@137 = ~¡Minsc tiene que contenerse para no patear a este limo con sus botas! ¡Pero Bu-bú dice que Minsc no debería tocarlo, porque es un hombre! Minsc se alegra de que <CHARNAME> esté aquí para decidir qué hacer.~
+@138 = ~La situación es graciosa. ¿Por qué no dejarlo como está ahora? ¿Algo *crucial* cambió en este hombre? ¡Ja! ~
+@139 = ~Tiax ha decidido dejar a este hombre como un limo. Podemos irnos ya.~
+@140 = ~Imbéciles, jugando con fuerzas que no entienden. No tenemos deberíamos perder el tiempo con esto.~
+@141 = ~Dios mío... ¿Qué podemos hacer? ¿Tal vez prefiriese el estado en el que se encuentra ahora? No más problemas financieros, no preocuparse por las tareas diarias... Bueno, hm, no. Este estado no es preferible.~
+@142 = ~¡¿Broma?! La magia más fuerte se encuentra dentro de un beso, ¡créeme! ~
+@143 = ~¿Cuán estúpida puede ser una mujer? Si ella fuera un hombre, lo entendería, pero una mujer... No la detendré, que bese a esa baba.~
+@144 = ~ No. Una mujer tan hermosa no besaría a un fango tan asqueroso. Sería un pecado, ver esos hermosos labios rojos tocarlo.~
+@145 = ~Bésame, señora. Una noche en mis brazos, y ya no desperdiciará más sus pensamientos en este limo.~
+@146 = ~Pssst, <CHARNAME>. No hablas en serio, ¿verdad? Sabes que siempre estoy listo para una buena broma, pero esto va demasiado lejos. No ves que a la mujer le encanta la baba... Me refiero al hombre que era. ¡Estoy seguro! ~
+@147 = ~¿No deberíamos n-no, qué broma, quiero decir...~
+@148 = ~¡¿Estás jugando con estas personas que sufren?! Buena mujer, no hay magia a través de un beso. <CHARNAME> está intentando engañarte.~
+@149 = ~Es suficiente, <CHARNAME>. No toleraré un truco tan malo.~
+@150 = ~Tienes toda la razón, Jaheira.~
+@151 = ~Tienes un sentido del humor retorcido, <CHARNAME>, y no lo toleraré. ¡Esto es una tontería!~
+@152 = ~No sé...~
+
+@153 = ~Y ahora la baba se ha ido.~
+@154 = ~Qué lástima. Me hubiera gustado ayudarlos.~
+@155 = ~¡¿Por qué no le diste el antídoto correcto?!~
+@156 = ~Estoy más que disgustado, <CHARNAME>. Si esta es la forma en que intentas ayudar a las personas, no viajaremos juntos por mucho más tiempo.~
+@157 = ~Mmmf. Si lo hubieramos aplastado de inmediato, habría terminado mucho antes.~
+@158 = ~El final fue ridículo.~
+@159 = ~Perdimos tiempo y gastamos oro, ¿y para qué?~
+@160 = ~Oh, qué lástima. Me hubiera encantado hacer un experimento. ¡¿Cuándo volveré a encontrarme con una transformación tan agradable?!~
+@161 = ~Espero que no se arrepienta de gastar esas 20 piezas de oro. ¡Qué desperdicio!~
+@162 = ~Este es el problema si se juega con las probabilidades. Parece que en esta vez la poción no tuvo ningún efecto.~
+@163 = ~Esto es lo que sucede si uno trata de actuar en contra de la naturaleza.~
+@164 = ~Conociendo nuestra suerte, supongo que podemos estar contentos de que la poción no funcionase en absoluto, en lugar de producir algún efecto secundario no deseados.~
+@165 = ~¡Esto fue realmente imprudente, <CHARNAME>! Gastaste oro sin lograr nada. No me importa el destino de esas personas, pero ¿y todo el esfuerzo para conseguirlo?~
+@166 = ~Dios mío, espero que ella pueda ayudarlo. Esto no fue muy brillante, <CHARNAME>.~
+@167 = ~Bueno, tomamos una ruta incierta y salió mal. No estoy muy orgulloso.~
+@168 = ~Oh, yo, eh, no me gusta mucho este final.~
+@169 = ~Espero que utilice mejor su tiempo en el futuro.~
+@170 = ~¡Sabías que la poción no necesariamente funcionaría, <CHARNAME>! No deseo que "ayudemos" de esta manera. ¡Si no tienes la intención de ayudar, entonces rechacemos ofrecer ayuda la próxima vez, para que la gente tenga la oportunidad de buscar a alguien que lo haga! ~
+@171 = ~"Efectos secundarios", ¡ja! Sabía que esta poción no podía funcionar de la manera que dijo.~
+@172 = ~¡No apruebo la forma en que pretendiste ayudar a estas personas, <CHARNAME>!~
+@173 = ~Este no fue un final agradable.~
+@174 = ~¿Siempre te interesas tan poco en las necesidades de los demás, <CHARNAME>? Entonces preferiría que no intentes ayudar a nadie más en el futuro.~
+@175 = ~Esta mujer no parece feliz. ¿No quería <CHARNAME> ayudarla?~
+@176 = ~Ella nunca logrará ayudarlo sola... ¡sin nuestra ayuda!~
+@177 = ~Dioses, miren el desastre viscoso que ha quedado...~
+@178 = ~¡POR FIN, el limo se ha ido, esa cosa, es aberración, esa monstruosidad, esa mancha! Aunque, Tiax nota que no todo se ha ido del suelo... ¡Tiax ordena abandonar este lugar! A saber... er, ¡de esta manera!~
+@179 = ~¿Disfrutaste esto?~
+
+@180 = ~Ahora tengo que secarme una lágrima del rabillo del ojo. ¡Qué cosa tan desagradable de hacer, <CHARNAME>, de verdad!~
+@181 = ~¡Jajajajaja! Esto fue encantador. ¡Esto fue mejor que cortar el limo en pedazos!~
+@182 = ~Esto no fue muy divertido. Quiero decir *risitas* ejem. No, esto definitivamente fue demasiado lejos. Me hubiera gustado ayudar a esos dos.~
+@183 = ~¿Te has divertido, <CHARNAME>? Pf.~
+@184 = ~¡No estoy orgulloso de nuestras acciones en este asunto!~
+@185 = ~Aún así, encuentro tu sentido del humor bastante extraño, <CHARNAME>.~
+@186 = ~¡Lo sabía!~
+@187 = ~¡Sí, sí, está bien!~
+
+/* Lo siguiente contiene un juego de palabras. También podría ser útil echar un vistazo a la versión alemana. ¡Si es posible, haz un juego de palabras en tu idioma!
+*/
+
+@188 = ~¿Han terminado con su negocio grasiento?~
+@189 = ~¿Han terminado con su comportamiento untuoso?~
+@190 = ~*suspiro* Fue un gran esfuerzo para este hombre cambiar su forma de lodo... solo para poder engrasar las ruedas de una relación con esa mujer.~
+@191 = ~Untuoso, grasoso, viscoso, baboso...~
+
+
+@192 = ~Ahora estoy enfermo.~
+@193 = ~Estoy feliz de que esto haya terminado tan bien.~
+@194 = ~<CHARNAME>, aplastaré el próximo limo que veamos, digan lo que digan.~
+@195 = ~¿Por qué tuvimos que hacer este trabajo? ¡Alguien que trata de usar magia con la que no puede lidiar para volverse más poderoso debería haber mantenido sus manos alejadas (o dejarlo en manos de alguien que sí sabe lo que está haciendo)!~
+@196 = ~En cierto sentido, esa poción funcionó exactamente como debería - Eltolth seguramente obtuvo el final que buscaba.~
+@197 = ~¡Ja! Eso es cierto.~
+@198 = ~Si descuida ciertas complicaciones y la necesidad de la ayuda de <CHARNAME>, sí.~
+@199 = ~Oh, vamos, un poco de drama nunca hace daño a la historia de un amor verdadero.~
+@200 = ~¡Álora! Estas palabras podrían haber sido mías.~
+@201 = ~La ineptitud de algunos humanos no tiene fin, como hemos visto. Este hombre tuvo la suerte de que el efecto pudiera revertirse fácilmente.~
+@202 = ~Todo tiene un precio. No se debe jugar con la magia.~
+@203 = ~Sí, el manejo de la magia debe hacerse con inteligencia y sagacidad. Una persona codiciosa recibirá una desagradable sorpresa. Ese hombre tuvo suerte de que alguien con una mente más grande estuviera allí para ayudar.~
+@204 = ~Es bueno que lo hayamos restaurado a su estado anterior. La forma de limo estaba en contra de toda naturaleza. ~
+@205 = ~Tiax necesita volver a echarle un vistazo a esa poción. ¡La ira de Tiax no tendrá límites! Transformará a sus enemigos en limos, aplastándolos con las suelas de sus... Er, o tal vez mejor *dejar* que sean aplastados. Por alguien más. Qué asco.~
+@206 = ~Ese hombre puede estar contento de haber sido tratado tan bien. En otras sociedades no hubiera quedado suficiente de él para llenar los agujeros en tus zapatos.~
+@207 = ~¡Tiax no quiere oír más sobre la baba en los zapatos!~
+@208 = ~Espero que el hombre haya aprendido algo. Sé que estaba en una situación similar cuando me liberaste, <CHARNAME>, así que no diré nada en contra de nuestras acciones aquí.~
+@209 = ~Estoy contento y feliz de haber podido ayudar a estas personas.~
+@210 = ~Minsc está feliz por los dos. Se ven tan felices, aunque Minsc realmente no entendió por qué. ¿Tal vez, porque el limo se ha ido ahora? ¿Qué dices, Bu-bú?~
+@211 = ~¿Crees que puedo escribir una oda sobre esto? Aunque lo del limo no fue muy romántico...~
+@212 = ~Era un limo, sigue siendo un limo. Sin músculos, nada, ¡bah! Si ella lo acepta como es ahora, también podría haber aceptado al limo.~
+@213 = ~Gracias.~
+@214 = ~Ya veo por qué quería impresionar a la mujer...~
+@215 = ~Pfft.~
+@216 = ~Ambos son dulces, en cierto modo.~
+@217 = ~Ah, es un verdadero placer ser testigo de esto. Les deseo lo mejor a ambos. Con suerte, nunca más verán la necesidad de usar magia para aumentar el afecto mutuo.~
+@218 = ~Todavía estoy temblando después de esta escena de amor. Salgamos rápido.~
+@219 = ~¿Soy el único que está pensando en cómo un limo puede tragarse una poción?~
+@220 = ~"Tragar" es un término erróneo, Imoen. Un limo ingiere su comida, la asimila, o mejor dicho, la absorbe, de alguna manera.~
+@221 = ~Honestamente, no deseo filosofar sobre cómo un limo digiere su comida.~
+@222 = ~Sin embargo, no daré más detalles sobre eso.~
+
+@223 = ~Para burlarse tanto de esta mujer... Ninguna mujer hermosa debería ser ridiculizada así.~
+@224 = ~Sé que parece divertido, pero si la magia se vuelve loca de esta manera, realmente no es divertido.~
+@225 = ~¡Ja! ¡Jugando con fuerzas que no entienden, de hecho! ¿Qué te hace pensar que hay un camino fácil de regreso?~
+@226 = ~Estas personas están desesperadas. No deberíamos darles la espalda.~
+@227 = ~<CHARNAME>, haz que valga la pena nuestro esfuerzo. Al menos inténtalo.~
+@228 = ~¡Buena mujer! En caso de que no te hayas dado cuenta, ¡tienes una MANCHA en esa esquina de allí!~
+@229 = ~No me mires así, ¡soy un animador! TENGO que hacer bromas, incluso las malas.~
+@230 = ~¿Qué? <CHARNAME>, no estarás considerando seriamente... Buena mujer, el sentido del humor de <CHARNAME> es un misterio para la mayoría de nosotros. Besar al limo no desplegará más fuerza mágica que la del ridículo.~
+@231 = ~Hmph. ¡Esto fue una completa pérdida de tiempo!~
+@232 = ~Me siento profundamente avergonzado por el papel que hemos hecho, <CHARNAME>.~
+@233 = ~Magia salvaje: funciona o no. *suspiro* Al menos no hubo consecuencias *malas*.~
+@234 = ~<CHARNAME>! Teniendo en cuenta las condiciones, este fue un entretenimiento hilarante. Podría haber... bueno, haberlo hecho mucho mejor, por supuesto, pero no está mal, nada mal, para ser la suerte de los principiantes.~
+@235 = ~Cuando dije que deberías hacer que esta interferencia valiera la pena, ¡me refería al oro, no al entretenimiento! ¡¿Ya hemos terminado?! ~
+@236 = ~Hablas con sentido común, enano.~
+@237 = ~*suspiro* Eso, amigo mío, es muy cierto.~
+@238 = ~Oh, sí, mujer, es muy cierto. Ah, el recuerdo nostálgico del hogar... <CHARNAME>, ¡estuve aquí demasiado tiempo!~
+@239 = ~Ese es un final muy bueno. Y fue sorprendentemente fácil de lograr.~
+@240 = ~*exhala* Muy bien, ahora me atrevo a respirar de nuevo. Tienes mucha, mucha, mucha suerte de que esto haya salido tan bien. Espero que seas consciente de esto. Y bueno...~
+@241 = ~¿Perdón?~
+@242 = ~Oh, nada. Solo mantenlo bajo, y... mejor no bebas demasiado alcohol, con eso deberías estar bien.~
+@243 = ~<CHARNAME>, ¿crees que deberíamos advertirles sobre la posibilidad de réplicas? Ya sabes, me refiero a la que puede suceder después de una transformación tan forzada, ¿su cuerpo ahora recuerda la forma de limo y se podría convertir temporalmente en otro limo en caso de sufrir de demasiada tensión? - Buen hombre, no planees hacer nada... especialmente emocionante en los próximos días, ¿vale?~
+@244 = ~Haría las piezas lo suficientemente pequeñas para que puedas ponerlas en tu botella de poción, mago. ¿De acuerdo?~
+@245 = ~Eso es muy considerado de tu parte, Montaron, querido.~
 
 
