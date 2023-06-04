@@ -1740,6 +1740,12 @@ ACTION_IF GAME_IS ~bgt~ THEN BEGIN
   EXTEND_TOP ~AR0602.bcs~ ~bgqe/Sylar/baf/c#qwasy_ar0602_bgt.baf~ EVALUATE_BUFFER
 END
 
+ACTION_IF GAME_IS ~eet~ THEN BEGIN
+  OUTER_SPRINT ~female_body_res~ ~misc79_~
+END ELSE BEGIN
+  OUTER_SPRINT ~female_body_res~ ~misc79~
+END
+
 COPY ~bgqe/Sylar/cre/WASYLAR.cre~ ~override~
 SAY NAME1 @9002
 SAY NAME2 @9002

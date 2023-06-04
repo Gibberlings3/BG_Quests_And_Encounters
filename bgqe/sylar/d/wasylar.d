@@ -70,16 +70,16 @@ IF ~GlobalLT("WAHelpSylar","Global",7)~ THEN BEGIN 11
 	SAY @22
 	IF ~~ THEN REPLY @23 EXIT
 	IF ~OR(2)
-PartyHasItem("%tutu_var%Misc80") PartyHasItem("%tutu_scriptbg%Misc79")
+PartyHasItem("%tutu_var%Misc80") PartyHasItem("%tutu_scriptbg%%female_body_res%")
 GlobalLT("WAHelpSylar","Global",6)~ THEN REPLY @24 GOTO 12
 	IF ~OR(2)
-PartyHasItem("%tutu_var%Misc80") PartyHasItem("%tutu_scriptbg%Misc79") 
+PartyHasItem("%tutu_var%Misc80") PartyHasItem("%tutu_scriptbg%%female_body_res%") 
 Global("WAHelpSylar","Global",6)~ THEN REPLY @24 GOTO 22
 END
 
 IF ~~ THEN BEGIN 12
 	SAY @25
-	IF ~PartyHasItem("%tutu_scriptbg%Misc79")~ THEN DO ~TakePartyItem("%tutu_scriptbg%Misc79")
+	IF ~PartyHasItem("%tutu_scriptbg%%female_body_res%")~ THEN DO ~TakePartyItem("%tutu_scriptbg%%female_body_res%")
 	GiveGoldForce(150)
 	IncrementGlobal("WAHelpSylar","Global",1)~ EXIT
 	IF ~PartyHasItem("%tutu_var%Misc80")~ THEN DO ~TakePartyItem("%tutu_var%MISC80")
@@ -89,7 +89,7 @@ END
 
 IF ~~ THEN BEGIN 22
 	SAY @27
-	IF ~PartyHasItem("%tutu_scriptbg%Misc79")~ THEN DO ~TakePartyItem("%tutu_scriptbg%Misc79")
+	IF ~PartyHasItem("%tutu_scriptbg%%female_body_res%")~ THEN DO ~TakePartyItem("%tutu_scriptbg%%female_body_res%")
 	GiveGoldForce(150)
 	SetGlobal("WAHelpSylar","Global",7)
 	%ERASEJOURNALENTRY_9003%
