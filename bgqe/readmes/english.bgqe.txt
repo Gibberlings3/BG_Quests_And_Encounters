@@ -381,6 +381,7 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 HISTORY
 
 Version 26.1:
+- "Brage's Sword": Laryssa should spawn after showing the sword to Nalin if Borda is not dead, too.
 - EET: Fixed item code for female bodies in wasylar.d (Sylar should also take female bodies in EET).
 - (German version) proofreading of "Brage's Sword", by Shai Hulud
 
