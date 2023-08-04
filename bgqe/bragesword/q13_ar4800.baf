@@ -28,12 +28,30 @@ END
 
 /* Laryssa spawn */
 /* [Borda is still alive and has to appear a second time.] Laryssa spawns outside temple in Nashkel after Nalin looked at the sword */
+IF
+	Global("C#q13_LarissaSpawn","MYAREA",0)
+	OR(2)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",0)
+		Global("C#q13Brage_FakeMerchant","GLOBAL",1)
+	!Dead("BORDA") 
+	!Dead("Brage")
+	GlobalGT("C#q13Brage_NalinVouch","GLOBAL",1)
+	OR(2)
+		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
+		Global("C#Q13_BragesSwordQuest","GLOBAL",6)
+THEN
+	RESPONSE #100
+		SetGlobal("C#q13_LarissaSpawn","MYAREA",1)
+		CreateCreature("c#q13lar",[2450.1198],13)
+		IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",2)
+		Continue()
+END
+
 /* in case innocence was proven with third letter out of Tazok's tent (PC didn't need Larissa to find the merchant */
 IF
 	Global("C#q13_LarissaSpawn","MYAREA",0)
 	Dead("BORDA") 
 	!Dead("Brage")
-	!Dead("LARYSSA")
 	GlobalGT("C#q13Brage_NalinVouch","GLOBAL",1)
 	OR(2)
 		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
