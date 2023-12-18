@@ -380,6 +380,10 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORY
 
+Version 27:
+- simplified Chinese Version added, by lzw104522773.
+- full revised Spanish translaion, by ElGamerViejuno.
+
 Version 26.1:
 - "Brage's Sword": Laryssa should spawn after showing the sword to Nalin if Borda is not dead, too.
 - EET: Fixed item code for female bodies in wasylar.d (Sylar should also take female bodies in EET).
@@ -526,7 +530,6 @@ Version 16:
 -changed script name assignment to make it consistent with other mods: %tutu_var%drunk.cre -> "drunk"; %tutu_var%oublek.cre -> "Oublek"; %tutu_scriptbg%FTOWN2%eet_var%.cre -> "%tutu_scriptbg%FTOWN2%eet_var%"
 
 -g3_bgee_cpmvars.tpa corrected (Post dialogue Dynaheir, Jaheirs - not important for this mod)
-
 
 Version 15:
 	-("Many Little Paws") Fixed invisible hamster
