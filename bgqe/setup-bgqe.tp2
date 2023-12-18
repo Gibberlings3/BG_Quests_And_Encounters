@@ -516,7 +516,10 @@ LANGUAGE ~Espanol~
          ~bgqe/tra/espanol/setup.tra~
          ~bgqe/tra/espanol/bgqe_game.tra~
 
-
+LANGUAGE ~Simplified Chinese~
+         ~schinese~
+         ~bgqe/tra/schinese/setup.tra~
+         ~bgqe/tra/schinese/bgqe_game.tra~
 
 
 
