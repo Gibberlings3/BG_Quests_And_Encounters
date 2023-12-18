@@ -1,9 +1,9 @@
-@0    = ~Saludos, viajeros. Estoy de camino a la Puerta de Baldur y no busco problemas.~
+@0    = ~Saludos, viajeros. Estoy de camino a Puerta de Baldur y no busco problemas.~
 @1    = ~Nosotros tampoco buscamos problemas.~
 @2    = ~Viéndoos desde la distancia hubiera jurado que sois un medio-orco, pero vuestra apariencia no es lo que parece.~
 @3    = ~Pero lo soy. ¡Veamos como lucha un piel verde como vos!~
 @4    = ~Perdonad mi locuacidad. Se que no puedo ocultar mi herencia orca, y eso me ha dado en el pasado montones de confrontaciones innecesarias.~
-@5    = ~Bueno, entonces, me marcharé y continuaré mi camino hasta la Puerta de Baldur, ¡donde mi amada me espera!~
+@5    = ~Bueno, entonces, me marcharé y continuaré mi camino hasta Puerta de Baldur, ¡donde mi amada me espera!~
 @6    = ~*suspiro* Otra vez no.~
 @7    = ~¿Qué queréis decir con eso?~
 @8    = ~¡Callaos y luchad!~
@@ -70,7 +70,7 @@
 @69   = ~Por favor, dejadnos. Sufrimos una gran pérdida y no queremos hablar de ello.~
 @70   = ~En este mundo no hay justicia.~
 
-// --Reacciones de NPC
+// --NPC reactions
 
 //[Imoen]
 @71 = ~Entonces... su propio control era el verdadero problema, ¿por qué no se acercaba a su amada?~
@@ -85,7 +85,7 @@
 //[Safana] (Garrick)
 @76 = ~Solo si incluye el beso que lo convierte en un príncipe bien guapo.~
 //[Skie] (Garrick)
-@77 = ~Ewww, imagina su primer beso...~
+@77 = ~Ewww, imaginad su primer beso...~
 //[Skie] (Garrick) (Dorn)
 @78 = ~Eh, sin ánimo de ofender, Dorn.~
 //[Eldoth]
@@ -107,13 +107,13 @@
 //[Dorn]
 @87 = ~Es una vergüenza que su herencia semiorca se muestre de esa manera.~
 //[Neera] (dorn)
-@88 = ~¿Qué? No hubiera pensado escuchar una declaración así de ti, Dorn.~
+@88 = ~¿Qué? No hubiera pensado escuchar una declaración así de vos, Dorn.~
 //[Dorn]
 @89 = ~Él es un chiste malo de la naturaleza. Parece un medio orco, pero nunca se mantendría firme si tuviera que luchar como tal. Es una desgracia para mi raza.~
 //[Neera] (Dorn)
-@90 = ~Ah, ahora tu comentario empieza a tener sentido... en una forma de pensar muy Dorn.~
+@90 = ~Ah, ahora vuestro comentario empieza a tener sentido... en una forma de pensar muy Dorn.~
 //[Rasaad] (Dorn)
-@91 = ~Dorn, no lo sabes, ¿verdad?~
+@91 = ~Dorn, no lo sabéis, ¿verdad?~
 //[Dorn] (Rasaad)
 @92 = ~No tengo que pelear con él para ver que es débil. ¡Sin armas!~
 //[Rasaad] (Dorn)
@@ -125,7 +125,7 @@
 //[Rasaad]
 @96 = ~No juzgar por la primera impresión es un ideal que la gente nunca alcanzará. Este hombre tiene una pesada carga que llevar.~
 //[Neera]
-@97 = ~Debe ser difícil ser juzgado por tu apariencia.~
+@97 = ~Debe ser difícil ser juzgado por las apariencias.~
 //[Safana]
 @98 = ~*suspiro* Para ser juzgados por nuestra apariencia... ¿No es este un destino que tenemos que compartir todos?~
 //[Neera] (Safana)
@@ -135,15 +135,15 @@
 //[Xan]
 @101 = ~¡Qué ingenuidad! ¿Este... hombre realmente cree que encontrará el amor y la paz... en *esta* vida?~
 //[Imoen] (Xan)
-@102 = ~Xan, tal vez deberías coger ejemplo.~
+@102 = ~Xan, tal vez deberíais coger ejemplo.~
 //[Xan] (Imoen)
 @103 = ~Sinceramente no debería, Imoen. ¡Seguramente no sería de *ningún* uso pasar mi tiempo como soñador!~
 //[Imoen] (Xan)
-@104 = ~Bueno, actualmente eres más como un día de pesadilla... Oh, bueno, olvídalo.~
+@104 = ~Bueno, actualmente sois más como un día de pesadilla... Oh, bueno, olvídalo.~
 //[Xan] (Imoen)
-@105 = ~*suspiro* Olvidas, joven humano, que la mente de un elfo nunca olvida. Nunca.~
+@105 = ~*suspiro* Olvidáis, joven humano, que la mente de un elfo nunca olvida. Nunca.~
 //[Imoen] (Xan)
-@106 = ~Oh, ¿en serio? Estuve buscando esta melodía recientemente. ¿Sabes la canción? ¿Puedes decirme la letra? Va así *tararea una melodía.*~
+@106 = ~Oh, ¿en serio? Estuve buscando esta melodía recientemente. ¿Sabéis la canción? ¿Podéis decirme la letra? Va así *tararea una melodía.*~
 //[Xan] (Imoen)
 @107 = ~Dioses todopoderosos de Arvanaith... ¡llevádme con vosotros, ahora!~
 //[Imoen] (Xan)
@@ -157,22 +157,22 @@
 //[Xzar]
 @112 = ~¡Que su camino esté lleno de paz y su vida llena de armonía y bla, bla, bla!~
 //[Montaron] (Xzar)
-@113 = ~Ya lo hiciste, Xzar, se me humedecen los ojos.~
+@113 = ~Ya lo hicisteis, Xzar, se me humedecen los ojos.~
 //[Kagain]
 @114 = ~¡Tal vez deberíamos seguirlo... y asegurarnos de que reciba el saludo que se merece!~
 //[Dorn] (Kagain)
 @115 = ~¿Y eso sería qué, enano?~
 //[Kagain] (Dorn)
-@116 = ~Oh, vamos, Guardia Negro. No es que no te gustaría probar tu arma en esto.~
+@116 = ~Oh, vamos, Guardia Negro. No es que no os gustaría probar vuestra arma en esto.~
 //[Safana]
-@117 = ~Qué clase de mujer se promete a tal... criatura. ¿Viste sus cejas?~
+@117 = ~Qué clase de mujer se promete a tal... criatura. ¿Visteis sus cejas?~
 //[Coran]
 @118 = ~Reconozco el amor verdadero cuando lo veo. Este hombre estaba enamorado, y si la mujer a la que corteja solo siente la mitad de su amor, vivirán felices para siempre.~
 
 //[Imoen]
-@119 = ~¿Soy la única que piensa que habría ido con su prometida sin importar lo que le dijeras, <CHARNAME>?~
+@119 = ~¿Soy la única que piensa que habría ido con su prometida sin importar lo que le dijerais, <CHARNAME>?~
 
 
-/* contenido nuevo v10 */
+/* new content v10 */
 
 @120 = ~Veo que somos del mismo linaje, por así decirlo. Pero eso tampoco es garantía de un encuentro amistoso... Sin ánimo de ofender.~

@@ -1,6 +1,6 @@
-/* ¡Todos los números no utilizados se usan en setup.tra! */
+/* All unused numbers are used in setup.tra! */
 
-@3    = ~Botella Vacía~
+@3    = ~Botella vacía~
 @4    = ~Esta es la botella vacía que Alanna encontró en la casa del transformado Eltolth. La escritura en la etiqueta dice:
 "Magnífica sorpresa:
 Tiempo de efecto: 5 segundos hasta 1 minuto. 
@@ -12,7 +12,7 @@ Está firmado por una firma ilegible que comienza con una "T".~
 @6    = ~Esto parece ser una especie de diario perteneciente al vecino de Alanna, Eltolth. Al navegar por las páginas, encuentras algunas entradas que pueden arrojar algo de luz sobre lo que sucedió antes de su transformación:
 "...Hablé de nuevo con Tulbor. Lo encontré en el lugar de siempre. Como siempre, quería sentarse lejos de la barra, y tuve que invitarle a un trago (...) Dice que sus pociones son igual de buenas que las de Juoma, pero mucho más baratas. (...) Me volvió a ofrecer la especial. Cuesta una fortuna, ¡pero creo que vale la pena! Esta vez la probaré".
 Las notas terminan aquí.~
-@7    = ~Elixir de Transformación~
+@7    = ~Elixir de transformación~
 @8    = ~Este es el elixir que debería devolver al pobre Eltolth a su verdadera forma. Si se toma en sobredosis, debería dar una buena bonificación de fuerza. Beber toda la botella debería producir este efecto.~
 
 @10   = ~Alanna~
@@ -63,7 +63,7 @@ Las notas terminan aquí.~
 
 @57   = ~Sir Trun~
 @58   = ~Linda~
-@59   = ~Antídoto Alternativo~
+@59   = ~Antídoto alternativo~
 @60   = ~Esta es la poción alternativa barata. Debería transformar a Eltolth en su antiguo yo...~
 
 
@@ -71,12 +71,12 @@ Las notas terminan aquí.~
 
 
 
-/* nuevos contenidos: v9 */
+/* new contents: v9 */
 
 
 @62   = ~Hamster~
-@63   = ~Este es el hámster del vendedor de mascotas que se "quedó" con Minsc, o mejor dicho con Boo... Tienes la fuerte sospecha de que es del sexo opuesto al de Boo, y por lo que recuerdas sobre la poca frecuencia de reproducción de los roedores, tenerlos a ambos juntos podría traer consecuencias muy pronto.~ 
-@64   = ~Este es uno de los pequeños hámsters que surgieron de la relación de Boo con aquel hámster sin nombre.~
+@63   = ~Este es el hámster del vendedor de mascotas que se "quedó" con Minsc, o mejor dicho con Bubú... Tenéis la fuerte sospecha de que es del sexo opuesto al de Bubú, y por lo que recordáis sobre la poca frecuencia de reproducción de los roedores, tenerlos a ambos juntos podría traer consecuencias muy pronto.~ 
+@64   = ~Este es uno de los pequeños hámsters que surgieron de la relación de Bubú con aquel hámster sin nombre.~
 @65   = ~Edward~
 
 
@@ -85,135 +85,135 @@ Las notas terminan aquí.~
 @99   = ~Mago~
 @100  = ~Teodor~
 @101  = ~Huevo~
-@102  = ~Este es un tipo de huevo que el repartidor te dio para su rescate. Se puede usar como una piedra ioun y seguro que sería poderoso. Sin embargo, tienes la impresión de que algo se mueve dentro.~
-@103  = ~Huevo de la Araña Congelada~
+@102  = ~Este es un tipo de huevo que el repartidor os dio para su rescate. Se puede usar como una piedra ioun y seguro que sería poderoso. Sin embargo, tenéis la impresión de que algo se mueve dentro.~
+@103  = ~Huevo de la araña congelada~
 @104  = ~Este es un huevo preservado de una Araña Espectral. Usado como una piedra ioun, sin duda es asqueroso, pero protege a quien lo lleva de ser retenido mágicamente.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
  
 
-Especial: El portador es inmune a Retener criatura.
-Carisma: Reducido en 3 puntos mientras esté equipado
+Especial: El portador es inmune a retener criatura.
+Carisma: Reducido en 3 puntos mientras esté equipado.
 
 Peso: 2~
 
 
-/* nuevos contenidos v10 */
+/* new contents v10 */
 
 
-@106  = ~Vieja Madre~
+@106  = ~Vieja madre~
 
 
-/* nuevos contenidos v15 */
+/* new content v15 */
 
 @107   = ~Casa del vecino de Alanna~
 @108   = ~Vendedor de mascotas~
 
 
-/* nuevos contenidos v16 */
+/* new content v16 */
 @110  = ~Espada de Brage~
 @111  = ~Espada a dos manos de Brage +1~
-/* descripción sin identificar bg1:totsc */
+/* unidentified description bg1:totsc */
 @112  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargó la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La función principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas.
 
 Esta es la espada que Brage encargó en Aguas Profundas.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 Daño: 1D10
-Tipo de daño: cortante
-peso: 15
+Tipo de daño: Cortante
+Peso: 15
 Factor de velocidad: 10
-Tipo de competencia: Espadón
-Tipo: 2 manos
-No utilizable por:
+Talento marcial: Mandoble
+Tipo: A dos manos
+No permitido a:
   Druida
   Clérigo
   Mago
   Ladrón~
-/* descripción identificada bg1:totsc */
+/* identified description bg1:totsc */
 @113  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargó la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La función principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades mágicas.
 
 Esta es la espada que Brage encargó en Aguas Profundas.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 Daño: 1D10 +1
-TACO: bonificación +1
-Tipo de daño: cortante
+GAC0: Bonificación +1
+Tipo de daño: Cortante
 Peso: 12
 Factor de velocidad: 9
-Tipo de competencia: Espadón
-Tipo: 2 manos
-No utilizable por:
+Talento marcial: Mandoble
+Tipo: A dos manos
+No permitido a:
   Druida
   Clérigo
   Mago
   Ladrón~
-/* descripción sin identificar tutu / bgt */
+/* unidentified description tutu / bgt */
 @114  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargó la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La función principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas.
 
 Esta es la espada que Brage encargó en Aguas Profundas.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 Daño: 1D10
-Tipo de daño: cortante
+Tipo de daño: Cortante
 Peso: 12
 Factor de velocidad: 10
-Tipo de competencia: Espada a dos manos
-Tipo: 2 manos
-Requiere: 14 Fuerza
-No utilizable por:
+Talento marcial: Mandoble
+Tipo: A dos manos
+Requisitos: Fuerza 14
+No permitido a:
   Druida
   Clérigo
   Mago
   Ladrón~
-/* descripción indentificada tutu / bgt */
+/* identified description tutu / bgt */
 @115  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargó la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La función principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades mágicas.
 
 Esta es la espada que Brage encargó en Aguas Profundas.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 Daño: 1D10 +1
-TACO: bonificación +1
-Tipo de daño: cortante
+GAC0 Bonificación +1
+Tipo de daño: Cortante
 Peso: 12
 Factor de velocidad: 9
-Tipo de competencia: Espada a dos manos
-Tipo: 2 manos
-Requiere: 14 Fuerza
-No utilizable por:
+Talento marcial: Mandoble
+Tipo: A dos manos
+Requisitos: Fuerza 14
+No permitido a:
   Druida
   Clérigo
   Mago
   Ladrón~
-/* descripción identificada bgee / eet */
+/* identified description bgee / eet */
 @116  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargó la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La función principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades mágicas.
 
 Esta es la espada que Brage encargó en Aguas Profundas.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 GAC0: +1
-Daño: 1d10+1 (cortante)
+Daño: 1D10+1 (cortante)
 Factor de velocidad: 9
-Tipo de competencia: Espada a dos manos
+Talento marcial: Mandoble
 Tipo: A dos manos
-Requiere:
-  14 fuerza
+Requisitos:
+ Fuerza 14
 
 Peso: 12~
 @117  = ~Paleto~
 @118  = ~Mi siervo Mulahey,
 
-tu estúpido descuido ha hecho que D. interfiera. Envió una agradable sorpresa al Comandante de Nashkel, quien descubrió que su nueva espada era más especial de lo que esperaba. Las fuerzas de Amn están debilitadas por ahora y no entrarán en los niveles más profundos de la mina. Sin embargo, prepárate para los intrusos, ya que numerosas fuerzas se sienten obligadas a investigar los avistamientos de tus estúpidos kobolds. No me vuelvas a fallar. 
+vuestro estúpido descuido ha hecho que D. interfiera. Envió una agradable sorpresa al Comandante de Nashkel, quien descubrió que su nueva espada era más especial de lo que esperaba. Las fuerzas de Amn están debilitadas por ahora y no entrarán en los niveles más profundos de la mina. Sin embargo, preparaos para los intrusos, ya que numerosas fuerzas se sienten obligadas a investigar los avistamientos de vuestros estúpidos kobolds. No me volváis a fallar. 
 
 TAZOK~
 @119  = ~Borda,
 
-no nos importa si pones todo tu esfuerzo en la tarea que te ordenamos hacer. No es nuestra culpa que el Comandante fuera solo en su investigación y por lo tanto encontrara la nueva espada mientras estaba solo en el camino en lugar de estar dentro del cuartel. Es tu descuido y casi lo hecha todo a perder. Tienes suerte de que ese tonto haya regresado a Nashkel, por lo que el oro que gastamos en esa hoja con su maldición especial no se perderá por completo. No, no recibirás el segundo importe del pago. Todavía puedes conservar la espada original que se suponía que recibiría Brage. Eso será suficiente compensación. Alégrate de que no te persigamos.
+no nos importa si pones todo vuestro esfuerzo en la tarea que os ordenamos hacer. No es nuestra culpa que el Comandante fuera solo en su investigación y por lo tanto encontrara la nueva espada mientras estaba solo en el camino en lugar de estar dentro del cuartel. Es vuestro descuido y casi lo hecha todo a perder. Tenéis suerte de que ese tonto haya regresado a Nashkel, por lo que el oro que gastamos en esa hoja con su maldición especial no se perderá por completo. No, no recibiréis el segundo importe del pago. Todavía podéis conservar la espada original que se suponía que recibiría Brage. Eso será suficiente compensación. Alegraos de que no os persigamos.
 TAZOK~
 @120  = ~Tazok,
 
@@ -221,13 +221,13 @@ Exijo que me pague la segunda mitad de lo que acordamos: el Comandante mató a su
 
 Borda~
 @121  = ~Carta al Captain Tollar Kieres~
-@122  = ~Esta carta lleva el sello oficial de la Liga Mercantil de Puerta de Baldur. Te lo entregó Aldeth Sashenstar y está dirigida al Capitán Kieres, que actualmente reside en la Tesorería de la Liga Mercantil en la parte noreste de la ciudad.~ 
+@122  = ~Esta carta lleva el sello oficial de la Liga Mercantil de Puerta de Baldur. Os la entregó Aldeth Sashenstar y está dirigida al Capitán Kieres, que actualmente reside en la Tesorería de la Liga Mercantil en la parte noreste de la ciudad.~ 
 
 @123  =  ~Anillo con el sello de la Liga Mercantil~
 @124  =  ~Estos anillos solo se entregan a personas que gozan de la plena confianza de la Liga Mercantil. Sirven como identificación y deberían otorgarle acceso libre y completo a la Tesorería de la Liga Mercantil normalmente restringida.
 Los rumores dicen que estos anillos son una de las razones del éxito de la Liga, aparentemente están encantados de alguna manera.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 Suerte 3 veces al día
 Encantar persona 3 veces al día~
@@ -235,15 +235,15 @@ Encantar persona 3 veces al día~
 
 Esta es la espada que Brage encargó en Aguas Profundas.
 
-ESTADÍSTICAS:
+CARACTERÍSTICAS:
 
 GAC0: +1
-Daño: 1d10+1 (cortante)
+Daño: 1D10+1 (cortante)
 Factor de velocidad: 9
-Tipo de competencia: Espada a dos manos
+Talento marcial: Mandoble
 Tipo: A dos manos
-Requiere:
-  14 fuerza
+Requisitos:
+ Fuerza 14
 
 Peso: 12~
 
@@ -288,10 +288,10 @@ Sin embargo, no estaba interesado en ayudarlo. Si cambio de opinión, sé dónde pu
 
 
 //////////////////////////////////////////////////////////////////////////////
-//Entradas del diario...
+//Journal entries...
 //////////////////////////////////////////////////////////////////////////////
 
-//La misión del Lodo
+//slime quest
 
 @10000  = ~Beregost: El vecino de Alanna en problemas~
 
@@ -308,7 +308,7 @@ Una mujer desesperada llamada Alanna se me acercó en Beregost. Algo no va bien c
 //@65 (c#q01001.tra)
 @10003  = ~Beregost: El vecino de Alanna en problemas
 
-Eltolth me dio 200 mo por nuestra ayuda. Salí de su casa sabiendo que hacía felices a dos personas.~
+Eltolth me dio 200 piezas de oro por nuestra ayuda. Salí de su casa sabiendo que hacía felices a dos personas.~
 
 
 //@66 (c#q01001.tra)
@@ -342,63 +342,63 @@ Ups. Parece que Alanna y su vecino están pacíficamente unidos... como lodos (mue
 Parece que Eltolth no puede aceptar una broma. Tuve que matar... a eso.~
 
 
-//tesoro familiar: c#q02005.tra
+//family treasure: c#q02005.tra
 
 
-@10009  = ~La Familia Quarrel en Beregost~
+@10009  = ~La familia Quarrel en Beregost~
 
 //@4 
-@10010  = ~La Familia Quarrel en Beregost
+@10010  = ~La familia Quarrel en Beregost
 
 Conocí a una extraña pareja en una de las casas de Beregost. Aparentemente, el esposo y la esposa ya no se hablan. Tal vez debería averiguar qué sucede.~
 
 //@25
-@10011  = ~La Familia Quarrel en Beregost
+@10011  = ~La familia Quarrel en Beregost
 
-Compré el collar de la familia Dudley por las 500 po prometidas. Su problema de dinero debería haber quedado resuelto.~
+Compré el collar de la familia Dudley por las 500 piezas de oro prometidas. Su problema de dinero debería haber quedado resuelto.~
 
 //@27
-@10012  = ~La Familia Quarrel en Beregost
+@10012  = ~La familia Quarrel en Beregost
 
-Compré el collar de la familia Dudley. En lugar de dar sólo las 500 mo prometidas, logré "pasar de estranjis" otras 50 po a la bolsa de dinero del Sr. Dudley. Espero que la familia esté bien ahora.~
+Compré el collar de la familia Dudley. En lugar de dar sólo las 500 piezas de oro prometidas, logré "pasar de estranjis" otras 50 piezas de oro a la bolsa de dinero del Sr. Dudley. Espero que la familia esté bien ahora.~
 
 //@29
-@10013  = ~La Familia Quarrel en Beregost
+@10013  = ~La familia Quarrel en Beregost
 
-Compré el collar de la familia Dudley. En lugar de dar sólo las 500 mo prometidas, logré "pasar de estranjis" otras 100 po a la bolsa de dinero del Sr. Dudley. Espero que la familia esté bien ahora.~
+Compré el collar de la familia Dudley. En lugar de dar sólo las 500 piezas de oro prometidas, logré "pasar de estranjis" otras 100 piezas de oro a la bolsa de dinero del Sr. Dudley. Espero que la familia esté bien ahora.~
 
 //@110
-@10014  = ~La Familia Quarrel en Beregost
+@10014  = ~La familia Quarrel en Beregost
 
-Prometí a los Dudley de Beregost comprar su collar de perlas por 500 po.~
+Prometí a los Dudley de Beregost comprar su collar de perlas por 500 piezas de oro.~
 
 //@114
-@10015  = ~La Familia Quarrel en Beregost
+@10015  = ~La familia Quarrel en Beregost
 
 El problema esta resuelto. La hija se llevó el collar para que sus padres no lo vendieran... Ahora lo devolverá.~
 
 //@145
-@10016  = ~La Familia Quarrel en Beregost
+@10016  = ~La familia Quarrel en Beregost
 
 El Sr. Dudley trajo el oro extra... Los Dudley son gente honesta y orgullosa. Bueno, su problema de dinero debería resolverse de todos modos.~
 
 //@146
-@10017  = ~La Familia Quarrel en Beregost
+@10017  = ~La familia Quarrel en Beregost
 
 El Sr. Dudley quería traer el oro extra... Los Dudley son gente honesta y orgullosa. Sin embargo, podría convencerlo de que lo aceptara. Su problema de dinero debería resolverse ahora.~
 
 //@155
-@10018  = ~La Familia Quarrel en Beregost
+@10018  = ~La familia Quarrel en Beregost
 
 De algún modo, resolví el problema.~
 
 //@160
-@10019  = ~La Familia Quarrel en Beregost
+@10019  = ~La familia Quarrel en Beregost
 
 El problema esta resuelto. La hija cogió el collar para que no se pudiera vender... Yo se lo devolví.~
 
 
-/* Niñera en Nashkel: c#q03008_9_10_11.tra */
+/* Babysitting in Nashkel: c#q03008_9_10_11.tra */
 
 
 @10020  = ~Niñera en Nashkel~
@@ -436,100 +436,101 @@ Había una madre con dos... mocosos en Nashkel. Los ahuyenté. ¡No soporto los lam
 
 Huh, parece que la madre de Nashkel conoció a un par de corpulentos berserkers de buen corazón que pensaron que tenían que darme una lección. Supongo que no vivieron lo suficiente para aprender esa lección...~
 
-/* El Monstruo de Nashkel: c#q04001_3_4_5.tra */
+/* Nashkel Monster: c#q04001_3_4_5.tra */
 
 
 //@1 (c#q04001_3_4_5.tra)
-@10026  = ~Nashkel Monster
+@10026  = ~El monstruo de Nashkel
 
-Maté a un bebé wyvern en Nashkel que estaba persiguiendo a un niño...~
+Maté a un bebé draco en Nashkel que estaba persiguiendo a un niño...~
 
-@10027  = ~El Monstruo de Nashkel~
+@10027  = ~El monstruo de Nashkel~
 
 //@16 (c#q04001_3_4_5.tra)
-@10028  = ~El Monstruo de Nashkel
+@10028  = ~El monstruo de Nashkel
 
 La familia del niño quería que los soldados me arrestaran. El chico obviamente mintió sobre nuestro primer encuentro. Decidí luchar contra las autoridades de la ciudad.~
 
 //@49 (c#q04001_3_4_5.tra)
-@10029  = ~El Monstruo de Nashkel
+@10029  = ~El monstruo de Nashkel
 
 La familia del niño quería que los soldados me arrestaran. El niño obviamente mintió sobre nuestro primer encuentro porque estaba asustado por la ira de su padre por la "mascota exótica" perdida. Afortunadamente, pude convencerme de no hacerlo.~
 
-@10030   = ~El Huevo Desconocido~
+@10030   = ~El huevo desconocido~
 
-@10031   = ~El Huevo Desconocido
+@10031   = ~El huevo desconocido
 
 Conocimos al mago que supuestamente debía obtener la "Piedra" de huevo. Dijo algunas cosas raras, algo sobre una desagradable sorpresa que recibiría si no le mostraba el huevo a un mago poderoso...~
 
-@10032   = ~El Huevo Desconocido
+@10032   = ~El huevo desconocido
 
-El huevo se conserva permanentemente ahora. Todavía es un objeto mágico y podría ser de alguna utilidad. ¡Era el huevo de una Araña Espectral, listo para eclosionar! El peligro ya pasó.~
+El huevo se conserva permanentemente ahora. Todavía es un objeto mágico y podría ser de alguna utilidad. ¡Era el huevo de una araña espectral, listo para eclosionar! El peligro ya pasó.~
 
-@10033   = ~El Huevo Desconocido
+@10033   = ~El huevo desconocido
 
-¡Liberé a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba wyverns! Me dio una extraña piedra parecida a un huevo. Dijo que el mago que se suponía que debía conseguirlo podría estar todavía de camino a Puerta de Baldur. Tal vez debería devolvérselo.~
+¡Liberé a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba dracos! Me dio una extraña piedra parecida a un huevo. Dijo que el mago que se suponía que debía conseguirlo podría estar todavía de camino a Puerta de Baldur. Tal vez debería devolvérselo.~
 
-@10034   = ~El Huevo Desconocido
+@10034   = ~El huevo desconocido
 
-El huevo está destruido. ¡Era el huevo de una Araña Espectral, listo para eclosionar! El peligro ya pasó.~
+El huevo está destruido. ¡Era el huevo de una araña espectral, listo para eclosionar! El peligro ya pasó.~
 
-@10035   = ~El Huevo Desconocido
+@10035   = ~El huevo desconocido
 
-¡El huevo era de una Araña Espectral y salió del cascarón en mi mochila!~
+¡El huevo era de una araña espectral y salió del cascarón en mi mochila!~
 
-@10067   = ~El Huevo Desconocido
+@10067   = ~El huevo desconocido
 
-¡Liberé a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba wyverns! ¡Me dio un huevo preparado pero aún vivo de una Araña Espectral! Dijo que el mago que se suponía que debía conseguirlo podría estar todavía de camino a Baldur's Gate. Tal vez debería devolvérselo.~
-
-
-/* El Paladin Caído: desde c#q05001.tra */
+¡Liberé a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba dracos! ¡Me dio un huevo preparado pero aún vivo de una araña espectral! Dijo que el mago que se suponía que debía conseguirlo podría estar todavía de camino a Puerta de Baldur. Tal vez debería devolvérselo.~
 
 
-@10036   = ~El Paladin Caído en el Templo de Helm~
+/* Fallen Paladin: from c#q05001.tra */
+
+
+@10036   = ~El paladín caído en el templo de Helm~
 
 //@19
-@10037   = ~El Paladin Caído en el Templo de Helm
+@10037   = ~El paladín caído en el templo de Helm
 
 El paladín caído dijo que fue engañado por un demonio que poseía a la niña. El poder del demonio era demasiado grande para que él viera la verdad antes de matarla.~
 
 //@33
-@10038      = ~El Paladin Caído en el Templo de Helm
+@10038      = ~El paladín caído en el templo de Helm
 
 Conocí a una mujer que hablaba de una niña que de repente desarrolló grandes poderes mágicos, ¡lo suficientemente poderosos como para teletransportarla de Luskan a Puerta de Baldur! Esa historia se parece mucho a la del niño que mató el paladín. Tal vez debería hablar con él al respecto, si quiero ayudarlo.~
 
 //@34
-@10039   = ~El Paladin Caído en el Templo de Helm
+@10039   = ~El paladín caído en el templo de Helm
 
 La madre del niño asesinado confirmó la historia del paladín sobre la posesión demoníaca. Ella dijo que su hija de repente desarrolló fuertes poderes mágicos. Esto me recuerda a la niñera que conocí recientemente en la ciudad. ¿Podría el niño en Luskan del que habló mostrar los mismos "síntomas"? Tal vez debería hablar con el paladín al respecto, si quiero ayudarlo.~
 
 //@35
-@10040   = ~El Paladin Caído en el Templo de Helm
+@10040   = ~El paladín caído en el templo de Helm
 
 La madre del niño asesinado confirmó la historia del paladín sobre la posesión demoníaca. Ella dijo que su hija de repente desarrolló fuertes poderes mágicos. Me pidió que no difundiera esa información.~
 
 //@36
-@10041   = ~El Paladin Caído en el Templo de Helm
+@10041   = ~El paladín caído en el templo de Helm
 
 ¡En el templo de Helm en Puerta de Baldur se encuentra un paladín caído acusado de matar a un niño pequeño!~
 
 //@37
-@10042   = ~El Paladin Caído en el Templo de Helm
+@10042   = ~El paladín caído en el templo de Helm
 
 La chica que mató el paladín vivía en una casa adyacente a la entrada del palacio. Tal vez debería ir allí, si quiero descubrir los detalles de lo que pasó.~
 
 //@38
-@10043   = ~El Paladin Caído en el Templo de Helm
+@10043   = ~El paladín caído en el templo de Helm
 
 El caído Sir Dauron se fue en busca de la niñera del niño de Luskan que conocí recientemente, con la esperanza de que ella pueda dirigirlo a otro niño que podría ser objeto de posesión demoníaca. Tal vez tenga éxito y derrote a este demonio en Luskan... Realmente sería un final feliz para esta triste historia.~
 
 //@63
-@10044   = ~El Paladin Caído en el Templo de Helm
+@10044   = ~El paladín caído en el templo de Helm
 
 Decidí resolver el problema de una manera... muy definida.~
 
 
-////////////////////El Paladin Caído en el Templo de Helm: c#q06001_2.tra */
+////////////////////////////////////////////////
+/* Undying Love: c#q06001_2.tra */
 
 @10045   = ~Viuda asustada en un pueblo de pescadores~
 
@@ -554,7 +555,7 @@ Maté a la criatura no muerta que amenazaba a la mujer. Ahora debería poder vivir
 Le sugerí a la viuda que cumpliera el contrato y se fue del pueblo.~
 
 
-/* Amante de Orcos: c#q07001.tra */
+/* Ork Lover: c#q07001.tra */
 
 @10050   = ~Ataque orco en Puerta de Baldur~
 
@@ -570,7 +571,7 @@ Hay un rumor de que una casa cerca de la taberna Canción Élfica fue atacada por 
 
 
 /////////////////////////////////////////
-/* Ayuda inesperada: c#q08001.tra */
+/* Unexpected Help: c#q08001.tra */
 
 
 @10053   = ~Linda y Sir Trun~
@@ -587,50 +588,52 @@ Conocí a Linda en  la posada de Candelero. Es la prometida de Sir Trun, quien se
 
 
 ///////////////////////////////////////////////////////////
-/* Negocio de hámster */
+/* Hamster Business */
 
-@10056   = ~Dilemma del Hámster~
+@10056   = ~Dilema del hámster~
 
-@10057   = ~Dilemma del Hámster
+@10057   = ~Dilema del hámster
 
-Nos deshicimos del segundo hámster... Espero que Boo no esté muy desconsolado.~
+Nos deshicimos del segundo hámster... Espero que Bubú no esté muy desconsolado.~
 
-@10058   = ~Dilemma del Hámster
+@10058   = ~Dilema del hámster
 
 De alguna manera Minsc logró esconder un hámster de ese vendedor de mascotas y se niega a deshacerse de él a no ser que sea para devolvérselo. Supongo que tendré que buscar donde está ese vendedor ahora.~
 
-@10059   = ~Dilemma del Hámster
+@10059   = ~Dilema del hámster
 
-Nos deshicimos del segundo hámster... Espero que Boo no esté muy desconsolado. Eso deja solo a los más pequeños. Tengo que deshacerme de ellos antes de que crezcan... ¿No había un chico en el Carnaval de Nashkel que quería un hámster desesperadamente?~
+Nos deshicimos del segundo hámster... Espero que Bubú no esté muy desconsolado. Eso deja solo a los más pequeños. Tengo que deshacerme de ellos antes de que crezcan... ¿No había un chico en el Carnaval de Nashkel que quería un hámster desesperadamente?~
 
-@10060   = ~Dilemma del Hámster
+@10060   = ~Dilema del hámster
 
 Nos deshicimos del segundo hámster... y de todos los pequeños.~
 
-/* nuevo para la v16 */
+/* new for v16 */
 
-@10069   = ~Dilemma del Hámster
+@10069   = ~Dilema del hámster
 
 El chico del Carnaval de Nashkel se llevó a todos los hámsters pequeños. Tengo la sensación de que tendrá aún más de ellos si alguna vez le llega la posibilidad.~
 
 
 /////////////////////////////////////////////////////////
-/* Borracho cerca del Templo de Beregost */
+/* Drunk near Beregost Temple */
 
-@10061   = ~Borracho cerca del Templo de Beregost~
+@10061   = ~Borracho cerca del templo de Beregost~
 
-@10062   = ~Borracho cerca del Templo de Beregost
+@10062   = ~Borracho cerca del templo de Beregost
 
-Conocí a un borracho cerca del Templo Beregost. Estoy seguro de que no es capaz de defenderse si le ataca cualquier criatura salvaje, pero tampoco me deja ayudarlo. Tal vez podría informar a alguien sobre su presencia aquí.~
+Conocí a un borracho cerca del templo de Beregost. Estoy seguro de que no es capaz de defenderse si le ataca cualquier criatura salvaje, pero tampoco me deja ayudarlo. Tal vez podría informar a alguien sobre su presencia aquí.~ ~Borracho cerca del templo de Beregost
 
-@10063   = ~Borracho cerca del Templo de Beregost
+Conocí a un borracho cerca del templo de Beregost. Estoy segura de que no es capaz de defenderse si le ataca cualquier criatura salvaje, pero tampoco me deja ayudarlo. Tal vez podría informar a alguien sobre su presencia aquí.~
+
+@10063   = ~Borracho cerca del templo de Beregost
 
 Los sacerdotes de Lathander velarán por el borracho Polo. Debería estar a salvo.~
 
-/* @10064 - @10067 usado arriba */ 
+/* @10064 - @10067 used above */ 
 
-@10068   = ~Borracho cerca del Templo de Beregost
+@10068   = ~Borracho cerca del templo de Beregost
 
 Salvé al borracho de más comodidades. Por asi decirlo.~
 
-/* @10069 usado arriba */
+/* @10069 used above */

@@ -11,7 +11,7 @@ BACKUP ~bgqe/Backup~
 AUTHOR ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~26.1~ 
+VERSION ~27~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -520,6 +520,8 @@ LANGUAGE ~Simplified Chinese~
          ~schinese~
          ~bgqe/tra/schinese/setup.tra~
          ~bgqe/tra/schinese/bgqe_game.tra~
+
+
 
 
 
