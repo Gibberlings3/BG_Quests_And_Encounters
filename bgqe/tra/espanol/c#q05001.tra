@@ -11,7 +11,7 @@
 @10   = ~¿Qué ha sucedido exactamente? La gente dice que acuchillásteis a un niño.~
 @11   = ~¡Un hombre impío como vos no tiene derecho de orar en un templo!~
 @12   = ~¡Sois un canalla y voy a hacer venganza!~
-@13   = ~Lo tiene, si pide que le rescate. Sea lo que sea que pase.~
+@13   = ~Lo tiene, si reza por su redención. Sea lo que sea que pase.~
 @14   = ~Eso es lo que he hecho... Era una chica joven, con rizos marrones. Estoy seguro que su risa era tan alegre y avispada como la de un niño de su edad. Perdonadme, pero me gustaría arrodillarme y rezar a mi dios.~
 @15   = ~Solo una pregunta más. ¿Porqué lo hicisteis?~
 @16   = ~Por supuesto. Decid vuestras oraciones.~
@@ -33,7 +33,7 @@
 @32   = ~¡Gracias! Esta información me es más útil. Todo lo que os puedo ofrecer a cambio son las gracias desde lo más profundo de mi corazón. Que Helm os bendiga. Me habéis dado una nueva esperanza. Luisa fue matada con mis manos, pero encontraré a este monstruo y salvará a otra niña. Quizás... Quizás esto sea suficiente y pueda recuperar mi honor.~
 //@33  - @38   
 @39   = ~¡Qué canalla!~
-@40   = ~Por los... ¡Lárgate, gamberro!~
+@40   = ~Por los... ¡Largaos, gamberro!~
 @41   = ~¡Debe ser colgado!~
 @42   = ~Quizás haya más en eso... nunca se sabe.~
 @43   = ~¡Este asesino todavía está dentro!~
@@ -133,12 +133,12 @@
 
 
 
-/* contenido nuevo v9 */
+/* new content v9 */
 
-//---Reacciones de los NPC--
+//---NPC reactions--
 
-@137 = ~Esa sí que es una situación dura. No hay excusas, has caído por una buena razón: mataste a una niña inocente. Pero fuiste engañado y no te diste cuenta de tu acción. Helm podría perdonarte si demuestras que eres digno.~
-@138 = ~Reza al Vigilante para que esto nunca te suceda, amigo.~
+@137 = ~Esa sí que es una situación dura. No hay excusas, habéis caído por una buena razón: matasteis a una niña inocente. Pero fuisteis engañado y no os disteis cuenta de vuestra acción. Helm podría perdonaros si demostráis que sois digno.~
+@138 = ~Rezad al Vigilante para que esto nunca os suceda, amigo.~ ~Rezad al Vigilante para que esto nunca os suceda, amiga.~
 @139 = ~Estoy muy contento de que podamos ayudar a este hombre, <CHARNAME>.~
 @140 = ~Que encuentre paz.~
 @141 = ~Ah, eso es genial. Ahora podría encontrar su perdón, después de todo. Y con suerte también podrá salvará vidas en Luskan.~
@@ -153,36 +153,36 @@
 @150 = ~¿Pero pensé que ya no era un paladín? Me he perdido.~
 @151 = ~Esa es una historia muy triste.~
 @152 = ~Sin embargo, esperaba un poco más de drama, de alguna manera.~
-@153 = ~Pero parece que todo terminará bien. ¿Crees que alguna vez descubriremos cómo terminó? ... ¿Cuán lejos está Luskan, en realidad? ~
+@153 = ~Pero parece que todo terminará bien. ¿Creéis que alguna vez descubriremos cómo terminó? ... ¿Cuán lejos está Luskan, en realidad? ~
 @154 = ~Lo suficientemente lejos como para no preocuparnos.~
 
 @155 = ~Me pregunto si las chicas están completamente dominadas por ese demonio, o si tienen control sobre su poder... Hm, tengo que pensar en ello un poco más. ¡El aumento de poder debe ser enorme!~
 @156 = ~Debe ser un sentimiento realmente extraño, de repente tener tanto poder como esas chicas.~
 @157 = ~Esos son pensamientos ociosos. Esas pobres chicas no tienen ningún control sobre los poderes del demonio.~
-@158 = ~ ¿Adónde fue el demonio? Espero que las chicas no se den cuenta de lo que les está pasando... El demonio debe haberse apoderado por completo, o el paladín no habría podido ser engañado así.~
+@158 = ~¿Adónde fue el demonio? Espero que las chicas no se den cuenta de lo que les está pasando... El demonio debe haberse apoderado por completo, o el paladín no habría podido ser engañado así.~
 @159 = ~Como si un humano no tuviera ya suficientes demonios...~
 @160 = ~Cierto, amigo mío, muy cierto.~
 @161 = ~Ahora, ¿qué tipo de demonio debería ser ese? Nunca he oído hablar de un demonio que posea a sus víctimas de esa manera. ¡Yo, al menos, nunca he conocido a uno de esos!~
-@162 = ~Eso es porque hace bastante tiempo que no eres una niña, Xzar.~
+@162 = ~Eso es porque hace bastante tiempo que no sois una niña, Xzar.~
 
 @163 = ~Y se fue. Ahí va, el asesino de la niña. Al menos tenía una buena excusa.~
 @164 = ~¡Bah, brillamos de caridad y felicidad, eso me está alejando!~
-@165 = ~¿Quieres ir a Luskan?...~
+@165 = ~¿Queréis ir a Luskan?...~
 
-@166 = ~<CHARNAME>, ¿por qué hiciste eso?~
-@167 = ~Ahora, ¡era realmente innecesario! ¿No crees que esos pobres padres ya tienen suficientes problemas?~
+@166 = ~<CHARNAME>, ¿por qué hicisteis eso?~
+@167 = ~Ahora, ¡era realmente innecesario! ¿No creéis que esos pobres padres ya tienen suficientes problemas?~
 @168 = ~¡La madre pidió secreto!~
 @169 = ~Es espantoso ver cómo estás jugando con la confianza y la paz de estas personas, <CHARNAME>.~
 @170 = ~¡Ahora todos van a la casa de los p-padres!~
 @171 = ~Si no fuera una ocasión tan triste, ¡podría ser muy divertido! Eh, no. No creo que sea divertido.~
-@172 = ~¿Encuentras esto divertido? ¿Por qué le diste esa información?~
-@173 = ~¡Ja! No sabía que eras de los que bromeaban.~
-@174 = ~Oh, <CHARNAME>, ¿cómo pudiste... Los pobres, pobres padres... gnehehehehe!~
+@172 = ~¿Encontráis esto divertido? ¿Por qué le disteis esa información?~
+@173 = ~¡Ja! No sabía que eráis de los que bromeaban.~
+@174 = ~Oh, <CHARNAME>, ¿cómo pudisteis... Los pobres, pobres padres... gnehehehehe!~
 @175 = ~¡Sí, je! ¡Rápido, vayamos a la casa de los padres y veamos cómo la mafia hace su mobbing!~
 
 @176 = ~Pero esto sonó exactamente como lo que le pasó a Luisa, ¿no?~
 @177 = ~Lo que dijo esa mujer podría ser de interés para ese pobre paladín.~
-@178 = ~<CHARNAME>, las palabras que dijo esa mujer me sorprendieron. Por favor, vayamos al templo de Helm y digámoselo a Sir Dauron lo más rápido posible.~
+@178 = ~<CHARNAME>, las palabras que dijo esa mujer me sorprendieron. Por favor, vayamos al templo de Helm y digámosle a Sir Dauron lo más rápido posible.~
 
 @179 = ~¿Era el mismo demonio? Sus poderes deben ser realmente grandes, si puede teletransportarse a sí mismo y a esa niñera de Puerta de Baldur a Luskan y viceversa así.~
 
@@ -198,10 +198,10 @@
 @183 = ~¿Qué, qué? ¿Va a Luskan? ¿Él va donde está el demonio? Conozco este tipo de demonio. ¡Me alegro de que esté en Luskan! ¡Lejos, *muy* lejos!~
 
 //Dorn
-@184 = ~Hmph. No me importa dónde se reúna la gente, pero preferiría que no llamaras tanto la atención sobre nuestra presencia.~
+@184 = ~Hmph. No me importa dónde se reúna la gente, pero preferiría que no llamarais tanto la atención sobre nuestra presencia.~
 
 //Neera
-@185 = ~Ah, ahora la multitud enojada se ha ido, qué alivio... Espera, se mudaron a la casa de los padres, ¿no? Ay, eso es malo.~
+@185 = ~Ah, ahora la multitud enojada se ha ido, qué alivio... Esperad, se mudaron a la casa de los padres, ¿no? Ay, eso es malo.~
 
 //Baeloth
 @186 = ~Hmm, ¿manipulando a las masas enojadas, <CHARNAME>? ¡Qué espectáculo! Aunque, si supieran qué tipo de demonio es ese, le agradecerían al hombre por ahuyentarlo, no molestarían a las personas involucradas.~
@@ -216,4 +216,4 @@
 @189 = ~La historia que contó esa pobre mujer me sonó familiar. Deberíamos volver a hablar con ese paladín caído en el templo, <CHARNAME>.~
 
 //Rasaad
-@190 = ~¿Te divertiste? Porque para ti, podría haber sido un breve momento de diversión gritar esta noticia a la multitud, ¡pero para la madre es un gran motivo de molestia! Desearía que hubieras mostrado más respeto hacia las personas que ya estaban sacudidas por el destino, ¡especialmente si te lo habían pedido!~
+@190 = ~¿Os divertisteis? Porque para vos, podría haber sido un breve momento de diversión gritar esta noticia a la multitud, ¡pero para la madre es un gran motivo de molestia! Desearía que hubierais mostrado más respeto hacia las personas que ya estaban sacudidas por el destino, ¡especialmente si os lo habían pedido!~

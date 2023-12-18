@@ -6,7 +6,7 @@
 @5    = ~¿Qué? No tengo ni idea de lo que me estáis diciendo. ¿Por qué pensáis que estoy involucrado?~
 @6    = ~Un hombre llamado Eltolth ha sido transformado en un lodo. ¿Sabéis algo de esto?~ 
 @7    = ~Nada, todo bien. Adiós.~
-@8    = ~Eltolth se transformó en un ...(ríe a carcajadas) ¡Sabía que ocurriría! ¡Estaba tan ansioso! Ya se lo advertí, ¿Sabéis?~
+@8    = ~Eltolth se transformó en un... (ríe a carcajadas) ¡Sabía que ocurriría! ¡Estaba tan ansioso! Ya se lo advertí, ¿Sabéis?~
 @9    = ~Un momento. ¡Estáis hablando como si supierais exactamente lo que ha pasado! ¿Qué relación tenéis con este elixir de transformación? ¿Se lo vendisteis vos a Eltolth?~
 @10   = ~¡Ya sé lo que ha ocurrido! ¡Ahora hablad!~
 @11   = ~¡Basta de cháchara! ¡Hay un hombre en su casa, transformado en un lodo, y una mujer desesperada a su lado! ¡Ahora decidme cómo se le puede devolver a Eltolth su apariencia normal!~
@@ -23,7 +23,7 @@
 @22   = ~Qué patética actuación. Ahora escuchad: ¡Quizá vendí ese elixir a Eltolth, pero no hay nada de malo en ello! No soy ningún criminal...¡La poción estaba absolutamente bien!~ ~Oh querida, qué patético. Ahora escuchad: ¡Quizá vendí ese elixir a Eltolth, pero no hay nada de malo en ello! No soy ningún criminal...¡La poción estaba absolutamente bien!~
 @23   = ~¿Os estáis mofando de mí? ¡Ese elixir le transformó en un *lodo*!~ 
 @24   = ~¡Vamos, es muy fácil! Ahora escuchad: ¡Quizá vendí ese elixir a Eltolth, pero no hay nada de malo en ello! No soy ningún criminal...¡La poción estaba absolutamente bien!~
-@25   = ~Os puedo decir como fue. "Ah, así que ésta poción *funciona*...Vamos a beber otro trago... Ah, otro... y otro... Pero ooh, ¿Qué pasa?..."~ 
+@25   = ~Os puedo decir como fue. "Ah, así que ésta poción *funciona*... Vamos a beber otro trago... Ah, otro... y otro... Pero ooh, ¿Qué pasa?..."~ 
 @26   = ~Le dije que tuviera cuidado...con la sobredosis. Ahora tendrá que vivir con las consecuencias. Este es mi principio de venta: ¡No hay garantías! ¡Él lo sabía, así que si necesita un antídoto tendrá que pagarlo como un cliente decente!~
 @27   = ~¿Tenéis ese antídoto? ¿Cuanto cuesta?~ 
 @28   = ~¿Como puede deshacerse la transformación? ¡Hablad!~ 
@@ -63,7 +63,7 @@
 @66   = ~No me interesa.~
 @67   = ~Efectivamente, es útil. Dejadme decantar el líquido en una botella que no esté rota... Aquí tenéis. Es una poción de curación básica. También tengo que vender de estas, sino los clientes no estarían satisfechos. Pero ya está, creo. Continuaré mi camino.~
 @68   = ~¡No me puedo marchar con una botella que gotea! Creo que preguntaré por los alrededores.~
-@69   = ~Ey, os cuento mi principio de ventas: ¡Sin garantías! ¿O debería decir "sé feliz si no sucede nada desagradable?" Por las miradas que me hecháis creo que no. Esto es la vida, ya sabéis: O ganas, o pierdes. Pero os digo una cosa: Puedo ser un canalla, pero no estafo con mis pociones. Comprásteis una poción que podría haber ayudado... pero no lo hizo. Eso es todo.~
+@69   = ~Ey, os cuento mi principio de ventas: ¡Sin garantías! ¿O debería decir "sé feliz si no sucede nada desagradable?" Por las miradas que me hecháis creo que no. Esto es la vida, ya sabéis: O ganas, o pierdes. Pero os digo una cosa: Puedo ser un canalla, pero no estafo con mis pociones. Comprasteis una poción que podría haber ayudado... pero no lo hizo. Eso es todo.~
 @70   = ~Vos de nuevo. Todavía no tengo nada por vender, solo una botella que gotea.~
 @71   = ~Ya tengo aquí una botella vacía.~
 @72   = ~Entonces, adiós.~
@@ -87,17 +87,18 @@
 @90   = ~Umm, *podría* haber uno, si pienso en ello.~
 @100  = ~Aún no.~
 
-/* --- contenido nuevo v9 ---*/
-@101 = ~"¿No estás demasiado cerca?" Er, ¿qué acabamos de comprar, exactamente?~
+
+/* --- new content v9 ---*/
+@101 = ~"¿No estáis demasiado cerca?" Er, ¿qué acabamos de comprar, exactamente?~
 @102 = ~No me gustó la mirada de ese hombre cuando dijo eso, <CHARNAME>. Y esa poción se ve, ¡asquerosa!~
-@103 = ~No me gusta cómo suena eso, <CHARNAME>. No podemos confiar en esta poción alternativa, y espero que no la uses.~
+@103 = ~No me gusta cómo suena eso, <CHARNAME>. No podemos confiar en esta poción alternativa, y espero que no la uséis.~
 @104 = ~Esta poción barata es de origen dudoso. No quiero usarla en ese hombre.~
-@105 = ~¿Estás considerando seriamente usar esta sustancia de efecto desconocido en un hombre vivo?~
+@105 = ~¿Estáis considerando seriamente usar esta sustancia de efecto desconocido en un hombre vivo?~
 @106 = ~No estoy de acuerdo con esto, <CHARNAME>. Es d-demasiado peligroso.~
-@107 = ~No uses esa poción, <CHARNAME>. No sabemos cómo funcionará.~
+@107 = ~No uséis esa poción, <CHARNAME>. No sabemos cómo funcionará.~
 @108 = ~Hm, parece haber algo de magia salvaje integrada en esa poción, por el sonido de la misma. (¡Aunque no creo que este tonto sea capaz de manejar algo así!)~
-@109 = ~Probemos esta poción en el limo, ¡rápido! Tengo curiosidad por ver qué pasará. Con suerte no será la transformación aburrida de nuevo en un hombre. ~
-@110 = ~¿Qué tal si se lo das y te quedas *muy cerca*?~
+@109 = ~Probemos esta poción en el limo, ¡rápido! Tengo curiosidad por ver qué pasará. Con suerte no será la transformación aburrida de nuevo en un hombre.~
+@110 = ~¿Qué tal si se lo dais y os quedáis *muy cerca*?~
 @111 = ~Eso suena a magia salvaje... ¡Definitivamente no debemos *permanecer* cerca cuando la magia se desarrolle! Bueno, al menos queda probado que la magia salvaje *sí* conduce a cambios de forma. *suspiro*~
-@112 = ~No, Melicamp, no me refería a ti. Pero, sí, eres un buen ejemplo.~
+@112 = ~No, Melicamp, no me refería a vos. Pero, sí, sois un buen ejemplo.~
 @113 = ~Me opongo a correr este riesgo con un hombre vivo, <CHARNAME>. Acordamos ayudarlo, por lo que es nuestra obligación hacerlo correctamente.~
