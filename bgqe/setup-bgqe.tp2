@@ -815,6 +815,25 @@ WRITE_EVALUATED_ASCII 0x58 ~CCLCK06~ #8
 END
 
 
+/* Replace creature items with appropriate ones */
+
+COPY_EXISTING_REGEXP ~C#Q0301[567].CRE~ ~override~
+  GET_OFFSET_ARRAY items CRE_V10_ITEMS
+  PHP_EACH items AS i => item BEGIN
+    READ_ASCII item item_filename
+    PATCH_MATCH ~%item_filename%~ WITH
+      ~RNDTRE04~ WHEN GAME_IS ~bgt eet~ BEGIN
+        WRITE_ASCII item ~RNDTRE08~
+      END
+      ~AX1H03~ WHEN GAME_IS ~bgee eet~ BEGIN
+        WRITE_ASCII item ~AX1H11~
+      END
+      DEFAULT
+    END
+  END
+BUT_ONLY
+
+
 
 ADD_JOURNAL TITLE (@10020) @10021 @10022 @10023 @10024 @10025 @10065 @10066 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
@@ -1668,6 +1687,15 @@ END
 COPY ~bgqe/farmer/cre/WAGHOUL.CRE~ ~override~
 SAY NAME1 @2002
 SAY NAME2 @2002
+PATCH_IF GAME_IS ~bgt eet~ BEGIN
+  GET_OFFSET_ARRAY items CRE_V10_ITEMS
+  PHP_EACH items AS i => item BEGIN
+    READ_ASCII item item_filename
+    PATCH_IF (~%item_filename%~ STR_EQ ~RNDTRE04~) BEGIN
+      WRITE_ASCII item ~RNDTRE08~
+    END
+  END
+END
 
 COPY ~bgqe/farmer/cre/WAFARM.CRE~ ~override~
 SAY NAME1 @2003
