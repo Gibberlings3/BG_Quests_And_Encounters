@@ -444,7 +444,7 @@ END
 /* Handling of correctly formatted tra-files!! ---------------------- */
 
 
-ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup.tra END
+ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup.tra setup-osx setup-unix setup-win32 END
 
 ACTION_DEFINE_ARRAY fl#reload BEGIN bgqe_game.tra END
 
@@ -518,7 +518,7 @@ LANGUAGE ~Espanol~
 
 LANGUAGE ~Simplified Chinese~
          ~schinese~
-         ~bgqe/tra/schinese/setup.tra~
+         ~bgqe/tra/schinese/setup-%WEIDU_OS%.tra~
          ~bgqe/tra/schinese/bgqe_game.tra~
 
 
