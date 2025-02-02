@@ -1,0 +1,13 @@
+@0 = ~Bence Tremain'in oğlunu yine de yetiştirmek için planlar yaptığını bilmelisiniz.~
+@1 = ~Burada Tremain'in oğlu var. Anladığım kadarıyla onun büyümesini istemiyorsunuz, işte size bunu engellemek için bir şans.~
+@2 = ~Ah, ben de öyle düşünmüştüm zaten. Ama oğlunun cesedini henüz Su Perisi'nden almadığını biliyoruz - ve bunu engellemek için nöbet tutmayacağız. Leydi'nin şansı sizinle olsun!~
+@3 = ~Aslında, bu çocuğun yaptıklarının sonuçlarına katlanmasının Leydi'nin isteği olduğuna inanıyoruz. Şansını denedi ve kaybetti. Kardeşimizin kilisesine hakaret etmesini engelleyerek cesedi buraya getirdiğiniz için teşekkür ederiz. Tanrıların iradesinden başka bir irade olmadığını zamanla anlayacaktır.~
+@4 = ~Neden... neden oğlumu Leydi'nin Salonu'na getirdiniz... Onu Su Perisi'nden geri almak için o kadar acı çektikten sonra mı? Neden böyle bir şey yaptın, bir babanın oğlunu diriltmesine engel oldun? Şimdi iş bana düşüyor, kardeşlerimden af dileyerek oğlumun cesedini bana vermelerini isteyeceğim ki en azından onu düzgün bir şekilde gömebileyim. Leydi acımasız biri. Şansını reddedenlere lanet olsun!~
+/* Ajantis */
+@5 = ~Bu üzücü bir karardı ama bence doğru olan buydu. Kişi tanrısını ve tapınağını takip etmeli ve kişisel kazanç için onların iradesini sorgulamamalı ve onlara karşı gelmemelidir.~
+/* Rasaad */
+@6 = ~Ah, bazen kişinin tanrısının iradesine ve tapınağının isteklerine itaat etmesi gerçekten de bir imtihana dönüşüyor.~
+/* Imoen */
+@7 = ~Bence bu üzücü, <CHARNAME>. Tremain oğlunu yetiştirmeye çalışsaydı daha çok hoşuma giderdi.~
+/* Imoen */
+@8 = ~Doğru olan, Ajantis, cidden mi?~

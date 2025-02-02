@@ -1,10 +1,10 @@
 			Baldur's Gate Mini Quests and Encounters
 					Modification 
-	per BG1:TotSC, BG1Tutu v4, EasyTutu, BGT, BG:EE, ed EET
+				per BGT, BG:EE, ed EET
 					di jastey 
 
 
-Baldur's Gate Mini Quests and Encounters Modification (BGQE) è una mod per BG1 "originale" (con l'add-on Tales of the Sword Coast), BG1Tutu v4, EasyTutu, BGT, BG:EE, ed EET, che aggiunge numerose piccole missioni ed incontri al gioco. BG1 originale privo di TotSC non è più ufficialmente supportato, ma dovrebbe comunque funzionare.
+Baldur's Gate Mini Quests and Encounters Modification (BGQE) è una mod per BGT, BG:EE, ed EET, che aggiunge numerose piccole missioni ed incontri al gioco. BG1 originale privo di TotSC non è più ufficialmente supportato, ma dovrebbe comunque funzionare.
 
 La durata del tempo di gioco aggiunto da questa mod è di circa 30-60 minuti, a seconda dello stile di gioco.
 
@@ -257,7 +257,11 @@ cujo: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 d0lphin: Russian translation
 
+davoker: Spanish translation
+
 Drogan Di'Umptu: alpha and beta testing
+
+ElGamerViejuno: Spanish translation
 
 Elisabeth: proofreading (French)
 
@@ -287,9 +291,17 @@ Lord Hagen (GIMT): Italian translation
 
 Lumorus: author, alpha and beta testing, ideas for quest developpment
 
+lzw104522773: Simplified Chinese translation
+
+Melmoth: Spanish translation
+
+medic2000: Turkish translation
+
 Miloch: alpha and beta testing, ideas for quest developpment / NPC-reactions, proofreading of English translation
 
 Pt: proof-reading of German translation
+
+Shai Hulud: proofreader (German)
 
 Shuv-Oohl: author
 
@@ -302,6 +314,8 @@ StoneDog: proofreading of English translation
 Twani: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 White Agnus: author, alpha and beta testing
+
+yoshimo0417: Simplified Chinese translation
 
 yota13: Russian Translation
 
@@ -316,7 +330,7 @@ Translations:
 French translation: v23 completed by Jazira.
 v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
-  
+ 
 Russian translation: New component in v23 by yota13, proofreading by Austin.
 v22 revised, corrected, and updated by d0lphin.
 v20 completed by d0lphin.
@@ -328,6 +342,14 @@ Old translations of v12 by Stoneangel.
 First translation of the slimequest by Jakkus & Lord Hagen (GIMT). 
 
 Polish translation: Aristo and Zed Nocear
+
+Spanish translation:
+by Melmoth, revised and fixed by davoker (v26)
+full revised by ElGamerViejuno (v27)
+
+Simplified Chinese:
+by lzw104522773 (v27)
+updated by yoshimo0417 (v28)
 
 -old translations v8:
 Spanish translation: Excalibur (slime quest), Immortality (proofreading)
@@ -379,6 +401,13 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORY
+
+Version 28:
+-Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-updated Simplified Chinese version and adjust file construction, by yoshimo0417.
+-loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
+-typo corrections.
+-bgqe is no longer officially supported for Tutu and oBG1. The mod should be installable (not all components for oBG1). Install at own risk.
 
 Version 27:
 - simplified Chinese Version added, by lzw104522773.

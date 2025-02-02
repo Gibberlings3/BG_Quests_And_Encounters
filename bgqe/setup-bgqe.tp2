@@ -14,7 +14,7 @@ BACKUP ~bgqe/Backup~
 SUPPORT ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~28pre~ 
+VERSION ~28~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -451,10 +451,23 @@ ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup.tra INSTALL END
 
 ACTION_DEFINE_ARRAY fl#reload BEGIN bgqe_game.tra END
 
+ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table BEGIN
+	~english~     => ~cp1252~
+	~german~      => ~cp1252~
+	~spanish~     => ~cp1252~
+	~italian~     => ~cp1252~
+	~polish~      => ~cp1250~
+	~russian~     => ~cp1251~
+	~french~      => ~cp1252~
+	~schinese~    => ~cp936~
+	~turkce~     =>  ~cp1254~
+END
+
   LAF HANDLE_CHARSETS
     INT_VAR
-      infer_charset = 1
+      infer_charset = 0
     STR_VAR
+	  charset_table
       tra_path = EVAL ~bgqe/Tra~
       noconvert_array = fl#noconvert
       reload_array = fl#reload
@@ -523,9 +536,12 @@ LANGUAGE ~Simplified Chinese~
          ~schinese~
          ~bgqe/tra/schinese/INSTALL.tra~
          ~bgqe/tra/schinese/bgqe_game.tra~
-
-
-
+/*
+LANGUAGE ~Turkish~
+         ~turkce~
+         ~bgqe/tra/turkce/setup.tra~
+         ~bgqe/tra/turkce/bgqe_game.tra~
+*/
 
 
 

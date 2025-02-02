@@ -1,10 +1,10 @@
 			   	Baldur's Gate Mini-Questy i Spotkania
 				   		Modyfikacja 
-	do oryginalnego BG1 (z lub bez OzWM), BG1Tutu v4, EasyTutu, BGT, BG:EE, lub EET 
+				do BGT, BG:EE, lub EET 
 						autorstwa jastey
 
 
-Jest to modyfikacja do oryginalnego BG1 (z lub bez zainstalowanego rozszerzenia "Opowieœci z Wybrze¿a Mieczy"), BG1Tutu (v4), EasyTutu, BGT, BG:EE lub EET, która wprowadza do gry kilka ma³ych zadañ oraz spotkañ. Oryginalne BG1 bez dodatku "Opowieœci z Wybrze¿a Mieczy" oficjalnie nie jest ju¿ wspierane, ale mod powinien i w takim przypadku dzia³aæ. 
+Jest to modyfikacja do BGT, BG:EE lub EET, która wprowadza do gry kilka ma³ych zadañ oraz spotkañ. Oryginalne BG1 bez dodatku "Opowieœci z Wybrze¿a Mieczy" oficjalnie nie jest ju¿ wspierane, ale mod powinien i w takim przypadku dzia³aæ. 
 
 Czas przejœcia modyfikacji wynosi ³¹cznie oko³o 30-60 minut, zale¿nie od stylu gry.
 
@@ -225,9 +225,9 @@ Viel Spaß mit der Modifikation!
 -jastey
 
 
-Annalena: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version
+Annalena: alpha and beta testing, ideas for quest development / NPC-reactions, proof-reading of German translation
 
-Angel: Vielen Dank für das Hamster BAM (c#q10004.bam), Item Fixes und mehr für v21
+Angel: thank you for the hamster BAM (c#q10004.bam), item fixes and more for v21
 
 arcanecoast.ru team: Russian translation
 
@@ -235,33 +235,39 @@ Aristo: Polish translation, proofreading (English, German)
 
 Austin: proofreading (Russian)
 
-berelinde: Korrekturlesen der englischen Übersetzung
+berelinde: proofreading of English translation
 
 Cahir: beta testing
 
-Caillean: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version 
+Caillean: alpha and beta testing, ideas for quest developpment / NPC-reactions, proof-reading of German translation 
 
-Chev: Alpha- und Betatester
+Chev: alpha and beta testing
 
 Coland: heavy revision of Italian translation and translations of new component for v23
 
-cujo: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+cujo: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 d0lphin: Russian translation
 
-Drogan Di'Umptu: Alpha- und Betatester
+davoker: Spanish translation
+
+Drogan Di'Umptu: alpha and beta testing
+
+ElGamerViejuno: Spanish translation
 
 Elisabeth: proofreading (French)
 
 Erg: beta testing
 
-Gerri: Alpha- und Betatester
+Gerri: alpha and beta testing
 
-grogerson: Alpha- und Betatester, Korrekturlesen der englischen Übersetzung
+grogerson: alpha and beta testing, proofreading of English translation
 
-Hedian: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+hawkmoon: Russian translation
 
-hook71: Korrekturlesen der englischen Übersetzung
+Hedian: alpha and beta testing, ideas for quest developpment / NPC-reactions
+
+hook71: proofreading of English translation
 
 ilot: Italian translation
 
@@ -275,47 +281,67 @@ Le Marquis: proofreading (French)
 
 Lord Hagen (GIMT): Italian translation
 
-Lumorus: Autor, Alpha- und Betatester, Ideen für die Questentwicklung
+Lumorus: author, alpha and beta testing, ideas for quest developpment
 
-Miloch: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der englischen Übersetzung
+lzw104522773: Simplified Chinese translation
 
-Pt: Korrekturlesen der deutschen Version
+Melmoth: Spanish translation
 
-Shuv-Oohl: Autor
+medic2000: Turkish translation
 
-Sir Darian: Alpha- und Betatester
+Miloch: alpha and beta testing, ideas for quest developpment / NPC-reactions, proofreading of English translation
+
+Pt: proof-reading of German translation
+
+Shai Hulud: proofreader (German)
+
+Shuv-Oohl: author
+
+Sir Darian: alpha and beta testing
 
 Stoneangel: Italian translation
 
-StoneDog: Korrekturlesen der englischen Übersetzung
+StoneDog: proofreading of English translation
 
-Twani: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+Twani: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
-White Agnus: Autor, Alpha- und Betatester
+White Agnus: author, alpha and beta testing
+
+yoshimo0417: Simplified Chinese translation
 
 yota13: Russian Translation
 
-Zed Nocear: Coden eines Spell Effektes, Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Polish translation
+Zed Nocear: Coding of spell effect, alpha and beta testing, ideas for quest developpment / NPC-reactions, Polish translation
 
-zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+zenblack: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 
-
-Übersetzungen:
+Translations:
 -------------------
 
 French translation: v23 completed by Jazira.
 v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
-
-Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin. Neue Komponente v23 von yota13, Korrekturlesen von Austin.
+ 
+Russian translation: New component in v23 by yota13, proofreading by Austin.
+v22 revised, corrected, and updated by d0lphin.
+v20 completed by d0lphin.
+v8 by hawkmoon & arcanecoast.ru team.
 
 Italian translation: Heavy revision of Italian translation and translations of new component for v23 by Coland.
 Updates v12 - 22 completed by ilot, mapnotes by jojo678.
 Old translations of v12 by Stoneangel.
-First translation of the slimequest by Jakkus & Lord Hagen (GIMT).
+First translation of the slimequest by Jakkus & Lord Hagen (GIMT). 
 
-Polnische Übersetzung: Aristo and Zed Nocear
+Polish translation: Aristo and Zed Nocear
+
+Spanish translation:
+by Melmoth, revised and fixed by davoker (v26)
+full revised by ElGamerViejuno (v27)
+
+Simplified Chinese:
+by lzw104522773 (v27)
+updated by yoshimo0417 (v28)
 
 -v8: Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
 
@@ -373,6 +399,13 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 28:
+-Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-updated Simplified Chinese version and adjust file construction, by yoshimo0417.
+-loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
+-typo corrections.
+-bgqe is no longer officially supported for Tutu and oBG1. The mod should be installable (not all components for oBG1). Install at own risk.
 
 Version 27:
 - simplified Chinese Version added, by lzw104522773.

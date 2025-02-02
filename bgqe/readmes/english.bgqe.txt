@@ -1,10 +1,10 @@
 			Baldur's Gate Mini Quests and Encounters
 					Modification 
-	for BG1:TotSC, BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET
+				for BGT, BG:EE, and EET
 					by jastey 
 
 
-Baldur's Gate Mini Quests and Encounters Modification (BGQE) is a mod for "vanilla" BG1 (with the add-on Tales of the Sword Coast), BG1Tutu v4, EasyTutu, BGT, BG:EE, and EET, adding several small quests and encounters to the game. Vanilla BG1 without TotSC is no longer officially supported, but it should still work for it.
+Baldur's Gate Mini Quests and Encounters Modification (BGQE) is a mod for BGT, BG:EE, and EET, adding several small quests and encounters to the game. Vanilla BG1 without TotSC is no longer officially supported, but it should still work for it.
 
 The duration of the game time added by this mod is approximately 30 to 60 minutes, depending on playing style.
 
@@ -258,7 +258,11 @@ cujo: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 d0lphin: Russian translation
 
+davoker: Spanish translation
+
 Drogan Di'Umptu: alpha and beta testing
+
+ElGamerViejuno: Spanish translation
 
 Elisabeth: proofreading (French)
 
@@ -288,9 +292,17 @@ Lord Hagen (GIMT): Italian translation
 
 Lumorus: author, alpha and beta testing, ideas for quest developpment
 
+lzw104522773: Simplified Chinese translation
+
+medic2000: Turkish translation
+
+Melmoth: Spanish translation
+
 Miloch: alpha and beta testing, ideas for quest developpment / NPC-reactions, proofreading of English translation
 
 Pt: proof-reading of German translation
+
+Shai Hulud: proofreader (German)
 
 Shuv-Oohl: author
 
@@ -303,6 +315,8 @@ StoneDog: proofreading of English translation
 Twani: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 White Agnus: author, alpha and beta testing
+
+yoshimo0417: Simplified Chinese translation
 
 yota13: Russian Translation
 
@@ -329,6 +343,15 @@ Old translations of v12 by Stoneangel.
 First translation of the slimequest by Jakkus & Lord Hagen (GIMT). 
 
 Polish translation: Aristo and Zed Nocear
+
+Spanish translation:
+by Melmoth, revised and fixed by davoker (v26)
+full revised by ElGamerViejuno (v27)
+
+Simplified Chinese:
+by lzw104522773 (v27)
+updated by yoshimo0417 (v28)
+
 
 -old translations v8: Spanish translation: Excalibur (slime quest), Immortality (proofreading)
 
@@ -379,6 +402,13 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORY
+
+Version 28:
+-Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-updated Simplified Chinese version and adjust file construction, by yoshimo0417.
+-loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
+-typo corrections.
+-bgqe is no longer officially supported for Tutu and oBG1 (w/oTotSC). The mod should be installable (not all components for oBG1). Install at own risk.
 
 Version 27:
 - simplified Chinese Version added, by lzw104522773.
