@@ -1,11 +1,11 @@
 		Baldur's Gate Mini-Quests und Begegnungen
 				Modifikation  
-	für klassisches BG1:LdSk, BG1Tutu v4, EasyTutu, BGT, BG:EE und EET
+			für BGT, BG:EE und EET
 				von jastey 
 
 
 
-Dies ist eine Mini-Modifikation für klassisches BG1 (mit installierter Erweiterung Legenden der Schwertküste), BG1Tutu (v4), EasyTutu, BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfügt. Klassisches BG1 ohne die Legenden der Schwertküste wird nicht mehr offiziell unterstützt, aber die Mod sollte trotzdem ohne große Probleme darauf laufen. 
+Dies ist eine Mini-Modifikation für BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfügt. Klassisches BG1 ohne die Legenden der Schwertküste wird nicht mehr offiziell unterstützt, aber die Mod sollte trotzdem ohne große Probleme darauf laufen. 
 
 Die Spieldauer der Modifikation beträgt insgesamt ca. 30-60 Minuten, abhängig vom Spielstil. 
 
@@ -244,7 +244,11 @@ cujo: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
 
 d0lphin: Russian translation
 
+davoker: Spanish translation
+
 Drogan Di'Umptu: Alpha- und Betatester
+
+ElGamerViejuno: Spanish translation
 
 Elisabeth: proofreading (French)
 
@@ -274,9 +278,17 @@ Lord Hagen (GIMT): Italian translation
 
 Lumorus: Autor, Alpha- und Betatester, Ideen für die Questentwicklung
 
+lzw104522773: Simplified Chinese translation
+
+Melmoth: Spanish translation
+
+medic2000: Turkish translation
+
 Miloch: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der englischen Übersetzung
 
 Pt: Korrekturlesen der deutschen Version
+
+Shai Hulud: proofreader (German)
 
 Shuv-Oohl: Autor
 
@@ -289,6 +301,8 @@ StoneDog: Korrekturlesen der englischen Übersetzung
 Twani: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
 
 White Agnus: Autor, Alpha- und Betatester
+
+yoshimo0417: Simplified Chinese translation
 
 yota13: Russian Translation
 
@@ -313,6 +327,14 @@ Old translations of v12 by Stoneangel.
 First translation of the slimequest by Jakkus & Lord Hagen (GIMT).
 
 Polnische Übersetzung: Aristo and Zed Nocear
+
+Spanish translation:
+by Melmoth, revised and fixed by davoker (v26)
+full revised by ElGamerViejuno (v27)
+
+Simplified Chinese:
+by lzw104522773 (v27)
+updated by yoshimo0417 (v28)
 
 -v8: Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
 
@@ -370,6 +392,13 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 28:
+-Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-updated Simplified Chinese version and adjust file construction, by yoshimo0417.
+-loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
+-typo corrections.
+-bgqe is no longer officially supported for Tutu and oBG1. The mod should be installable (not all components for oBG1). Install at own risk.
 
 Version 27:
 - simplified Chinese Version added, by lzw104522773.

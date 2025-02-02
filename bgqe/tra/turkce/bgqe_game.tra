@@ -1,0 +1,639 @@
+/* Kullanılmayan tüm sayılar setup.tra'da kullanılır! */
+
+@3 = ~Boş Şişe~
+@4 = ~Bu Alanna'nın dönüşmüş Eltolth'un evinde bulduğu boş şişe. Etiketin üzerinde şöyle yazıyor:
+"Muhteşem Sürpriz:
+Etki süresi: 5 saniyeden 1 dakikaya kadar. Doğru dozajda etki süresi: 1 saate kadar.
+Aşırı doz almamaya dikkat edin, beklenmedik yan etkiler mümkündür!!!
+Arıza durumunda garanti yok!"
+"T" ile başlayan okunamayan bir imza ile imzalanmıştır.~
+@5 = ~Eltolth'un Notları~
+@6 = ~Bu, Alanna'nın komşusu Eltolth'a ait bir tür günlük gibi görünüyor. Sayfalar arasında gezinirken, dönüşümünden önce neler olduğuna dair ipucu verebilecek bazı kayıtlar buluyorsunuz:
+"...Tulbor ile tekrar konuştum. Onunla her zamanki yerde buluştum. Her zamanki gibi bardan uzakta oturmak istedi ve ona bir içki ısmarlamak zorunda kaldım (...) İksirlerinin Juoma'nınki kadar iyi ama çok daha ucuz olduğunu söyledi. (...) Bana yine özel bir tane teklif etti. Bir servete mal oluyor ama bence buna değer! Bu sefer deneyeceğim."
+Notlar burada bitiyor.~
+@7 = ~Dönüşüm İksiri~
+@8 = ~Bu, zavallı Eltolth'u gerçek kişiliğine dönüştürecek iksirdir. Aşırı dozda alınırsa, güzel bir güç bonusu vermelidir. Şişenin tamamını içmek bu etkiyi verecektir.~
+
+@10 = ~Alanna~
+@11 = ~Eltolth~
+@12 = ~Tulbor~
+
+@14 = ~Bayan Dudley~
+@15 = ~Bay Dudley~
+@16 = ~Annie Dudley~
+@17 = ~Dudley Ailesinin Kolyesi~
+@18 = ~Bu inci kolye Dudley'lerin çok aranan yadigârıdır.~
+
+@20 = ~Bayan Blackwood~
+@21 = ~Sarah~
+@22 = ~Tom~
+@23 = ~Tina~
+@24 = ~Sarah'ın Bebeği~
+@25 = ~Bu Sarah'nın bebeği. Yüzünün renkleri çoktan solmuş, ama ustalıkla örülmüş bir elbise ve ayakkabı giydirilmiş.~
+@26 = ~Tom'un Teddy'si~
+@27 = ~Bu Tom'un oyuncak ayısı. Eski, kullanılmış, yapışkan ve kirli görünüyor, tam da küçük bir çocuğun çok sevdiği oyuncak ayısının görünmesi gerektiği gibi.~
+@28 = ~Sarah'ın Şişesi~
+@29 = ~Bu Bayan Blackwood'un size verdiği Sarah'nın şişesi. Yapışkan bir sıvının izleri ve zorunlu kum ve kirle kaplı. Bundan içmek istemediğinize eminsin.~
+@30 = ~Tom'un Şişesi~
+@31 = ~Bu Bayan Blackwood'un size verdiği Tom'un şişesi. Yapışkan bir sıvının izleri, zorunlu kum ve kirin yanı sıra bazı yapraklar, tohumlar ve ölü bir karınca ile kaplı. İçinden bir şey içmek istemediğinize eminsin.~
+@32 = ~Şekerli Tatlılar~
+@33 = ~Bunlar Bayan Blackwood'un çocuklar için verdiği şekerlerden bazıları. Bir çeşit renkli şeker, tatlı ve yapışkan.~
+@34 = ~Tatlılar~
+@35 = ~Bunlar Bayan Blackwood'un çocuklar için verdiği tatlılardan bazıları. Bir çeşit şekerlenmiş badem gibi görünüyor.~
+@36 = ~Sarah'nın Paltosu~
+@37 = ~Bu Sarah'nın paltosu.~
+
+@40 = ~Arnim~
+@41 = ~Lady von Undenzieht~
+@42 = ~Lord von Undenzieht~
+
+@44 = ~Dauron~
+@45 = ~İzleyici~
+@46 = ~Luisa'nın Annesi~
+@47 = ~Dadı~
+
+@49 = ~Leila~
+
+@51 = ~Uguth~
+@52 = ~Viola~
+@53 = ~Bayan Kenn~
+@54 = ~Mr. Kenn~
+//@55   
+
+@57 = ~Sir Trun~
+@58 = ~Linda~
+@59 = ~Alternatif Panzehir~
+@60 = ~Bu ucuz bir alternatif iksir. Eltolth'u eski haline dönüştürmeli...~
+
+
+
+
+
+
+/* yeni içerik: v9 */
+
+
+@62 = ~Hamster~
+@63 = ~Bu, evcil hayvan satıcısında Minsc ile "kalan" hamster, daha doğrusu Boo... Boo'nun karşı cinsi olduğuna dair güçlü şüpheleriniz var ve küçük kemirgenlerin üreme sıklığıyla ilgili hatırladığınız kadarıyla ikisinin birlikte olması çok yakında sonuçlara yol açabilir.~
+@64 = ~Bu, Boo'nun o isimsiz hamsterla ilişkisinden doğan küçük hamsterlardan biri.~
+@65 = ~Edward~
+
+
+@67 = ~Savaşçı~
+
+@99 = ~Büyücü~
+@100 = ~Teodor~
+@101 = ~Yumurta~
+@102 = ~Bu, teslimatçının onu kurtarman için sana verdiği bir çeşit yumurta. Bir ioun taşı olarak takılabilir ve kesinlikle güçlü görünüyor. Yine de içinde hareket eden bir şey olduğu izlenimine kapılıyorsun.~
+@103 = ~Donmuş Örümcek Yumurtası~
+@104 = ~Bu bir Wraith örümceğinin korunmuş yumurtasıdır. Bir ioun taşı olarak takıldığında kesinlikle iğrenç görünür, ancak takan kişiyi büyüyle tutulmaya karşı korur.
+
+ÖZELLİKLER:
+ 
+
+Özel: Takan kişi Canavar Sabitleme'ye karşı bağışıktır.
+Karizma:  Takılıyken 3 puan düşer
+
+Ağırlık: 2~
+
+
+/* yeni içerik v10 */
+
+
+@106 = ~Yaşlı Anne~
+
+
+/* yeni içerik v15 */
+
+@107 = ~Alanna'nın Komşusunun Evi~
+@108 = ~Evcil Hayvan Satıcısı~
+
+
+/* yeni içerik v16 */
+@110 = ~Brage'in Kılıcı~
+@111 = ~Brage'in Çift-el Kılıcı +1~
+/* tanımlanamayan açıklama bg1:totsc */
+@112 = ~Çift-el kılıcı, uzun kılıcın bir türevidir. Demirciler daima var olan silahları geliştirmek için yollar aramışlardır. Uzun kılıcı geliştirmek için bulunan bir yol, kılıcın yalım kısmının uzatılması olmuştur. Sonuçta kılıcın kabzası da uzatılmış ki bu da kılıcın iki elle savrulmasını gerektirmiştir. Çift-el kılıcının birincil amacı süvarileri yarmak ve kargı dizilişini bozmaktır. 
+
+Bu Brage'nin Derinsu'da sipariş ettiği kılıçtır.
+
+ÖZELLİKLER:
+
+Hasar: 1Z10
+Hasar türü: kesme
+Ağırlık: 15
+Hız Etkeni: 10
+Yetkinlik Türü: Büyük Kılıç
+Türü: 2 elli
+Şunlar Tarafından Kullanılamaz:
+ Druid
+ Ruhban
+ Büyücü 
+ Hırsız~
+/* tanımlanmış açıklama bg1:totsc */
+@113 = ~İki elli kılıç, uzun kılıcın bir türevidir.  Silah ustaları her zaman mevcut silahları geliştirmenin yollarını aramışlardır.  Uzun kılıcı geliştirmek için bıçak uzatılmıştır.  Sonunda kabzanın uzatılması gerekti ve kılıcı düzgün bir şekilde savurmak için iki el gerekli hale geldi.  İki elli kılıçların birincil işlevi atlı şövalyeleri yarmak ve kargı düzenlerini bozmaktır.  Bu kılıç, birkaç büyülü özelliğe sahip olduğu için işinde özellikle iyidir.
+
+Bu, Brage'in Derinsu'da sipariş ettiği kılıçtır.
+
+ÖZELLİKLER:
+
+Hasar: 1Z10 +1
+THACO: +1 bonus
+Hasar türü: kesme
+Ağırlık: 12
+Hız Etkeni: 9
+Yetkinlik Türü: Büyük Kılıç
+Türü: 2 elli
+Şunlar Tarafından Kullanılamaz:
+ Druid
+ Ruhban
+ Büyücü 
+ Hırsız~
+/* tanımlanamayan açıklama tutu / bgt */
+@114 = ~İki elli kılıç, uzun kılıcın bir türevidir.  Silah ustaları her zaman mevcut silahları geliştirmenin yollarını aramışlardır.  Uzun kılıcı geliştirmek için bıçak uzatılmıştır.  Sonunda kabzanın uzatılması gerekti ve kılıcı düzgün bir şekilde savurmak için iki el gerekli hale geldi.  İki elli kılıçların birincil işlevi atlı şövalyeleri yarmak ve kargı düzenlerini bozmaktır.
+
+Bu, Brage'in Derinsu'da sipariş ettiği kılıçtır.
+
+ÖZELLİKLER:
+
+Hasar: 1Z10
+Hasar türü: kesme
+Ağırlık: 12
+Hız Etkeni: 10
+Yetkinlik Türü: İki Elli Kılıç
+Türü: 2 elli
+Gereksinim: 14 Kuvvet
+Şunlar Tarafından Kullanılamaz:
+ Druid
+ Ruhban
+ Büyücü 
+ Hırsız~
+/* tanımlanmış açıklama tutu / bgt */
+@115 = ~İki elli kılıç, uzun kılıcın bir türevidir.  Silah ustaları her zaman mevcut silahları geliştirmenin yollarını aramışlardır.  Uzun kılıcı geliştirmek için bıçak uzatılmıştır.  Sonunda kabzanın uzatılması gerekti ve kılıcı düzgün bir şekilde savurmak için iki el gerekli hale geldi.  İki elli kılıçların birincil işlevi atlı şövalyeleri yarmak ve kargı düzenlerini bozmaktır.  Bu kılıç, birkaç büyülü özelliğe sahip olduğu için işinde özellikle iyidir.
+
+Bu, Brage'in Derinsu'da sipariş ettiği kılıçtır.
+
+ÖZELLİKLER:
+
+Hasar: 1Z10 +1
+THACO: +1 bonus
+Hasar türü: kesme
+Ağırlık: 12
+Hız Etkeni: 9
+Yetkinlik Türü: İki Elli Kılıç
+Türü: 2 elli
+Gereksinim: 14 Kuvvet
+Şunlar Tarafından Kullanılamaz:
+ Druid
+ Ruhban
+ Büyücü 
+ Hırsız~
+/* tanımlanmış açıklama bgee / eet */
+@116 = ~Çift-el kılıcı, uzun kılıcın bir türevidir. Demirciler daima var olan silahları geliştirmek için yollar aramışlardır. Uzun kılıcı geliştirmek için bulunan bir yol, kılıcın yalım kısmının uzatılması olmuştur. Sonuçta kılıcın kabzası da uzatılmış ki bu da kılıcın iki elle savrulmasını gerektirmiştir. Çift-el kılıcının birincil amacı süvarileri yarmak ve kargı dizilişini bozmaktır.
+Bu kılıç, birkaç büyülü özellik ile efsunlandığı için işinde özellikle iyidir.
+
+Bu Brage'nin Derinsu'da sipariş ettiği kılıçtır.
+
+ÖZELLİKLER:
+
+THAC0: +1
+Hasar: 1Z10+1 (kesici)
+Hız Etkeni: 9
+Yetkinlik Türü: İki Elli Kılıç
+Türü: İki elli
+Gereksinim:
+ 14 Kuvvet
+
+Ağırlık: 12~
+@117 = ~Hick~
+@118 = ~Hizmetkarım Mulahey,
+
+senin aptal dikkatsizliğin D.'nin müdahale etmesine neden oldu. Yeni kılıcını beklediğinden daha özel bulan Nashkel Komutanına güzel bir sürpriz gönderdi. Amniş kuvvetleri şimdilik zayıflamış durumda ve daha derin maden seviyelerine gelmeyecekler. Yine de davetsiz misafirlere karşı hazırlıklı olun, çünkü çok sayıda kuvvet aptal koboldlarınızın görüldüğü yerleri araştırmak zorunda hissediyor. Beni yine hayal kırıklığına uğratmayın. 
+
+TAZOK~
+@119 = ~Borda,
+
+Size emrettiğimiz görev için tüm çabanızı harcayıp harcamadığınız umurumuzda değil. Komutanın soruşturmasına yalnız gitmesi ve bu nedenle yeni kılıcı kışla yerine yolda yalnızken bulması bizim suçumuz değil. Her şeyin neredeyse başarısızlığa uğraması sizin dikkatsizliğiniz. Bu aptal Nashkel'e geri döndüğü için şanslısınız, bu yüzden özel laneti olan bu kılıç için harcadığımız altın tamamen kaybolmadı. Hayır, ödemenin ikinci miktarını almayacaksınız. Brage'in alması gereken orijinal kılıç hâlâ sizde kalabilir. Bu kadar tazminat yeterli. Seni avlamadığımız için mutlu ol.
+
+TAZOK~
+@120 = ~Tazok,
+
+Bana anlaştığımızın ikinci yarısını ödemenizi talep ediyorum - Komutanın garnizonun yarısını değil de sadece kendi ailesini katletmesi benim suçum değil. Nashkel kuvvetleri zayıfladı ve anlaşma buydu! Benim için Nashkel Karnavalı'ndaki bağlantıma mektup gönderebilirsiniz. Özel iksirlerimden bazılarını satın alacak kadar çaresiz bir tüccar buldum, o da mektupları iletecektir.
+
+Borda~
+@121 = ~Kaptan Tollar Kieres'e Mektup~
+@122 = ~Bu mektup Baldur Geçidi Tüccarlar Birliği'nin resmi mühürünü taşımaktadır. Aldeth Sashenstar tarafından size teslim edilmiştir ve şu anda şehrin kuzeydoğu kesimindeki Birlik Sayım Evi'nde ikamet eden Kaptan Kieres'e gönderilmiştir.~
+
+@123 = ~Tüccarlar Birliği Mühür Yüzüğü~
+@124 = ~Bu yüzükler yalnızca Tüccarlar Birliği'nin tam güvenine sahip kişilere verilir. Kimlik belirleme işlevi görürler ve normalde kısıtlı olan Sayım Evi'ne ücretsiz ve tam erişim sağlarlar. 
+Söylentilere göre bu yüzükler Birliğin başarısının nedenlerinden biridir, görünüşe göre bir şekilde büyülenmiştir.
+
+ÖZELLİKLER:
+
+Günde 3 kere Şans
+Günde 3 kere Kişi Efsunla~
+@125 = ~Çift-el kılıcı, uzun kılıcın bir türevidir. Demirciler daima var olan silahları geliştirmek için yollar aramışlardır. Uzun kılıcı geliştirmek için bulunan bir yol, kılıcın yalım kısmının uzatılması olmuştur. Sonuçta kılıcın kabzası da uzatılmış ki bu da kılıcın iki elle savrulmasını gerektirmiştir. Çift-el kılıcının birincil amacı süvarileri yarmak ve kargı dizilişini bozmaktır. Bu kılıç, birkaç büyülü özellik ile efsunlandığı için işinde özellikle iyidir.
+
+Bu Brage'nin Derinsu'da sipariş ettiği kılıçtır.
+
+ÖZELLİKLER:
+
+THAC0: +1
+Hasar: 1Z10+1 (kesici)
+Hız Etkeni: 9
+Yetkinlik Türü: İki Elli Kılıç
+Türü: İki elli
+Gereksinim:
+ 14 Kuvvet
+
+Ağırlık: 12~
+
+
+@126 = ~Endişeli Çiftçinin Evi~
+
+
+
+
+
+
+@2002 = ~Gûl~
+@2003 = ~Çiftçi~
+@2004 = ~Endişeli bir çiftçi
+
+Bir çiftçi, kendisini rahatsız eden bir meseleyi halledebilmemiz için evine gelmemi istedi.~
+@2005 = ~Endişeli bir çiftçi
+	
+Beregostlu çiftçinin artık endişelenmesine gerek yok, her gece ona musallat olan gûl artık gerçekten öldü.~
+@2006 = ~Endişeli bir çiftçi
+
+Bir çiftçi bize evinin yakınlarında hareket eden bir şey gördüğünü söyledi. Ama ne olduğunu bilmiyormuş.~
+
+@2007 = ~Endişeli bir çiftçi~
+
+@9002 = ~Sylar~
+@9003 = ~İyi Bir Amaç İçin Cesetler
+
+Sessizliğin Dükkânı'nda Sylar adında bir elf büyücüsüyle tanıştım. Görünüşe göre, yaratıkları bir din adamı gibi diriltmek için ölü çağırmayı kullanan yeni bir yöntem keşfetmiş. Bunu yaparsa, nekromantik sanatların imajını iyileştirebilirmiş, ya da öyle diyor. Ancak araştırması için kanalizasyondan çıkarmam gereken cesetlere ihtiyacı var.
+Teslim edilen ceset başına 150 altın ödemeye razı. 
+
+Böylece bir taşla üç kuş vurabilirim: bilime yardım etmek, fazladan altın kazanmak ve çevre için bir şeyler yapmak!~
+
+@9004 = ~İyi Bir Amaç İçin Cesetler
+
+Sessizliğin Dükkânı'nda Sylar adında bir elf büyücüsüyle tanıştım. Görünüşe göre, yaratıkları bir din adamı gibi diriltmek için ölü çağırmayı kullanan yeni bir yöntem keşfetmiş. Bunu yaparsa, nekromantik sanatların imajını iyileştirebilirmiş, ya da öyle diyor. Ancak araştırması için kanalizasyondan çıkarmam gereken cesetlere ihtiyacı var.
+Teslim edilen ceset başına 150 altın ödemeye razı. 
+
+Ancak, ona yardım etmekle ilgilenmiyordum. Fikrimi değiştirirsem, onu nerede bulabileceğimi biliyorum.~
+
+@9005 = ~İyi Bir Amaç İçin Cesetler~
+
+
+//////////////////////////////////////////////////////////////////////////////
+//Günlük kayıtları...
+//////////////////////////////////////////////////////////////////////////////
+
+//slime quest
+
+@10000 = ~Beregost: Alanna'nın Komşusunun Başı Belada~
+
+//@63 (c#q01001.tra)
+@10001 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Beregost'ta Alanna adında çaresiz bir kadın bana yaklaştı. Komşusunda bir sorun varmış. Gidip bir bakmalıyım.~
+
+//@64 (c#q01001.tra)
+@10002 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Beregost'ta Alanna adında çaresiz bir kadın bana yaklaştı. Komşusunda bir sorun varmış.~
+
+//@65 (c#q01001.tra)
+@10003 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Eltolth yardımlarımız için bana 200 altın verdi. İki kişiyi mutlu ettiğimi bilerek evinden ayrıldım.~
+
+
+//@66 (c#q01001.tra)
+@10004 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Eltolth'un dönüşüm iksirinin satıcısını buldum ama suçluluğuna dair kanıta ihtiyacım var.~
+
+//@67 (c#q01001.tra)
+@10005 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Eltolth için dönüşüm iksiri 100 altına mal olacak!~
+
+//@96 (c#q01001.tra)
+@10006 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Alternatif iksir işe yaramadı. Sanırım başka bir yerde yardım bulacaklar.~
+
+//@103 (c#q01001.tra)
+@10064 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Alternatif iksir işe yaramadı. 
+Ama kadının o sümüğü öpmesi görülmeye değerdi!~
+
+//@110 (c#q01001.tra)
+@10007 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Oops. Görünüşe göre Alanna ve komşusu barış içinde birleşmişler... (ölü) sümükler olarak. Tulbor bu ucuz iksirin olası istenmeyen yan etkileri konusunda uyarırken yalan söylememişti.~
+
+//@7 (c#q01003.tra)
+@10008 = ~Beregost: Alanna'nın Komşusunun Başı Belada
+
+Görünüşe göre bu Eltolth şaka kaldıramıyor. Onu öldürmek zorunda kaldım... o şeyi.~
+
+
+//ai·le hazi·nesi·: c#q02005.tra
+
+
+@10009 = ~Beregost'ta Aile Kavgası~
+
+//@4 
+@10010 = ~Beregost'ta Aile Kavgası
+
+Beregost'taki evlerden birinde tuhaf bir çiftle tanıştım. Görünüşe göre karı koca artık birbirleriyle konuşmuyorlar. Belki de bunu daha fazla araştırmalıyım.~
+
+//@25
+@10011 = ~Beregost'ta Aile Kavgası
+
+Kolyeyi Dudley ailesinden söz verilen 500 altın karşılığında aldım. Para sorunları artık çözülmüş olmalı.~
+
+//@27
+@10012 = ~Beregost'ta Aile Kavgası
+
+Kolyeyi Dudley ailesinden aldım. Sadece vaat edilen 500 altını vermek yerine, Bay Dudley'in para çantasına 50 altın daha "kaçırmayı" başardım. Umarım ailenin durumu iyidir.~
+
+//@29
+@10013 = ~Beregost'ta Aile Kavgası
+
+Kolyeyi Dudley ailesinden aldım. Sadece söz verilen 500 altını vermek yerine, Bay Dudley'in para çantasına 100 altın daha "kaçırmayı" başardım. Umarım ailenin durumu iyidir.~
+
+//@110
+@10014 = ~Beregost'ta Aile Kavgası
+
+Beregost'taki Dudley'lere inci kolyelerini 500 altın karşılığında satın alma sözü verdim.~
+
+//@114
+@10015 = ~Beregost'ta Aile Kavgası
+
+Sorun çözüldü. Kızı kolyeyi satılmasın diye aldı. Şimdi geri verecek.~
+
+//@145
+@10016 = ~Beregost'ta Aile Kavgası
+
+Bay Dudley fazladan altını geri getirdi. Dudley'ler dürüst ve gururlu insanlardır. Para sorunları her nasılsa çözülmüş olmalı.~
+
+//@146
+@10017 = ~Beregost'ta Aile Kavgası
+
+Bay Dudley fazladan altını geri getirmek istedi. Dudleyler dürüst ve gururlu insanlardır. Yine de onu kabul etmeye ikna edebilirim. Para sorunları artık çözülmüş olmalı.~
+
+//@155
+@10018 = ~Beregost'ta Aile Kavgası
+
+Sorunu bir şekilde çözdüm.~
+
+//@160
+@10019 = ~Beregost'ta Aile Kavgası
+
+Sorun çözüldü. Kızı kolyeyi satılmasın diye aldı. Ben de onlara geri verdim.~
+
+
+/* Nashkel'de Bebek Bakıcılığı: c#q03008_9_10_11.tra */
+
+
+@10020 = ~Nashkel'de Bebek Bakıcılığı~
+
+//@10
+@10021 = ~Nashkel'de Bebek Bakıcılığı
+
+Anne iki çocuğunu almaya geldi. Söyleyebileceğim kadarıyla her şey yolunda gitti.~
+
+//@49
+@10022 = ~Nashkel'de Bebek Bakıcılığı
+
+Nashkel'de iki çocuğa bakıcılık yapmayı teklif ettim ama anne kabul etmedi. Görünüşe göre yeterince güvenilir görünmüyorum... henüz.~
+
+//@54
+@10023 = ~Nashkel'de Bebek Bakıcılığı
+
+Nashkel'de iki çocuğa bakıcılık yapmayı kabul ettim. Anne, teklifimi yerine getirmek için zamanım olana kadar çocuklarla birlikte bekliyor.~
+ 
+//@56
+@10024 = ~Nashkel'de Bebek Bakıcılığı
+
+Nashkel'de iki çocuğa bakıcılık yapmayı teklif ettim ama teklifimi geri çektim. Yine de annesi tekrar teklif edersem kabul edecek kadar çaresiz görünüyor.~
+
+//@66
+@10025 = ~Nashkel'de Bebek Bakıcılığı
+
+Nashkel'de iki çocuğa bakıcılık yapmayı kabul ettim. Anne yarım saat içinde dönecek ve aynı yerde buluşmamızı bekliyor. Herhangi bir yanlış anlaşılmayı önlemek için bölgeden ayrılmamalıyım.~
+
+@10065 = ~Nashkel'de Bebek Bakıcılığı
+
+Nashkel'de iki veledi olan bir anne vardı. Onları zorbalıkla uzaklaştırdım. Çocukların ağlamasına dayanamıyorum!~
+
+@10066 = ~Nashkel'de Bebek Bakıcılığı
+
+Görünüşe göre Nashkel'li anne, bana bir ders vermeleri gerektiğini düşünen birkaç iyi kalpli iri yarı çılgına rastlamış. Sanırım kendi derslerini öğrenecek kadar uzun yaşamamışlar...~
+
+/* Nashkel Canavarı: c#q04001_3_4_5.tra */
+
+
+//@1 (c#q04001_3_4_5.tra)
+@10026 = ~Nashkel Canavarı
+
+Nashkel'de genç bir çocuğu kovalayan yavru bir wyvern öldürdüm...~
+
+@10027 = ~Nashkel Canavarı~
+
+//@16 (c#q04001_3_4_5.tra)
+@10028 = ~Nashkel Canavarı
+
+Çocuğun ailesi askerlerin beni tutuklamasını istedi. Çocuk belli ki ilk karşılaşmamız hakkında yalan söylemişti. Şehir yetkilileriyle savaşmaya karar verdim.~
+
+//@49 (c#q04001_3_4_5.tra)
+@10029 = ~Nashkel Canavarı
+
+Çocuğun ailesi askerlerin beni tutuklamasını istedi. Belli ki çocuk ilk karşılaşmamız hakkında yalan söylemişti çünkü babasının kaybolan "egzotik hayvan" hakkındaki öfkesinden korkuyordu. Neyse ki, kendimi bundan vazgeçirebildim.~
+
+@10030 = ~Meçhul Yumurta~
+
+@10031 = ~Meçhul Yumurta
+
+Yumurta "taşını" alması gereken büyücüyle tanıştık. Yumurtayı güçlü bir büyücüye göstermezsem kötü bir sürprizle karşılaşacağıma dair bazı tuhaf şeyler söyledi...~
+
+@10032 = ~Meçhul Yumurta
+
+Yumurta artık kalıcı olarak korunuyor. Hâlâ büyülü bir eşya ve bir işe yarayabilir. Bir Wraith örümceğinin yumurtasıydı, çatlamaya hazırdı! Bu tehlike artık sona erdi. ~
+
+@10033 = ~Meçhul Yumurta
+
+Wyvern eğiten bir haydut tarafından bir mağarada esir tutulan bir teslimatçıyı kurtardım! Bana yumurtaya benzeyen garip bir taş verdi. Onu alması gereken büyücünün hâlâ Baldur Geçidi'ne gidiyor olabileceğini söyledi. Belki de ona geri vermeliyim.~
+
+@10034 = ~Meçhul Yumurta
+
+Yumurta artık yok edildi. Bir Wraith örümceğinin yumurtasıydı, çatlamaya hazırdı! Bu tehlike artık sona erdi.~
+
+@10035 = ~Meçhul Yumurta
+
+Yumurta bir Wraith örümceğine aitti ve sırt çantamdan çıktı!~
+
+@10067 = ~Meçhul Yumurta
+
+Wyvern eğiten bir haydut tarafından bir mağarada esir tutulan bir teslimatçıyı kurtardım! Bana hazırlanmış ama hala yaşayan bir Wraith örümceği yumurtası verdi! Onu alması gereken büyücünün hâlâ Baldur Geçidi'ne gidiyor olabileceğini söyledi. Belki de ona geri vermeliyim.~
+
+
+/* Fallen Paladin: c#q05001.tra'dan */
+
+
+@10036 = ~Helm Tapınağındaki Düşmüş Paladin~
+
+//@19
+@10037 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Ölen paladin, küçük kızı ele geçiren bir iblis tarafından kandırıldığını söyledi. İblisin gücü o kadar büyükmüş ki, kızı öldürmeden önce gerçeği görememiş.~
+
+//@33
+@10038 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Aniden güçlü sihirli güçler geliştiren bir çocuktan bahseden bir kadınla tanıştım, onu Luskan'dan Baldur Geçidi'ne ışınlayacak kadar güçlü! Bu, paladinin öldürdüğü çocuğun hikayesine çok benziyor. Eğer ona yardım etmek istiyorsam, belki de onunla bu konu hakkında konuşmalıyım.~
+
+//@34
+@10039 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Öldürülen çocuğun annesi, paladinin şeytani ele geçirilme hikâyesini doğruladı. Kızının aniden güçlü büyülü güçler geliştirdiğini söyledi. Bu bana geçenlerde şehirde tanıştığım dadıyı hatırlattı. Luskan'da bahsettiği çocuk da aynı "semptomları" gösteriyor olabilir mi? Eğer ona yardım etmek istiyorsam belki de bu konuyu paladinle konuşmalıyım.~
+
+//@35
+@10040 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Öldürülen çocuğun annesi, paladinin şeytani ele geçirilme hikâyesini doğruladı. Kızının aniden güçlü büyülü güçler geliştirdiğini söyledi. Benden bu bilgiyi yaymamamı istedi.~
+
+//@36
+@10041 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Baldur Geçidi'ndeki Helm tapınağında, küçük bir çocuğu katletmekle suçlanan düşmüş bir paladin duruyor!~
+
+//@37
+@10042 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Paladinin öldürdüğü kız sarayın girişine bitişik bir evde yaşıyordu. Olanlarla ilgili ayrıntıları duymak istiyorsam belki de oraya gitmeliyim.~
+
+//@38
+@10043 = ~Helm Tapınağındaki Düşmüş Paladin
+
+Müteveffa Sör Dauron, kısa süre önce tanıştığım Luskanlı çocuğun dadısını aramak üzere yola çıktı ve dadının kendisini şeytani ele geçirmeye maruz kalmış başka bir çocuğa yönlendirebileceğini umuyor. Belki de başarılı olur ve Luskan'daki bu iblisi yener... Bu üzücü hikâye için gerçekten mutlu bir son olur.~
+
+//@63
+@10044 = ~Helm Tapınağı'ndaki Düşmüş Paladin
+
+Sorunu çok kesin bir şekilde çözmeye karar verdim.~
+
+
+////////////////////////////////////////////////
+/* Ölümsüz Aşk: c#q06001_2.tra */
+
+@10045 = ~Balıkçı Köyündeki Korkmuş Dul~
+
+//@6
+@10046 = ~Balıkçı Köyündeki Korkmuş Dul
+
+Balıkçı köyünde bir kadın, evinin arkasında gizlenen bir canavar tarafından dövülür. Onu öldürmemi istiyor.~
+
+//@25
+@10047 = ~Balıkçı Köyündeki Korkmuş Dul
+
+Kadının ölümsüz kocasını öldürdüm. Artık huzur içinde yaşayabilir.~
+
+//@36
+@10048 = ~Balıkçı Köyündeki Korkmuş Dul
+
+Kadını tehdit eden ölümsüz yaratığı öldürdüm. Artık huzur içinde yaşayabilir.~
+
+//@88
+@10049 = ~Balıkçı Köyündeki Korkmuş Dul
+
+Dul kadına sözleşmeye sadık kalmasını önerdim ve kadın köyü terk etti.~
+
+
+/* Ork Aşığı: c#q07001.tra */
+
+@10050 = ~Baldur Geçidi'nde Ork Saldırıları~
+
+//@56
+@10051 = ~Baldur Geçidi'nde Ork Saldırıları
+
+Baldur Geçidi'nde bir eve ork saldırdığı söylentisi tam olarak bir söylentiydi. Görünüşü dedikoduların yayılmasına neden olan zavallı yarı ork Uguth'tu. Söylentiler hep aynıdır!~
+
+//@65
+@10052 = ~Baldur Geçidi'nde Ork Saldırıları
+
+Elfşarkısı tavernasının yakınındaki bir evin orklar tarafından saldırıya uğradığı ve sakinlerinin yardıma ihtiyacı olduğuna dair bir söylenti var.~
+
+
+/////////////////////////////////////////
+/* Beklenmeyen Yardım: c#q08001.tra */
+
+
+@10053 = ~Linda ve Sör Trun~
+
+//@57
+@10054 = ~Linda ve Sör Trun
+
+Sör Trun'a sorununu aşması için yardım ettim. Linda'yı kılıç kullanmada eğitecek. Umarım yaşadıkları korkunç maceranın üstesinden gelebilirler.~
+
+//@98
+@10055 = ~Linda ve Sör Trun
+
+Linda ile Kandilkalesi Hanı'nda tanıştım. Kandilkalesi revirinde yaralarından iyileşmekte olan Sör Trun'un nişanlısı. Travmatik bir karşılaşma yaşadılar ve o zamandan beri konuşmadılar.~
+
+
+///////////////////////////////////////////////////////////
+/* Hamster İşi */
+
+@10056 = ~Hamster İkilemi~
+
+@10057 = ~Hamster İkilemi
+
+İkinci hamsterdan kurtulduk... Umarım Boo'nun kalbi çok kırılmamıştır.~
+
+@10058 = ~Hamster İkilemi
+
+Minsc bir şekilde o evcil hayvan satıcısından bir hamster almayı başardı ve ona geri vermek dışında ondan kurtulmayı reddediyor. Sanırım şimdi o satıcının nerede olduğunu araştırmam gerekiyor.~
+
+@10059 = ~Hamster İkilemi
+
+İkinci hamsterdan kurtulduk. Umarım Boo'nun kalbi çok kırılmamıştır. Geriye sadece küçük olanlar kaldı. Büyümeden önce onlardan kurtulmalıyım. Nashkel Karnavalı'nda umutsuzca hamster isteyen bir çocuk yok muydu?~
+
+@10060 = ~Hamster İkilemi
+
+İkinci hamsterdan kurtulduk... ve tüm küçüklerden.~
+
+/* v16 için yeni */
+
+@10069 = ~Hamster İkilemi
+
+Nashkel Karnavalı'ndaki çocuk bütün küçük hamsterları aldı. İş o noktaya gelirse daha da fazlasını alacağına dair içimde bir his var.~
+
+
+/////////////////////////////////////////////////////////
+/* Beregost Tapınağı Yakınlarındaki Sarhoş */
+
+@10061 = ~Beregost Tapınağı Yakınlarındaki Sarhoş~
+
+@10062 = ~Beregost Tapınağı Yakınlarındaki Sarhoş
+
+Beregost Tapınağı yakınlarında bir sarhoşla karşılaştım. Herhangi bir vahşi yaratık tarafından saldırıya uğrarsa kendine yardım edemeyeceğinden eminim, ama ona yardım etmeme de izin vermiyor. Belki birilerine onun buradaki varlığı hakkında bilgi verebilirim.~
+
+@10063 = ~Beregost Tapınağı Yakınlarındaki Sarhoş
+
+Lathander rahipleri sarhoş Polus'a göz kulak olacak. O zaman güvende olacaktır.~
+
+/* @10064 - @10067 yukarıda kullanılmıştır */ 
+
+@10068 = ~Beregost Tapınağı Yakınlarındaki Sarhoş
+
+Sarhoşu daha fazla kolaylıktan kurtardım. Demek öyle.~
+
+/* @10069 yukarıda kullanılmıştır */

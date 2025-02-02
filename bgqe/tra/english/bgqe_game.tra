@@ -258,17 +258,17 @@ Weight: 12~
 
 @2002    = ~Ghoul~
 @2003    = ~Farmer~
-@2004	   = ~A worried Farmer
+@2004	   = ~A Worried Farmer
 
 A farmer asked me to come over to his house, if we want to take care of a matter that's been bothering him.~
-@2005	 = ~A worried Farmer
-	
+@2005	 = ~A Worried Farmer
+
 The farmer from Beregost does not need to worry anymore, the ghoul who haunted him every night is now truly dead.~
-@2006	 = ~A worried Farmer
+@2006	 = ~A Worried Farmer
 
 A farmer told us that he has seen something moving about close to his home. He doesn't know what it was though.~
 
-@2007	   = ~A worried Farmer~
+@2007	   = ~A Worried Farmer~
 
 @9002   = ~Sylar~
 @9003	  = ~Bodies for a good Cause
@@ -617,21 +617,21 @@ The boy at Nashkel Carnival took all the little hamsters. I have a feeling he wi
 
 
 /////////////////////////////////////////////////////////
-/* Drunk near Beregost Temple */
+/* Drunk Near Beregost Temple */
 
-@10061   = ~Drunk near Beregost Temple~
+@10061   = ~Drunk Near Beregost Temple~
 
-@10062   = ~Drunk near Beregost Temple
+@10062   = ~Drunk Near Beregost Temple
 
 I met a drunk near the Beregost Temple. I am sure he isn't capable of helping himself if attacked by any wild creature, but he doesn't let me help him, either. Maybe I could inform someone about his presence here.~
 
-@10063   = ~Drunk near Beregost Temple
+@10063   = ~Drunk Near Beregost Temple
 
 The priests of Lathander will watch over the drunk Polus. He should be safe then.~
 
 /* @10064 - @10067 used above */ 
 
-@10068   = ~Drunk near Beregost Temple
+@10068   = ~Drunk Near Beregost Temple
 
 I saved the drunk from any more conveniences. So to say.~
 

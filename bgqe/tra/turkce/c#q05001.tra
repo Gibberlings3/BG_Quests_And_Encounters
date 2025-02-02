@@ -1,0 +1,224 @@
+@0 = ~Beni hemen bırakıyor musun? Defol!~
+@1 = ~Beni rahatsız etmeyin. Tanrıma dua ediyorum.~
+@2 = ~Luisa'nın annesiyle konuştum. İblisi yenmelerine yardım ettiğini söyledi.~
+@3 = ~Şehirde garip bir karşılaşma yaşadım. Luskan'dan bir dadı, büyük sihirli güçler geliştirmiş bir çocuktan bahsetti.~
+@4 = ~Dışarıda bahsettikleri düşmüş şovalye sen misin?~
+@5 = ~Lütfen bana sana ne olduğunu tekrar anlat.~
+@6 = ~Elbette, devam et.~
+@7 = ~Senin gibi bir alçak merhamet görmeyecek! Küçük kızın intikamını alacağım!~
+@8 = ~Eğer Helm'in isteği buysa, senin ellerinde öleceğim. Sefil hayatımı savunmayacağım. Yine de Helm'in rahibinin bunu yapacağını unutmayın.~
+@9 = ~Evet, dışarıdaki insanlar benim öldürülmemi talep ediyor. Keşke Helm dualarıma cevap verse.~
+@10 = ~Tam olarak ne oldu? İnsanlar bir çocuğu öldürdüğünü söylüyor.~
+@11 = ~Senin gibi dinsiz bir adamın tapınakta dua etmeye hakkı yok!~
+@12 = ~Sen bir alçaksın ve senden intikam alacağım!~
+@13 = ~Fidye için yalvarırsa, var. Ne olursa olsun.~
+@14 = ~Ben de öyle yaptım... Kahverengi bukleleri olan küçük bir kızdı. Kahkahasının o yaştaki tüm çocuklarınki gibi neşeli ve hafif olduğuna eminim. Affedersiniz ama diz çöküp tanrıma dua etmek istiyorum. ~
+@15 = ~Sadece bir soru daha. Bunu neden yaptınız? ~
+@16 = ~Tabii ki. Dualarınızı edin.~
+@17 = ~Neden bilmek istiyorsun? Bir insanın yapabileceği en kötü suçu işledim: Bir çocuğu öldürdüm. Kefaret için tanrıma yalvarayım, lütfen!~
+@18 = ~Bilmek istiyorum çünkü bunu bilerek yaptığını düşünemiyorum. Bir çeşit hata olmalı!~
+//@19 
+@20 = ~Bir hata... Belki öyle görünüyor, ama bunun bir iblis zannettiğim çocuklarını kaybeden ebeveynler için bir önemi var mı? Dışarıdaki insanlar, iblisin kutsal güçlerimle hissettiğimi sandığım gibi sadece bir çocuğun görüntüsünü almadığını, sadece kızı ele geçirdiğini umursuyor mu? Tanrım, iblisi önce doğru kelimelerle kovarak kızı kurtarabileceğimi bilmediğimi anlıyor mu? Hem bu seni neden ilgilendiriyor ki?~
+@21 = ~Yani bir iblis tarafından kandırıldığını söylüyorsun.~
+@22 = ~Bu gerçek olamayacak kadar aptalca. O zaman dua etmeye devam et.~
+@23 = ~Sen o kutsal güçlere layık değildin! Kızın intikamını alacağım!~
+@24 = ~Ha! Kandırıldım, evet, belki. Dinle: Başarısız oldum ve bir çocuğu öldürdüm. İblisin benim boyumdaki biri için çok güçlü olduğunu söyleyerek eylemimi mazur göstermeye çalışmayacağım... sahip olduğum boy. Bu benim başarısızlığımdı. ~
+@25 = ~Bana anlattıkların, dışarıda anlattıkları berserker paladin hikayesinden çok daha mantıklı. Sana tanrının merhametini diliyorum.~
+@26 = ~Çözüm için çabalamak yerine kendine acıyorsun!~
+@27 = ~İyi, dualarınıza devam edin.~
+@28 = ~Pişmanlık ve kendine acıma arasındaki sınır belirsizdir sanırım. Ama ben bir çözüm için çabalıyorum: Tanrıma dua ediyorum. Lütfen beni bağışlayın.~
+@29 = ~Teşekkür ederim, gerçekten. Ama şimdi lütfen dualarıma devam etmeme izin verin.~
+@30 = ~Helm'in zavallı kadın için kutsaması. Bana karşı herhangi bir nefret duygusu taşımadığı için minnettarım.~
+@31 = ~Bu... tam olarak küçük Luisa'nın başına gelenlere benziyor. Luskan'dan mı dediniz? Belki o kadınla burada, Baldur Geçidinde karşılaşma şansım olur, böylece bana daha ayrıntılı bilgi verebilir. İblis Luskan'a kaçmış olabilir mi? Onu bulacağım. Onu yeneceğim! Bu sefer daha hazırlıklı olacağım ve çocuğun hayatını kurtaracağım!~
+@32 = ~Teşekkür ederim! Bu bilgi benim için çok değerli. Karşılığında size sunabileceğim tek şey kalbimin derinliklerinden gelen gerçek bir minnettarlıktır. Helm'in kutsaması üzerinizde olsun. Bana yeni bir umut verdiniz. Luisa benim elimle öldürüldü ama ben bu canavarı bulup diğer çocukları kurtaracağım. Belki... Belki bu yeterli olur da onurumu geri kazanabilirim.~
+//@33 - @38
+@39 = ~Ne alçak bir herif!~
+@40 = ~Ne... Defol, hödük!~
+@41 = ~Asılmalı!~
+@42 = ~Belki daha fazlası vardır... asla bilemezsin.~
+@43 = ~Bu katil hala içeride!~
+@44 = ~Kız nerede yaşıyordu? ~
+@45 = ~Bu ahlaksız yoluma çıkmasa iyi olur!~
+@46 = ~Ha! Ne kadar tatlı. Eğer benim işimi yapmaya başlarlarsa, benim için hiçbir şey kalmayacak.~
+@47 = ~Duymadın mı? Küçük Luisa'yı öldüren alçak tapınakta saklanıyor! O bir şovalyeydi... hayal edebiliyor musun!~
+@48 = ~Bu korkunç! Haber verdiğin için teşekkürler. ~
+@49 = ~Tapınakta saklanan bir çocuk katili, düşmüş bir şovalye mi var? Kötü niyetli kişi yoluma çıkmasa iyi olur!~
+@50 = ~Evet, onu dışarı çıkarın! Gerisini biz hallederiz!~
+@51 = ~Buradan çok uzakta değil. Sarayın girişine yakın bir ev. Ailesi artık evden çıkmıyormuş, öyle diyorlar. Baba aklını kaçırmış!~
+@52 = ~Eğer cesareti varsa, dışarı çıkmayı denemeli!~
+@53 = ~Korkak gibi bir tapınağın içinde saklanıyor!~
+@54 = ~Zavallı ebeveynler!~
+@55 = ~Böyle biri asılmalı! Linç edin şu çocuk katilini!~
+@56 = ~Neler oluyor? ~
+@57 = ~Bir sorun mu var? ~
+@58 = ~Haydi, herkes sakinleşsin.~
+@59 = ~Hak ettiğini buldu!~
+@60 = ~Şimdi hak ettiği cezayı aldı.~
+@61 = ~Şehirdeki yaşam, etrafta kötülüğe dönüşmüş şovalyeler olmadan yeniden daha güvenli hale geldi.~
+@62 = ~Ne kadar kötü şeyler olabileceği üzücü. Helm rahibinin onu savunmaya çalışması çok yazık.~
+//@63
+@64 = ~Özür dileriz ama Luisa'nın ölümünden beri rahatsız edilmemek için kapıyı kilitliyoruz. Ne istiyorsunuz?~
+@65 = ~Rahatsız ettiğim için özür dilerim. Hemen gideceğim.~
+@66 = ~Luisa? O senin kızın mıydı? ~
+@67 = ~Sadece uğramak istedim. Elveda.~
+@68 = ~Elimden gelen her şeyi yaparım.~
+@69 = ~Yardım çağırmalıyım, ama çok yorgunum. Ne bulursan al. Seni engellemeyeceğiz.~
+@70 = ~O da öyleydi... Bu odalarda huzursuzca dolaşan kocama bir bakın. Aklını kaçırmış.~
+@71 = ~Rahatsız ettiğim için özür dilerim, şimdi gidiyorum.~
+@72 = ~Kızınızı öldüren şovalyeyi duydum.~
+@73 = ~Kızınızı öldüren şovalye ile konuştum.~
+@74 = ~Korkunç, gerçekten. Ben zaten yoldayım.~
+@75 = ~Evet, zavallı Sör Dauron...~
+@76 = ~"Zavallı Sör Dauron?” Olanlar için onun suçlu olduğunu düşünüyormuşsunuz gibi gelmiyor.~
+@77 = ~Size yaptığı şey yüzünden öfke dolu değil misiniz?!~
+@78 = ~Şimdi gidiyorum... İyi günler.~
+@79 = ~Ölümünün yasını sonsuza dek tutuyoruz, ama şovalye için de üzülüyorum.~
+@80 = ~Bu söylediğin çok asilce bir şey. Sizi daha fazla rahatsız etmeyeceğim.~
+@81 = ~İnsanların söylediklerine bakılırsa, onu katletmiş gibi görünüyor.~
+@82 = ~Sör Dauron'un söylediklerine bakılırsa, işin içinde çok büyük bir şeytani güç varmış.~
+@83 = ~Hayır, hayır, yaptığı şey bu değildi... Ah canım, keşke insanlar bunu söylemeyi bıraksa.~
+@84 = ~Ne oldu? ~
+@85 = ~Özür dilerim ama bu konuda konuşmak istemiyorum. İnsanlar zaten çok heyecanlı, yeni söylentiler yaymaya gerek yok.~
+@86 = ~O zaman şimdi sizi yalnız bırakayım. Elveda.~
+@87 = ~Sana bunu o mu söyledi? Ne dedi?~
+@88 = ~Kızınızın bir iblis tarafından ele geçirildiğini.~
+@89 = ~Bunu ayrıntılı olarak tartışmak zorunda değiliz. Size veda ediyorum.~
+@90 = ~Lütfen, yalvarırım! İnsanlar şimdiden çok üzgün! Çocuğumuzun gerçekten bir iblis tarafından ele geçirildiğini söyleyip durmayın... Sör Dauron'a minnettarım, kendisine yöneltilen suçlamalara karşı kendini savunmak için bu bahaneyi hiç kullanmadı.~
+@91 = ~Tam olarak ne oldu? ~
+@92 = ~Her şey Luisa ile başladı... Kızımız aniden sihirli güçler geliştirdi. Güçlü sihirli güçler. Başlangıçta onun sonunda bir büyücü olduğunu düşündük...~
+@93 = ~Ama güçleri çok güçlü, çok tehlikeli hale geldi... ve şeytana dönüştü. Zavallı bebeğim. İblis onun zihnini ele geçirdi, tıpkı bir küfün bir somun ekmeği ele geçirmesi gibi.~
+@94 = ~Anılarını aramak için evde dolaşan ve artık beni karısı olarak tanımayan kocam, değişimler nedeniyle aklını kaybetti. Sör Dauron bize yardıma geldi. Herkes iblisin çocuğumuzun yerini aldığından emindi, tıpkı kötü bir taklitçi gibi, ama onu öldürdükten sonra küçük kızımızdan başka bir şey kalmadı. Korkunç bir kahkaha duyduk. Sör Dauron bembeyaz oldu. Bizi bu korkunç yaratıktan kurtarmaya çalışırken onurunu kaybetti.~
+@95 = ~Kızım için yas tutmadığımı mı sanıyorsun? Küçük bebeğimi özlüyorum... ama o... bedeni katledilmeden çok önce gitmişti. Bir canavara dönüştü. Sör Dauron sadece bize yardım etmeye çalışmışken, neden bu kadar ağır bir yük taşımak zorunda?~
+@96 = ~Bir kahkaha mı duydun? Yani iblis hâlâ buralarda bir yerde olabilir mi?~
+@97 = ~Bu korkunç. Bundan ne çıkacağını göreceğiz.~
+@98 = ~Ben gittim.~
+@99 = ~Sir Dauron'un Tarikat yoldaşları şehri aradı, ancak bir iz bulamadılar.~
+@100 = ~Bunu paylaştığınız için teşekkür ederim.~
+@101 = ~Sanırım bunu birine söylemem gerekiyordu. Lütfen, şimdi bizi yalnız bırakın.~
+@102 = ~Pardon, bana verebileceğiniz bir şey var mı, yiyecek bir şeyler ya da belki biraz altın?~
+@103 = ~Tabii, al şu altını.~
+@104 = ~Zavallı kadın! Ne oldu sana böyle? Bana bir dilenci gibi görünmüyorsun.~
+@105 = ~Bitti, dilenci!~
+@106 = ~Evet, hep aynı! Ben de seni onaylamıyorum!~
+@107 = ~Ha! Evet, haklısın.~
+@108 = ~Bu altın parayı al.~
+@109 = ~Çok teşekkür ederim! Şimdi üç oldu...~
+@110 = ~Eğer o veledi ele geçirebilirsem! Önce tüm o numaralar, sonra da birdenbire sihirli güçler geliştirip beni Baldur Geçidi'ne ışınladı! Yeterince param olduğunda, Luskan'a döneceğim ve tüm aileyi mahkemeye çıkaracağım!~
+@111 = ~Dışarıdaki insanlar gitmiş... Korkarım kötüleyebilecekleri ve meraklarını tatmin edebilecekleri başka bir hedef buldular.~
+@112 = ~Evet, bazen farklı yerlere bu kadar hızlı gitmeleri çok komik, heheh.~
+@113 = ~Neden hareket ettiklerini fark etmedin mi?~
+@114 = ~Seninle konuşmak istemiyorum.~
+@115 = ~Neden Yanan Yumruk'tan kimse seni takip etmiyor?~
+@116 = ~Bunu söyleme şeklinden hoşlanmadım. Umarım bununla bir ilgin yoktur, ancak işleri daha da kötüleştirmek için onlara ne söylemiş olabileceğini bilmiyorum.~
+@117 = ~Helm bana merhamet et ve bana kendimi kanıtlama ve güçlerimi yeniden kazanma fırsatı ver!~
+@118 = ~İlgili kişiler ne olduğunu biliyor. Daha fazla eyleme gerek yok, Helm'e teşekkür edin. Durum kontrol altında. Şehirde iblisten hiçbir iz kalmadı... aksi takdirde hala burada duruyor olmazdım. *iç geçirir*~
+@119 = ~Bu durumdan memnun olup olmadığımdan emin değilim. En azından şehir yetkilileri yaptıklarım için kanımı akıtsaydı... Ama bu yaptığım şeylerin kefaretini ödememi sağlıyor ve ödeyeceğim de.~
+@120 = ~Hayır. Derin bir dua içindeydim.~
+@121 = ~Bazen farklı yerlere bu kadar hızlı gitmeleri komik, değil mi?~
+@122 = ~Şehrin iblisler tarafından istila edilmesi riskini alıyorlar!~
+@123 = ~Ebeveynlerin bu iblis olayında nasıl bir rol oynadıklarını merak ediyorum.~
+@124 = ~Şehrin içinde iblisler! Bu inanılmaz bir şey.~
+@125 = ~Fark etmeseydik neler olabileceğini hayal edin!~
+@126 = ~Küçük kızın bir İBLİS tarafından ele geçirildiğini BİLİYOR MUYDUN? Annesi bana öyle söyledi! BIR ŞEYTAN! Şehrin tam ortasında!~
+@127 = ~Bu benim sorunum değil, korkarım.~
+@128 = ~Bir... iblis mi?!~
+@129 = ~Şaka mı yapıyorsun? Bu saçmalık.~
+@130 = ~Kuzenim Dunn, Yanan Yumruk'ta çalışıyor. Bana son zamanlarda garip şeyler gördüklerini söyledi.~
+@131 = ~Yani bu şehir iblisler tarafından istila mı edilecek?!~
+@132 = ~Ve Luisa'nın evinde başladı! Ailesine yazıklar olsun, bir şeyler yapmalıydılar!~
+@133 = ~Hadi oraya gidelim ve onlara buna katlanmak istemediğimizi söyleyelim!~
+@134 = ~Lütfen şimdi gidin. Burada istenmiyorsunuz.~
+@135 = ~Ne yaptın sen?! Tüm bu öfkeli insanlar bizi tehdit ediyor. Bu kasabayı terk edip başka bir yere taşınmamızın imkanı yok, bu yüzden burada kalmak zorundayız. Umarım sonunda sakinleşirler. Lütfen şimdi gidin. Burada istenmiyorsunuz. ~
+@136 = ~Özür dilerim ama gidip ayrıntıları yaymayacağım. Olanları sadece zaten bilenlerle tartışıyorum. Umarım anlayışla karşılarsınız.~
+
+
+
+
+/* yeni içerik v9 */
+
+//---NPC tepkileri--
+
+@137 = ~Bu gerçekten çok zor bir durum. Mazeret yok, iyi bir nedenden dolayı düştünüz - masum bir kızı öldürdünüz. Ama kandırılmıştın ve yaptığının farkında değildin. Eğer layık olduğunu kanıtlarsan Helm seni affedebilir.~
+@138 = ~En Uyanık Olan'a dua et ki bu asla senin başına gelmesin, dostum.~
+@139 = ~Bu adama yardım edebildiğimiz için çok mutluyum, <CHARNAME>.~
+@140 = ~Huzur bulsun.~
+@141 = ~Ah, bu harika. Artık affedilme şansını bulabilir. Ve umarım Luskan'da da hayat kurtarır.~
+@142 = ~Boş bir umut, affedilme umudu.~
+@143 = ~Çok iyi. Luskan yetkililerini tehlike konusunda uyarsak mı diye düşünüyordum ama sanırım daha iyi bir elçi gönderemezdik.~
+@144 = ~Umarım hızlı olur. Bu iblisin Luskan'da ne yapacağını düşünmeye dayanamıyorum. ~
+@145 = ~Minsc Luskan'daki genç kız için korkuyor. Şovalye acele etmeli!~
+@146 = ~Ona başarılar dilerim!~
+@147 = ~Belki Luskan'dayken, görünüşünü iyileştirmek için biraz zaman ayırabilir... Ama dürüst olmak gerekirse, berbat görünmesine rağmen hiçbir şekilde kirli görünmüyordu. O kadar uzun süre bir köşede duran birinin pis kokmasını beklerdim.~
+@148 = ~Bir şovalye her zaman görünüşüne dikkat etmelidir, Safana.~
+@149 = ~Evet, ama kıyafetleri berbat durumdaydı! Ve o her şeyi kapsayan pişmanlığının ortasında ne zaman yıkanıp tıraş olmaya vakit bulabildi? ~
+@150 = ~Ama onun artık bir şovalye olmadığını sanıyordum? Kayboldum. ~
+@151 = ~Bu çok üzücü bir hikaye.~
+@152 = ~Yine de, bir şekilde biraz daha dram bekliyordum.~
+@153 = ~Ama görünüşe göre her şey iyi bitecek. Sizce nasıl bittiğini öğrenebilecek miyiz? ...Luskan aslında ne kadar uzakta?~
+@154 = ~Bizi ilgilendirmeyecek kadar uzakta. ~
+
+@155 = ~Kızların bu iblis tarafından tamamen ele geçirilip geçirilmediğini ya da onun gücünü kontrol edip etmediklerini merak ediyorum... Hm, bunun hakkında biraz daha düşünmeliyim. Güç artışı muazzam olmalı!~
+@156 = ~Bu kızların sahip olduğu kadar güce birdenbire sahip olmak gerçekten de garip bir duygu olmalı.~
+@157 = ~Bunlar boş düşünceler. O zavallı kızların iblisin güçleri üzerinde hiçbir kontrolü yok.~
+@158 = ~İblis oraya mı gitti? Umarım kızlar kendilerine ne olduğunu fark etmezler... İblis tamamen kontrolü ele geçirmiş olmalı, yoksa şovalye böyle kandırılmazdı.~
+@159 = ~Sanki bir insanın zaten yeterince iblisi yokmuş gibi...~
+@160 = ~Doğru, dostum, çok doğru.~
+@161 = ~Şimdi, bu ne tür bir iblis olmalı? Kurbanlarını bu şekilde ele geçiren bir iblis hiç duymadım. En azından ben hiç karşılaşmadım!~
+@162 = ~Bu, bir süredir genç bir kız olmadığın anlamına geliyor, Xzar.~
+
+@163 = ~Ve gitti. İşte gidiyor, kızın katili. En azından iyi bir mazereti vardı.~
+@164 = ~Bah, biz hayırseverlik ve mutluluk parıltısı, beni uzaklaştırıyor!~
+@165 = ~Luskan'a mı gitmek istiyorsun?...~
+
+@166 = ~<CHARNAME>, bunu neden yaptın? ~
+@167 = ~Şimdi, bu gerçekten gereksizdi! Bu zavallı ailelerin yeterince sorunu olduğunu düşünmüyor musunuz?~
+@168 = ~Anne gizlilik istedi!~
+@169 = ~Bu insanların güven ve huzuruyla nasıl oynadığınızı görmek dehşet verici, <CHARNAME>.~
+@170 = ~Şimdi hepsi ailelerinin evine gidiyor!~
+@171 = ~Eğer bu kadar üzücü bir olay olmasaydı, bu gerçekten eğlenceli olabilirdi! Ee, hayır. Eğlenceli olduğunu sanmıyorum. ~
+@172 = ~Bunu eğlenceli mi buluyorsun? Neden bu bilgiyi bu insanlara verdin?~
+@173 = ~Ha! Şakacı biri olduğunu bilmiyordum.~
+@174 = ~Ah, <CHARNAME>, nasıl yaparsın... Zavallı, zavallı ebeveynler... hehehehe!~
+@175 = ~Ye-heaea! Çabuk, ailenin evine gidelim ve çetenin onları rahatsız etmesini izleyelim!~
+
+@176 = ~Ama bu tam olarak Luisa'nın başına gelenlere benziyordu, değil mi?~
+@177 = ~Kadının söyledikleri o zavallı şovalyenin ilgisini çekebilirdi.~
+@178 = ~<CHARNAME>, o kadının söylediği sözler beni şaşırttı. Lütfen, Helm Tapınağı'na gidelim ve Sör Dauron'a mümkün olduğunca çabuk anlatalım.~
+
+@179 = ~Bu aynı iblis miydi? Kendisini ve dadısını Baldur Geçidi'nden Luskan'a, oradan da tam tersine ışınlayabildiğine göre güçleri gerçekten de çok büyük olmalı.~
+
+//Dorn
+@180 = ~Tapınaklarda duran düşmüş şovalyeler umurumda değil. Onları sadece kılıcımı onlara saplamak zorunda kalırsam önemserim. Ama iblisle tanışmak isterdim. ~
+
+//Neera
+@181 = ~Ben... Ona kefaret diliyorum. Hepimiz bunu elde etmek için büyük bir şey yapma şansına sahip değiliz. ~
+//Rasaad
+@182 = ~Tanrısı ondan yüz çevirmiş olabilir, ama yine de düşüncelerinde dürüst ve iyiydi. Ona iyilikler dilerim.~
+
+//Baeloth
+@183 = ~Ne, ne? Luskan'a mı gidiyor? İblisin olduğu yere mi gidiyor? Bu tür iblisleri bilirim. Luskan'da olduğuna sevindim! Uzakta, *uzakta!~
+
+//Dorn
+@184 = ~Hmph. İnsanların nerede toplandığı umurumda değil, ama varlığımıza bu kadar dikkat çekmemenizi tercih ederim.~
+
+//Neera
+@185 = ~Ah, şimdi kızgın kalabalık gitti, ne rahatlama... Bekle, ailelerinin evine taşındılar, değil mi? Ow, bu kötü oldu.~
+
+//Baeloth
+@186 = ~Hmm, öfkeli kitleleri manipüle etmek, <CHARNAME>? Ne gösteri ama. Gerçi, bunun ne tür bir iblis olduğunu bilselerdi, onu uzaklaştırdığı için adama teşekkür ederlerdi, ilgili insanları rahatsız etmezlerdi.~
+
+//Neera
+@187 = ~Bu toprakların tamamen farklı bir yerinde, parasız ve buraya nasıl gelindiğini bilmeden uyanmak... Ne düşünce ama!~
+
+//Baeloth
+@188 = ~Whaha! Şimdi Luskan'da! O kadının anlattığı hikayeyi duyunca, yakında orada başka bir düşmüş şovalye daha olacak.~
+
+//Rasaad
+@189 = ~Zavallı kadının anlattığı hikaye bir şeyler çağrıştırdı. Tapınaktaki o düşmüş şovalye ile tekrar konuşmalıyız, <CHARNAME>.~
+
+//Rasaad
+@190 = ~Eğlendiniz mi? Çünkü sizin için bu haberi kalabalığa haykırmak kısa bir eğlence anı olabilir, ama anne için büyük bir rahatsızlık nedeni! Kaderleriyle zaten sarsılmış olan insanlara daha fazla saygı göstermenizi dilerdim - özellikle de sizden rica etmişlerse!~
+
+
+
+

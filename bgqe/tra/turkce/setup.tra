@@ -1,0 +1,66 @@
+/* All unused numbers are used in bgqe_game.tra! */
+@0    = ~Baldur Geçidi Mini-Görevler and Karşılaşmalar Modu~
+@1    = ~BG1Tutu yüklemesi bulundu. BG1Tutu yükleme kodu kullanılıyor...~
+@2    = ~Original Baldur's Gate detected. Yükleniyor...~
+
+@9    = ~BGT yüklemesi bulundu. BGT yükleme kodu kullanılıyor...~
+
+@13   = ~Beregost Ailesi Görevi~
+
+@19   = ~Bebek Bakıcılığı Görevi, Karnaval Karşılaşmaları dahil...~
+
+@38   = ~Balçık Görevi~
+@39   = ~Nashkel Canavarı Görevi~
+
+@43   = ~Düşmüş Paladin Görevi~
+
+@48   = ~Ölümsüz Aşk Görevi~
+
+@50   = ~Kara Sevdalı Yarı-Ork~
+
+@56   = ~Beklenmedik Yardım Görevi~
+
+
+
+/* new contents: v9 */
+
+
+@61   = ~Birçok Minik Pati~
+
+@66   = ~BG:EE tespit edildi.~
+
+@98   = ~Beregost Tapınağı Yakınlarındaki Sarhoş~
+
+
+/* new contents v10 */
+
+@105  = ~Noober İçin Sıcak Bir Yer~
+
+/* new content v15 */
+
+@109  = ~EET tespit edildi.~
+
+
+/* new contents v16 */ 
+
+
+@5000 = ~Brage'in Kılıcı~
+@5001 = ~Yasal Deniz Haritaları Kaynakları~
+@5002 = ~Hanımın Salonu ve Fahişe Kraliçenin Tapınağına İlaveler~
+@5003 = ~Modların bu oyuna yüklenebilmesi için SoD oyununuzun modmerge yapılması gerekir. Daha fazla bilgi almak, DLC Merger veya Modmerge'i indirme bağlantısı için benioku bölümüne bakın.~ 
+
+@5004  = ~Endişeli Bir Çiftçi~
+@5005   = ~İyi Bir Amaç İçin Cesetler~
+
+@5006   = ~Bu bileşen orijinal Baldur Geçidi 1 ile uyumlu değildir.~
+
+/* new for v19 */
+@5007   = ~"Brage'in Kılıcı" görevi "Brage's Redemption" modu aracılığıyla zaten dahil edilmiştir.~
+@5008   = ~bgqe bu oyunla uyumlu değildir.~
+
+/* new for v23 */
+@5009   = ~Cordyr'in Görevini Sil'i öldürmeden tamamla.~
+
+/* new for v24 */
+@5010   = ~Bu modun EET kurulumunuzda EET_End'den önce yüklenmesi gerekir.~
+

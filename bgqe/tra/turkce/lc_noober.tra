@@ -1,0 +1,118 @@
+@0 = ~*öhö* Vırak! (Ack) *öhö*~
+@1 = ~Sesinize ne oldu? ~
+@2 = ~Hasta gibi görünüyorsun, dostum.~
+@3 = ~Ha-hahaHAHA! Sesi olmayan Noober! Paha biçilemez.~
+@4 = ~(işaret eder ve kollarını sallar) Vırak! Vırak! (Ack) *öhö* Vırak!!~
+@5 = ~Nehir mi? ...içine atılmış... Ah, kasabanın gençleri tarafından nehre mi atıldınız? Ve muhtemelen sonrasında ağır bir soğuk algınlığı geçirdiniz.~
+@6 = ~Sesini daha fazla zorlama. Anladığım kadarıyla ağır bir soğuk algınlığınız var.~
+@7 = ~Her neyse. Hastasın, bunu görebiliyorum.~
+@8 = ~Bırak beni, aptal. Sana ne olduğuyla ilgileniyor gibi mi görünüyorum?~
+@9 = ~Vırak!... *öhö öhö*~
+@10 = ~Nober için Sıcak Bir Yer
+
+Noober nehre atıldıktan sonra ağır bir soğuk algınlığı geçirdi. Dinlenmek ve iyileşmek için sıcak bir yere ve ideal olarak onunla ilgilenen birine ihtiyacı var ama böyle bir yeri yok gibi görünüyor. Belki kasaba halkının kalbini onun lehine ısıtabilirim.~
+@11 = ~Nober için Sıcak Bir Yer
+
+O aptal Noober nehre atıldıktan sonra ağır bir soğuk algınlığı geçirdi. Şimdi sokaklarda dolaşıyor, sesi paslı bir vıraklamadan ibaret. Muhtemelen kendini tüm kasabanın sıcaklığından dışarı attığı içindir.~
+@12 = ~Vırak? ~
+@13 = ~İyi haberlerim var, dostum. Joseph'in karısı seni yanına alacak ve sağlığınla ilgilenecek.~
+@14 = ~Sesini kes, Noober, ve iyi dinlen.~
+@15 = ~Haha! Yine vırakla. Bu ses *çok* komik!~
+@16 = ~...? (rahatlayarak iç geçirir)Vırak!~
+@17 = ~Nober için Sıcak Bir Yer
+
+Nashkel'in güney doğu evindeki iyi kadın Noober'i yanına alacak. Ona mümkün olduğunca çabuk söylemeliyim. ~
+@18 = ~Noober için Sıcak Bir Yer
+
+Noober sıcak yerine doğru yola çıktı. Bir ara oraya gidip ne durumda olduklarına bakabilirim.~
+@19 = ~... - vırak! *öhö*~
+@20 = ~Vırak?! Vırak! *öhö* *öhö*~
+@21 = ~Vırak!~
+@22 = ~Merhaba!~
+@23 = ~Ne? Üzgünüm, sohbet edecek vaktim yok. Yaşlı Bayan Joseph ile konuşuyorum.~
+@24 = ~Noober ağır bir soğuk algınlığı geçiriyor. Onu içeri alıp iyileşmesini sağlar mısınız?~
+@25 = ~Tanrım bana iyileştirici güçler bahşediyor, ama sadece bir soğuk algınlığı her zaman olduğu gibi iyileştirilmelidir. Ne yazık ki, işlerim beni burada tapınakta tutacak ve korkarım ki burası soğuk algınlığının iyileştirilmesi için en iyi yer değil. Kasaba halkına sormaya devam edin, eminim aralarında sıcak bir yatağı olan istekli bir ruh vardır. Ama onu kabul etmeye hazır birini bulamazsanız geri dönün.~
+@26 = ~Hayır, ne zamanım, ne isteğim, ne de istesem bile boş bir yatağım var. Çiftçilerin yanında istekli bir ruh bulacağınıza eminim, özellikle de isteğinizle birlikte biraz para teklif ederseniz.~
+@27 = ~Hm, Joseph'in karısı Noober gibi birini kabul edecek kadar nazik bir ruh olurdu.~
+@28 = ~Hm, zavallı Joseph'in dul karısı Noober gibi birini kabul edecek kadar nazik bir ruha sahip olabilir.~
+@29 = ~Kapısını kilitliyor ama. Ama yine de içeri girmekten korkmayın. Ona dostça yaklaşırsanız, dinlemeye hazır olacaktır.~
+@30 = ~Ama ona nasıl davrandığından sonra bunu ona sormanın bir anlamı yok! Belki bu gece dükkânı kapattığımda sorarım.~
+/* @31 */
+@32 = ~Nober için Sıcak Bir Yer
+
+Dükkân sahibine göre, Nashkel'in güney doğusundaki evde yaşayan kadın Noober'i içeri alabilirmiş. Ayrıca kilitli bir kapıdan korkmamam gerektiğini, ancak izinsiz girişimi dostane bir şekilde açıklamaya istekli olursam yine de girebileceğimi söyledi.~
+@33 = ~Noober için Sıcak Bir Yer
+
+Nashkel'in güney doğusundaki evdeki kadın Noober'i içeri alabilir. Dükkân sahibi ona soracak, çünkü benim ortalıkta dolaşıp elçilik yapmamın bir anlamı yok (özellikle de bu aptal kadının evinde). Sanırım bu konu kapanmıştır. Kimsenin bana bunun nasıl bittiğini söylemesini beklemiyorum. ~
+@34 = ~Ne, burası sana çocuk odası gibi mi görünüyor? Eğer parası yeterse, midesini ve kafasını ısıtmak için iyi ve sert bir bira içebilir. Bunun dışında, müşterileri korkutmadan uzak durmalı. Tekrar. ~
+@35 = ~Evet, odalarım sıcak ve rahattır, ancak Noober'i birden fazla kez dışarı attım çünkü müşterilerim onun tarafından rahatsız edildiğini hissettiler, bu yüzden bir oda almak için gereken altın miktarına sahip olmadığına sevindim, eğer anlıyorsanız.~
+@36 = ~Noober? Küçük bir miktar altın almak için her şeyi yapacağımı düşünebilirsiniz. Ama dünyadaki tüm altınlar için Noober'ı almazdım. Onun bitmek bilmeyen gevezeliklerini dinleyecek olan kız kardeşime bunu yapmamı bekleyemezsin!~
+@36 = ~Aptal! Henüz kimse soğuktan ölmedi. Birini sağlığına kavuşturmaktan çok daha önemli işlerim var!~
+@38 = ~Günler çok karanlık ve sıkıcı... Keşke *bir çeşit* oyalanacak bir şeyim olsaydı. Annem hariç tabii...~
+@39 = ~Hı? Bir şey mi dedin? ~
+@40 = ~Senin şu anda benim tek eğlencem olduğunu söyledim.~
+@41 = ~Hı?~
+@42 = ~Tek eğlencem sensin dedim!~
+@43 = ~Beni meşgul ediyorsun dedim!~
+@44 = ~Ha? Yine şikayet ediyorsun, değil mi?~
+@45 = ~(iç geçirir)~
+@46 = ~Lütfen, şimdi gitmenizi rica ediyorum.~
+@47 = ~Sizi rahatsız ettiğim için özür dilerim güzel kadın, ancak kasabanızın dostlarından birinin iyileşmek için bir yere ihtiyacı var. Bu Noober ve son zamanlarda başına gelenlerden sonra zorlukla konuşabiliyor.~
+@48 = ~Ben gideyim o zaman.~
+@49 = ~(iç geçirir) Noober... Onun sürekli konuşması ihtiyacım olan *son* şey. Ama zavallı adam hastaysa. Zaten anneme bakmak zorundayım. Joseph de gidince. Beni meşgul edecek her şey iyidir aslında...~
+@50 = ~Evet. Evet, buraya gelmesini söyle. Küçük bir boş yatağım var ve çok konuşmadığı sürece - ki eğer sizi doğru anladıysam konuşamaz - iyi bir şekilde dinlenmesini sağlayacağım. Boğazı ağrıdığında annemin pudinglerini ve et sularını sevecektir muhtemelen, böylece fazladan yemek yapmama gerek kalmaz...~
+/* @51 = @32 */
+@52 = ~İstediğiniz başka bir şey yoksa lütfen gidin.~
+@53 = ~İyi günler.~
+@54 = ~Burada istenmiyorsunuz. Noober'ı buraya getirmedeki yardımınız için minnettarım ama burada istenmiyorsunuz. Git!~
+@55 = ~Evet, görüyorsunuz Noober buraya gelmenin yolunu bulmuş.~
+@56 = ~Evet, senden bahsediyoruz, Noober. Yatağına geri dön!~
+@57 = ~Hayır, sen değil - sorun yok, anne!~
+@58 = ~(iç geçirir) Lütfen, şimdi git.~
+@59 = ~Noober için Sıcak Bir Yer
+
+Noober, Joseph'in dul eşiyle iyi bir çocuk yuvası buldu. Yine de sesini geri aldığında ne olacağını merak ediyorum. Belki biraz daha zaman geçtikten sonra kontrol etmeliyim.~
+/* @60 = @55 */
+@61 = ~Şimdi, şunlara bakın! Bu işin bu kadar iyi sonuçlanacağını kim tahmin edebilirdi ki? Anneme yardım ettiği için çok minnettarım. O çok sabırlı ve annem de onları mükemmel bir çift yapacak kadar sağır.~
+@62 = ~Ve sevgili kocamın yasını tutmak için gereken özgürlüğe sahibim...~
+@63 = ~Ve sevgili kocamın dönmesini umarak sessizce işimi yapmak için gereken özgürlüğe sahibim...~
+@64 = ~Sana teşekkür ederim, iyi <MANWOMAN>. Ama şimdi gitmenizi de rica ediyorum.~
+@65 = ~Nober için Sıcak Bir Yer
+
+Noober yeni bir ev buldu! En azından şimdilik, Joseph'in dul karısının yaşlı annesi için mükemmel bir eğlendirici gibi görünüyor. Ve tanrılar yine her şeyi kullanabileceklerini gösterdiler. ~
+@66 = ~Noober için Sıcak Bir Yer~
+
+/* c#lcno01.baf */
+@67 = ~Güzel hava, değil mi?~
+@68 = ~Ha?~
+@69 = ~Bir şey içmek ister misin?~
+@70 = ~Su!~
+@71 = ~Ah, yine mi yağmur yağıyor?~
+@72 = ~Şimdi ne olacak?~
+@73 = ~Bu nedir? Bunu kendi başıma yapamayacağımı mı sanıyorsun?!~
+@74 = ~Bir hikaye dinlemek ister misin?~
+@75 = ~Hikaye mi?~
+@76 = ~Hayır, bir şey anlatamayacak kadar yorgunum.~
+
+/*
+@77 = ~Kaptan Brage'in Öyküsü
+
+Nashkel'deki Helm Tapınağı'ndaki Nalin, Brage'in şeytani bir gücün etkisi altında olabileceğini düşünüyor. Eğer Brage'i tapınağa geri götürürsem, işlediği suçlar yüzünden öldürülmeyebilir. ~
+*/
+@78 = ~Hm, kötü şans, biliyorsun. Görünüşe göre seninle ilgilenmeye hazır olan tek ruh gitmiş.~
+@79 = ~Şimdi *ölü* olması çok kötü, değil mi? Hmph.~
+@80 = ~Bu... tamam, sanırım. Konuşamaması garip, ama yardım etmeye çalışıyor, her ne kadar dinlenmeye ihtiyacı olduğu için böyle olması gerekmese de.~
+
+/* v19 için yeni */
+@81 = ~Size bir şey sormak istiyorduk...~
+@82 = ~Evet, maceracılar genellikle madenler hakkında bir şeyler sormak için gelirler.~
+
+/* v23 için yeni */
+/* @59 ile aynı, sadece "dul" yerine "eş" */
+@83 = ~Noober için Sıcak Bir Yer
+
+Noober, Joseph'in karısıyla iyi bir çocuk yuvası buldu. Yine de sesini geri aldığında ne olacağını merak ediyorum. Belki biraz daha zaman geçtikten sonra kontrol etmeliyim.~
+/* @65 ile aynı, sadece "dul" yerine "karısı" */
+@84 = ~Noober için Sıcak Bir Yer
+
+Noober yeni bir ev buldu! En azından şimdilik, Joseph'in karısının yaşlı annesi için mükemmel bir eğlendirici gibi görünüyor. Ve tanrılar yine her şeyi kullanabileceklerini gösterdiler.~

@@ -5,13 +5,16 @@
 // https://baldurs-gate.de/index.php (German support) 
 //and https://www.gibberlings3.net/ (English support)
 
-//vanilla BG1 version, Tutu, BGT and BG:EE version. Automatic identification.
+//BGT, BG:EE, EET version. Automatic identification.
+//no official Tutu support.
+//For original BG1+TotSC, components that are definitely incompatible get skipped. No official support.
 
 BACKUP ~bgqe/Backup~
-AUTHOR ~Please post in one of the forums as listed in the readme~
+//AUTHOR 
+SUPPORT ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~27~ 
+VERSION ~28~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -448,10 +451,23 @@ ACTION_DEFINE_ARRAY fl#noconvert BEGIN setup.tra INSTALL END
 
 ACTION_DEFINE_ARRAY fl#reload BEGIN bgqe_game.tra END
 
+ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table BEGIN
+	~english~     => ~cp1252~
+	~german~      => ~cp1252~
+	~spanish~     => ~cp1252~
+	~italian~     => ~cp1252~
+	~polish~      => ~cp1250~
+	~russian~     => ~cp1251~
+	~french~      => ~cp1252~
+	~schinese~    => ~cp936~
+	~turkce~     =>  ~cp1254~
+END
+
   LAF HANDLE_CHARSETS
     INT_VAR
-      infer_charset = 1
+      infer_charset = 0
     STR_VAR
+	  charset_table
       tra_path = EVAL ~bgqe/Tra~
       noconvert_array = fl#noconvert
       reload_array = fl#reload
@@ -520,9 +536,12 @@ LANGUAGE ~Simplified Chinese~
          ~schinese~
          ~bgqe/tra/schinese/INSTALL.tra~
          ~bgqe/tra/schinese/bgqe_game.tra~
-
-
-
+/*
+LANGUAGE ~Turkish~
+         ~turkce~
+         ~bgqe/tra/turkce/setup.tra~
+         ~bgqe/tra/turkce/bgqe_game.tra~
+*/
 
 
 
@@ -848,6 +867,7 @@ END
 /////////////////////////////////////////////////////////////////
 BEGIN @39 DESIGNATED 3 LABEL bgqe_nashkelmonster
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
@@ -1196,6 +1216,7 @@ COPY ~bgqe/OrkLover/Creatures/C#Q07005.CRE~ ~Override/C#Q07005.CRE~
 /////////////////////////////////////////////////////////////
 BEGIN @56 DESIGNATED 7 LABEL bgqe_unexpectedhelp
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
@@ -1636,6 +1657,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/seacharts/CalaBald/calabald.d~
 
 BEGIN @5002 /* ~Additions to the House of the Lady and the Bitch Queen's Temple~ */ DESIGNATED 13 LABEL bgqe_waterqueentemple
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
@@ -1673,6 +1695,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/ladybitchqueen/tremains_son.d~
 BEGIN @5004 DESIGNATED 14 LABEL bgqe_worriedfarmer
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
@@ -1755,6 +1778,7 @@ LAF extend_area_script STR_VAR area="%Beregost_House08%" bottom="bgqe/farmer/baf
 
 BEGIN @5005 DESIGNATED 15 LABEL bgqe_bodiesforgoodcause
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
@@ -1798,7 +1822,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/Sylar/d~
 /* Cordyrs Quest ohne Sil's Tod abschlieﬂen - von Lumorus */
 //////////////////////////////////////////////////////////////////
 
-BEGIN @5009 /* ~Cordyrs Quest ohne Sil's Tod abschlieﬂen~ */
+BEGIN @5009 /* ~Finish Cordyr's Quest without killing Sil~ */
 DESIGNATED 16 LABEL bgqe_cordyrnokillingsil
 REQUIRE_PREDICATE GAME_IS ~totsc tutu tutu_totsc bgt bgee eet~ @5008
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
