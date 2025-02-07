@@ -400,6 +400,11 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 HISTORIE
 
+Version 29:
+-Turkish version added, by medic2000.
+-"Babysitting Quest": Ruffian fighters should only drop one axe +2.
+-Corrected charset_table entries for Fench, Italian, Polish, Spanish (fixed install error).
+
 Version 28:
 -Turkish version prepared, by medic2000. Need files in ANSI to unlock.
 -updated Simplified Chinese version and adjust file construction, by yoshimo0417.
