@@ -1,0 +1,44 @@
+
+//By argent77, many thanks!
+// Assigns a script to an ARE door structure
+DEFINE_PATCH_FUNCTION assign_door_script
+STR_VAR
+  door_name = ~~      // name of the door to patch
+  script_resref = ~~  // resref of the script to assign
+RET
+  result              // actually assigned script resref of the door
+BEGIN
+  SPRINT result ~~
+
+  READ_ASCII 0x04 ver (4)
+  SET off = (~%ver%~ STR_EQ ~V9.1~) ? 0x10 : 0x00 // outside of this, patch works for v1.0 and v9.1 areas  
+  GET_OFFSET_ARRAY door (0xa8 + off) 4 (0xa4 + off) 4 0 0 0xc8
+
+  PHP_EACH door AS _ => door_off BEGIN  // cycle through doors
+    READ_ASCII door_off name (32) NULL  // door name
+    PATCH_IF (~%name%~ STR_EQ ~%door_name%~) BEGIN
+      READ_ASCII (door_off + 0x80) resref (8) NULL // script resref
+      PATCH_IF (~%resref%~ STR_EQ ~~) BEGIN
+        // assign script
+        WRITE_ASCIIE (door_off + 0x80) ~%script_resref%~ (8)
+      END
+      // door script resref for return value
+      READ_ASCII (door_off + 0x80) result (8) NULL
+    END
+  END
+END
+
+/*
+// BG1 example code
+COPY_EXISTING ~ar3300.are~ ~override~
+  LPF assign_door_script
+    STR_VAR
+      door_name = ~Door3355~
+      script_resref = ~myscript~
+    RET
+      result
+  END
+  PATCH_PRINT ~Door script: %result%.BCS~
+BUT_ONLY
+*/
+

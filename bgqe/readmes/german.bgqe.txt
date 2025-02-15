@@ -1,69 +1,69 @@
 		Baldur's Gate Mini-Quests und Begegnungen
 				Modifikation  
-			für BGT, BG:EE und EET
+			fÃ¼r BGT, BG:EE und EET
 				von jastey 
 
 
 
-Dies ist eine Mini-Modifikation für BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfügt. Klassisches BG1 ohne die Legenden der Schwertküste wird nicht mehr offiziell unterstützt, aber die Mod sollte trotzdem ohne große Probleme darauf laufen. 
+Dies ist eine Mini-Modifikation fÃ¼r BGT, BG:EE und EET, die mehrere kleine Quests in das Spiel einfÃ¼gt. Klassisches BG1 ohne die Legenden der SchwertkÃ¼ste wird nicht mehr offiziell unterstÃ¼tzt, aber die Mod sollte trotzdem ohne groÃŸe Probleme darauf laufen. 
 
-Die Spieldauer der Modifikation beträgt insgesamt ca. 30-60 Minuten, abhängig vom Spielstil. 
+Die Spieldauer der Modifikation betrÃ¤gt insgesamt ca. 30-60 Minuten, abhÃ¤ngig vom Spielstil. 
 
-Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1 Modification gewandert. Da gehört sie nämlich hin.
+Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1 Modification gewandert. Da gehÃ¶rt sie nÃ¤mlich hin.
 
-Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen für eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
+Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen fÃ¼r eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
 
-Die Komponente "Brages Schwert" muss vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, Brage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Die Komponente "Brages Schwert" muss vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fÃ¼gt denselben Quest ein und erweitert ihn mit zusÃ¤tzlichen Hinweisen und TagebucheintrÃ¤gen. Es wird empfohlen, Brage's Redemption zu installieren, um die zusÃ¤tzlichen Inhalte zu sehen, dies ist aber nicht nÃ¶tig, um den Quest zu spielen.
 
 
 INHALT
 
 1. Schleim-Quest (in Beregost)
 ------
-Dieser Quest spielt in Beregost. Wenn Ihr ein Haus im Nord-Westen der Stadt passiert, sollte Euch eine rot gekleidete Frau ansprechen. Es gehen seltsame Dinge im Haus ihres Nachbarn vor sich und sie braucht Eure Hilfe... Der Quest wurde überarbeitet, um bekannte Kompatibilitätsprobleme zu beheben, und eine böse(re) Questlösung wurde eingefügt. 
+Dieser Quest spielt in Beregost. Wenn Ihr ein Haus im Nord-Westen der Stadt passiert, sollte Euch eine rot gekleidete Frau ansprechen. Es gehen seltsame Dinge im Haus ihres Nachbarn vor sich und sie braucht Eure Hilfe... Der Quest wurde Ã¼berarbeitet, um bekannte KompatibilitÃ¤tsprobleme zu beheben, und eine bÃ¶se(re) QuestlÃ¶sung wurde eingefÃ¼gt. 
 
 2. Familienquest in Beregost
 ------
-Dieser Quest spielt ebenfalls in Beregost, im Nachbarhaus zum Schleim-Quest. Wenn Ihr ein Haus im Nord-Westen der Stadt betretet, trefft Ihr auf ein seltsames Ehepaar. Obwohl sie ernste Probleme haben, haben sie seit längerem nicht mehr miteinander gesprochen. Auch mit Euch wollen sie nicht über ihr Problem sprechen, und doch scheint Ihr es zu sein, der das Rätsel lösen und der Familie helfen kann. Oder Ihr betrügt sie und treibt sie vollends in den Ruin...
+Dieser Quest spielt ebenfalls in Beregost, im Nachbarhaus zum Schleim-Quest. Wenn Ihr ein Haus im Nord-Westen der Stadt betretet, trefft Ihr auf ein seltsames Ehepaar. Obwohl sie ernste Probleme haben, haben sie seit lÃ¤ngerem nicht mehr miteinander gesprochen. Auch mit Euch wollen sie nicht Ã¼ber ihr Problem sprechen, und doch scheint Ihr es zu sein, der das RÃ¤tsel lÃ¶sen und der Familie helfen kann. Oder Ihr betrÃ¼gt sie und treibt sie vollends in den Ruin...
 
 3. Babysitting in Nashkell, beinhaltet Karneval Begegnung
 ------
-Dieser Quest spielt in Nashkell. Seht Ihr die verzweifelte Frau mit ihren zwei kleinen Kindern? Sie hat etwas Wichtiges zu erledigen und braucht dringend jemanden, der sich solange um ihre Kinder kümmert. Ihr habt schon vielen Gefahren ins Auge gesehen, habt Monster bezwungen... aber seid Ihr ernsthaft gewappnet für diese Aufgabe? 
+Dieser Quest spielt in Nashkell. Seht Ihr die verzweifelte Frau mit ihren zwei kleinen Kindern? Sie hat etwas Wichtiges zu erledigen und braucht dringend jemanden, der sich solange um ihre Kinder kÃ¼mmert. Ihr habt schon vielen Gefahren ins Auge gesehen, habt Monster bezwungen... aber seid Ihr ernsthaft gewappnet fÃ¼r diese Aufgabe? 
 
-Das Babysitting ist nur erhältlich für HCs der Profession Paladin oder für nicht-bösem HC mit Ruf höher als 12 Punkte. Böse HCs (oder wenn der Ruf sehr niedrig ist) können die Mutter auch vertreiben, was aber nicht ohne Folgen bleibt.
+Das Babysitting ist nur erhÃ¤ltlich fÃ¼r HCs der Profession Paladin oder fÃ¼r nicht-bÃ¶sem HC mit Ruf hÃ¶her als 12 Punkte. BÃ¶se HCs (oder wenn der Ruf sehr niedrig ist) kÃ¶nnen die Mutter auch vertreiben, was aber nicht ohne Folgen bleibt.
 
 Auf dem Karneval trefft Ihr Tina. Die junge Frau braucht dringend etwas Geld und sucht Arbeit... sagt sie zumindest.
 
 4. Monstersichtung in Nashkell
 ------
-In der Nähe des Herrenhauses in Nashkell könnt Ihr den kleinen Armin vor einem Monster retten. Dafür müsste Euch die Dankbarkeit seiner Eltern eigentlich sicher sein... nicht wahr?
+In der NÃ¤he des Herrenhauses in Nashkell kÃ¶nnt Ihr den kleinen Armin vor einem Monster retten. DafÃ¼r mÃ¼sste Euch die Dankbarkeit seiner Eltern eigentlich sicher sein... nicht wahr?
 Der Lieferant, der die Eier vertauscht hat, befindet sich derweil in einer sehr existentiellen... Diskussion mit einem sehr unzufriedenen Kunden. Spielt einfach das Spiel weiter, und Ihr werdet ihn treffen.
 
 5. Gefallener Paladin in Baldurs Tor
 ------
-Im Norden der Stadt, im Tempel von Helm, versteckt sich ein böser, gefallener Paladin. Er hat ein kleines Mädchen blutrünstig abgeschlachtet... Zumindest sagen das die aufgebrachten Leute, die sich vor dem Tempel versammelt haben.
+Im Norden der Stadt, im Tempel von Helm, versteckt sich ein bÃ¶ser, gefallener Paladin. Er hat ein kleines MÃ¤dchen blutrÃ¼nstig abgeschlachtet... Zumindest sagen das die aufgebrachten Leute, die sich vor dem Tempel versammelt haben.
 
-6. Unvergängliche Liebe im Fischerdorf
+6. UnvergÃ¤ngliche Liebe im Fischerdorf
 ------
-Die verängstigte Frau in einem der Häuser im Fischerdorf sagt, dass hinter ihrem Haus ein Monster ist, das sie bedroht. Vielleicht solltet Ihr einmal nachschauen... 
+Die verÃ¤ngstigte Frau in einem der HÃ¤user im Fischerdorf sagt, dass hinter ihrem Haus ein Monster ist, das sie bedroht. Vielleicht solltet Ihr einmal nachschauen... 
 
-7. Halbork in Liebesnöten
+7. Halbork in LiebesnÃ¶ten
 ------
-Auf der Straße, nördlich von Nashkell, werdet Ihr Uguth teffen, dem Äußeren nach eindeutig der Nachfahre eines Halborks. Er ist auf dem Weg nach Baldurs Tor, zu seiner Verlobten... und muss noch gewisse Hindernisse überwinden, bevor er sie tatsächlich in die Arme nehmen kann.
+Auf der StraÃŸe, nÃ¶rdlich von Nashkell, werdet Ihr Uguth teffen, dem Ã„uÃŸeren nach eindeutig der Nachfahre eines Halborks. Er ist auf dem Weg nach Baldurs Tor, zu seiner Verlobten... und muss noch gewisse Hindernisse Ã¼berwinden, bevor er sie tatsÃ¤chlich in die Arme nehmen kann.
 
 8. Unerwartete Hilfe
 ------
-In Kerzenburg im Lazarett brütet Sir Trun vor sich hin. Er ist durch einen Kampf schwer verletzt worden, aber das scheint ihn weniger zu beschäftigen als die Tatsache, dass er nur durch sehr unerwartete Hilfe überlebt hat. Vielleicht weiß Linda, eine leicht verzweifelt Frau im Gasthaus mehr darüber...
-Dieser Quest ist sowohl im Prolog als auch später bei der Rückkehr nach Kerzenburg zugänglich. (Achtung: Da die meisten diese Quest im Prolog spielen, gibt es hier keine NPC-Einmischdialoge).
+In Kerzenburg im Lazarett brÃ¼tet Sir Trun vor sich hin. Er ist durch einen Kampf schwer verletzt worden, aber das scheint ihn weniger zu beschÃ¤ftigen als die Tatsache, dass er nur durch sehr unerwartete Hilfe Ã¼berlebt hat. Vielleicht weiÃŸ Linda, eine leicht verzweifelt Frau im Gasthaus mehr darÃ¼ber...
+Dieser Quest ist sowohl im Prolog als auch spÃ¤ter bei der RÃ¼ckkehr nach Kerzenburg zugÃ¤nglich. (Achtung: Da die meisten diese Quest im Prolog spielen, gibt es hier keine NPC-Einmischdialoge).
 
-Hinweis: Die "Erweiterung der Bjornin Begegnung" ist in die Modifikation "bg1re: Romantic Encounters for BG1" gewandert. Dorthin gehört sie nämlich.
+Hinweis: Die "Erweiterung der Bjornin Begegnung" ist in die Modifikation "bg1re: Romantic Encounters for BG1" gewandert. Dorthin gehÃ¶rt sie nÃ¤mlich.
 
 9. Viele kleine Pfoten
 ------
-Ursprünglich als reiner Easter-Egg gedacht, wollte ich zumindest darauf hinweisen, dass es ihn gibt. Startet die Quest mit Minsk in der Gruppe beim Ansprechen des Kleintierhändlers auf dem Jahrmarkt von Nashkell. Einen Tag später geht es dann weiter.
+UrsprÃ¼nglich als reiner Easter-Egg gedacht, wollte ich zumindest darauf hinweisen, dass es ihn gibt. Startet die Quest mit Minsk in der Gruppe beim Ansprechen des KleintierhÃ¤ndlers auf dem Jahrmarkt von Nashkell. Einen Tag spÃ¤ter geht es dann weiter.
 
 Tipp:
-Der Kleintierhändler erscheint nach drei Tagen im 2. OG des Freundlichen Arms.
+Der KleintierhÃ¤ndler erscheint nach drei Tagen im 2. OG des Freundlichen Arms.
 
 
 10. Betrunkener nahe dem Tempel von Beregost
@@ -71,62 +71,62 @@ Der Kleintierhändler erscheint nach drei Tagen im 2. OG des Freundlichen Arms.
 Der betrunkene Pseudo-Lich nahe dem Tempel bei Beregost kann nun im Tempel gemeldet werden, damit die Priester ein Auge auf ihn haben.
 
 
-11. Ein warmer Platz für Noober
+11. Ein warmer Platz fÃ¼r Noober
 ------
-Ungefähr drei Tage nach der ersten Begegnung trefft Ihr Noober - der arme Mann ist ohne Stimme! Helft ihm, in Nashkell einen warmen Platz zu finden, wo er genesen kann - und schließlich tatsächlich ein Nutzen für seine ewige Plapperei besteht!
+UngefÃ¤hr drei Tage nach der ersten Begegnung trefft Ihr Noober - der arme Mann ist ohne Stimme! Helft ihm, in Nashkell einen warmen Platz zu finden, wo er genesen kann - und schlieÃŸlich tatsÃ¤chlich ein Nutzen fÃ¼r seine ewige Plapperei besteht!
 
 
-12. Brages Schwert (nicht für original BG1)
+12. Brages Schwert (nicht fÃ¼r original BG1)
 ------
-Durch die Mod kann man die Hintergründe um Brages Schwert erkunden und nachweisen, dass Brage Opfer einer Intrige geworden ist und ihn so vor dem Galgen retten - wenn man das möchte. Es existieren böse Questlösungen.
-Voraussetzung ist, dass man Brage lebend nach Nashkell bringt. Hierzu fügt die Mod die Möglichkeit ein, ihn auch an Oublek auszuliefern, wie es im Originalspiel ursprünglich vorgesehen aber nicht realisiert war. (Hierzu die obige Warnung bzgl. Installationsreihenfolge beachten.)
+Durch die Mod kann man die HintergrÃ¼nde um Brages Schwert erkunden und nachweisen, dass Brage Opfer einer Intrige geworden ist und ihn so vor dem Galgen retten - wenn man das mÃ¶chte. Es existieren bÃ¶se QuestlÃ¶sungen.
+Voraussetzung ist, dass man Brage lebend nach Nashkell bringt. Hierzu fÃ¼gt die Mod die MÃ¶glichkeit ein, ihn auch an Oublek auszuliefern, wie es im Originalspiel ursprÃ¼nglich vorgesehen aber nicht realisiert war. (Hierzu die obige Warnung bzgl. Installationsreihenfolge beachten.)
 
 Hinweise: 
-Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
-Diese Komponente muss vor dem BG1NPC Projekt installiert werden, da sonst eingefügte Antwortoptionen für Brage und Borda verloren gehen.
+Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fÃ¼gt denselben Quest ein und erweitert ihn mit zusÃ¤tzlichen Hinweisen und TagebucheintrÃ¤gen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusÃ¤tzlichen Inhalte zu sehen, dies ist aber nicht nÃ¶tig, um den Quest zu spielen.
+Diese Komponente muss vor dem BG1NPC Projekt installiert werden, da sonst eingefÃ¼gte Antwortoptionen fÃ¼r Brage und Borda verloren gehen.
 
 
 ***** Spoiler *****
 Tipp:
--Eine Rolle spielt der Händler Borda, den man auf der Karte mit dem Xvartdorf trifft. Je nach Queststatus kann man ihn hier beim ersten Treffen konfrontieren. Ansonsten gibt es ein zweites Treffen, über dessen ungefährer Ort der HC im Spiel erfahren kann.
--Brages Schwert spielt ebenfalls eine Rolle. Es muss zur entsprechenden Zeit Nalin zur Begutachtung vorgelegt werden. Danach spielt es keine Rolle mehr (kann also z.B. für Thalantyr's Item Upgrade Mod verwendet werden.).
--Der Quest kann vollständig vor dem Räumen der Mine beendet werden. Falls Laryssa als Infogeberin ausfällt (man sie also vor der Konfrontation mit Brage getötet hat), findet man den letzten Hinweis (erst) in Tazoks Zelt.
+-Eine Rolle spielt der HÃ¤ndler Borda, den man auf der Karte mit dem Xvartdorf trifft. Je nach Queststatus kann man ihn hier beim ersten Treffen konfrontieren. Ansonsten gibt es ein zweites Treffen, Ã¼ber dessen ungefÃ¤hrer Ort der HC im Spiel erfahren kann.
+-Brages Schwert spielt ebenfalls eine Rolle. Es muss zur entsprechenden Zeit Nalin zur Begutachtung vorgelegt werden. Danach spielt es keine Rolle mehr (kann also z.B. fÃ¼r Thalantyr's Item Upgrade Mod verwendet werden.).
+-Der Quest kann vollstÃ¤ndig vor dem RÃ¤umen der Mine beendet werden. Falls Laryssa als Infogeberin ausfÃ¤llt (man sie also vor der Konfrontation mit Brage getÃ¶tet hat), findet man den letzten Hinweis (erst) in Tazoks Zelt.
 
--Ansonsten startet der Quest offiziell, wenn man Oublek anspricht, nachdem man Brage lebend nach Nashkel gebracht hat. Von da an sollte der Quest sich selbsterklärend entfalten.
+-Ansonsten startet der Quest offiziell, wenn man Oublek anspricht, nachdem man Brage lebend nach Nashkel gebracht hat. Von da an sollte der Quest sich selbsterklÃ¤rend entfalten.
 
 
 
-13. Legale Seekarten (nicht für original BG1) 
+13. Legale Seekarten (nicht fÃ¼r original BG1) 
 -------
-Die Komponente fügt zwei weitere Möglichkeiten ein, an die Seekarten zu kommen, die man für Mendas' Quest zu Baldurans Insel benötigt. Beide Wege werden installiert.
-13.A von Lumorus: Wenn man Aldeth mit all' seinen Problemen im Mantelwald und der Händlerliga geholfen hat, dann ist er selbst sehr an den Nachforschungen und Baldurans Gegenständen interessiert und verhilft dem HC zu den Seekarten, ohne dass dieser den Kapitän bestehlen oder benebeln muss.
-13.B CALABALD (= Calahan + Baldurs Insel) von Shuv-Oohl: Der Seemann Calahan wäre kein richtiger Seemann, wenn er nicht selbst Seekarten hätte. Die gibt es aber nicht umsonst... Der HC hat hier mit der nötigen Menge an Gold die Möglichkeit, den Abstecher auf die Insel bereits vor dem Betreten von Baldurs Tor zu machen.
+Die Komponente fÃ¼gt zwei weitere MÃ¶glichkeiten ein, an die Seekarten zu kommen, die man fÃ¼r Mendas' Quest zu Baldurans Insel benÃ¶tigt. Beide Wege werden installiert.
+13.A von Lumorus: Wenn man Aldeth mit all' seinen Problemen im Mantelwald und der HÃ¤ndlerliga geholfen hat, dann ist er selbst sehr an den Nachforschungen und Baldurans GegenstÃ¤nden interessiert und verhilft dem HC zu den Seekarten, ohne dass dieser den KapitÃ¤n bestehlen oder benebeln muss.
+13.B CALABALD (= Calahan + Baldurs Insel) von Shuv-Oohl: Der Seemann Calahan wÃ¤re kein richtiger Seemann, wenn er nicht selbst Seekarten hÃ¤tte. Die gibt es aber nicht umsonst... Der HC hat hier mit der nÃ¶tigen Menge an Gold die MÃ¶glichkeit, den Abstecher auf die Insel bereits vor dem Betreten von Baldurs Tor zu machen.
 
 
-14. Erweiterungen für das Haus der Dame und dem Tempel der Wasserkönigin
+14. Erweiterungen fÃ¼r das Haus der Dame und dem Tempel der WasserkÃ¶nigin
 -------
-Diese Komponente erweitert die originalen Spielquests um Tremains toten Sohn und der Bannspruchrolle für Lothanders Geas vom Tempel der Wasserkönigin.
-14.A Bewahre Jalanthe vor einer Dummheit (und behalte den Leitfaden der Weisheit, von Lumorus): Die Hohepriesterin der Wasserkönigin möchte ja einen Leitfaden der Weisheit als Gegenleistung für den Bannspruch für Lothanders Geas haben. Aber will sie das wirklich? Der HC kann nochmal explizit nachfragen und die Frage in den Raum stellen, ob die Wasserkönigin davon wirklich so begeistert wäre, wenn die Zeremonie nur deswegen gelänge, weil ihre Dienerin die Weisheit einer anderen Göttin genutzt hatte...
-14.B: Verrate den Priester Tremain an den Tempel der Tymora: Tremain bittet den HC ja im Spiel, ihm seinen toten Sohn aus dem Tempel der Wassergöttin zu bringen, so dass er ihn wiederbeleben kann. Diese Komponente fügt die Möglichkeit ein, ihn an seinen Tempel, dem Haus der Dame, zu verraten. 
+Diese Komponente erweitert die originalen Spielquests um Tremains toten Sohn und der Bannspruchrolle fÃ¼r Lothanders Geas vom Tempel der WasserkÃ¶nigin.
+14.A Bewahre Jalanthe vor einer Dummheit (und behalte den Leitfaden der Weisheit, von Lumorus): Die Hohepriesterin der WasserkÃ¶nigin mÃ¶chte ja einen Leitfaden der Weisheit als Gegenleistung fÃ¼r den Bannspruch fÃ¼r Lothanders Geas haben. Aber will sie das wirklich? Der HC kann nochmal explizit nachfragen und die Frage in den Raum stellen, ob die WasserkÃ¶nigin davon wirklich so begeistert wÃ¤re, wenn die Zeremonie nur deswegen gelÃ¤nge, weil ihre Dienerin die Weisheit einer anderen GÃ¶ttin genutzt hatte...
+14.B: Verrate den Priester Tremain an den Tempel der Tymora: Tremain bittet den HC ja im Spiel, ihm seinen toten Sohn aus dem Tempel der WassergÃ¶ttin zu bringen, so dass er ihn wiederbeleben kann. Diese Komponente fÃ¼gt die MÃ¶glichkeit ein, ihn an seinen Tempel, dem Haus der Dame, zu verraten. 
 
 
-15.  Ein besorgter Bauer (nicht für original BG1), von Lumorus und White Agnus
+15.  Ein besorgter Bauer (nicht fÃ¼r original BG1), von Lumorus und White Agnus
 ------
-In Beregost/Nashkell gibt es einige Gerüchte von ein paar Bauern, diese werden in dieser Reihe aufgegriffen (bis jetzt nur ein Gerücht realisiert): Fragt einen Bauern in Beregost, bis er Euch von dem seltsamen Geräuschen erzählt, die er nachts in seinem Garten hört. Er wird Euch dann bitten, das mal zu untersuchen.
+In Beregost/Nashkell gibt es einige GerÃ¼chte von ein paar Bauern, diese werden in dieser Reihe aufgegriffen (bis jetzt nur ein GerÃ¼cht realisiert): Fragt einen Bauern in Beregost, bis er Euch von dem seltsamen GerÃ¤uschen erzÃ¤hlt, die er nachts in seinem Garten hÃ¶rt. Er wird Euch dann bitten, das mal zu untersuchen.
 
 
-16.  Leichen für einen guten Zweck, von Lumorus und White Agnus
+16.  Leichen fÃ¼r einen guten Zweck, von Lumorus und White Agnus
 ------
 Diese Komponente spielt in Baldurs Tor, und widmet sich auch dem "Umweltschutz". :D
-Bringt dem Nekromanten Sylar einige Leichen aus den Abwasserkanälen für sein spezielles Forschungsvorhaben.
+Bringt dem Nekromanten Sylar einige Leichen aus den AbwasserkanÃ¤len fÃ¼r sein spezielles Forschungsvorhaben.
 
 
-17. Cordyrs Quest ohne Sils Tod abschließen, von Lumorus
+17. Cordyrs Quest ohne Sils Tod abschlieÃŸen, von Lumorus
 -------
-Mit dieser Komponente kann man Cordils Quest bzw. seine Bitte, dass die Gruppe sich um die Sirenen in seinen alten Fischgründen "kümmert" abschließen, ohne dass man Sil und ihre Sirenen dazu töten muss. 
-Geichzeitig wird die Tür zu Cordyrs Haus aufgeschlossen und Cordyrs Dialog so geändert, dass jeder HC den Quest erhält (im Originalspiel war das nur für Gruppen niederen Rufes möglich).
+Mit dieser Komponente kann man Cordils Quest bzw. seine Bitte, dass die Gruppe sich um die Sirenen in seinen alten FischgrÃ¼nden "kÃ¼mmert" abschlieÃŸen, ohne dass man Sil und ihre Sirenen dazu tÃ¶ten muss. 
+Geichzeitig wird die TÃ¼r zu Cordyrs Haus aufgeschlossen und Cordyrs Dialog so geÃ¤ndert, dass jeder HC den Quest erhÃ¤lt (im Originalspiel war das nur fÃ¼r Gruppen niederen Rufes mÃ¶glich).
 
-Die Komponente ist kompatibel mit den Änderungen an Sil und ihren Sirenen durch bg1re und Lure of Sirine's Call. 
+Die Komponente ist kompatibel mit den Ã„nderungen an Sil und ihren Sirenen durch bg1re und Lure of Sirine's Call. 
 
 
 
@@ -139,31 +139,31 @@ Link: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog
 (deprecated tool: 
 https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use/p1)
 
-Für alle Versionen (Windown, Mac OS X, Linux):
+FÃ¼r alle Versionen (Windown, Mac OS X, Linux):
 
 Zur Sicherheit sei das Anfertigen von Backups Eurer Installation empfohlen.
 
 Extrahiert den Inhalt des Mod-Archivs in das Hauptverzeichnis des Spieles (Baldur's Gate, BGT, BG1Tutu / EasyTutu oder BG:EE. Die Erkennung bei der Installation geschieht automatisch.) 
 
-ACHTUNG: Bei BG:EE ist es wichtig, dass die Mod für die Sprachversion installiert wird, in der Ihr das Spiel spielt. Ansonsten seht Ihr nicht die Modtexte im Spiel, sondern Fehlermeldungen.
+ACHTUNG: Bei BG:EE ist es wichtig, dass die Mod fÃ¼r die Sprachversion installiert wird, in der Ihr das Spiel spielt. Ansonsten seht Ihr nicht die Modtexte im Spiel, sondern Fehlermeldungen.
 
 
 Windows
-Lasst die "setup-bgqe.exe" über Doppelklick laufen. Wählt Eure Sprache und bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. 
+Lasst die "setup-bgqe.exe" Ã¼ber Doppelklick laufen. WÃ¤hlt Eure Sprache und bestÃ¤tigt die Installation. Es sollten nun alle benÃ¶tigten Dateien kopiert und die Installation durchgefÃ¼hrt werden. 
 
 
 Mac OS X
 Korrekt extrahiert, sollten in Eurem Spiel-Hauptverzeichnis ein bgqe Ordner, setup-bgqe, und setup-bgqe.command befinden. Zum Installieren einfach die setup-bgqe.command doppelklicken und den Instruktionen folgen.
 
 Linux
-Ladet die neueste Version von WeiDU für Linux von WeiDU.org und kopiert WeiDU und WeInstall nach /usr/bin. Öffnet nun ein Terminal, cd zu Eurem BG Installationsordner, und lasst 'tolower' laufen, mit der Antwort Y auf beide Nachfragen. Die zweite Option (linux.ini) könnt Ihr auslassen, wenn Ihr dies bereits einmal in Eurem Verzeichnis ausgeführt habt. Falls Ihr Euch nicht sicher seid, ist das Ausführen von tolower mit beiden Optionen der sichere Weg.
-Lasst WeInstall setup-bgqe in Euren Spielordner laufen, um die Modifikation zu installieren. Führt wine BGMain.exe aus, um das Spiel zu starten.
+Ladet die neueste Version von WeiDU fÃ¼r Linux von WeiDU.org und kopiert WeiDU und WeInstall nach /usr/bin. Ã–ffnet nun ein Terminal, cd zu Eurem BG Installationsordner, und lasst 'tolower' laufen, mit der Antwort Y auf beide Nachfragen. Die zweite Option (linux.ini) kÃ¶nnt Ihr auslassen, wenn Ihr dies bereits einmal in Eurem Verzeichnis ausgefÃ¼hrt habt. Falls Ihr Euch nicht sicher seid, ist das AusfÃ¼hren von tolower mit beiden Optionen der sichere Weg.
+Lasst WeInstall setup-bgqe in Euren Spielordner laufen, um die Modifikation zu installieren. FÃ¼hrt wine BGMain.exe aus, um das Spiel zu starten.
 
 
 NOTE: BG(II):EE are actively supported games. Please note that every patch update will wipe your current mod setup! If in the middle of a modded game you might want to delay the patch update as even after reinstalling the mods, you might not be able to continue with your old savegames. 
 
 
-Es muss ein neues Spiel angefangen werden, um die Modifikation vollständig spielen zu können, bzw. darf das Gebiet "Tempel von Beregost" noch nicht besucht worden sein, ansonsten wird der Tod des Betrunkenen nicht erkannt.
+Es muss ein neues Spiel angefangen werden, um die Modifikation vollstÃ¤ndig spielen zu kÃ¶nnen, bzw. darf das Gebiet "Tempel von Beregost" noch nicht besucht worden sein, ansonsten wird der Tod des Betrunkenen nicht erkannt.
 
 Sollten bei der Installation Fehler auftreten, so wendet Euch bitte mit der "setup-log"-Datei an einen der unten angegebenen Forenthreads. Das englische Forum befindet sich bei den Gibberlings Three: http://forums.gibberlings3.net/
 
@@ -172,16 +172,16 @@ Englisches Forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-min
 
 Deutscher Thread im Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
 
-KOMPATIBILITÄT 
+KOMPATIBILITÃ„T 
 
-Die Modifikation wurde mit einem WeiDU-Installer gepackt und überschreibt keine existierenden Spieldateien (es werden nur neue Inhalte zum Spiel hinzugefügt). Technisch sollte daher Kompatibilität mit anderen WeiDU-Modifikationen gegeben sein. 
+Die Modifikation wurde mit einem WeiDU-Installer gepackt und Ã¼berschreibt keine existierenden Spieldateien (es werden nur neue Inhalte zum Spiel hinzugefÃ¼gt). Technisch sollte daher KompatibilitÃ¤t mit anderen WeiDU-Modifikationen gegeben sein. 
 
-BG1NPC Projekt: Die Komponente "Brages Schwert" muss vor dem BG1NPC Projekt installiert werden, damit die von BGQE neu eingefügten Antwortoptionen angezeigt werden.
+BG1NPC Projekt: Die Komponente "Brages Schwert" muss vor dem BG1NPC Projekt installiert werden, damit die von BGQE neu eingefÃ¼gten Antwortoptionen angezeigt werden.
 
-Brage's Redemption: Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Brage's Redemption: Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fÃ¼gt denselben Quest ein und erweitert ihn mit zusÃ¤tzlichen Hinweisen und TagebucheintrÃ¤gen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusÃ¤tzlichen Inhalte zu sehen, dies ist aber nicht nÃ¶tig, um den Quest zu spielen.
 
 
-Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das heißt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
+FÃ¼r klassisches BG1 mÃ¼sste die Modifikation technisch kompatibel sein mit (das heiÃŸt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
 -BG1 Unfinished Business
 -BG1 Adventure and CoM Forge
 -BG1 Ajantis Expansion Mod
@@ -207,7 +207,7 @@ KNOWN ISSUES
 -"Drunk near Beregost Temple" (BG1:TotSC): Polus the drunk still preforms his silly folk dance when you talk to him (falls down on the ground and gets up 15 or so times). 
 
 
-++++++++++++++++ Bitte ab hier nicht übersetzen ++++++++++++++++++++++++++++++++
+++++++++++++++++ Bitte ab hier nicht Ã¼bersetzen ++++++++++++++++++++++++++++++++
 
 
 
@@ -215,14 +215,14 @@ DANKSAGUNGEN
 
 Ich danke allen, die mir bei der Erstellung dieses Mods geholfen haben.
 
-Viel Spaß mit der Modifikation! 
+Viel SpaÃŸ mit der Modifikation! 
 
 -jastey
 
 
-Annalena: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version
+Annalena: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version
 
-Angel: Vielen Dank für das Hamster BAM (c#q10004.bam), Item Fixes und mehr für v21
+Angel: Vielen Dank fÃ¼r das Hamster BAM (c#q10004.bam), Item Fixes und mehr fÃ¼r v21
 
 arcanecoast.ru team: Russian translation
 
@@ -230,17 +230,17 @@ Aristo: Polish translation, proofreading (English, German)
 
 Austin: proofreading (Russian)
 
-berelinde: Korrekturlesen der englischen Übersetzung
+berelinde: Korrekturlesen der englischen Ãœbersetzung
 
 Cahir: beta testing
 
-Caillean: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version 
+Caillean: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der deutschen Version 
 
 Chev: Alpha- und Betatester
 
 Coland: heavy revision of Italian translation and translations of new component for v23
 
-cujo: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+cujo: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen
 
 d0lphin: Russian translation
 
@@ -256,13 +256,15 @@ Erg: beta testing
 
 Gerri: Alpha- und Betatester
 
-grogerson: Alpha- und Betatester, Korrekturlesen der englischen Übersetzung
+grogerson: Alpha- und Betatester, Korrekturlesen der englischen Ãœbersetzung
 
 hawkmoon: Russian translation
 
-Hedian: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+Hedian: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen
 
-hook71: Korrekturlesen der englischen Übersetzung
+hook71: Korrekturlesen der englischen Ãœbersetzung
+
+Ä°lhan BilaloÄŸlu: Turkish translation
 
 ilot: Italian translation
 
@@ -276,15 +278,15 @@ Le Marquis: proofreading (French)
 
 Lord Hagen (GIMT): Italian translation
 
-Lumorus: Autor, Alpha- und Betatester, Ideen für die Questentwicklung
+Lumorus: Autor, Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung
 
 lzw104522773: Simplified Chinese translation
 
 Melmoth: Spanish translation
 
-medic2000: Turkish translation
+Ilhan Bilaloglu: Turkish translation
 
-Miloch: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der englischen Übersetzung
+Miloch: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der englischen Ãœbersetzung
 
 Pt: Korrekturlesen der deutschen Version
 
@@ -296,9 +298,9 @@ Sir Darian: Alpha- und Betatester
 
 Stoneangel: Italian translation
 
-StoneDog: Korrekturlesen der englischen Übersetzung
+StoneDog: Korrekturlesen der englischen Ãœbersetzung
 
-Twani: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+Twani: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen
 
 White Agnus: Autor, Alpha- und Betatester
 
@@ -306,38 +308,40 @@ yoshimo0417: Simplified Chinese translation
 
 yota13: Russian Translation
 
-Zed Nocear: Coden eines Spell Effektes, Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+Zed Nocear: Coden eines Spell Effektes, Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen
 
-zenblack: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen
+zenblack: Alpha- und Betatester, Ideen fÃ¼r die Questentwicklung bzw. NPC-Reaktionen
 
 
 
-Übersetzungen:
+Ãœbersetzungen:
 -------------------
 
 French translation: v23 completed by Jazira.
 v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
 
-Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin. Neue Komponente v23 von yota13, Korrekturlesen von Austin.
+Russische Ãœbersetzung: v8 von hawkmoon & arcanecoast.ru team, VervollstÃ¤ndigung fÃ¼r v20 von d0lphin, v22 Ãœberarbeitung und Korrektur von d0lphin. Neue Komponente v23 von yota13, Korrekturlesen von Austin.
 
 Italian translation: Heavy revision of Italian translation and translations of new component for v23 by Coland.
 Updates v12 - 22 completed by ilot, mapnotes by jojo678.
 Old translations of v12 by Stoneangel.
 First translation of the slimequest by Jakkus & Lord Hagen (GIMT).
 
-Polnische Übersetzung: Aristo and Zed Nocear
+Polnische Ãœbersetzung: Aristo and Zed Nocear
 
 Spanish translation:
 by Melmoth, revised and fixed by davoker (v26)
 full revised by ElGamerViejuno (v27)
+(v8) Excalibur (slime quest), Immortality (proofreading) 
 
 Simplified Chinese:
 by lzw104522773 (v27)
 updated by yoshimo0417 (v28)
 
--v8: Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
-
+Turkish translation:
+by Ä°lhan BilaloÄŸlu (v29)
+Baldur GeÃ§idi 2 Ã‡eviri ekibine selam olsun!
 
 
 -Hosten-
@@ -378,8 +382,8 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 LEGAL INFORMATION
 
 =================================================================================
-BG1 Quest and Encounters Modifikation for Baldur's Gate © 2007 jastey. 
-This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+BG1 Quest and Encounters Modifikation for Baldur's Gate Â© 2007 jastey. 
+This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Â©Wizards of the Coast LLC.
 BG1 Quest and encounters Modifikation is not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., the Wizards of the Coast, Overhaul Games or Beamdog. All other trademarks and copyrights are property of their respective owners.
 =================================================================================
 
@@ -394,12 +398,13 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 HISTORIE
 
 Version 29:
--Turkish version added, by medic2000.
+-Turkish version added, by Ä°lhan BilaloÄŸlu.
 -"Babysitting Quest": Ruffian fighters should only drop one axe +2.
 -Corrected charset_table entries for Fench, Italian, Polish, Spanish (fixed install error).
+-Quest doors will be unlocked in EE, too (Cordyr's, Farmer's).
 
 Version 28:
--Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-Turkish version prepared, by Ä°lhan BilaloÄŸlu. Need files in ANSI to unlock.
 -updated Simplified Chinese version and adjust file construction, by yoshimo0417.
 -loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
 -typo corrections.
@@ -642,37 +647,37 @@ Version 0.x: English / German public releases.
 Schleim-Quest (former stand-alone version):
 
 Danksagungen:
-Rabain - Korrektur der englischen Übersetzung des Schleim-Quest, Einfügen des visuellen Effekts, generelle Hilfsbereitschaft!
+Rabain - Korrektur der englischen Ãœbersetzung des Schleim-Quest, EinfÃ¼gen des visuellen Effekts, generelle Hilfsbereitschaft!
 
-Zed Nocear - Polnische Übersetzung des Schleim-Quest (http://zed_nocear.webpark.pl/)
+Zed Nocear - Polnische Ãœbersetzung des Schleim-Quest (http://zed_nocear.webpark.pl/)
 
-weigo - BGT-Kompatibilität
+weigo - BGT-KompatibilitÃ¤t
 
-Iogan (A.E.R.I.E.ru) - Russische Übersetzung und eine Menge Verbesserungen, u.a. Korrekturen an Items und Skripten (Schleim-Quest)!
+Iogan (A.E.R.I.E.ru) - Russische Ãœbersetzung und eine Menge Verbesserungen, u.a. Korrekturen an Items und Skripten (Schleim-Quest)!
 
 cujo - Viel Hilfe mit WeiDU-Offsets! (Die ich nun leider wieder rausgeschmissen habe.)
 
 Volly - Korrektur weiterer Schreibfehler im Englischen (Schleim-Quest)!
 
-Jakkus & Lord Hagen von GIMT - italienische Übersetzung des Schleim-Quest!
+Jakkus & Lord Hagen von GIMT - italienische Ãœbersetzung des Schleim-Quest!
 
-Excalibur - Spanische Übersetzung des Schleim-Quest!
+Excalibur - Spanische Ãœbersetzung des Schleim-Quest!
 
-weigo und Miloch - vielen Dank für die Korrektur des Ambient-Fehlers (Schleim-Quest, mittlerweile wieder entfernt.)
+weigo und Miloch - vielen Dank fÃ¼r die Korrektur des Ambient-Fehlers (Schleim-Quest, mittlerweile wieder entfernt.)
 
 Historie Schleimquest
-Version 1.7 - Korrektur eines Fehlers in den Ambients, der versehentlich von mir beim Verändern der Area AR3344 eingetragen wurde 
+Version 1.7 - Korrektur eines Fehlers in den Ambients, der versehentlich von mir beim VerÃ¤ndern der Area AR3344 eingetragen wurde 
 
-Version 1.6 - Spanische Übersetzung
+Version 1.6 - Spanische Ãœbersetzung
 
-Version 1.5 - Italienische Übersetzung
+Version 1.5 - Italienische Ãœbersetzung
 
-Version 1.4 - Russische Übersetzung, inklusive vieler Bugfixes und Verbesserungen
-Version 1.3 - BGT-Kompatibilität 
+Version 1.4 - Russische Ãœbersetzung, inklusive vieler Bugfixes und Verbesserungen
+Version 1.3 - BGT-KompatibilitÃ¤t 
 
-Version 1.2 - Polnische Übersetzung
+Version 1.2 - Polnische Ãœbersetzung
 
-Version 1.1 - Englische Version korrekturgelesen, visuellen Effekt eingefügt,                    Bugfixing
+Version 1.1 - Englische Version korrekturgelesen, visuellen Effekt eingefÃ¼gt,                    Bugfixing
 
 Version 1.0 - Wettbewerbsbeitrag September 2004, Black Wyrm Forums
 

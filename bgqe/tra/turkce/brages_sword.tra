@@ -1,236 +1,236 @@
-/* Bu dosya Brage Redemption modundaki ile aynÄ±dÄ±r. LÃ¼tfen kendi dilinizde mevcut bir Ã§eviri olup olmadÄ±ÄŸÄ±nÄ± kontrol edin */
-@0 = ~KomutanÄ± olmayan bir garnizon olabiliriz ama bu ÅŸehri savunma yeteneÄŸimizi kaybetmedik!~
-@1 = ~Vay be, bu etkileyiciydi. KomutanÄ±mÄ±zÄ±n aklÄ±nÄ± kaybetmediÄŸini *biliyorduk! ZavallÄ± adamÄ±n ÅŸimdi yÃ¼zleÅŸmesi gereken Ã§ok ÅŸey var. Ailemi katlettiÄŸimi bilerek hayatÄ±ma devam etmek istemezdim! Yine de kanÄ±tlarÄ± topladÄ±ÄŸÄ±nÄ±z iÃ§in teÅŸekkÃ¼rler. Deli bir katil olarak hatÄ±rlanmamalÄ±. ~
-@2 = ~Vay be, Brage'in gerÃ§ekten aklÄ±nÄ± kaÃ§Ä±rdÄ±ÄŸÄ±nÄ± hiÃ§ dÃ¼ÅŸÃ¼nmezdim. SanÄ±rÄ±m Ã§Ä±lgÄ±n bir katil olarak hatÄ±rlanacak.~
-@3 = ~Orada sana baÄŸÄ±rdÄ±ÄŸÄ±m iÃ§in Ã¶zÃ¼r dilerim. Sadece komutanÄ±mÄ±z yÃ¼zÃ¼nden. EÄŸer o gÃ¶reve yalnÄ±z gitmesine izin vermeseydik. Ama o Ä±srar etti, Ã§Ã¼nkÃ¼ sadece bir ceset olmasÄ± gerekiyordu. Ama sonunda oraya vardÄ±ÄŸÄ±mÄ±zda, bulduÄŸumuz tek ÅŸey parÃ§alanmÄ±ÅŸ bir itme arabasÄ± ve arada Komutan'Ä±n eski kÄ±lÄ±cÄ±ydÄ±, bu yÃ¼zden baÅŸÄ±nÄ±n belada olacaÄŸÄ±nÄ± dÃ¼ÅŸÃ¼ndÃ¼k. Sonra buraya dÃ¶ndÃ¼k ve ailesini bulduk ve... TeÄŸmenimize baÄŸÄ±rdÄ±ÄŸÄ±mÄ± sÃ¶ylemeyeceksin, deÄŸil mi? DarÄ±lmaca gÃ¼cenmece yok, ha? ~
-@4 = ~Cinayetten aranÄ±yorsunuz, Komutan Brage. Sizi adalete teslim etmek iÃ§in buradayÄ±m. Son hÃ¼kmÃ¼nÃ¼zÃ¼ almak iÃ§in bana Nashkel yetkililerine kadar eÅŸlik edin.~
-@5 = ~SuÃ§umla karÅŸÄ±nÄ±zda duruyorum. BirÃ§ok can aldÄ±m... ve nedenini bilmiyorum. HÃ¼kmÃ¼nÃ¼ bana bahÅŸet. YaptÄ±ÄŸÄ±m kÃ¶tÃ¼lÃ¼klerle baÅŸÄ±ma getirdiÄŸim cezayÄ± almaya hazÄ±rÄ±m.~
+/* Bu dosya Brage Redemption modundaki ile aynıdır. Lütfen kendi dilinizde mevcut bir çeviri olup olmadığını kontrol edin */
+@0 = ~Komutanı olmayan bir garnizon olabiliriz ama bu şehri savunma yeteneğimizi kaybetmedik!~
+@1 = ~Vay be, bu etkileyiciydi. Komutanımızın aklını kaybetmediğini *biliyorduk! Zavallı adamın şimdi yüzleşmesi gereken çok şey var. Ailemi katlettiğimi bilerek hayatıma devam etmek istemezdim! Yine de kanıtları topladığınız için teşekkürler. Deli bir katil olarak hatırlanmamalı. ~
+@2 = ~Vay be, Brage'in gerçekten aklını kaçırdığını hiç düşünmezdim. Sanırım çılgın bir katil olarak hatırlanacak.~
+@3 = ~Orada sana bağırdığım için özür dilerim. Sadece komutanımız yüzünden. Eğer o göreve yalnız gitmesine izin vermeseydik. Ama o ısrar etti, çünkü sadece bir ceset olması gerekiyordu. Ama sonunda oraya vardığımızda, bulduğumuz tek şey parçalanmış bir itme arabası ve arada Komutan'ın eski kılıcıydı, bu yüzden başının belada olacağını düşündük. Sonra buraya döndük ve ailesini bulduk ve... Teğmenimize bağırdığımı söylemeyeceksin, değil mi? Darılmaca gücenmece yok, ha? ~
+@4 = ~Cinayetten aranıyorsunuz, Komutan Brage. Sizi adalete teslim etmek için buradayım. Son hükmünüzü almak için bana Nashkel yetkililerine kadar eşlik edin.~
+@5 = ~Suçumla karşınızda duruyorum. Birçok can aldım... ve nedenini bilmiyorum. Hükmünü bana bahşet. Yaptığım kötülüklerle başıma getirdiğim cezayı almaya hazırım.~
 @6 = ~Brage, o gece ne oldu? ~
 @7 = ~Elveda.~
-@8 = ~Dedikodular her ÅŸeyi anlatmÄ±yor mu? KÄ±ÅŸlalarda, hanlarda anlatÄ±lanlarÄ± duymadÄ±n mÄ±? Oublek sana bu ellerle ne yaptÄ±ÄŸÄ±mÄ± anlatmadÄ± mÄ±? Ailemi, sevgili karÄ±mÄ± ve kÄ±zlarÄ±mÄ± nasÄ±l katlettiÄŸimi neden anlattÄ±rÄ±yorsunuz bana? YoldaÅŸlarÄ±m, beni kurtarmaya geliyorlar! BÃ¼tÃ¼n bir kervanÄ± nasÄ±l katlettiÄŸimi ve yok ettiÄŸimi, yoldaki haydutlardan zar zor kaÃ§mayÄ± baÅŸaran o masum insanlarÄ±? Hatta nasÄ±l... Zaten Ã¶lÃ¼ olan bir adamÄ± bile hiÃ§bir ÅŸey kalmayana kadar nasÄ±l parÃ§aladÄ±m...~
-@9 = ~Kendine bunu neden yaptÄ±ÄŸÄ±nÄ± sormuyor musun? KontrolÃ¼nÃ¼ kaybetmenden daha fazlasÄ± olabileceÄŸinden ÅŸÃ¼phelenmiyor musun?~
-@10 = ~Er, ben *Ã¶ncesini* kastetmiÅŸtim.~
-@11 = ~Bir ÅŸey seni Ã§Ä±lgÄ±na Ã§evirdi. Daha Ã¶nce ne olduÄŸuna dair ne hatÄ±rlÄ±yorsun?~
-@12 = ~Ah, hayÄ±r, gerÃ§ekten, bunu tekrar duymama gerek yok. Sen bir katilsin ve tapÄ±nak seni kabul ettiÄŸi iÃ§in ÅŸanslÄ±sÄ±n!~
-@13 = ~Daha fazla duymak istediÄŸimi sanmÄ±yorum.~
-@14 = ~Vaktinizi benimle harcamayÄ±n, dostlarÄ±m. YaptÄ±klarÄ±m iÃ§in beni lanetlemediÄŸiniz sÃ¼rece nefesinize deÄŸmem.~
-@15 = ~Daha Ã¶nce? Daha Ã¶nce Ã¶zel bir ÅŸey olmadÄ±. Bir sarhoÅŸ yollarda bir ceset olduÄŸunu ihbar etti. Ãœzerinde hala bir sÃ¼rÃ¼ mal olan bir tÃ¼ccara benzediÄŸini sÃ¶yledi. Ben... ÅÃ¼phelendim ve araÅŸtÄ±rmaya gittim. EÄŸer ceset gerÃ§ekten yaÄŸmalanmamÄ±ÅŸsa, o zaman Ã¶ldÃ¼renler haydutlar olamazdÄ±. Ve eÄŸer aradÄ±ÄŸÄ±m tÃ¼ccarsa, en azÄ±ndan mallarÄ±n gÃ¼vende olduÄŸundan emin olmam gerekirdi. Bir sÃ¼re Ã¶nce yeni bir kÄ±lÄ±Ã§ sipariÅŸ etmiÅŸtim. Demir krizi falan derken, Ã§ok uzaklardaki Derinsu'ten gÃ¼venilir bir kÄ±lÄ±Ã§ iÃ§in uzun zamandÄ±r bekliyordum.~
-@16 = ~Ve gerÃ§ekten de beklediÄŸimiz tÃ¼ccardÄ±. MallarÄ± gÃ¶zden geÃ§irdim ve bana gÃ¶nderilmiÅŸ bir kÄ±lÄ±Ã§ buldum. Onu aldÄ±m...~
-@17 = ~Gerisi bulanÄ±k. Ne yaptÄ±ÄŸÄ±mÄ± hatÄ±rlÄ±yorum, ama neden... neden bilmiyorum.~
-@18 = ~KÄ±lÄ±cÄ±n lanetli olduÄŸunu zaten biliyoruz.~
-@19 = ~O kÄ±lÄ±Ã§ta bir sorun vardÄ±. Bu kesin.~
-@20 = ~BaÅŸka bir ÅŸey hatÄ±rlamÄ±yor musun? Ã–zel bir ÅŸey? O tÃ¼ccara ne olduÄŸuna dair bir ipucu?~
-@21 = ~MalÄ±n hala Ã¼zerinde olduÄŸunu sÃ¶ylemiÅŸtin. O zaman onu ne Ã¶ldÃ¼rdÃ¼? ~
-@22 = ~Bunun bir yere varacaÄŸÄ±nÄ± sanmÄ±yorum. Elveda. ~
-@23 = ~ArkadaÅŸ, bÃ¼tÃ¼n bunlarÄ± benim yaptÄ±ÄŸÄ±m gibi yapmayÄ± hatÄ±rlasaydÄ±n... Sevdiklerinin gÃ¶zlerindeki korkuyu gÃ¶rmeyi, onlarÄ± katlederken Ã§Ä±ÄŸlÄ±klarÄ±nÄ± duymayÄ±! HiÃ§ ÅŸÃ¼phe yok ki *Ben* bunlarÄ±n hepsini yaptÄ±m ve hepsini hatÄ±rlÄ±yorum... net bir ÅŸekilde...~
-@24 = ~Lanetli... Bu kafamdaki korkunÃ§ anÄ±larÄ± ya da yaptÄ±ÄŸÄ±m katliamÄ± deÄŸiÅŸtirmiyor.~
-@25 = ~Evet, o kÄ±lÄ±Ã§ta yanlÄ±ÅŸ olan ÅŸey onu benim kullanmamdÄ±!~
-@26 = ~Ne yazÄ±k ki, tÃ¼m bu haydut faaliyetleriyle birlikte, bugÃ¼nlerde bir ceset bulmak Ã¶zel bir ÅŸey deÄŸil. Ama el arabasÄ±nÄ±n hÃ¢lÃ¢ mallarla dolu olduÄŸunu gÃ¶rmek... Bu gerÃ§ekten de olaÄŸandÄ±ÅŸÄ±ydÄ±. Ã–nce bir hayvan saldÄ±rÄ±sÄ± olduÄŸunu dÃ¼ÅŸÃ¼nmÃ¼ÅŸtÃ¼m ama bunu yapan bir bÄ±Ã§akmÄ±ÅŸ. Bu tÃ¼ccar haydutlar tarafÄ±ndan Ã¶ldÃ¼rÃ¼lmÃ¼ÅŸ ama mallarÄ±na dokunmamÄ±ÅŸlar.~
-@27 = ~Ä°yi, artÄ±k yoklar. KÄ±lÄ±cÄ± aldÄ±ktan sonra yaptÄ±ÄŸÄ±m ilk ÅŸey, o yolda yatan her ÅŸeyi yok etmek oldu... Bu, dostum, sana sÃ¶yleyebileceÄŸim tek ÅŸey.~
-@28 = ~LÃ¼tfen, beni yalnÄ±z bÄ±rakÄ±n. GÃ¼nahlarÄ±mÄ±n kefaretini Ã¶demem gerek.~
-@29 = ~Bununla zamanÄ±nÄ± boÅŸa harcama. Beni bekleyen tek ÅŸey daraÄŸacÄ±. Benim gibi bir katil iÃ§in tek yer orasÄ±.~
-@30 = ~Bana inandÄ±ÄŸÄ±n iÃ§in teÅŸekkÃ¼r ederim, <CHARNAME>. Åimdi doÄŸru cezanÄ±n bu olduÄŸunu gÃ¶rÃ¼yorum - ellerimdeki tÃ¼m kanla yaÅŸamaya devam etmek. YaptÄ±klarÄ±mÄ±n kefaretini Ã¶deyeceÄŸim. YaptÄ±klarÄ±mÄ±n sonucu olarak babalarÄ±nÄ±, sevdiklerini kaybeden pek Ã§ok aile var ve en azÄ±ndan bir miktar altÄ±nla telafi edilmelerini saÄŸlayacaÄŸÄ±m... toplayabildiÄŸim kadarÄ±yla. Nalin bana burada tapÄ±nakta bir yer teklif etti, bu yÃ¼zden burada kalacaÄŸÄ±m - ÅŸimdilik.~
-@31 = ~Kefaret iÃ§in Ã§alÄ±ÅŸma ÅŸansÄ±na deÄŸer veriyorum ve tanrÄ±lara bana gÃ¶sterdikleri merhamet iÃ§in teÅŸekkÃ¼r ediyorum. Ve sana, <CHARNAME>. Yolun huzurlu olsun.~
-@32 = ~Bunun iÃ§in Ã§ok Ã§alÄ±ÅŸacaÄŸÄ±m. Bana bu ÅŸansÄ± vermek iÃ§in harcadÄ±ÄŸÄ±nÄ±z Ã§abayÄ± asla unutmayacaÄŸÄ±m.~
-@33 = ~Brage, sana verilmesi gereken kÄ±lÄ±cÄ± buldum. Ã‡ok gÃ¼zel bir iki elli kÄ±lÄ±Ã§. Al, senin olsun.~
-@34 = ~Brage. Bu kÄ±lÄ±Ã§ senin, parasÄ±nÄ± Ã¶dedin. Al onu!~
-@35 = ~Brage. KÄ±lÄ±Ã§ senin ve onu almanÄ± istiyorum.~
-@36 = ~Nee-? HayÄ±r. HayÄ±r, bir daha asla elime kÄ±lÄ±Ã§ almayacaÄŸÄ±m. Sende kalsÄ±n, gÃ¼zel <PRO_MANWOMAN>. Senin elinde Ã§ok daha iyi olacak.~
-@37 = ~Neden bana eziyet ediyorsun, <CHARNAME>? Bir daha elime kÄ±lÄ±Ã§ alamayacaÄŸÄ±mÄ± gÃ¶rÃ¼yorsun! Ä°htiyacÄ±n yoksa sat onu, ama ben ona dokunmayacaÄŸÄ±m.~
-@38 = ~Ama... neden? Neden bu konuda Ä±srar ediyorsun? Bir daha asla kÄ±lÄ±Ã§ kuÅŸanmamam gerektiÄŸi aÃ§Ä±k deÄŸil mi?~
-@39 = ~Dul ve yetimlerin masraflarÄ±nÄ± karÅŸÄ±lamak iÃ§in mÃ¼mkÃ¼n olduÄŸunca Ã§ok altÄ±n kazanmak istediÄŸini sÃ¶ylemiÅŸtin. Ã–ÄŸrendiÄŸin tek ÅŸey savaÅŸmak ve insanlarÄ± korumak, Brage. TapÄ±naÄŸÄ± temizlemenin Ã¶nemli bir iÅŸ olduÄŸuna eminim ama paralÄ± asker olarak ya da sana daha uygunsa kiÅŸisel muhafÄ±z olarak Ã§alÄ±ÅŸarak daha fazla altÄ±n toplayabileceÄŸini dÃ¼ÅŸÃ¼nmÃ¼yor musun?~
-@40 = ~EÄŸer saklamak istemiyorsan kendin sat. Her iki durumda da, senindir.~
-@41 = ~Ä°yi... DÄ±ÅŸarÄ±da hala bir sÃ¼rÃ¼ haydut var, deÄŸil mi? Yapabilirim. Yoldaki zayÄ±flarÄ± koruyabilirim...~
-@42 = ~HayÄ±r, onu satmayacaÄŸÄ±m. O kÄ±lÄ±Ã§tan kar elde etmeyeceÄŸim. Onu sana bÄ±rakÄ±yorum, <CHARNAME>, Ã§Ã¼nkÃ¼ orada daha Ã§ok iÅŸe yarayacak.~
-@43 = ~GÃ¼zel, eÄŸer bu son dileÄŸinizse, teÅŸekkÃ¼r ederim.~
-/* 44. satÄ±rÄ± deÄŸiÅŸtirmeyin, Brage Redemption modundakiyle aynÄ± olmasÄ± gerekiyor */
-@44 = ~Ä°lgi Ã§ekici bir dÃ¼ÅŸÃ¼nce, ancak ÅŸu anda bunu yapacak Ã¶zgÃ¼vene ve gÃ¼vene sahip deÄŸilim. YapacaÄŸÄ±m. KÄ±lÄ±cÄ± alacaÄŸÄ±m. DÃ¼men bana gÃ¼Ã§ ver! SÃ¶zlerinin doÄŸru olduÄŸunu biliyorum, ama ben... Åu anda bununla yÃ¼zleÅŸmeye hazÄ±r deÄŸilim. Burada kalÄ±p elimden geleni yapacaÄŸÄ±m. Åimdilik.~
-@45 = ~TeÅŸekkÃ¼r ederim, <CHARNAME>.~
-@46 = ~Demek Brage'i canlÄ± getirdin. DiÄŸerlerinin bu 'Komutan' iÃ§in dÃ¶ktÃ¼ÄŸÃ¼ gÃ¶zyaÅŸlarÄ± umurumda deÄŸil. Brage'in onuru ve dÃ¼rÃ¼stlÃ¼ÄŸÃ¼ hakkÄ±ndaki tÃ¼m bu konuÅŸmalar ve iÅŸin iÃ§inde kÃ¶tÃ¼ bir bÃ¼yÃ¼ olduÄŸuna dair ÅŸÃ¼pheler!~
-@47 = ~SuÃ§luluÄŸuna iÅŸaret eden her ÅŸey gÃ¶z Ã¶nÃ¼ne alÄ±ndÄ±ÄŸÄ±nda, bu katilin cezasÄ± hÄ±zlÄ± ve kolay olacaktÄ±r. Brage'in duruÅŸmasÄ±nÄ±n bir sÃ¼re beklemek zorunda kalacak olmasÄ± neredeyse Ã¼zÃ¼cÃ¼, zira muhafÄ±zlar ÅŸu anda zaten az ve meÅŸgul. Neyse, bu ÅŸekilde katilin son gÃ¼nÃ¼ne 'hazÄ±rlanmak' iÃ§in biraz zamanÄ± olacak!~
-@48 = ~Ah, ama neden tapÄ±nakta saklanmasÄ±na izin verdiniz!~
-@49 = ~Papaz Nalin onu getirdiÄŸinizde bÃ¼yÃ¼ altÄ±nda olmadÄ±ÄŸÄ±nÄ± zaten doÄŸruladÄ±. Brage kÄ±lÄ±cÄ±nÄ± sana verdiÄŸini sÃ¶yledi. Senden rica ediyorum - lÃ¼tfen Nalin'e git ve bu konuda garip bir ÅŸey olmadÄ±ÄŸÄ±nÄ± kanÄ±tlamasÄ±na izin ver, bÃ¶ylece Brage'nin masum olduÄŸu konusundaki bu konuÅŸma sonunda durabilir. Yani, bir adamÄ±n katil olduÄŸunu kanÄ±tlamak iÃ§in Brage'in kendi ailesine ve yoldaÅŸlarÄ±na yaptÄ±ÄŸÄ± katliamdan baÅŸka *ne* yapmasÄ± gerekir ki?!~
-@50 = ~Ah, <CHARNAME>. Brage'in masumiyetini kanÄ±tlama Ã§abalarÄ±nÄ±zla ilgili haberleri Ã§oktan duydum ve sizi elimden gelen her ÅŸekilde destekleyeceÄŸim. Åu kÄ±lÄ±ca bir bakayÄ±m.~
-@51 = ~(DoÄŸru kÄ±lÄ±cÄ± gÃ¶ster) Ä°ÅŸte burada.~
-@52 = ~Benim yanÄ±mda deÄŸil.~
-@53 = ~Ä°yi... DoÄŸru kÄ±lÄ±Ã§ bende ve onda Ã§ok yanlÄ±ÅŸ bir ÅŸeyler olduÄŸundan Ã§ok eminim. Ama neden sana gÃ¶stereyim ki? Neden herhangi birine gÃ¶stereyim ki? Bunda benim Ã§Ä±karÄ±m ne? ~
-@54 = ~(FarklÄ± bir iki elli kÄ±lÄ±Ã§ gÃ¶sterir) Ä°ÅŸte burada.~
-@55 = ~Åimdi deÄŸil, Ã¶nce hizmetinize ihtiyacÄ±m var.~
-@56 = ~LÃ¼tfen onu bana getirin. Hepimiz gerÃ§eÄŸi bilmeliyiz.~
-@57 = ~Bu bÄ±Ã§ak olabilir mi?~
-@58 = ~Oh, ne kadar sakarÄ±m! HayÄ±r, deÄŸil. Bu kÄ±lÄ±Ã§. (DoÄŸru kÄ±lÄ±cÄ± gÃ¶ster.)~
-@59 = ~(Yine baÅŸka bir kÄ±lÄ±Ã§ gÃ¶ster.) Ab-so-lutely. Brage'nin kullandÄ±ÄŸÄ± kÄ±lÄ±Ã§ bu ve kararÄ±nÄ±zÄ± buna gÃ¶re vermenizi istiyorum.~
-@60 = ~Neden bunu baÅŸka bir zamana ertelemiyoruz. Elveda. ~
-@61 = ~Sen... seni Ã§akal! Ä°stediÄŸiniz altÄ±n mÄ±? Onurlu bir adamÄ±n idamÄ±nÄ± engellemekten bahsediyoruz ve sen bundan bir ÅŸeyler elde etmeye mi Ã§alÄ±ÅŸÄ±yorsun? SanÄ±rÄ±m sadece altÄ±n iÃ§in Ã§alÄ±ÅŸan insanlar var. Pekala. Brage'in masum olduÄŸuna dair kanÄ±t topla, ben de sana 400 altÄ±n daha Ã¶deyeyim. 200 ÅŸimdi, 200 de masumiyeti kanÄ±tlandÄ±ÄŸÄ±nda. Ne diyorsun? ~
-@62 = ~(DoÄŸru kÄ±lÄ±cÄ± gÃ¶ster.) Daha fazla yap, ben varÄ±m.~
-@63 = ~(DoÄŸru kÄ±lÄ±cÄ± gÃ¶ster.) KulaÄŸa hoÅŸ geliyor. Ben varÄ±m.~
-@64 = ~Bunu dÃ¼ÅŸÃ¼neceÄŸim.~
-@65 = ~Hmph. 500 altÄ±n o zaman!~
-@66 = ~Ah, <CHARNAME>. Brage'in masumiyetini kanÄ±tladÄ±nÄ±z ve Ã¶deme konusunda anlaÅŸtÄ±k. SÃ¶zleÅŸmelere uymak Helm din adamlarÄ±nÄ±n gÃ¶revidir.~
-@67 = ~Ä°ÅŸte kayÄ±p 200 altÄ±n. Helm sana daima rehberlik etsin.~
-@68 = ~Ä°ÅŸte kayÄ±p 250 altÄ±n. MiÄŸfer sana her zaman yol gÃ¶stersin.~
+@8 = ~Dedikodular her şeyi anlatmıyor mu? Kışlalarda, hanlarda anlatılanları duymadın mı? Oublek sana bu ellerle ne yaptığımı anlatmadı mı? Ailemi, sevgili karımı ve kızlarımı nasıl katlettiğimi neden anlattırıyorsunuz bana? Yoldaşlarım, beni kurtarmaya geliyorlar! Bütün bir kervanı nasıl katlettiğimi ve yok ettiğimi, yoldaki haydutlardan zar zor kaçmayı başaran o masum insanları? Hatta nasıl... Zaten ölü olan bir adamı bile hiçbir şey kalmayana kadar nasıl parçaladım...~
+@9 = ~Kendine bunu neden yaptığını sormuyor musun? Kontrolünü kaybetmenden daha fazlası olabileceğinden şüphelenmiyor musun?~
+@10 = ~Er, ben *öncesini* kastetmiştim.~
+@11 = ~Bir şey seni çılgına çevirdi. Daha önce ne olduğuna dair ne hatırlıyorsun?~
+@12 = ~Ah, hayır, gerçekten, bunu tekrar duymama gerek yok. Sen bir katilsin ve tapınak seni kabul ettiği için şanslısın!~
+@13 = ~Daha fazla duymak istediğimi sanmıyorum.~
+@14 = ~Vaktinizi benimle harcamayın, dostlarım. Yaptıklarım için beni lanetlemediğiniz sürece nefesinize değmem.~
+@15 = ~Daha önce? Daha önce özel bir şey olmadı. Bir sarhoş yollarda bir ceset olduğunu ihbar etti. Üzerinde hala bir sürü mal olan bir tüccara benzediğini söyledi. Ben... Şüphelendim ve araştırmaya gittim. Eğer ceset gerçekten yağmalanmamışsa, o zaman öldürenler haydutlar olamazdı. Ve eğer aradığım tüccarsa, en azından malların güvende olduğundan emin olmam gerekirdi. Bir süre önce yeni bir kılıç sipariş etmiştim. Demir krizi falan derken, çok uzaklardaki Derinsu'ten güvenilir bir kılıç için uzun zamandır bekliyordum.~
+@16 = ~Ve gerçekten de beklediğimiz tüccardı. Malları gözden geçirdim ve bana gönderilmiş bir kılıç buldum. Onu aldım...~
+@17 = ~Gerisi bulanık. Ne yaptığımı hatırlıyorum, ama neden... neden bilmiyorum.~
+@18 = ~Kılıcın lanetli olduğunu zaten biliyoruz.~
+@19 = ~O kılıçta bir sorun vardı. Bu kesin.~
+@20 = ~Başka bir şey hatırlamıyor musun? Özel bir şey? O tüccara ne olduğuna dair bir ipucu?~
+@21 = ~Malın hala üzerinde olduğunu söylemiştin. O zaman onu ne öldürdü? ~
+@22 = ~Bunun bir yere varacağını sanmıyorum. Elveda. ~
+@23 = ~Arkadaş, bütün bunları benim yaptığım gibi yapmayı hatırlasaydın... Sevdiklerinin gözlerindeki korkuyu görmeyi, onları katlederken çığlıklarını duymayı! Hiç şüphe yok ki *Ben* bunların hepsini yaptım ve hepsini hatırlıyorum... net bir şekilde...~
+@24 = ~Lanetli... Bu kafamdaki korkunç anıları ya da yaptığım katliamı değiştirmiyor.~
+@25 = ~Evet, o kılıçta yanlış olan şey onu benim kullanmamdı!~
+@26 = ~Ne yazık ki, tüm bu haydut faaliyetleriyle birlikte, bugünlerde bir ceset bulmak özel bir şey değil. Ama el arabasının hâlâ mallarla dolu olduğunu görmek... Bu gerçekten de olağandışıydı. Önce bir hayvan saldırısı olduğunu düşünmüştüm ama bunu yapan bir bıçakmış. Bu tüccar haydutlar tarafından öldürülmüş ama mallarına dokunmamışlar.~
+@27 = ~İyi, artık yoklar. Kılıcı aldıktan sonra yaptığım ilk şey, o yolda yatan her şeyi yok etmek oldu... Bu, dostum, sana söyleyebileceğim tek şey.~
+@28 = ~Lütfen, beni yalnız bırakın. Günahlarımın kefaretini ödemem gerek.~
+@29 = ~Bununla zamanını boşa harcama. Beni bekleyen tek şey darağacı. Benim gibi bir katil için tek yer orası.~
+@30 = ~Bana inandığın için teşekkür ederim, <CHARNAME>. Şimdi doğru cezanın bu olduğunu görüyorum - ellerimdeki tüm kanla yaşamaya devam etmek. Yaptıklarımın kefaretini ödeyeceğim. Yaptıklarımın sonucu olarak babalarını, sevdiklerini kaybeden pek çok aile var ve en azından bir miktar altınla telafi edilmelerini sağlayacağım... toplayabildiğim kadarıyla. Nalin bana burada tapınakta bir yer teklif etti, bu yüzden burada kalacağım - şimdilik.~
+@31 = ~Kefaret için çalışma şansına değer veriyorum ve tanrılara bana gösterdikleri merhamet için teşekkür ediyorum. Ve sana, <CHARNAME>. Yolun huzurlu olsun.~
+@32 = ~Bunun için çok çalışacağım. Bana bu şansı vermek için harcadığınız çabayı asla unutmayacağım.~
+@33 = ~Brage, sana verilmesi gereken kılıcı buldum. Çok güzel bir iki elli kılıç. Al, senin olsun.~
+@34 = ~Brage. Bu kılıç senin, parasını ödedin. Al onu!~
+@35 = ~Brage. Kılıç senin ve onu almanı istiyorum.~
+@36 = ~Nee-? Hayır. Hayır, bir daha asla elime kılıç almayacağım. Sende kalsın, güzel <PRO_MANWOMAN>. Senin elinde çok daha iyi olacak.~
+@37 = ~Neden bana eziyet ediyorsun, <CHARNAME>? Bir daha elime kılıç alamayacağımı görüyorsun! İhtiyacın yoksa sat onu, ama ben ona dokunmayacağım.~
+@38 = ~Ama... neden? Neden bu konuda ısrar ediyorsun? Bir daha asla kılıç kuşanmamam gerektiği açık değil mi?~
+@39 = ~Dul ve yetimlerin masraflarını karşılamak için mümkün olduğunca çok altın kazanmak istediğini söylemiştin. Öğrendiğin tek şey savaşmak ve insanları korumak, Brage. Tapınağı temizlemenin önemli bir iş olduğuna eminim ama paralı asker olarak ya da sana daha uygunsa kişisel muhafız olarak çalışarak daha fazla altın toplayabileceğini düşünmüyor musun?~
+@40 = ~Eğer saklamak istemiyorsan kendin sat. Her iki durumda da, senindir.~
+@41 = ~İyi... Dışarıda hala bir sürü haydut var, değil mi? Yapabilirim. Yoldaki zayıfları koruyabilirim...~
+@42 = ~Hayır, onu satmayacağım. O kılıçtan kar elde etmeyeceğim. Onu sana bırakıyorum, <CHARNAME>, çünkü orada daha çok işe yarayacak.~
+@43 = ~Güzel, eğer bu son dileğinizse, teşekkür ederim.~
+/* 44. satırı değiştirmeyin, Brage Redemption modundakiyle aynı olması gerekiyor */
+@44 = ~İlgi çekici bir düşünce, ancak şu anda bunu yapacak özgüvene ve güvene sahip değilim. Yapacağım. Kılıcı alacağım. Dümen bana güç ver! Sözlerinin doğru olduğunu biliyorum, ama ben... Şu anda bununla yüzleşmeye hazır değilim. Burada kalıp elimden geleni yapacağım. Şimdilik.~
+@45 = ~Teşekkür ederim, <CHARNAME>.~
+@46 = ~Demek Brage'i canlı getirdin. Diğerlerinin bu 'Komutan' için döktüğü gözyaşları umurumda değil. Brage'in onuru ve dürüstlüğü hakkındaki tüm bu konuşmalar ve işin içinde kötü bir büyü olduğuna dair şüpheler!~
+@47 = ~Suçluluğuna işaret eden her şey göz önüne alındığında, bu katilin cezası hızlı ve kolay olacaktır. Brage'in duruşmasının bir süre beklemek zorunda kalacak olması neredeyse üzücü, zira muhafızlar şu anda zaten az ve meşgul. Neyse, bu şekilde katilin son gününe 'hazırlanmak' için biraz zamanı olacak!~
+@48 = ~Ah, ama neden tapınakta saklanmasına izin verdiniz!~
+@49 = ~Papaz Nalin onu getirdiğinizde büyü altında olmadığını zaten doğruladı. Brage kılıcını sana verdiğini söyledi. Senden rica ediyorum - lütfen Nalin'e git ve bu konuda garip bir şey olmadığını kanıtlamasına izin ver, böylece Brage'nin masum olduğu konusundaki bu konuşma sonunda durabilir. Yani, bir adamın katil olduğunu kanıtlamak için Brage'in kendi ailesine ve yoldaşlarına yaptığı katliamdan başka *ne* yapması gerekir ki?!~
+@50 = ~Ah, <CHARNAME>. Brage'in masumiyetini kanıtlama çabalarınızla ilgili haberleri çoktan duydum ve sizi elimden gelen her şekilde destekleyeceğim. Şu kılıca bir bakayım.~
+@51 = ~(Doğru kılıcı göster) İşte burada.~
+@52 = ~Benim yanımda değil.~
+@53 = ~İyi... Doğru kılıç bende ve onda çok yanlış bir şeyler olduğundan çok eminim. Ama neden sana göstereyim ki? Neden herhangi birine göstereyim ki? Bunda benim çıkarım ne? ~
+@54 = ~(Farklı bir iki elli kılıç gösterir) İşte burada.~
+@55 = ~Şimdi değil, önce hizmetinize ihtiyacım var.~
+@56 = ~Lütfen onu bana getirin. Hepimiz gerçeği bilmeliyiz.~
+@57 = ~Bu bıçak olabilir mi?~
+@58 = ~Oh, ne kadar sakarım! Hayır, değil. Bu kılıç. (Doğru kılıcı göster.)~
+@59 = ~(Yine başka bir kılıç göster.) Ab-so-lutely. Brage'nin kullandığı kılıç bu ve kararınızı buna göre vermenizi istiyorum.~
+@60 = ~Neden bunu başka bir zamana ertelemiyoruz. Elveda. ~
+@61 = ~Sen... seni çakal! İstediğiniz altın mı? Onurlu bir adamın idamını engellemekten bahsediyoruz ve sen bundan bir şeyler elde etmeye mi çalışıyorsun? Sanırım sadece altın için çalışan insanlar var. Pekala. Brage'in masum olduğuna dair kanıt topla, ben de sana 400 altın daha ödeyeyim. 200 şimdi, 200 de masumiyeti kanıtlandığında. Ne diyorsun? ~
+@62 = ~(Doğru kılıcı göster.) Daha fazla yap, ben varım.~
+@63 = ~(Doğru kılıcı göster.) Kulağa hoş geliyor. Ben varım.~
+@64 = ~Bunu düşüneceğim.~
+@65 = ~Hmph. 500 altın o zaman!~
+@66 = ~Ah, <CHARNAME>. Brage'in masumiyetini kanıtladınız ve ödeme konusunda anlaştık. Sözleşmelere uymak Helm din adamlarının görevidir.~
+@67 = ~İşte kayıp 200 altın. Helm sana daima rehberlik etsin.~
+@68 = ~İşte kayıp 250 altın. Miğfer sana her zaman yol göstersin.~
 @69 = ~...Bu lanetli.~
-@70 = ~Lanetli bir kÄ±lÄ±Ã§, Brage. Bu senin gÃ¼venilir ellerine teslim edilen ÅŸey.~
-@71 = ~L... lanetli mi? O zaman ellerimi ve dÃ¼ÅŸÃ¼ncelerimi katliama sÃ¼rÃ¼kleyen baÅŸka bir kÃ¶tÃ¼lÃ¼k mÃ¼ydÃ¼? Ah, dÃ¼ÅŸmÃ¼ÅŸ bir savaÅŸÃ§Ä±nÄ±n kalbinde bÃ¶yle zayÄ±f bir umut uyandÄ±rma. Ellerimde bunca kan varken olmaz. ~
-@72 = ~'ZayÄ±f'?!~
-@73 = ~Bu, dostum, *her ÅŸeyi* deÄŸiÅŸtirir. Seni zalimleÅŸtiren ve baÅŸkalarÄ±nÄ±n acÄ±sÄ±na karÅŸÄ± hissizleÅŸtiren uzun yÄ±llar sÃ¼ren savaÅŸÄ±n deÄŸil. YaptÄ±klarÄ±nÄ±n kefaretini Ã¶demen gerekecek, ama neden yaptÄ±ÄŸÄ±nÄ±n deÄŸil. <CHARNAME> hileyi kanÄ±tlamayÄ± baÅŸardÄ±ÄŸÄ± sÃ¼rece!~
-@74 = ~Komutan Brage'in gÃ¼venilir ellerine lanetli bir kÄ±lÄ±Ã§ verildi. Bu, dostum, her ÅŸeyi deÄŸiÅŸtirir. Ä°yi bir adamÄ± zalimleÅŸtiren ve baÅŸkalarÄ±nÄ±n acÄ±sÄ±na karÅŸÄ± hissizleÅŸtiren uzun yÄ±llar sÃ¼ren savaÅŸ deÄŸildi. Brage yaptÄ±ÄŸÄ±nÄ±n kefaretini Ã¶demek zorunda kalacak ama neden yaptÄ±ÄŸÄ±nÄ±n deÄŸil, yeter ki sen bu hileyi kanÄ±tlamayÄ± baÅŸar!~
-@75 = ~Åey... Bunun iÃ§in senin sÃ¶zÃ¼ne gÃ¼venmek zorundayÄ±m. Brage kullandÄ±ÄŸÄ± bÄ±Ã§aÄŸÄ± hatÄ±rlamÄ±yor ve onu sana verdi, yani...~
-@76 = ~HayÄ±r, bu bÄ±Ã§akta Ã¶zel bir ÅŸey yok. Bu normal bir kÄ±lÄ±Ã§...~
-@77 = ~YÃ¼zleÅŸmek zorundasÄ±n, rahip. Bir katile sÄ±ÄŸÄ±nak veriyorsunuz. KeÅŸke bunu neden yaptÄ±ÄŸÄ±mÄ± bilseydim...~
-@78 = ~Burada tapÄ±nakta bir yerin var ve haklÄ± olarak Ã¶yle. SuÃ§larÄ±nÄ±n kefaretini Ã¶deyeceksin, Brage. Helm sana bunu yapman iÃ§in gÃ¼Ã§ verecek.~
-@79 = ~Eklenecek bir ÅŸey yok. Bu normal bir kÄ±lÄ±Ã§ ve Brage iÅŸlediÄŸi suÃ§lardan dolayÄ± suÃ§lu. DuruÅŸma zamanÄ± geldiÄŸinde ona kefil olacaÄŸÄ±m.~
-@80 = ~Selamlar. Daha Ã¶nce tanÄ±ÅŸmÄ±ÅŸtÄ±k. Ben Laryssa, Brage'in kuzeniyim. Onu canlÄ± yakalamayÄ± baÅŸardÄ±nÄ±z ve bunun iÃ§in Ã§ok minnettarÄ±m. Son karÅŸÄ±laÅŸmamÄ±zda kaÃ§mÄ±ÅŸtÄ±m Ã§Ã¼nkÃ¼ kuzenimin senin tarafÄ±ndan ya da senin onun tarafÄ±ndan Ã¶ldÃ¼rÃ¼lmesini bekliyordum ve ikisinin de parÃ§asÄ± olmak istemiyordum.~
-@81 = ~Onu neden yetkililere getirdiÄŸinizi anlÄ±yorum.~
-@82 = ~Otoritelere teslim etmek yerine onu tapÄ±naÄŸÄ±n korumasÄ±na verdiÄŸiniz iÃ§in size Ã§ok teÅŸekkÃ¼r ederim.~
-@83 = ~AsÄ±lmasÄ± gereken tÃ¼m o cinayetleri iÅŸledi, hem de hak ederek, ama zihni bulanÄ±ktÄ±. BildiÄŸim bir ÅŸey varsa, o da aklÄ±nÄ± tamamen kaÃ§Ä±rmÄ±ÅŸ olduÄŸudur. Benim tanÄ±dÄ±ÄŸÄ±m Brage nazik, dÃ¼rÃ¼st ve sadÄ±k bir adamdÄ±. Asla zayÄ±flara ya da masumlara karÅŸÄ± silah kullanmaz. Ve en Ã¶nemlisi, kendi ailesine karÅŸÄ± da. ~
-@84 = ~GÃ¶rÃ¼nÃ¼ÅŸe gÃ¶re onu suÃ§undan kurtarmak iÃ§in resmi olarak yapÄ±lacak bir ÅŸey yok. Yine de Ã§abalarÄ±nÄ±z ve ona tanÄ±dÄ±ÄŸÄ±nÄ±z ikinci ÅŸans iÃ§in teÅŸekkÃ¼r ederim. TanrÄ±lar sizi kutsasÄ±n. ~
-@85 = ~Onu kurtarmak iÃ§in yapabileceÄŸimiz hiÃ§bir ÅŸey yok gibi gÃ¶rÃ¼nÃ¼yor. Yine de Ã§abalarÄ±nÄ±z iÃ§in teÅŸekkÃ¼r ederim. TanrÄ±lar sizi kutsasÄ±n.~
-@86 = ~AraÅŸtÄ±rmalarÄ±nÄ±zÄ± bÃ¼yÃ¼k bir ilgiyle izledim, <CHARNAME>. Kuzenim iÃ§in yeniden umut buldum. TanrÄ±lar sizi korusun.~
-@87 = ~Bu da bizi neden burada olduÄŸuma getiriyor. Brage'in masumiyetini kanÄ±tlama konusunda belli bir ilgi gÃ¶sterdiÄŸinizi fark ettim. Bunun benim de ilgimi nasÄ±l Ã§ektiÄŸini tahmin edebilirsiniz. Biraz araÅŸtÄ±rma yaptÄ±m ve gerÃ§ekten bir ÅŸey buldum. TÃ¼m bu Ã§ileyi baÅŸlatan yoldaki ceset hakkÄ±nda rapor veren sarhoÅŸun yerini tespit ettim. Onun aracÄ±lÄ±ÄŸÄ±yla, o gece yolda olan diÄŸer kiÅŸileri tespit ettim. GÃ¶rÃ¼nÃ¼ÅŸe gÃ¶re yollarda bir tÃ¼ccar vardÄ± - Ã§ok karanlÄ±k bir Ã¼ne sahip biri.~
-@88 = ~Bu mektubu sahte bir tÃ¼ccarla birlikte bulduk. Brage'in sipariÅŸ ettiÄŸi kÄ±lÄ±cÄ±n lanetli bir kÄ±lÄ±Ã§la deÄŸiÅŸtirildiÄŸini aÃ§Ä±kÃ§a belirtiyor.~
-@89 = ~Bu mektubu madenlerdeki haydutlarda bulduk. Brage'in kÄ±lÄ±cÄ± ile Nashkel Garnizonu'nun bazÄ± kÃ¶tÃ¼ hilelerle zayÄ±flatÄ±lmasÄ±nÄ±n planlandÄ±ÄŸÄ±nÄ± aÃ§Ä±kÃ§a belirtiyor.~
-@90 = ~Brage hakkÄ±nda...~
-@91 = ~Evet, ne olmuÅŸ ona?~
-@92 = ~Brage bildiÄŸiniz gibi hapiste. Neler olduÄŸunu araÅŸtÄ±rÄ±yorum ve ona birkaÃ§ soru sormak istiyorum. Onunla konuÅŸabilir miyim? ~
-@93 = ~MiÄŸfer TapÄ±naÄŸÄ±'ndan Rahip Nalin kÄ±lÄ±cÄ±n lanetli olduÄŸu ÅŸÃ¼phesini doÄŸruladÄ±.~
-@94 = ~HiÃ§bir ÅŸey, elveda.~
-@95 = ~Garnizon gerÃ§ekten de zayÄ±flamÄ±ÅŸtÄ±. Ve evet, Brage'in yeni kÄ±lÄ±cÄ± bunu daha da etkiledi, deÄŸil mi, onu kullanma ÅŸekliyle. Yine de, eÄŸer niyetiniz buysa, bu Brage'in gÃ¶rÃ¼ndÃ¼ÄŸÃ¼ gibi bir katil olmadÄ±ÄŸÄ±nÄ± kanÄ±tlamaz.~
-@96 = ~Hm, yani Brage'in suÃ§larÄ±nÄ± iÅŸlediÄŸi kÄ±lÄ±Ã§ * lanetliymiÅŸ* gibi gÃ¶rÃ¼nÃ¼yor.~
-@97 = ~Yine de bu durum, 'Komutan'Ä±n bu kÄ±lÄ±cÄ± - planladÄ±ÄŸÄ± gibi bu kÃ¶tÃ¼ eylemleri gerÃ§ekleÅŸtirmek iÃ§in - kasÄ±tlÄ± olarak almadÄ±ÄŸÄ±nÄ± kanÄ±tlamaz!~
-@98 = ~Hm, evet, bu Brage'nin kÄ±lÄ±cÄ±nÄ±n lanetli bir kÄ±lÄ±Ã§la deÄŸiÅŸtirilmesinin *planlandÄ±ÄŸÄ±nÄ±* kanÄ±tlÄ±yor.~
-@99 = ~Ancak bu, lanetli Brage'nin masumlarÄ± ve kendi yoldaÅŸlarÄ±nÄ± katletmeye baÅŸladÄ±ÄŸÄ± kÄ±lÄ±cÄ±n lanetli bir kÄ±lÄ±Ã§ olduÄŸunu kanÄ±tlamaz!~
-@100 = ~Bu, Brage'in lanetli bir kÄ±lÄ±ca sahip olduÄŸunun *ve* onu almak iÃ§in kandÄ±rÄ±ldÄ±ÄŸÄ±nÄ±n kanÄ±tÄ± olduÄŸu anlamÄ±na geliyor. Bu konuyu Belediye BaÅŸkanÄ± Ghastkill ile konuÅŸacaÄŸÄ±m, ancak bÃ¶yle bir katilin serbest kalabileceÄŸini bilmek iÃ§imi acÄ±tÄ±yor. Pekala, belki de bir dahaki geliÅŸinizde bir duruÅŸma olacak.~
-@101 = ~Ah, ÅŸimdi de lanetli bir kÄ±lÄ±Ã§, Ã¶yle mi? Evet, en az bunun kadar masum insanlarÄ± Ã¶ldÃ¼rmek iÃ§in kullanÄ±lan bir kÄ±lÄ±ca 'lanetli' diyebilirim. Ancak bÃ¼yÃ¼cÃ¼lÃ¼kten bahsediyorsanÄ±z, ne yazÄ±k ki burada herhangi bir ÅŸeyi kanÄ±tlamak iÃ§in ne Brage'a ne de kÄ±lÄ±ca sahibiz, deÄŸil mi?~
-@102 = ~Hmph. SanÄ±rÄ±m olmamasÄ± iÃ§in bir sebep yok. Ama sizi uyarÄ±yorum, aptalca bir ÅŸey yapmayÄ± dÃ¼ÅŸÃ¼nmeyin. Ve - sorularÄ±nÄ±zÄ± iyi seÃ§in, Ã§Ã¼nkÃ¼ baÅŸka bir ÅŸansÄ±nÄ±z olmayacak.~
+@70 = ~Lanetli bir kılıç, Brage. Bu senin güvenilir ellerine teslim edilen şey.~
+@71 = ~L... lanetli mi? O zaman ellerimi ve düşüncelerimi katliama sürükleyen başka bir kötülük müydü? Ah, düşmüş bir savaşçının kalbinde böyle zayıf bir umut uyandırma. Ellerimde bunca kan varken olmaz. ~
+@72 = ~'Zayıf'?!~
+@73 = ~Bu, dostum, *her şeyi* değiştirir. Seni zalimleştiren ve başkalarının acısına karşı hissizleştiren uzun yıllar süren savaşın değil. Yaptıklarının kefaretini ödemen gerekecek, ama neden yaptığının değil. <CHARNAME> hileyi kanıtlamayı başardığı sürece!~
+@74 = ~Komutan Brage'in güvenilir ellerine lanetli bir kılıç verildi. Bu, dostum, her şeyi değiştirir. İyi bir adamı zalimleştiren ve başkalarının acısına karşı hissizleştiren uzun yıllar süren savaş değildi. Brage yaptığının kefaretini ödemek zorunda kalacak ama neden yaptığının değil, yeter ki sen bu hileyi kanıtlamayı başar!~
+@75 = ~Şey... Bunun için senin sözüne güvenmek zorundayım. Brage kullandığı bıçağı hatırlamıyor ve onu sana verdi, yani...~
+@76 = ~Hayır, bu bıçakta özel bir şey yok. Bu normal bir kılıç...~
+@77 = ~Yüzleşmek zorundasın, rahip. Bir katile sığınak veriyorsunuz. Keşke bunu neden yaptığımı bilseydim...~
+@78 = ~Burada tapınakta bir yerin var ve haklı olarak öyle. Suçlarının kefaretini ödeyeceksin, Brage. Helm sana bunu yapman için güç verecek.~
+@79 = ~Eklenecek bir şey yok. Bu normal bir kılıç ve Brage işlediği suçlardan dolayı suçlu. Duruşma zamanı geldiğinde ona kefil olacağım.~
+@80 = ~Selamlar. Daha önce tanışmıştık. Ben Laryssa, Brage'in kuzeniyim. Onu canlı yakalamayı başardınız ve bunun için çok minnettarım. Son karşılaşmamızda kaçmıştım çünkü kuzenimin senin tarafından ya da senin onun tarafından öldürülmesini bekliyordum ve ikisinin de parçası olmak istemiyordum.~
+@81 = ~Onu neden yetkililere getirdiğinizi anlıyorum.~
+@82 = ~Otoritelere teslim etmek yerine onu tapınağın korumasına verdiğiniz için size çok teşekkür ederim.~
+@83 = ~Asılması gereken tüm o cinayetleri işledi, hem de hak ederek, ama zihni bulanıktı. Bildiğim bir şey varsa, o da aklını tamamen kaçırmış olduğudur. Benim tanıdığım Brage nazik, dürüst ve sadık bir adamdı. Asla zayıflara ya da masumlara karşı silah kullanmaz. Ve en önemlisi, kendi ailesine karşı da. ~
+@84 = ~Görünüşe göre onu suçundan kurtarmak için resmi olarak yapılacak bir şey yok. Yine de çabalarınız ve ona tanıdığınız ikinci şans için teşekkür ederim. Tanrılar sizi kutsasın. ~
+@85 = ~Onu kurtarmak için yapabileceğimiz hiçbir şey yok gibi görünüyor. Yine de çabalarınız için teşekkür ederim. Tanrılar sizi kutsasın.~
+@86 = ~Araştırmalarınızı büyük bir ilgiyle izledim, <CHARNAME>. Kuzenim için yeniden umut buldum. Tanrılar sizi korusun.~
+@87 = ~Bu da bizi neden burada olduğuma getiriyor. Brage'in masumiyetini kanıtlama konusunda belli bir ilgi gösterdiğinizi fark ettim. Bunun benim de ilgimi nasıl çektiğini tahmin edebilirsiniz. Biraz araştırma yaptım ve gerçekten bir şey buldum. Tüm bu çileyi başlatan yoldaki ceset hakkında rapor veren sarhoşun yerini tespit ettim. Onun aracılığıyla, o gece yolda olan diğer kişileri tespit ettim. Görünüşe göre yollarda bir tüccar vardı - çok karanlık bir üne sahip biri.~
+@88 = ~Bu mektubu sahte bir tüccarla birlikte bulduk. Brage'in sipariş ettiği kılıcın lanetli bir kılıçla değiştirildiğini açıkça belirtiyor.~
+@89 = ~Bu mektubu madenlerdeki haydutlarda bulduk. Brage'in kılıcı ile Nashkel Garnizonu'nun bazı kötü hilelerle zayıflatılmasının planlandığını açıkça belirtiyor.~
+@90 = ~Brage hakkında...~
+@91 = ~Evet, ne olmuş ona?~
+@92 = ~Brage bildiğiniz gibi hapiste. Neler olduğunu araştırıyorum ve ona birkaç soru sormak istiyorum. Onunla konuşabilir miyim? ~
+@93 = ~Miğfer Tapınağı'ndan Rahip Nalin kılıcın lanetli olduğu şüphesini doğruladı.~
+@94 = ~Hiçbir şey, elveda.~
+@95 = ~Garnizon gerçekten de zayıflamıştı. Ve evet, Brage'in yeni kılıcı bunu daha da etkiledi, değil mi, onu kullanma şekliyle. Yine de, eğer niyetiniz buysa, bu Brage'in göründüğü gibi bir katil olmadığını kanıtlamaz.~
+@96 = ~Hm, yani Brage'in suçlarını işlediği kılıç * lanetliymiş* gibi görünüyor.~
+@97 = ~Yine de bu durum, 'Komutan'ın bu kılıcı - planladığı gibi bu kötü eylemleri gerçekleştirmek için - kasıtlı olarak almadığını kanıtlamaz!~
+@98 = ~Hm, evet, bu Brage'nin kılıcının lanetli bir kılıçla değiştirilmesinin *planlandığını* kanıtlıyor.~
+@99 = ~Ancak bu, lanetli Brage'nin masumları ve kendi yoldaşlarını katletmeye başladığı kılıcın lanetli bir kılıç olduğunu kanıtlamaz!~
+@100 = ~Bu, Brage'in lanetli bir kılıca sahip olduğunun *ve* onu almak için kandırıldığının kanıtı olduğu anlamına geliyor. Bu konuyu Belediye Başkanı Ghastkill ile konuşacağım, ancak böyle bir katilin serbest kalabileceğini bilmek içimi acıtıyor. Pekala, belki de bir dahaki gelişinizde bir duruşma olacak.~
+@101 = ~Ah, şimdi de lanetli bir kılıç, öyle mi? Evet, en az bunun kadar masum insanları öldürmek için kullanılan bir kılıca 'lanetli' diyebilirim. Ancak büyücülükten bahsediyorsanız, ne yazık ki burada herhangi bir şeyi kanıtlamak için ne Brage'a ne de kılıca sahibiz, değil mi?~
+@102 = ~Hmph. Sanırım olmaması için bir sebep yok. Ama sizi uyarıyorum, aptalca bir şey yapmayı düşünmeyin. Ve - sorularınızı iyi seçin, çünkü başka bir şansınız olmayacak.~
 @103 = ~Ne...~
-@104 = ~<CHARNAME>'in sana bazÄ± sorularÄ± var, Brage. <PRO_HIMHER>'a ne olduÄŸunu anlat.~
-@105 = ~Ah, <CHARNAME>. Belediye BaÅŸkanÄ± Ghastkill, katil Brage'in duruÅŸmasÄ±na baÅŸkanlÄ±k etmeye hazÄ±r.~
-@106 = ~ÅanslarÄ±nÄ±n iyi olduÄŸunu dÃ¼ÅŸÃ¼nen Nalin duruÅŸmanÄ±n yapÄ±lmasÄ±nÄ± kabul etti ve korkak Brage tapÄ±naktan Ã§Ä±ktÄ±.~
-@107 = ~KanÄ±tlarÄ± toplayan sen olduÄŸuna gÃ¶re, katÄ±labilirsin. Beni takip edin.~
-@108 = ~Ah, <CHARNAME>. Katil Brage'e karÅŸÄ± kanÄ±t toplamakla iyi iÅŸ Ã§Ä±kardÄ±nÄ±z. Hepimiz lanetli bir kÄ±lÄ±cÄ±n mÄ±rÄ±ltÄ±larÄ±nÄ± duyduk - yanlÄ±ÅŸ bir ÅŸeyler olduÄŸuna dair. Ama ben â€œHayÄ±r!â€ diyorum. Ã–yle bir ÅŸey deÄŸildi. Brage basit bir katilden baÅŸka bir ÅŸey deÄŸildir ve kasaba bunu unutmayacaktÄ±r. Bu kokuÅŸmuÅŸ korkak tapÄ±nakta saklanabilir, ama dÄ±ÅŸarÄ± Ã§Ä±ktÄ±ÄŸÄ±nda hazÄ±r olacaÄŸÄ±z, sizi temin ederim.~
-@109 = ~Komutan Brage, size yÃ¶neltilen suÃ§lamalar ciddi. Ailenizi, beÅŸ askerimizi ve bir kervandaki yolcularÄ± Ã¶ldÃ¼rmekle suÃ§lanÄ±yorsunuz. Kendinizi savunmak iÃ§in ne sÃ¶yleyeceksiniz?~
-@110 = ~TÃ¼m hesaplarda suÃ§luyum.~
-@111 = ~Peki, <CHARNAME> suÃ§luluÄŸunuzla ilgili kanÄ±t topladÄ±. Oublek, lÃ¼tfen bulgularÄ± Ã¶zetler misin?~
-@112 = ~Evet. Rahip Nalin'in de teyit ettiÄŸi gibi, sanÄ±ÄŸÄ±n cinayetlerde kullandÄ±ÄŸÄ± kÄ±lÄ±Ã§ lanetliydi. Bu mektup, lanetli kÄ±lÄ±cÄ±n Nashkel garnizonunu zayÄ±flatmak iÃ§in Komutan Brage'nin eline kasÄ±tlÄ± olarak verildiÄŸini gÃ¶stermektedir.~
-@113 = ~Ben... Ne diyeceÄŸimi bilemiyorum.~
-@114 = ~O zaman senin yerine ben sÃ¶yleyeyim, Brage. Kasten ve kendi Ã¶zgÃ¼r iradenle cinayet iÅŸlediÄŸin yÃ¶nÃ¼ndeki suÃ§lamalardan aklandÄ±n. Bu vesileyle Ã¶lÃ¼m cezasÄ±ndan kurtulmuÅŸ bulunuyorsun.~
-@115 = ~HayÄ±r... hayÄ±r, yaptÄ±klarÄ±mdan sonra, bu suÃ§luluk duygusuyla yaÅŸamaya devam etmemin bir yolu yok...~
-@116 = ~Eylem tamamlandÄ±. Bana verilen gÃ¼Ã§le, aldÄ±ÄŸÄ±nÄ±z canlarÄ± ve verdiÄŸiniz zararÄ± telafi etmekle sizi gÃ¶revlendiriyorum. TÃ¼m unvanlarÄ±nÄ±z elinizden alÄ±ndÄ± ve Amnish gÃ¼Ã§lerinden serbest bÄ±rakÄ±ldÄ±nÄ±z. Ã–zgÃ¼r bir adam olarak gidebilirsin Brage, ancak korkarÄ±m ki fakir ve kÄ±rÄ±k bir adam olacaksÄ±n. Olanlar iÃ§in Ã§ok Ã¼zgÃ¼nÃ¼m. ~
-@117 = ~Evet. Rahip Nalin tarafÄ±ndan onaylandÄ±ÄŸÄ± Ã¼zere, sanÄ±ÄŸÄ±n cinayetlerde kullandÄ±ÄŸÄ± kÄ±lÄ±Ã§ normal bir kÄ±lÄ±Ã§tÄ±. HiÃ§bir ÅŸeytani gÃ¼Ã§ bu katilin ellerine rehberlik etmedi!~
-@118 = ~(iÃ§ geÃ§irir) O zaman onaylandÄ±. Brage, bana verilen yetkiye dayanarak, seni daraÄŸacÄ±nda Ã¶lÃ¼me mahkum ediyorum. Olanlar iÃ§in Ã§ok Ã¼zgÃ¼nÃ¼m. ~
-@119 = ~Ben... TeÅŸekkÃ¼r ederim. Bu adalete hizmet edecek. ZavallÄ± ailem.~
-@120 = ~Komutan'Ä±n masumiyetini kanÄ±tlama Ã§abalarÄ±nÄ±zdan etkilendim. O ve kasabanÄ±n geri kalanÄ± bunun iÃ§in size borÃ§lu. En azÄ±ndan askerler, ortalÄ±ÄŸÄ± karÄ±ÅŸtÄ±ranÄ±n birileri olduÄŸunu bildiÄŸimiz iÃ§in artÄ±k Ã§ok daha az tedirgin. Elbette bu yÃ¼ksek alarmda olmadÄ±ÄŸÄ±mÄ±z anlamÄ±na gelmiyor. GÃ¶rÃ¼nÃ¼ÅŸe gÃ¶re Nashkel'in pek Ã§ok dÃ¼ÅŸmanÄ± var. ~
-@121 = ~KomutanÄ±mÄ±za yardÄ±m ettiÄŸiniz iÃ§in teÅŸekkÃ¼rler. (Ne kadar Ã¼zÃ¼cÃ¼ bir hikÃ¢ye. Ailesini dÃ¼ÅŸÃ¼ndÃ¼kÃ§e kalbim sÄ±kÄ±ÅŸÄ±yor. Garnizon bu iÄŸrenÃ§ bÃ¼yÃ¼ yÃ¼zÃ¼nden beÅŸ adamÄ±nÄ± kaybetti. HayÄ±r, Komutan Brage'i de sayarsak toplamda altÄ±!~
-@122 = ~Ve tÃ¼m bunlar madenlerimizi iÅŸgal eden haydutlarla mÄ± baÄŸlantÄ±lÄ±?!~
-@123 = ~Garnizonumuzu zayÄ±flatmak iÃ§in bir entrika! Lo and behold!~
-@124 = ~Yetkililerin bu olaylarÄ± bilmesi gerekiyor. Bu entrikanÄ±n arkasÄ±ndaki suÃ§lularÄ± bulmanÄ±za yardÄ±m etmeyi Ã§ok isterdim ama gÃ¶rev yerimi terk edemem ve bir Nashkel askerinin KÄ±lÄ±Ã§ Sahili'nde araÅŸtÄ±rma yapmasÄ± iyi bir fikir olmaz. Tek yapabileceÄŸim, tÃ¼m bunlarÄ±n arkasÄ±nda kimin olduÄŸunu bulma konusunda size ÅŸans dilemek.~
-@125 = ~Tuhaf iksirler, hm? Burada bir suÃ§lu ve katille baÄŸlantÄ± kuracak birini arÄ±yorum - 'Ã¶zel iksirler' satÄ±n alacak kadar Ã§aresiz bir 'tÃ¼ccar'. Bu tanÄ±mÄ±n size uyduÄŸunu dÃ¼ÅŸÃ¼nÃ¼yor musunuz?~
-@126 = ~Biz lanetli eÅŸyalar ve iksirler sunan bir tÃ¼ccar arÄ±yoruz. En son karnavalda gÃ¶rÃ¼lmÃ¼ÅŸ. Ä°ksirleriniz birbirine Ã§ok benziyor, o yÃ¼zden Ã§abuk konuÅŸsanÄ±z iyi olur.~
-@127 = ~Ha, sen bunu yap, biz de muhafÄ±zlarÄ±n kimi gÃ¶tÃ¼receÄŸini gÃ¶relim! BakÄ±n, bir suÃ§lu ve katilin baÄŸlantÄ±sÄ±nÄ± arÄ±yorum - 'Ã¶zel iksirler' satÄ±n alacak kadar 'Ã§aresiz bir tÃ¼ccar'. Bu tanÄ±mÄ±n sana uyduÄŸunu dÃ¼ÅŸÃ¼nÃ¼yor musun?~
-@128 = ~Buraya bakÄ±n, bir suÃ§lu ve katilin baÄŸlantÄ±sÄ±nÄ± arÄ±yorum - 'Ã¶zel iksirler' satÄ±n alacak kadar 'Ã§aresiz' bir tÃ¼ccar. Bu tanÄ±mÄ±n size uyduÄŸunu dÃ¼ÅŸÃ¼nÃ¼yor musunuz?~
-@129 = ~Ne?! Bu ne cÃ¼ret... Ah, ama ben sizin gibi aÄŸÄ±r silahlÄ± insanlarÄ± kÄ±ÅŸkÄ±rtmaktan daha akÄ±llÄ±yÄ±m. Evet, iksirleri hiÃ§ tanÄ±madÄ±ÄŸÄ±m gezgin bir tÃ¼ccardan aldÄ±m... ama bu beni *suÃ§lu* yapmaz! Ä°ksirlerim lanetli deÄŸil, sadece Ã¶zeller. AdamÄ± tanÄ±mÄ±yorum, yemin ederim! ~
-@130 = ~Size sÃ¶yleyebileceÄŸim tek ÅŸey, buraya son geliÅŸinde siyah lotus Ã§adÄ±rÄ±na gittiÄŸi, ama kendi keyfi iÃ§in mi yoksa daha fazla alÄ±cÄ± aramak iÃ§in mi bilemiyorum.~
-@131 = ~Yine de tekrar ayrÄ±ldÄ± ve batÄ±ya gitti - kendi kaynaklarÄ±m var, Ã¶zellikle de iÅŸ iliÅŸkileri gibi hassas bir konuda. 'KaynaklarÄ±m' kasabanÄ±n batÄ±sÄ±nda bir yerde izini kaybettirdi.~
-@132 = ~EÄŸer bir daha ortaya Ã§Ä±karsa, sana sÃ¶ylerim. SÃ¶z veriyorum! Ama ÅŸimdilik, lÃ¼tfen Ã§adÄ±rÄ±mÄ± terk edin.~
-@133 = ~Tabii ki Ã§ok Ã¶zel iksirlerimden birini denemek istemiyorsanÄ±z. Daha Ã¶nce de sÃ¶ylediÄŸim gibi, menekÅŸe sizi Ã§ok ama Ã§ok gÃ¼Ã§lÃ¼ kÄ±lacak.~
-@134 = ~HayÄ±r, teÅŸekkÃ¼r ederim. Elveda.~
-@135 = ~Yine de onu uzun zamandÄ±r gÃ¶rmedim. SunduÄŸum iksirlerin lanetli olmadÄ±ÄŸÄ±na yemin ederim! EÄŸer bir daha ortaya Ã§Ä±karsa, size sÃ¶yleyeceÄŸim, sÃ¶z veriyorum! Ama ÅŸimdilik, lÃ¼tfen Ã§adÄ±rÄ±mÄ± terk edin. ~
-@136 = ~Ormanda saklanan karanlÄ±k bir tÃ¼ccarsÄ±n sen! Lanetli eÅŸyalar satan bir tÃ¼ccar arÄ±yorum. Bu sen olabilir misin?!~
-@137 = ~Sen! Nashkel garnizonunun komutanÄ±na lanetli bir kÄ±lÄ±Ã§ satan sensin!~
-@138 = ~Beni neyle suÃ§luyorsun?! Vay, vay, gÃ¶rÃ¼nÃ¼ÅŸe gÃ¶re sen bir alÄ±cÄ± deÄŸil, tedarikÃ§isin! Evet, ÅŸimdi iÅŸler karÄ±ÅŸacak. ~
-@139 = ~Ah, seni ilgilendirmeyen pek Ã§ok ÅŸeye burnunu sokarak yeterince uzun sÃ¼re gizlice dolaÅŸtÄ±n! Ä°ÅŸ baÄŸlantÄ±larÄ±mÄ± sorgulayarak beni ortaya Ã§Ä±karmaya Ã§alÄ±ÅŸÄ±yorsun, ha? Tebrik ederim! Beni buldun. KÃ¶tÃ¼ haber: Tamamen *Ã§aresiz* deÄŸilim, biliyorsun.~
-@140 = ~Adam bu tÃ¼ccardan alÄ±ÅŸveriÅŸ yaptÄ±ÄŸÄ±nÄ± Ã§Ã¼nkÃ¼ onu daha Ã¶nce Nashkel KarnavalÄ±'nda fark ettiÄŸini sÃ¶yledi. Ama satÄ±n aldÄ±ÄŸÄ± parÅŸÃ¶men lanetliydi! Brage'in yeni kÄ±lÄ±cÄ±nÄ±n da lanetli olduÄŸunu bildiÄŸimize gÃ¶re, bu tÃ¼ccar kendini Ã§ok ilginÃ§ bir Ä±ÅŸÄ±k altÄ±nda sunuyor. Bu ipucunu takip etmeye Ã§alÄ±ÅŸacaÄŸÄ±m. Ama yanÄ±lÄ±yor da olabilirim ve siz kendi araÅŸtÄ±rmalarÄ±nÄ±za devam etmelisiniz. YardÄ±mÄ±nÄ±z iÃ§in Brage adÄ±na size teÅŸekkÃ¼r ederim. ~
-@141 = ~...Hm, hiÃ§bir ÅŸey yok... Brage'in suÃ§landÄ±ÄŸÄ± suÃ§larÄ± iÅŸlerken kullandÄ±ÄŸÄ± bÄ±Ã§aÄŸÄ±n bu olduÄŸundan emin misiniz?~
+@104 = ~<CHARNAME>'in sana bazı soruları var, Brage. <PRO_HIMHER>'a ne olduğunu anlat.~
+@105 = ~Ah, <CHARNAME>. Belediye Başkanı Ghastkill, katil Brage'in duruşmasına başkanlık etmeye hazır.~
+@106 = ~Şanslarının iyi olduğunu düşünen Nalin duruşmanın yapılmasını kabul etti ve korkak Brage tapınaktan çıktı.~
+@107 = ~Kanıtları toplayan sen olduğuna göre, katılabilirsin. Beni takip edin.~
+@108 = ~Ah, <CHARNAME>. Katil Brage'e karşı kanıt toplamakla iyi iş çıkardınız. Hepimiz lanetli bir kılıcın mırıltılarını duyduk - yanlış bir şeyler olduğuna dair. Ama ben “Hayır!” diyorum. Öyle bir şey değildi. Brage basit bir katilden başka bir şey değildir ve kasaba bunu unutmayacaktır. Bu kokuşmuş korkak tapınakta saklanabilir, ama dışarı çıktığında hazır olacağız, sizi temin ederim.~
+@109 = ~Komutan Brage, size yöneltilen suçlamalar ciddi. Ailenizi, beş askerimizi ve bir kervandaki yolcuları öldürmekle suçlanıyorsunuz. Kendinizi savunmak için ne söyleyeceksiniz?~
+@110 = ~Tüm hesaplarda suçluyum.~
+@111 = ~Peki, <CHARNAME> suçluluğunuzla ilgili kanıt topladı. Oublek, lütfen bulguları özetler misin?~
+@112 = ~Evet. Rahip Nalin'in de teyit ettiği gibi, sanığın cinayetlerde kullandığı kılıç lanetliydi. Bu mektup, lanetli kılıcın Nashkel garnizonunu zayıflatmak için Komutan Brage'nin eline kasıtlı olarak verildiğini göstermektedir.~
+@113 = ~Ben... Ne diyeceğimi bilemiyorum.~
+@114 = ~O zaman senin yerine ben söyleyeyim, Brage. Kasten ve kendi özgür iradenle cinayet işlediğin yönündeki suçlamalardan aklandın. Bu vesileyle ölüm cezasından kurtulmuş bulunuyorsun.~
+@115 = ~Hayır... hayır, yaptıklarımdan sonra, bu suçluluk duygusuyla yaşamaya devam etmemin bir yolu yok...~
+@116 = ~Eylem tamamlandı. Bana verilen güçle, aldığınız canları ve verdiğiniz zararı telafi etmekle sizi görevlendiriyorum. Tüm unvanlarınız elinizden alındı ve Amnish güçlerinden serbest bırakıldınız. Özgür bir adam olarak gidebilirsin Brage, ancak korkarım ki fakir ve kırık bir adam olacaksın. Olanlar için çok üzgünüm. ~
+@117 = ~Evet. Rahip Nalin tarafından onaylandığı üzere, sanığın cinayetlerde kullandığı kılıç normal bir kılıçtı. Hiçbir şeytani güç bu katilin ellerine rehberlik etmedi!~
+@118 = ~(iç geçirir) O zaman onaylandı. Brage, bana verilen yetkiye dayanarak, seni darağacında ölüme mahkum ediyorum. Olanlar için çok üzgünüm. ~
+@119 = ~Ben... Teşekkür ederim. Bu adalete hizmet edecek. Zavallı ailem.~
+@120 = ~Komutan'ın masumiyetini kanıtlama çabalarınızdan etkilendim. O ve kasabanın geri kalanı bunun için size borçlu. En azından askerler, ortalığı karıştıranın birileri olduğunu bildiğimiz için artık çok daha az tedirgin. Elbette bu yüksek alarmda olmadığımız anlamına gelmiyor. Görünüşe göre Nashkel'in pek çok düşmanı var. ~
+@121 = ~Komutanımıza yardım ettiğiniz için teşekkürler. (Ne kadar üzücü bir hikâye. Ailesini düşündükçe kalbim sıkışıyor. Garnizon bu iğrenç büyü yüzünden beş adamını kaybetti. Hayır, Komutan Brage'i de sayarsak toplamda altı!~
+@122 = ~Ve tüm bunlar madenlerimizi işgal eden haydutlarla mı bağlantılı?!~
+@123 = ~Garnizonumuzu zayıflatmak için bir entrika! Lo and behold!~
+@124 = ~Yetkililerin bu olayları bilmesi gerekiyor. Bu entrikanın arkasındaki suçluları bulmanıza yardım etmeyi çok isterdim ama görev yerimi terk edemem ve bir Nashkel askerinin Kılıç Sahili'nde araştırma yapması iyi bir fikir olmaz. Tek yapabileceğim, tüm bunların arkasında kimin olduğunu bulma konusunda size şans dilemek.~
+@125 = ~Tuhaf iksirler, hm? Burada bir suçlu ve katille bağlantı kuracak birini arıyorum - 'özel iksirler' satın alacak kadar çaresiz bir 'tüccar'. Bu tanımın size uyduğunu düşünüyor musunuz?~
+@126 = ~Biz lanetli eşyalar ve iksirler sunan bir tüccar arıyoruz. En son karnavalda görülmüş. İksirleriniz birbirine çok benziyor, o yüzden çabuk konuşsanız iyi olur.~
+@127 = ~Ha, sen bunu yap, biz de muhafızların kimi götüreceğini görelim! Bakın, bir suçlu ve katilin bağlantısını arıyorum - 'özel iksirler' satın alacak kadar 'çaresiz bir tüccar'. Bu tanımın sana uyduğunu düşünüyor musun?~
+@128 = ~Buraya bakın, bir suçlu ve katilin bağlantısını arıyorum - 'özel iksirler' satın alacak kadar 'çaresiz' bir tüccar. Bu tanımın size uyduğunu düşünüyor musunuz?~
+@129 = ~Ne?! Bu ne cüret... Ah, ama ben sizin gibi ağır silahlı insanları kışkırtmaktan daha akıllıyım. Evet, iksirleri hiç tanımadığım gezgin bir tüccardan aldım... ama bu beni *suçlu* yapmaz! İksirlerim lanetli değil, sadece özeller. Adamı tanımıyorum, yemin ederim! ~
+@130 = ~Size söyleyebileceğim tek şey, buraya son gelişinde siyah lotus çadırına gittiği, ama kendi keyfi için mi yoksa daha fazla alıcı aramak için mi bilemiyorum.~
+@131 = ~Yine de tekrar ayrıldı ve batıya gitti - kendi kaynaklarım var, özellikle de iş ilişkileri gibi hassas bir konuda. 'Kaynaklarım' kasabanın batısında bir yerde izini kaybettirdi.~
+@132 = ~Eğer bir daha ortaya çıkarsa, sana söylerim. Söz veriyorum! Ama şimdilik, lütfen çadırımı terk edin.~
+@133 = ~Tabii ki çok özel iksirlerimden birini denemek istemiyorsanız. Daha önce de söylediğim gibi, menekşe sizi çok ama çok güçlü kılacak.~
+@134 = ~Hayır, teşekkür ederim. Elveda.~
+@135 = ~Yine de onu uzun zamandır görmedim. Sunduğum iksirlerin lanetli olmadığına yemin ederim! Eğer bir daha ortaya çıkarsa, size söyleyeceğim, söz veriyorum! Ama şimdilik, lütfen çadırımı terk edin. ~
+@136 = ~Ormanda saklanan karanlık bir tüccarsın sen! Lanetli eşyalar satan bir tüccar arıyorum. Bu sen olabilir misin?!~
+@137 = ~Sen! Nashkel garnizonunun komutanına lanetli bir kılıç satan sensin!~
+@138 = ~Beni neyle suçluyorsun?! Vay, vay, görünüşe göre sen bir alıcı değil, tedarikçisin! Evet, şimdi işler karışacak. ~
+@139 = ~Ah, seni ilgilendirmeyen pek çok şeye burnunu sokarak yeterince uzun süre gizlice dolaştın! İş bağlantılarımı sorgulayarak beni ortaya çıkarmaya çalışıyorsun, ha? Tebrik ederim! Beni buldun. Kötü haber: Tamamen *çaresiz* değilim, biliyorsun.~
+@140 = ~Adam bu tüccardan alışveriş yaptığını çünkü onu daha önce Nashkel Karnavalı'nda fark ettiğini söyledi. Ama satın aldığı parşömen lanetliydi! Brage'in yeni kılıcının da lanetli olduğunu bildiğimize göre, bu tüccar kendini çok ilginç bir ışık altında sunuyor. Bu ipucunu takip etmeye çalışacağım. Ama yanılıyor da olabilirim ve siz kendi araştırmalarınıza devam etmelisiniz. Yardımınız için Brage adına size teşekkür ederim. ~
+@141 = ~...Hm, hiçbir şey yok... Brage'in suçlandığı suçları işlerken kullandığı bıçağın bu olduğundan emin misiniz?~
 /* Imoen */
-@142 = ~Psst, <CHARNAME>, bu oyunu sevmiyorum. DÃ¼z bir kÄ±lÄ±Ã§ gÃ¶sterirsen Brage'in asÄ±lacaÄŸÄ±nÄ± biliyorsun, deÄŸil mi?~
+@142 = ~Psst, <CHARNAME>, bu oyunu sevmiyorum. Düz bir kılıç gösterirsen Brage'in asılacağını biliyorsun, değil mi?~
 /* Ajantis */
-@143 = ~HayÄ±r, rahip Nalin. DoÄŸru olan bu deÄŸil. <CHARNAME>, bir adamÄ±n hayatÄ±yla oynamayacaÄŸÄ±z.~
+@143 = ~Hayır, rahip Nalin. Doğru olan bu değil. <CHARNAME>, bir adamın hayatıyla oynamayacağız.~
 /* Rasaad */
-@144 = ~HayÄ±r, rahip Nalin. Bu doÄŸru olan deÄŸil. <CHARNAME>, bir adamÄ±n hayatÄ±yla bÃ¶yle oynama!~
+@144 = ~Hayır, rahip Nalin. Bu doğru olan değil. <CHARNAME>, bir adamın hayatıyla böyle oynama!~
 /* Dynaheir */
-@145 = ~Bu kÃ¶tÃ¼ bir ÅŸaka mÄ±? Bu doÄŸru kÄ±lÄ±Ã§ deÄŸil, rahip Nalin.~
+@145 = ~Bu kötü bir şaka mı? Bu doğru kılıç değil, rahip Nalin.~
 /* Minsc */
-@146 = ~Minsc'in kafasÄ± karÄ±ÅŸtÄ±. KomutanÄ±n <CHARNAME>'e verdiÄŸi kÄ±lÄ±Ã§ bu deÄŸildi, deÄŸil mi Boo?~
+@146 = ~Minsc'in kafası karıştı. Komutanın <CHARNAME>'e verdiği kılıç bu değildi, değil mi Boo?~
 /* Jaheira */
-@147 = ~Ne? HayÄ±r! <CHARNAME>, yanlÄ±ÅŸ kÄ±lÄ±cÄ± gÃ¶stermene izin vermeyeceÄŸim.~
+@147 = ~Ne? Hayır! <CHARNAME>, yanlış kılıcı göstermene izin vermeyeceğim.~
 /* Khalid */
-@148 = ~Bu kÄ±lÄ±cÄ±n B-Brage'in <CHARNAME>, rahip Nalin'e verdiÄŸi kÄ±lÄ±Ã§ olmadÄ±ÄŸÄ±ndan eminim.~
+@148 = ~Bu kılıcın B-Brage'in <CHARNAME>, rahip Nalin'e verdiği kılıç olmadığından eminim.~
 /* Yeslick */
-@149 = ~GenÃ§ olan, bu bir oyun deÄŸil, biliyorsun. Bu doÄŸru kÄ±lÄ±Ã§ deÄŸil. ~
+@149 = ~Genç olan, bu bir oyun değil, biliyorsun. Bu doğru kılıç değil. ~
 /* Kivan */
-@150 = ~Sizinle haydutlarÄ± durdurmak iÃ§in gÃ¼Ã§lerimi birleÅŸtirdim, kendim gibi davranmak iÃ§in deÄŸil. Bu Brage'in kullandÄ±ÄŸÄ± kÄ±lÄ±Ã§ deÄŸil. ~
-@151 = ~Dinle, her ne sebeple olursa olsun, Brage'in kÄ±lÄ±cÄ±nÄ± sana sunmayacaÄŸÄ±m. Bana bunu sormayÄ± bÄ±rak.~
-@152 = ~AnlÄ±yorum. YazÄ±k ama kararÄ±nÄ±zÄ± kabul edeceÄŸiz.~
+@150 = ~Sizinle haydutları durdurmak için güçlerimi birleştirdim, kendim gibi davranmak için değil. Bu Brage'in kullandığı kılıç değil. ~
+@151 = ~Dinle, her ne sebeple olursa olsun, Brage'in kılıcını sana sunmayacağım. Bana bunu sormayı bırak.~
+@152 = ~Anlıyorum. Yazık ama kararınızı kabul edeceğiz.~
 
 
 
 //------------------~
 
 
-@1000 = ~Kaptan Brage'in SuÃ§luluÄŸu
+@1000 = ~Kaptan Brage'in Suçluluğu
 
-TeÄŸmen Bardolan, Nashkel garnizonunun komutanÄ±nÄ±n kayÄ±p olduÄŸundan bahsetti. Sokaklar Ã§ok kÃ¶tÃ¼ bir ÅŸey olduÄŸuna dair sÃ¶ylentilerle dolup taÅŸÄ±yor.~
-@1001 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Teğmen Bardolan, Nashkel garnizonunun komutanının kayıp olduğundan bahsetti. Sokaklar çok kötü bir şey olduğuna dair söylentilerle dolup taşıyor.~
+@1001 = ~Kaptan Brage'in Suçluluğu
 
-Amnish askerlerinden biri bana KomutanlarÄ± Brage'in Ã§Ä±ldÄ±rdÄ±ÄŸÄ± gece tek baÅŸÄ±na bir gÃ¶reve gittiÄŸini sÃ¶yledi. Ä°ÅŸin ilginÃ§ yanÄ±, bu cinayetlere baÅŸladÄ±ÄŸÄ±nda yanÄ±nda eski kÄ±lÄ±cÄ±nÄ±n olmamasÄ±ydÄ±.~
-@1002 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Amnish askerlerinden biri bana Komutanları Brage'in çıldırdığı gece tek başına bir göreve gittiğini söyledi. İşin ilginç yanı, bu cinayetlere başladığında yanında eski kılıcının olmamasıydı.~
+@1002 = ~Kaptan Brage'in Suçluluğu
 
-Ne yazÄ±k ki, Brage'in bana sÃ¶ylediÄŸi hiÃ§bir ÅŸey ona tuzak kurmakla kimin ilgilendiÄŸini gÃ¶stermiyor.~
-@1003 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Ne yazık ki, Brage'in bana söylediği hiçbir şey ona tuzak kurmakla kimin ilgilendiğini göstermiyor.~
+@1003 = ~Kaptan Brage'in Suçluluğu
 
-Brage bana Ã§Ä±lgÄ±na dÃ¶ndÃ¼ÄŸÃ¼ geceyle ilgili ilginÃ§ bir ÅŸey anlattÄ±. GÃ¶rÃ¼nÃ¼ÅŸe gÃ¶re bir tÃ¼ccar yollarda haydutlar tarafÄ±ndan Ã¶ldÃ¼rÃ¼lmÃ¼ÅŸ ama mallarÄ±na dokunulmamÄ±ÅŸ. Ya haydutlar onu Ã¶ldÃ¼rdÃ¼kten sonra rahatsÄ±z oldular ya da her ÅŸey bir tuzaktÄ±. Her iki durumda da, Amnish MuhafÄ±zlarÄ± iÃ§in kÃ¶tÃ¼ hediyeler bÄ±rakan bir katil arÄ±yorum. Ne yazÄ±k ki Brage'in sÃ¶ylediklerinin hiÃ§biri bana bunu yapanÄ± aramaya nereden baÅŸlayacaÄŸÄ±mÄ± sÃ¶ylemiyor.~
-@1004 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage bana çılgına döndüğü geceyle ilgili ilginç bir şey anlattı. Görünüşe göre bir tüccar yollarda haydutlar tarafından öldürülmüş ama mallarına dokunulmamış. Ya haydutlar onu öldürdükten sonra rahatsız oldular ya da her şey bir tuzaktı. Her iki durumda da, Amnish Muhafızları için kötü hediyeler bırakan bir katil arıyorum. Ne yazık ki Brage'in söylediklerinin hiçbiri bana bunu yapanı aramaya nereden başlayacağımı söylemiyor.~
+@1004 = ~Kaptan Brage'in Suçluluğu
 
-Brage'i Garnizon'a getirdim ki hak ettiÄŸi cezayÄ± alabilsin. Ama bir ÅŸeyler yanlÄ±ÅŸ gibi gÃ¶rÃ¼nÃ¼yor. Onu tanÄ±yanlar, Brage'in deÄŸiÅŸiminde gÃ¶rÃ¼ndÃ¼ÄŸÃ¼nden daha fazlasÄ± olduÄŸuna, sanki bir tÃ¼r etki bÃ¼yÃ¼sÃ¼ altÄ±nda olduÄŸuna ikna oldular. Oublek, Nalin'in Brage'in kÄ±lÄ±cÄ±na bakmasÄ±na izin vermemi ve 'bunda garip bir ÅŸey olmadÄ±ÄŸÄ±nÄ± kanÄ±tlamamÄ±' istedi. Brage'in kÄ±lÄ±cÄ±nda kesinlikle bir sorun var. Brage ÅŸu anda hapiste, duruÅŸmasÄ±nÄ± bekliyor. DavanÄ±n nasÄ±l sonuÃ§lanacaÄŸÄ±nÄ± benim davranÄ±ÅŸlarÄ±mÄ±n belirleyeceÄŸi izlenimini edindim - her ÅŸeyin Nalin'e doÄŸru kÄ±lÄ±cÄ± sunup sunmayacaÄŸÄ±ma baÄŸlÄ± olduÄŸunu dÃ¼ÅŸÃ¼nÃ¼rsek...~
-@1005 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage'i Garnizon'a getirdim ki hak ettiği cezayı alabilsin. Ama bir şeyler yanlış gibi görünüyor. Onu tanıyanlar, Brage'in değişiminde göründüğünden daha fazlası olduğuna, sanki bir tür etki büyüsü altında olduğuna ikna oldular. Oublek, Nalin'in Brage'in kılıcına bakmasına izin vermemi ve 'bunda garip bir şey olmadığını kanıtlamamı' istedi. Brage'in kılıcında kesinlikle bir sorun var. Brage şu anda hapiste, duruşmasını bekliyor. Davanın nasıl sonuçlanacağını benim davranışlarımın belirleyeceği izlenimini edindim - her şeyin Nalin'e doğru kılıcı sunup sunmayacağıma bağlı olduğunu düşünürsek...~
+@1005 = ~Kaptan Brage'in Suçluluğu
 
-Brage'i kesin Ã¶lÃ¼mÃ¼n onu beklediÄŸi garnizon yerine MiÄŸfer TapÄ±naÄŸÄ±'na getirmem haklÄ± gÃ¶rÃ¼nÃ¼yor. Ona olanlarda bir yanlÄ±ÅŸlÄ±k var gibi gÃ¶rÃ¼nÃ¼yor. Onu tanÄ±yanlar, Brage'in deÄŸiÅŸiminde gÃ¶rÃ¼ndÃ¼ÄŸÃ¼nden daha fazlasÄ± olduÄŸuna, sanki bir tÃ¼r etki bÃ¼yÃ¼sÃ¼ altÄ±nda olduÄŸuna ikna olmuÅŸ durumdalar. Oublek, Nalin'in Brage'in kÄ±lÄ±cÄ±na bakmasÄ±na izin vermemi ve 'bunda garip bir ÅŸey olmadÄ±ÄŸÄ±nÄ± kanÄ±tlamamÄ±' istedi. Brage'in kÄ±lÄ±cÄ±nda kesinlikle bir sorun var. Brage ÅŸimdi tapÄ±nakta sÄ±ÄŸÄ±nak buldu. Brage'in orada huzur bulup bulamayacaÄŸÄ±na benim karar vereceÄŸim izlenimini edindim - her ÅŸeyin Nalin'e doÄŸru kÄ±lÄ±cÄ± sunup sunmayacaÄŸÄ±ma baÄŸlÄ± olduÄŸunu dÃ¼ÅŸÃ¼nÃ¼rsek...~
-@1006 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage'i kesin ölümün onu beklediği garnizon yerine Miğfer Tapınağı'na getirmem haklı görünüyor. Ona olanlarda bir yanlışlık var gibi görünüyor. Onu tanıyanlar, Brage'in değişiminde göründüğünden daha fazlası olduğuna, sanki bir tür etki büyüsü altında olduğuna ikna olmuş durumdalar. Oublek, Nalin'in Brage'in kılıcına bakmasına izin vermemi ve 'bunda garip bir şey olmadığını kanıtlamamı' istedi. Brage'in kılıcında kesinlikle bir sorun var. Brage şimdi tapınakta sığınak buldu. Brage'in orada huzur bulup bulamayacağına benim karar vereceğim izlenimini edindim - her şeyin Nalin'e doğru kılıcı sunup sunmayacağıma bağlı olduğunu düşünürsek...~
+@1006 = ~Kaptan Brage'in Suçluluğu
 
-Nalin kÄ±lÄ±cÄ±n lanetli olduÄŸuna kefil olacak!~
-@1007 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Nalin kılıcın lanetli olduğuna kefil olacak!~
+@1007 = ~Kaptan Brage'in Suçluluğu
 
-Nalin kÄ±lÄ±cÄ±n normal bir kÄ±lÄ±Ã§ olduÄŸuna kefil olacaktÄ±r. YanlÄ±ÅŸ kÄ±lÄ±cÄ± gÃ¶stermek buna yol aÃ§mÄ±ÅŸ olabilir... ama bazen 'adaletin' biraz dÃ¼rtÃ¼lmesine yardÄ±mcÄ± olmak gerekir. Ne de olsa Brage daraÄŸacÄ±na gidecek.~
-@1008 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Nalin kılıcın normal bir kılıç olduğuna kefil olacaktır. Yanlış kılıcı göstermek buna yol açmış olabilir... ama bazen 'adaletin' biraz dürtülmesine yardımcı olmak gerekir. Ne de olsa Brage darağacına gidecek.~
+@1008 = ~Kaptan Brage'in Suçluluğu
 
-Nalin kÄ±lÄ±cÄ±n normal bir kÄ±lÄ±Ã§ olduÄŸuna dair kefil oldu. Eh, yanlÄ±ÅŸ kÄ±lÄ±cÄ± gÃ¶stermek buna yol aÃ§mÄ±ÅŸ olabilir... ama bazen 'adaletin' biraz dÃ¼rtÃ¼lmesine yardÄ±mcÄ± olmak gerekir.~
-@1009 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Nalin kılıcın normal bir kılıç olduğuna dair kefil oldu. Eh, yanlış kılıcı göstermek buna yol açmış olabilir... ama bazen 'adaletin' biraz dürtülmesine yardımcı olmak gerekir.~
+@1009 = ~Kaptan Brage'in Suçluluğu
 
-Brage'nin kuzeni Laryssa, lanetli eÅŸyalar satan ve Nashkel KarnavalÄ±'nda gÃ¶rÃ¼len bir tÃ¼ccardan bahsetti. Belki onu gÃ¶rmÃ¼ÅŸ olabilecek birini ya da bir tÃ¼r baÄŸlantÄ± bulup bulamayacaÄŸÄ±mÄ± gÃ¶rmek iÃ§in etrafa bir gÃ¶z atabilirim. Satacak lanetli eÅŸyalarÄ± varken, onca askerin olduÄŸu ÅŸehrin yakÄ±nlarÄ±nda Ã§ok cesurca bir ÅŸey deneyeceÄŸini sanmÄ±yorum. Ama yine de belki de Karnaval'daki tÃ¼ccarlardan biriyle ÅŸansÄ±nÄ± denemiÅŸtir.~
-@1010 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage'nin kuzeni Laryssa, lanetli eşyalar satan ve Nashkel Karnavalı'nda görülen bir tüccardan bahsetti. Belki onu görmüş olabilecek birini ya da bir tür bağlantı bulup bulamayacağımı görmek için etrafa bir göz atabilirim. Satacak lanetli eşyaları varken, onca askerin olduğu şehrin yakınlarında çok cesurca bir şey deneyeceğini sanmıyorum. Ama yine de belki de Karnaval'daki tüccarlardan biriyle şansını denemiştir.~
+@1010 = ~Kaptan Brage'in Suçluluğu
 
-Oublek'e Nalin'in Brage'nin kÄ±lÄ±cÄ±nÄ±n lanetli olduÄŸuna dair kefil olmayÄ± kabul ettiÄŸini sÃ¶yledim ama bu onun masumiyetini kanÄ±tlamak iÃ§in yeterli deÄŸil. Bu kÄ±lÄ±cÄ±n ona bilgisi dÄ±ÅŸÄ±nda verildiÄŸine dair kanÄ±ta ihtiyacÄ±m var.~
-@1011 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Oublek'e Nalin'in Brage'nin kılıcının lanetli olduğuna dair kefil olmayı kabul ettiğini söyledim ama bu onun masumiyetini kanıtlamak için yeterli değil. Bu kılıcın ona bilgisi dışında verildiğine dair kanıta ihtiyacım var.~
+@1011 = ~Kaptan Brage'in Suçluluğu
 
-Ne kadar da uygun. Lanetli eÅŸya tÃ¼ccarÄ± Nashkel KarnavalÄ±'nda beni pusuya dÃ¼ÅŸÃ¼rdÃ¼. Brage'in hikÃ¢yesiyle ilgili herhangi bir kanÄ±t bulmak iÃ§in onu iyice araÅŸtÄ±rmalÄ±yÄ±m.~
-@1012 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Ne kadar da uygun. Lanetli eşya tüccarı Nashkel Karnavalı'nda beni pusuya düşürdü. Brage'in hikâyesiyle ilgili herhangi bir kanıt bulmak için onu iyice araştırmalıyım.~
+@1012 = ~Kaptan Brage'in Suçluluğu
 
-Laryssa'nÄ±n bahsettiÄŸi lanetli eÅŸya tÃ¼ccarÄ±nÄ± buldum. Brage'in hikÃ¢yesiyle ilgili herhangi bir kanÄ±t bulmak iÃ§in onu iyice araÅŸtÄ±rmalÄ±yÄ±m.~
-@1013 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Laryssa'nın bahsettiği lanetli eşya tüccarını buldum. Brage'in hikâyesiyle ilgili herhangi bir kanıt bulmak için onu iyice araştırmalıyım.~
+@1013 = ~Kaptan Brage'in Suçluluğu
 
-Brage'in kÄ±lÄ±cÄ±nÄ±n lanetli bir kÄ±lÄ±Ã§la deÄŸiÅŸtirildiÄŸini ve kurgunun Brage'in lanetli kÄ±lÄ±cÄ± almasÄ± iÃ§in dÃ¼zenlendiÄŸini aÃ§Ä±kÃ§a belirten not, Oublek'i olayÄ±n bu ÅŸekilde gerÃ§ekleÅŸtiÄŸine ikna etmek iÃ§in yeterli kanÄ±t deÄŸildir. Brage'in yaptÄ±ÄŸÄ± ÅŸeyi normal bir kÄ±lÄ±Ã§la da yapamayacaÄŸÄ±na dair hala bir kanÄ±t olmadÄ±ÄŸÄ±nÄ± dÃ¼ÅŸÃ¼nÃ¼yor. Brage'in kÃ¶tÃ¼ bir bÃ¼yÃ¼ altÄ±nda olduÄŸunu kanÄ±tlamak istiyorsam Nalin'e kÄ±lÄ±cÄ± da gÃ¶stermem gerekiyor.~
-@1014 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage'in kılıcının lanetli bir kılıçla değiştirildiğini ve kurgunun Brage'in lanetli kılıcı alması için düzenlendiğini açıkça belirten not, Oublek'i olayın bu şekilde gerçekleştiğine ikna etmek için yeterli kanıt değildir. Brage'in yaptığı şeyi normal bir kılıçla da yapamayacağına dair hala bir kanıt olmadığını düşünüyor. Brage'in kötü bir büyü altında olduğunu kanıtlamak istiyorsam Nalin'e kılıcı da göstermem gerekiyor.~
+@1014 = ~Kaptan Brage'in Suçluluğu
 
-Brage'in masumiyetini kanÄ±tlamak iÃ§in gereken tÃ¼m delilleri topladÄ±m! Nashkel'e bir sonraki geliÅŸimde onun duruÅŸmasÄ±na tanÄ±klÄ±k edebileceÄŸim.~
-@1015 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage'in masumiyetini kanıtlamak için gereken tüm delilleri topladım! Nashkel'e bir sonraki gelişimde onun duruşmasına tanıklık edebileceğim.~
+@1015 = ~Kaptan Brage'in Suçluluğu
 
-Brage'in kÄ±lÄ±cÄ±nÄ±n lanetli bir kÄ±lÄ±Ã§la deÄŸiÅŸtirildiÄŸini ve kurgunun Brage'in lanetli kÄ±lÄ±cÄ± almasÄ± iÃ§in dÃ¼zenlendiÄŸini aÃ§Ä±kÃ§a belirten not, Oublek'i olayÄ±n bu ÅŸekilde gerÃ§ekleÅŸtiÄŸine ikna etmek iÃ§in yeterli kanÄ±t deÄŸildir. Yine de Brage'in yaptÄ±ÄŸÄ± ÅŸeyi normal bir kÄ±lÄ±Ã§la da yapamayacaÄŸÄ±na dair bir kanÄ±t olmadÄ±ÄŸÄ±nÄ± dÃ¼ÅŸÃ¼nÃ¼yor. Buna sadece eski Komutan cevap verebilir. Onu bulmalÄ±yÄ±m. ~
-@1016 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Brage'in kılıcının lanetli bir kılıçla değiştirildiğini ve kurgunun Brage'in lanetli kılıcı alması için düzenlendiğini açıkça belirten not, Oublek'i olayın bu şekilde gerçekleştiğine ikna etmek için yeterli kanıt değildir. Yine de Brage'in yaptığı şeyi normal bir kılıçla da yapamayacağına dair bir kanıt olmadığını düşünüyor. Buna sadece eski Komutan cevap verebilir. Onu bulmalıyım. ~
+@1016 = ~Kaptan Brage'in Suçluluğu
 
-Lanetli eÅŸya tÃ¼ccarÄ± Nashkel KarnavalÄ±'ndaki Black Lotus Ã§adÄ±rÄ±nÄ± ziyaret etmeyi seviyor. En son ÅŸehrin batÄ±sÄ±nda gÃ¶rÃ¼lmÃ¼ÅŸ.~
-@1017 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Lanetli eşya tüccarı Nashkel Karnavalı'ndaki Black Lotus çadırını ziyaret etmeyi seviyor. En son şehrin batısında görülmüş.~
+@1017 = ~Kaptan Brage'in Suçluluğu
 
-Lanetli eÅŸya tÃ¼ccarÄ± Nashkel KarnavalÄ±'ndaki Black Lotus Ã§adÄ±rÄ±nÄ± ziyaret etmeyi seviyor.~
-@1018 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Lanetli eşya tüccarı Nashkel Karnavalı'ndaki Black Lotus çadırını ziyaret etmeyi seviyor.~
+@1018 = ~Kaptan Brage'in Suçluluğu
 
-Nashkel yetkilileri Brage'in gÃ¶rÃ¼ndÃ¼ÄŸÃ¼ gibi bir katil olduÄŸuna inanÄ±yor. YanlÄ±ÅŸ kÄ±lÄ±cÄ± gÃ¶stermek buna yol aÃ§mÄ±ÅŸ olabilir... ama bazen 'adaletin' biraz dÃ¼rtÃ¼lmesine yardÄ±mcÄ± olmak gerekir. Brage'in tapÄ±naktaki sÄ±ÄŸÄ±naÄŸÄ±na Ã§ok kanlÄ± bir yola girmeden karÅŸÄ± Ã§Ä±kÄ±lamaz, ama en azÄ±ndan kasaba halkÄ±nÄ±n gÃ¶zÃ¼nde kurtarÄ±lmÄ±ÅŸ olmayacak.~
-@1019 = ~Kaptan Brage'in SuÃ§luluÄŸu
+Nashkel yetkilileri Brage'in göründüğü gibi bir katil olduğuna inanıyor. Yanlış kılıcı göstermek buna yol açmış olabilir... ama bazen 'adaletin' biraz dürtülmesine yardımcı olmak gerekir. Brage'in tapınaktaki sığınağına çok kanlı bir yola girmeden karşı çıkılamaz, ama en azından kasaba halkının gözünde kurtarılmış olmayacak.~
+@1019 = ~Kaptan Brage'in Suçluluğu
 
-Brage Ã¶zgÃ¼r bir adam! Nashkel yetkilileri, Brage'nin lanetli kÄ±lÄ±cÄ±yla ilgili tÃ¼m olayÄ±n, kendisinin hiÃ§bir bilgisi olmadÄ±ÄŸÄ± bir komplo olduÄŸunu kanÄ±tlayan bulduÄŸum delilleri kabul etti. Eski Komutan artÄ±k Ã¶zgÃ¼r bir adam, ancak olanlarÄ± gÃ¶z Ã¶nÃ¼nde bulundurursak, bir daha asla mutlu olacaÄŸÄ±ndan ÅŸÃ¼pheliyim. Nalin ona kalmasÄ± iÃ§in bir yer teklif etti, bu yÃ¼zden Brage'i tekrar gÃ¶rmek istersem sanÄ±rÄ±m Nashkel tapÄ±naÄŸÄ± onu bulabileceÄŸim yerdir.~
-@1020 = ~Kaptan Brage'in SuÃ§luluk Duygusu
+Brage özgür bir adam! Nashkel yetkilileri, Brage'nin lanetli kılıcıyla ilgili tüm olayın, kendisinin hiçbir bilgisi olmadığı bir komplo olduğunu kanıtlayan bulduğum delilleri kabul etti. Eski Komutan artık özgür bir adam, ancak olanları göz önünde bulundurursak, bir daha asla mutlu olacağından şüpheliyim. Nalin ona kalması için bir yer teklif etti, bu yüzden Brage'i tekrar görmek istersem sanırım Nashkel tapınağı onu bulabileceğim yerdir.~
+@1020 = ~Kaptan Brage'in Suçluluk Duygusu
 
-Brage asÄ±ldÄ±! SanÄ±rÄ±m bunu oldukÃ§a iyi yaptÄ±m. Adaletin yerini bulduÄŸunu gÃ¶rmek her zaman gÃ¼zeldir. Ve hepsinden Ã¶nemlisi - o aptal Brage bunun iÃ§in minnettardÄ±! Dikkatli olmalÄ±yÄ±m, yoksa karnÄ±mdaki sÄ±cak his beni hÄ±Ã§kÄ±rÄ±klara boÄŸacak.~
+Brage asıldı! Sanırım bunu oldukça iyi yaptım. Adaletin yerini bulduğunu görmek her zaman güzeldir. Ve hepsinden önemlisi - o aptal Brage bunun için minnettardı! Dikkatli olmalıyım, yoksa karnımdaki sıcak his beni hıçkırıklara boğacak.~
 
-/* Brage Redemption modundan bragesword_extentions.tra dosyasÄ±ndaki ifadelerle tamamen aynÄ± olmalÄ±dÄ±r */
-@1021 = ~Kaptan Brage'in SuÃ§luluÄŸu~
+/* Brage Redemption modundan bragesword_extentions.tra dosyasındaki ifadelerle tamamen aynı olmalıdır */
+@1021 = ~Kaptan Brage'in Suçluluğu~

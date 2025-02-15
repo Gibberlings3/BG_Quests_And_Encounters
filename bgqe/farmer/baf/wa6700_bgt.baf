@@ -1,0 +1,11 @@
+
+/* Unlock door: BGT */
+IF
+	Global("WAFARM1","Global",1)
+	Global("WAFARM_AddMapNote","MYAREA",0)
+THEN
+	RESPONSE #100
+		AddMapNote([950.2850],@126)
+		Unlock("DOOR3355")
+		SetGlobal("WAFARM_AddMapNote","MYAREA",1)
+END

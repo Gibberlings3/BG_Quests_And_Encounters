@@ -1,13 +1,13 @@
-@0 = ~Bence Tremain'in oÄŸlunu yine de yetiÅŸtirmek iÃ§in planlar yaptÄ±ÄŸÄ±nÄ± bilmelisiniz.~
-@1 = ~Burada Tremain'in oÄŸlu var. AnladÄ±ÄŸÄ±m kadarÄ±yla onun bÃ¼yÃ¼mesini istemiyorsunuz, iÅŸte size bunu engellemek iÃ§in bir ÅŸans.~
-@2 = ~Ah, ben de Ã¶yle dÃ¼ÅŸÃ¼nmÃ¼ÅŸtÃ¼m zaten. Ama oÄŸlunun cesedini henÃ¼z Su Perisi'nden almadÄ±ÄŸÄ±nÄ± biliyoruz - ve bunu engellemek iÃ§in nÃ¶bet tutmayacaÄŸÄ±z. Leydi'nin ÅŸansÄ± sizinle olsun!~
-@3 = ~AslÄ±nda, bu Ã§ocuÄŸun yaptÄ±klarÄ±nÄ±n sonuÃ§larÄ±na katlanmasÄ±nÄ±n Leydi'nin isteÄŸi olduÄŸuna inanÄ±yoruz. ÅansÄ±nÄ± denedi ve kaybetti. KardeÅŸimizin kilisesine hakaret etmesini engelleyerek cesedi buraya getirdiÄŸiniz iÃ§in teÅŸekkÃ¼r ederiz. TanrÄ±larÄ±n iradesinden baÅŸka bir irade olmadÄ±ÄŸÄ±nÄ± zamanla anlayacaktÄ±r.~
-@4 = ~Neden... neden oÄŸlumu Leydi'nin Salonu'na getirdiniz... Onu Su Perisi'nden geri almak iÃ§in o kadar acÄ± Ã§ektikten sonra mÄ±? Neden bÃ¶yle bir ÅŸey yaptÄ±n, bir babanÄ±n oÄŸlunu diriltmesine engel oldun? Åimdi iÅŸ bana dÃ¼ÅŸÃ¼yor, kardeÅŸlerimden af dileyerek oÄŸlumun cesedini bana vermelerini isteyeceÄŸim ki en azÄ±ndan onu dÃ¼zgÃ¼n bir ÅŸekilde gÃ¶mebileyim. Leydi acÄ±masÄ±z biri. ÅansÄ±nÄ± reddedenlere lanet olsun!~
+@0 = ~Bence Tremain'in oğlunu yine de yetiştirmek için planlar yaptığını bilmelisiniz.~
+@1 = ~Burada Tremain'in oğlu var. Anladığım kadarıyla onun büyümesini istemiyorsunuz, işte size bunu engellemek için bir şans.~
+@2 = ~Ah, ben de öyle düşünmüştüm zaten. Ama oğlunun cesedini henüz Su Perisi'nden almadığını biliyoruz - ve bunu engellemek için nöbet tutmayacağız. Leydi'nin şansı sizinle olsun!~
+@3 = ~Aslında, bu çocuğun yaptıklarının sonuçlarına katlanmasının Leydi'nin isteği olduğuna inanıyoruz. Şansını denedi ve kaybetti. Kardeşimizin kilisesine hakaret etmesini engelleyerek cesedi buraya getirdiğiniz için teşekkür ederiz. Tanrıların iradesinden başka bir irade olmadığını zamanla anlayacaktır.~
+@4 = ~Neden... neden oğlumu Leydi'nin Salonu'na getirdiniz... Onu Su Perisi'nden geri almak için o kadar acı çektikten sonra mı? Neden böyle bir şey yaptın, bir babanın oğlunu diriltmesine engel oldun? Şimdi iş bana düşüyor, kardeşlerimden af dileyerek oğlumun cesedini bana vermelerini isteyeceğim ki en azından onu düzgün bir şekilde gömebileyim. Leydi acımasız biri. Şansını reddedenlere lanet olsun!~
 /* Ajantis */
-@5 = ~Bu Ã¼zÃ¼cÃ¼ bir karardÄ± ama bence doÄŸru olan buydu. KiÅŸi tanrÄ±sÄ±nÄ± ve tapÄ±naÄŸÄ±nÄ± takip etmeli ve kiÅŸisel kazanÃ§ iÃ§in onlarÄ±n iradesini sorgulamamalÄ± ve onlara karÅŸÄ± gelmemelidir.~
+@5 = ~Bu üzücü bir karardı ama bence doğru olan buydu. Kişi tanrısını ve tapınağını takip etmeli ve kişisel kazanç için onların iradesini sorgulamamalı ve onlara karşı gelmemelidir.~
 /* Rasaad */
-@6 = ~Ah, bazen kiÅŸinin tanrÄ±sÄ±nÄ±n iradesine ve tapÄ±naÄŸÄ±nÄ±n isteklerine itaat etmesi gerÃ§ekten de bir imtihana dÃ¶nÃ¼ÅŸÃ¼yor.~
+@6 = ~Ah, bazen kişinin tanrısının iradesine ve tapınağının isteklerine itaat etmesi gerçekten de bir imtihana dönüşüyor.~
 /* Imoen */
-@7 = ~Bence bu Ã¼zÃ¼cÃ¼, <CHARNAME>. Tremain oÄŸlunu yetiÅŸtirmeye Ã§alÄ±ÅŸsaydÄ± daha Ã§ok hoÅŸuma giderdi.~
+@7 = ~Bence bu üzücü, <CHARNAME>. Tremain oğlunu yetiştirmeye çalışsaydı daha çok hoşuma giderdi.~
 /* Imoen */
-@8 = ~DoÄŸru olan, Ajantis, cidden mi?~
+@8 = ~Doğru olan, Ajantis, cidden mi?~
