@@ -14,7 +14,7 @@ BACKUP ~bgqe/Backup~
 SUPPORT ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~29pre~ 
+VERSION ~29~ 
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -460,7 +460,7 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table BEGIN
 	~russian~     => ~cp1251~
 	~francais~      => ~cp1252~
 	~schinese~    => ~cp936~
-	~turkce~     =>  ~cp1254~
+	~turkce~     =>  ~cp1254~ /* Türkçe çeviri: Ilhan Bilaloglu. Baldur Geçidi 2 Çeviri ekibine selam olsun. */
 END
 
   LAF HANDLE_CHARSETS
@@ -537,7 +537,7 @@ LANGUAGE ~Simplified Chinese~
          ~bgqe/tra/schinese/INSTALL.tra~
          ~bgqe/tra/schinese/bgqe_game.tra~
 
-LANGUAGE ~Turkish~
+LANGUAGE ~Turkce~
          ~turkce~
          ~bgqe/tra/turkce/setup.tra~
          ~bgqe/tra/turkce/bgqe_game.tra~

@@ -278,6 +278,8 @@ Hedian: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 hook71: proofreading of English translation
 
+İlhan Bilaloğlu: Turkish translation
+
 ilot: Italian translation
 
 Jakkus: Italian translation
@@ -293,8 +295,6 @@ Lord Hagen (GIMT): Italian translation
 Lumorus: author, alpha and beta testing, ideas for quest developpment
 
 lzw104522773: Simplified Chinese translation
-
-medic2000: Turkish translation
 
 Melmoth: Spanish translation
 
@@ -347,13 +347,16 @@ Polish translation: Aristo and Zed Nocear
 Spanish translation:
 by Melmoth, revised and fixed by davoker (v26)
 full revised by ElGamerViejuno (v27)
+(v8) Excalibur (slime quest), Immortality (proofreading) 
 
 Simplified Chinese:
 by lzw104522773 (v27)
 updated by yoshimo0417 (v28)
 
+Turkish translation:
+by İlhan Bilaloğlu (v29) 
+Baldur Geçidi 2 Çeviri ekibine selam olsun!
 
--old translations v8: Spanish translation: Excalibur (slime quest), Immortality (proofreading)
 
 -hosting-
 
@@ -390,8 +393,8 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 LEGAL INFORMATION
 
 =============================================================================
-The BG1 Quests and Encounters Mod for Baldur's Gate � 2007 jastey. 
-This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. �Wizards of the Coast LLC.
+The BG1 Quests and Encounters Mod for Baldur's Gate © 2007 jastey. 
+This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 This mod is not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., the Wizards of the Coast, Overhaul Games or Beamdog. All other trademarks and copyrights are property of their respective owners.
 =============================================================================
 =============================================================================
@@ -404,12 +407,12 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 HISTORY
 
 Version 29:
--Turkish version added, by medic2000.
+-Turkish version added, by İlhan Bilaloğlu.
 -"Babysitting Quest": Ruffian fighters should only drop one axe +2.
 -Corrected charset_table entries for Fench, Italian, Polish, Spanish (fixed install error).
 
 Version 28:
--Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-Turkish version prepared, by İlhan Bilaloğlu. Need files in ANSI to unlock.
 -updated Simplified Chinese version and adjust file construction, by yoshimo0417.
 -loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
 -typo corrections.

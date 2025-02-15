@@ -1,180 +1,180 @@
-@0 = ~Selamlar, gezginler. Baldur GeÃ§idi'ne gidiyorum ve bela aramÄ±yorum.~
-@1 = ~Biz de bela aramÄ±yoruz.~
-@2 = ~Sizi uzaktan gÃ¶rdÃ¼ÄŸÃ¼mde yarÄ±-ork olduÄŸunuza yemin edebilirdim, ama gÃ¶rÃ¼nÃ¼ÅŸÃ¼nÃ¼zle uyuÅŸmuyor.~
-@3 = ~Ama ben biliyorum. BakalÄ±m senin gibi bir yeÅŸil derili nasÄ±l dÃ¶vÃ¼ÅŸebiliyor!~
-@4 = ~KonuÅŸkanlÄ±ÄŸÄ±mÄ± baÄŸÄ±ÅŸlayÄ±n. Ork mirasÄ±mÄ± gizleyemeyeceÄŸimi biliyorum ve bu bana geÃ§miÅŸte gereksiz yere pek Ã§ok tatsÄ±z karÅŸÄ±laÅŸma yaÅŸattÄ±.~
-@5 = ~Ä°yi o zaman, ÅŸimdi ayrÄ±lacaÄŸÄ±m ve sevgilimin beklediÄŸi Baldur GeÃ§idi'ne doÄŸru yoluma devam edeceÄŸim!~
-@6 = ~*iÃ§ geÃ§irir* Yine mi.~
+@0 = ~Selamlar, gezginler. Baldur Geçidi'ne gidiyorum ve bela aramıyorum.~
+@1 = ~Biz de bela aramıyoruz.~
+@2 = ~Sizi uzaktan gördüğümde yarı-ork olduğunuza yemin edebilirdim, ama görünüşünüzle uyuşmuyor.~
+@3 = ~Ama ben biliyorum. Bakalım senin gibi bir yeşil derili nasıl dövüşebiliyor!~
+@4 = ~Konuşkanlığımı bağışlayın. Ork mirasımı gizleyemeyeceğimi biliyorum ve bu bana geçmişte gereksiz yere pek çok tatsız karşılaşma yaşattı.~
+@5 = ~İyi o zaman, şimdi ayrılacağım ve sevgilimin beklediği Baldur Geçidi'ne doğru yoluma devam edeceğim!~
+@6 = ~*iç geçirir* Yine mi.~
 @7 = ~Ne demek istiyorsun?~
-@8 = ~Kes sesini ve savaÅŸ!~
-@9 = ~*iÃ§ geÃ§irir* Ä°Ã§memeliyim ve iÃ§meyeceÄŸim, ama bir iÃ§ki iÃ§meyi Ã§ok isterim.~
-@10 = ~Hey, seni tanÄ±mÄ±yor muyum? Nashkel'in kuzeyinde yolda karÅŸÄ±laÅŸtÄ±k.~
+@8 = ~Kes sesini ve savaş!~
+@9 = ~*iç geçirir* İçmemeliyim ve içmeyeceğim, ama bir içki içmeyi çok isterim.~
+@10 = ~Hey, seni tanımıyor muyum? Nashkel'in kuzeyinde yolda karşılaştık.~
 @11 = ~Ne oldu? ~
-@12 = ~AÅŸk hastasÄ± bir yarÄ±-ork...?~
-@13 = ~KonuÅŸmak iÃ§in zamanÄ±m yok.~
-@14 = ~Evet, devam et ve benimle dalga geÃ§. Ã‡ok haklÄ±sÄ±n...~
-@15 = ~Kesinlikle. Evet, seni hatÄ±rlÄ±yorum. Sana nereye gittiÄŸimi sÃ¶ylemiÅŸtim, deÄŸil mi?~
-@16 = ~Buraya gelirken kendime Ã§ok gÃ¼veniyordum. Gergindim belki, ama daha Ã§ok mutlu beklentilerimden dolayÄ±. Åimdi sevgilime gitmek yerine burada, ahÅŸap bir bankta oturuyorum.~
+@12 = ~Aşk hastası bir yarı-ork...?~
+@13 = ~Konuşmak için zamanım yok.~
+@14 = ~Evet, devam et ve benimle dalga geç. Çok haklısın...~
+@15 = ~Kesinlikle. Evet, seni hatırlıyorum. Sana nereye gittiğimi söylemiştim, değil mi?~
+@16 = ~Buraya gelirken kendime çok güveniyordum. Gergindim belki, ama daha çok mutlu beklentilerimden dolayı. Şimdi sevgilime gitmek yerine burada, ahşap bir bankta oturuyorum.~
 @17 = ~Neden? ~
 @18 = ~Korkuyor musun? ~
-@19 = ~Bu Ã§ok saÃ§ma, deÄŸil mi? Bir yarÄ±-ork mirasÄ± taÅŸÄ±yorum, iri ve gÃ¼Ã§lÃ¼yÃ¼m. Ama sevgilime yaklaÅŸmaya cesaret edemiyorum, Ã§Ã¼nkÃ¼ onun tepkisinden korkuyorum.~
-@20 = ~AnlamÄ±yorum. Neden?~
-@21 = ~Ama onunla zaten tanÄ±ÅŸtÄ±n, deÄŸil mi? ~
-@22 = ~Benim soyum aÃ§Ä±kÃ§a gÃ¶rÃ¼lebiliyor, bu da birÃ§ok insanda tiksinti ve gÃ¼vensizlik duygularÄ±na yol aÃ§Ä±yor. Ama sorunuzun iÃ§eriÄŸi bu deÄŸildi, deÄŸil mi?~
-@23 = ~Daha Ã¶nce hiÃ§ karÅŸÄ±laÅŸmadÄ±k. Ve sorun da tam olarak bu. TÃ¼m iletiÅŸim mektuplar ve gÃ¶nderdiÄŸimiz diÄŸer hediyeler aracÄ±lÄ±ÄŸÄ±yla gerÃ§ekleÅŸti. Ben... benim atalarÄ±m Ã§oÄŸunlukla insan, ama doÄŸanÄ±n bir garipliÄŸi nedeniyle, yarÄ±-ork soyum bende aÃ§Ä±kÃ§a gÃ¶rÃ¼lÃ¼yor. NiÅŸanlÄ±m mirasÄ±mÄ± biliyor ama bunun ne anlama geldiÄŸini gerÃ§ekten biliyor mu? Ne olduÄŸumu anladÄ±ÄŸÄ±nda yazÄ±ÅŸma ortaÄŸÄ±mÄ±n gÃ¶zlerinin soÄŸuk ve kÃ¼Ã§Ã¼mseyici bir hal almasÄ±ndan daha fazla korktuÄŸum bir ÅŸey yok.~
-@24 = ~EÄŸer zaten biliyorsa o zaman sorun olmaz.~
-@25 = ~Burada oturmaya devam edersen asla Ã¶ÄŸrenemeyeceksin!~
-@26 = ~Oraya gitmekten baÅŸka bir olasÄ±lÄ±k yok. BaÅŸka herhangi bir iletiÅŸim yolunu sÃ¼rdÃ¼rmek sadece gerÃ§ek anÄ±nÄ± erteleyecektir.~
-@27 = ~Ä°yi, orada haklÄ±sÄ±n. Yerinizde olsam Ã§ok korkardÄ±m.~
-@28 = ~Ben olsam oraya gitmezdim. Bir yarÄ±-ork ile ÅŸehirli bir kadÄ±nÄ±n mutlu bir iliÅŸki sÃ¼rdÃ¼rebileceÄŸini dÃ¼ÅŸÃ¼nemiyorum.~
-@29 = ~SÃ¶zleriniz ÅŸÃ¼phelerimi uyandÄ±rÄ±yor...~
-@30 = ~Dediklerin doÄŸru. Ancak ben zaten Ã§ok fazla hayal kÄ±rÄ±klÄ±ÄŸÄ± yaÅŸadÄ±m...~
-@31 = ~Bir sÃ¼re daha kalÄ±p bunu dÃ¼ÅŸÃ¼neceÄŸim.~
+@19 = ~Bu çok saçma, değil mi? Bir yarı-ork mirası taşıyorum, iri ve güçlüyüm. Ama sevgilime yaklaşmaya cesaret edemiyorum, çünkü onun tepkisinden korkuyorum.~
+@20 = ~Anlamıyorum. Neden?~
+@21 = ~Ama onunla zaten tanıştın, değil mi? ~
+@22 = ~Benim soyum açıkça görülebiliyor, bu da birçok insanda tiksinti ve güvensizlik duygularına yol açıyor. Ama sorunuzun içeriği bu değildi, değil mi?~
+@23 = ~Daha önce hiç karşılaşmadık. Ve sorun da tam olarak bu. Tüm iletişim mektuplar ve gönderdiğimiz diğer hediyeler aracılığıyla gerçekleşti. Ben... benim atalarım çoğunlukla insan, ama doğanın bir garipliği nedeniyle, yarı-ork soyum bende açıkça görülüyor. Nişanlım mirasımı biliyor ama bunun ne anlama geldiğini gerçekten biliyor mu? Ne olduğumu anladığında yazışma ortağımın gözlerinin soğuk ve küçümseyici bir hal almasından daha fazla korktuğum bir şey yok.~
+@24 = ~Eğer zaten biliyorsa o zaman sorun olmaz.~
+@25 = ~Burada oturmaya devam edersen asla öğrenemeyeceksin!~
+@26 = ~Oraya gitmekten başka bir olasılık yok. Başka herhangi bir iletişim yolunu sürdürmek sadece gerçek anını erteleyecektir.~
+@27 = ~İyi, orada haklısın. Yerinizde olsam çok korkardım.~
+@28 = ~Ben olsam oraya gitmezdim. Bir yarı-ork ile şehirli bir kadının mutlu bir ilişki sürdürebileceğini düşünemiyorum.~
+@29 = ~Sözleriniz şüphelerimi uyandırıyor...~
+@30 = ~Dediklerin doğru. Ancak ben zaten çok fazla hayal kırıklığı yaşadım...~
+@31 = ~Bir süre daha kalıp bunu düşüneceğim.~
 @32 = ~Ah, yine sensin.~
-@33 = ~Ã‡ok korktum, Ã§ok yazÄ±k! Buraya gelebilmek iÃ§in ne canavarlarla savaÅŸtÄ±m, ne zor iÅŸler yaptÄ±m? Ve ÅŸimdi sevgilime bu kadar yakÄ±nken, kendi korkularÄ±ma yenik dÃ¼ÅŸÃ¼yorum ve ona yaklaÅŸmaya cesaret edemiyorum.~
-@34 = ~Åu anda kendiniz hakkÄ±nda alÃ§akgÃ¶nÃ¼llÃ¼lÃ¼kle konuÅŸurken Ã§ok Ã§ekici gÃ¶rÃ¼nÃ¼yorsunuz. Bunu biliyor muydun?~
-@35 = ~Bu ilk temas iÃ§in duygularÄ±nÄ± Ã§elikleÅŸtirmelisin. Size ilk bakÄ±ÅŸÄ± gÃ¶rmek istediÄŸiniz hayranlÄ±ÄŸÄ± gÃ¶stermezse cesaretinizin kÄ±rÄ±lmasÄ±na izin vermeyin. AkrabalarÄ±nÄ±n sizi rencide edici sÃ¶zlerine karÅŸÄ± kulaklarÄ±nÄ±zÄ± tÄ±kayÄ±n. Her ÅŸey zaman alÄ±r, bunu iyi biliyorsun.~
-@36 = ~Åimdiye kadar gÃ¶sterdiÄŸiniz azmi gÃ¶z Ã¶nÃ¼nde bulundurursak, gerÃ§ekten pes etmeyi dÃ¼ÅŸÃ¼nmÃ¼yorsunuz, deÄŸil mi?~
-@37 = ~EÄŸer bu kadar korkaksan, belki de gitmesen daha iyi olur.~
-@38 = ~Sadece burada oturmaya devam et... Eminim bu arada baÅŸka birini bulacaktÄ±r.~
-@39 = ~Asla iÅŸe yaramaz. GerÃ§ekÃ§i olun ve Ã¼lkenize dÃ¶nÃ¼n, her neresi olursa olsun. Eminim gelecekteki Bayan YarÄ±-Ork zaten bekliyordur.~
-@40 = ~Ben korkak deÄŸilim! Ben...~
-@41 = ~Åimdi ona gideceÄŸim. Beni ikna ettiniz! KorkularÄ±m yenildi ve onunla tanÄ±ÅŸmak iÃ§in sabÄ±rsÄ±zlanÄ±yorum. Ama belki... Ã¶nce iyi bir yÄ±kandÄ±ktan sonra...~
-@42 = ~TeÅŸekkÃ¼r ederim, dostum. Elveda. ~
-@43 = ~Onun hakkÄ±nda bÃ¶yle konuÅŸmaya cÃ¼ret etme! Onu tanÄ±mÄ±yorsun bile. Hassas ve gÃ¶rdÃ¼ÄŸÃ¼m en iyi mizah anlayÄ±ÅŸÄ±na sahip. O...~
-@44 = ~SaÃ§malÄ±k! BuradayÄ±m, Ã§Ã¼nkÃ¼ gÃ¶rÃ¼lecek bir yerde â€œBayan YarÄ±m-Orkâ€ yoktu. Ben...~
-@45 = ~Evet, elbette. Bir yarÄ±-orkla iÃ§sel korkularÄ± hakkÄ±nda konuÅŸmaktan daha Ã¶nemli ÅŸeyler var. Ã–zellikle de bu yarÄ±-ork buraya geliÅŸ amacÄ±nÄ± yerine getirmek yerine bu tavernada oturarak Ã§ok fazla zaman geÃ§irdiÄŸi iÃ§in. Ben...~
-@46 = ~Ne... Bu Ã§ok tatlÄ±ydÄ±. EÄŸer bir yabancÄ±dan bÃ¶yle iltifatlar alÄ±yorsam, niÅŸanlÄ±mÄ±n da bÃ¶yle dÃ¼ÅŸÃ¼nme ihtimali yÃ¼ksek olabilir.~
-@47 = ~Evet, neden bahsettiÄŸinizi Ã§ok iyi biliyorum. Hedeflerime ancak Ã§ok Ã§alÄ±ÅŸarak ve mÃ¼cadele ederek, asla pes etmeyerek ulaÅŸabileceÄŸimi... Ä°lk tepkilerden korkmamam gerektiÄŸini daha iyi bilmeliyim. Ben...~
-@48 = ~Ã‡ok mutluyum!~
-@49 = ~Kusura bakmayÄ±n ama konuÅŸmak iÃ§in vaktimiz yok.~
-@50 = ~Ne istiyorsunuz? BÃ¼yÃ¼k bir kutlama hazÄ±rlÄ±yoruz ve fazla vaktimiz yok. Bize izin verirseniz...~
+@33 = ~Çok korktum, çok yazık! Buraya gelebilmek için ne canavarlarla savaştım, ne zor işler yaptım? Ve şimdi sevgilime bu kadar yakınken, kendi korkularıma yenik düşüyorum ve ona yaklaşmaya cesaret edemiyorum.~
+@34 = ~Şu anda kendiniz hakkında alçakgönüllülükle konuşurken çok çekici görünüyorsunuz. Bunu biliyor muydun?~
+@35 = ~Bu ilk temas için duygularını çelikleştirmelisin. Size ilk bakışı görmek istediğiniz hayranlığı göstermezse cesaretinizin kırılmasına izin vermeyin. Akrabalarının sizi rencide edici sözlerine karşı kulaklarınızı tıkayın. Her şey zaman alır, bunu iyi biliyorsun.~
+@36 = ~Şimdiye kadar gösterdiğiniz azmi göz önünde bulundurursak, gerçekten pes etmeyi düşünmüyorsunuz, değil mi?~
+@37 = ~Eğer bu kadar korkaksan, belki de gitmesen daha iyi olur.~
+@38 = ~Sadece burada oturmaya devam et... Eminim bu arada başka birini bulacaktır.~
+@39 = ~Asla işe yaramaz. Gerçekçi olun ve ülkenize dönün, her neresi olursa olsun. Eminim gelecekteki Bayan Yarı-Ork zaten bekliyordur.~
+@40 = ~Ben korkak değilim! Ben...~
+@41 = ~Şimdi ona gideceğim. Beni ikna ettiniz! Korkularım yenildi ve onunla tanışmak için sabırsızlanıyorum. Ama belki... önce iyi bir yıkandıktan sonra...~
+@42 = ~Teşekkür ederim, dostum. Elveda. ~
+@43 = ~Onun hakkında böyle konuşmaya cüret etme! Onu tanımıyorsun bile. Hassas ve gördüğüm en iyi mizah anlayışına sahip. O...~
+@44 = ~Saçmalık! Buradayım, çünkü görülecek bir yerde “Bayan Yarım-Ork” yoktu. Ben...~
+@45 = ~Evet, elbette. Bir yarı-orkla içsel korkuları hakkında konuşmaktan daha önemli şeyler var. Özellikle de bu yarı-ork buraya geliş amacını yerine getirmek yerine bu tavernada oturarak çok fazla zaman geçirdiği için. Ben...~
+@46 = ~Ne... Bu çok tatlıydı. Eğer bir yabancıdan böyle iltifatlar alıyorsam, nişanlımın da böyle düşünme ihtimali yüksek olabilir.~
+@47 = ~Evet, neden bahsettiğinizi çok iyi biliyorum. Hedeflerime ancak çok çalışarak ve mücadele ederek, asla pes etmeyerek ulaşabileceğimi... İlk tepkilerden korkmamam gerektiğini daha iyi bilmeliyim. Ben...~
+@48 = ~Çok mutluyum!~
+@49 = ~Kusura bakmayın ama konuşmak için vaktimiz yok.~
+@50 = ~Ne istiyorsunuz? Büyük bir kutlama hazırlıyoruz ve fazla vaktimiz yok. Bize izin verirseniz...~
 @51 = ~Ne istiyorsunuz? ~
-@52 = ~Orklarla sorun yaÅŸadÄ±ÄŸÄ±nÄ±zÄ± duydum. YardÄ±ma ihtiyacÄ±nÄ±z var mÄ±? ~
-@53 = ~Seni tehdit eden canavarlar nerede? Onlarla savaÅŸacaÄŸÄ±m!~
-@54 = ~HiÃ§bir ÅŸey. Ä°yi gÃ¼nler.~
-@55 = ~Dokuz cehennem adÄ±na, bu hiÃ§ durmayacak mÄ±?!~
+@52 = ~Orklarla sorun yaşadığınızı duydum. Yardıma ihtiyacınız var mı? ~
+@53 = ~Seni tehdit eden canavarlar nerede? Onlarla savaşacağım!~
+@54 = ~Hiçbir şey. İyi günler.~
+@55 = ~Dokuz cehennem adına, bu hiç durmayacak mı?!~
 //@56
-@57 = ~Sert Ã¼slubumu baÄŸÄ±ÅŸlayÄ±n ama bu durum beni gerÃ§ekten rahatsÄ±z etmeye baÅŸladÄ±. Sorunuza cevap vermek gerekirse: hayÄ±r, yarÄ±-orklarla veya eve saldÄ±ran, kÄ±zÄ±mÄ± soyan veya duymuÅŸ olabileceÄŸiniz benzer ÅŸeylerle ilgili herhangi bir sorunumuz yok, hiÃ§bir zaman da olmadÄ±. Sadece ork kÃ¶kenli olan damadÄ±m kÄ±zÄ±mla dÃ¼ÄŸÃ¼nÃ¼nÃ¼ kutluyor. Åu anda balayÄ±ndalar... Neyse ki...~
-@58 = ~Beni yanlÄ±ÅŸ anlamayÄ±n. Ã‡abalarÄ±nÄ±zÄ± ve yardÄ±m etme isteÄŸinizi takdir ediyorum. Ancak bir Ã§uval altÄ±n kazanabileceklerini dÃ¼ÅŸÃ¼nerek evime dadanan bu maceraperestleri durdurmak iÃ§in ne yapmam gerektiÄŸi konusunda hiÃ§bir fikrim yok. Buraya gelen ilk kiÅŸi sen deÄŸilsin!~
-@59 = ~Ä°zinsizliÄŸimi baÄŸÄ±ÅŸlayÄ±n o zaman. Hemen gideceÄŸim.~
-@60 = ~Uguth'tan bahsediyorsun, deÄŸil mi? Onunla tanÄ±ÅŸtÄ±m. Burada hoÅŸ karÅŸÄ±lanÄ±p karÅŸÄ±lanmayacaÄŸÄ±ndan emin deÄŸildi.~
-@61 = ~Sevgili tanrÄ±lar, yoldayÄ±m.~
-@62 = ~Ah? Åey, ilk baÅŸta gÃ¶rÃ¼nÃ¼ÅŸÃ¼ bizi ÅŸaÅŸÄ±rttÄ±, bu doÄŸru. Ama o gerÃ§ekten iyi bir delikanlÄ±. Buralardaki bazÄ± Ã§ocuklardan daha terbiyeli olduÄŸu kesin. YeÅŸil tenli ve kaÅŸ Ã§Ä±kÄ±ntÄ±lÄ± torun dÃ¼ÅŸÃ¼ncesine alÄ±ÅŸacaÄŸÄ±mdan eminim... bir gÃ¼n...~
-@63 = ~UmarÄ±m kÄ±zÄ±m ÅŸu anda olduÄŸu kadar mutlu kalÄ±r.~
-@64 = ~Duydun mu? ElfÅŸarkÄ±sÄ± yakÄ±nlarÄ±ndaki bir evde ork saldÄ±rÄ±sÄ± olmuÅŸ ve bir kÄ±z yaralanmÄ±ÅŸ! Åehrin ortasÄ±nda, bunu hayal edebiliyor musun?~
+@57 = ~Sert üslubumu bağışlayın ama bu durum beni gerçekten rahatsız etmeye başladı. Sorunuza cevap vermek gerekirse: hayır, yarı-orklarla veya eve saldıran, kızımı soyan veya duymuş olabileceğiniz benzer şeylerle ilgili herhangi bir sorunumuz yok, hiçbir zaman da olmadı. Sadece ork kökenli olan damadım kızımla düğününü kutluyor. Şu anda balayındalar... Neyse ki...~
+@58 = ~Beni yanlış anlamayın. Çabalarınızı ve yardım etme isteğinizi takdir ediyorum. Ancak bir çuval altın kazanabileceklerini düşünerek evime dadanan bu maceraperestleri durdurmak için ne yapmam gerektiği konusunda hiçbir fikrim yok. Buraya gelen ilk kişi sen değilsin!~
+@59 = ~İzinsizliğimi bağışlayın o zaman. Hemen gideceğim.~
+@60 = ~Uguth'tan bahsediyorsun, değil mi? Onunla tanıştım. Burada hoş karşılanıp karşılanmayacağından emin değildi.~
+@61 = ~Sevgili tanrılar, yoldayım.~
+@62 = ~Ah? Şey, ilk başta görünüşü bizi şaşırttı, bu doğru. Ama o gerçekten iyi bir delikanlı. Buralardaki bazı çocuklardan daha terbiyeli olduğu kesin. Yeşil tenli ve kaş çıkıntılı torun düşüncesine alışacağımdan eminim... bir gün...~
+@63 = ~Umarım kızım şu anda olduğu kadar mutlu kalır.~
+@64 = ~Duydun mu? Elfşarkısı yakınlarındaki bir evde ork saldırısı olmuş ve bir kız yaralanmış! Şehrin ortasında, bunu hayal edebiliyor musun?~
 //@65
-@66 = ~Ne istiyorsun? LÃ¼tfen kocamla konuÅŸun.~
-@67 = ~Sen! NiÅŸanlÄ±mÄ± Ã¶ldÃ¼rdÃ¼n. Åimdi seni Ã¶ldÃ¼receÄŸim!~
-@68 = ~Sen! NiÅŸanlÄ±mÄ±n ailesini Ã¶ldÃ¼rdÃ¼n. Åimdi seni Ã¶ldÃ¼receÄŸim!~
-@69 = ~LÃ¼tfen bizi yalnÄ±z bÄ±rakÄ±n. BÃ¼yÃ¼k bir kayÄ±ptan muzdaribiz ve bu konuda konuÅŸmaya niyetimiz yok.~
-@70 = ~Bu dÃ¼nyada adalet yok.~
+@66 = ~Ne istiyorsun? Lütfen kocamla konuşun.~
+@67 = ~Sen! Nişanlımı öldürdün. Şimdi seni öldüreceğim!~
+@68 = ~Sen! Nişanlımın ailesini öldürdün. Şimdi seni öldüreceğim!~
+@69 = ~Lütfen bizi yalnız bırakın. Büyük bir kayıptan muzdaribiz ve bu konuda konuşmaya niyetimiz yok.~
+@70 = ~Bu dünyada adalet yok.~
 
 
 // --NPC tepkileri
 
 
 //[Imoen]
-@71 = ~Yani... sevgilisinin yanÄ±na gelmemesinin asÄ±l nedeni kendi kÄ±sÄ±tlamasÄ± mÄ±ydÄ±?~
+@71 = ~Yani... sevgilisinin yanına gelmemesinin asıl nedeni kendi kısıtlaması mıydı?~
 //[Imoen]
-@72 = ~Hm, belki de bunu sÃ¶ylemek iÃ§in Ã§ok erken. Bu kesinlikle onun Ã¼stesinden gelmesi gereken *ilk* sorunuydu.~
+@72 = ~Hm, belki de bunu söylemek için çok erken. Bu kesinlikle onun üstesinden gelmesi gereken *ilk* sorunuydu.~
 //[Garrick]
-@73 = ~Oh, bu kesinlikle romantik bir potansiyele sahip. GÃ¼Ã§lÃ¼ ama Ã§irkin yarÄ±-ork, doÄŸuÅŸtan asil ve nazik bir zihin...~
+@73 = ~Oh, bu kesinlikle romantik bir potansiyele sahip. Güçlü ama çirkin yarı-ork, doğuştan asil ve nazik bir zihin...~
 //[Imoen] (Garrick)
 @74 = ~Evet, bunun kesinlikle potansiyeli var.~
 //[Alora] (Garrick)
-@75 = ~BÃ¶yle bir masalÄ± dinlerdim, Garrick.~
+@75 = ~Böyle bir masalı dinlerdim, Garrick.~
 //[Safana] (Garrick)
-@76 = ~Sadece onu yakÄ±ÅŸÄ±klÄ± bir prense dÃ¶nÃ¼ÅŸtÃ¼ren Ã¶pÃ¼cÃ¼ÄŸÃ¼ iÃ§eriyorsa.~
+@76 = ~Sadece onu yakışıklı bir prense dönüştüren öpücüğü içeriyorsa.~
 //[Skie] (Garrick)
-@77 = ~Ewww, ilk Ã¶pÃ¼ÅŸmelerini hayal edin...~
+@77 = ~Ewww, ilk öpüşmelerini hayal edin...~
 //[Skie] (Garrick) (Dorn)
-@78 = ~Er, alÄ±nma Dorn.~
+@78 = ~Er, alınma Dorn.~
 //[Eldoth]
-@79 = ~Bu romantik masal, yakÄ±ÅŸÄ±klÄ± prensin Ã§irkin canavarÄ± avlamasÄ±yla sona erebilir.~
+@79 = ~Bu romantik masal, yakışıklı prensin çirkin canavarı avlamasıyla sona erebilir.~
 //[Skie] (Eldoth)
-@80 = ~Oh, *bu* hikayedeki Ã¶pÃ¼cÃ¼ÄŸÃ¼ kesinlikle seviyorum!~
+@80 = ~Oh, *bu* hikayedeki öpücüğü kesinlikle seviyorum!~
 //[Alora]
-@81 = ~TavrÄ±nÄ± gerÃ§ekten sevdim.~
+@81 = ~Tavrını gerçekten sevdim.~
 //[Jaheira]
-@82 = ~Ebeveynlerinin ikisi de insan gÃ¶rÃ¼nÃ¼mÃ¼nde mi? BazÄ±... doÄŸa kazalarÄ±nÄ± aÃ§Ä±klamak zordur. ~
+@82 = ~Ebeveynlerinin ikisi de insan görünümünde mi? Bazı... doğa kazalarını açıklamak zordur. ~
 //[Imoen] (Jaheira)
-@83 = ~Beklenen dengeyi bozuyor, deÄŸil mi Jaheira?~
+@83 = ~Beklenen dengeyi bozuyor, değil mi Jaheira?~
 //[Jaheira] (Imoen)
-@84 = ~Ä°yi... evet.~
+@84 = ~İyi... evet.~
 //[Faldorn]
-@85 = ~DoÄŸada dengesizlik diye bir ÅŸey yoktur. AtalarÄ± Ä±rklarÄ± karÄ±ÅŸtÄ±rdÄ±klarÄ±nda onun ortaya Ã§Ä±kma riskini aldÄ±lar. ~
+@85 = ~Doğada dengesizlik diye bir şey yoktur. Ataları ırkları karıştırdıklarında onun ortaya çıkma riskini aldılar. ~
 //[Kivan]
-@86 = ~Bu adam gÃ¼Ã§lÃ¼ ama huzurluydu. Onun gibi daha Ã§ok insan olsaydÄ± dÃ¼nya daha iyi bir yer olurdu.~
+@86 = ~Bu adam güçlü ama huzurluydu. Onun gibi daha çok insan olsaydı dünya daha iyi bir yer olurdu.~
 //[Dorn]
-@87 = ~yarÄ±-ork mirasÄ±nÄ±n olduÄŸu gibi gÃ¶rÃ¼nmesi utanÃ§ verici.~
+@87 = ~yarı-ork mirasının olduğu gibi görünmesi utanç verici.~
 //[Neera] (Dorn)
-@88 = ~Ne? Senden bÃ¶yle bir aÃ§Ä±klama duyacaÄŸÄ±mÄ± dÃ¼ÅŸÃ¼nmezdim, Dorn.~
+@88 = ~Ne? Senden böyle bir açıklama duyacağımı düşünmezdim, Dorn.~
 //[Dorn]
-@89 = ~DoÄŸanÄ±n kÃ¶tÃ¼ bir ÅŸakasÄ±dÄ±r. yarÄ±-ork gibi gÃ¶rÃ¼nÃ¼yor ama bir ork gibi savaÅŸmak zorunda kalÄ±rsa asla ayakta duramaz. O benim Ä±rkÄ±m iÃ§in bir utanÃ§ kaynaÄŸÄ±. ~
+@89 = ~Doğanın kötü bir şakasıdır. yarı-ork gibi görünüyor ama bir ork gibi savaşmak zorunda kalırsa asla ayakta duramaz. O benim ırkım için bir utanç kaynağı. ~
 //[Neera] (Dorn)
-@90 = ~Ah, ÅŸimdi yorumunuz mantÄ±klÄ± gelmeye baÅŸladÄ±... Ã§ok Dornvari bir dÃ¼ÅŸÃ¼nce tarzÄ±yla...~
+@90 = ~Ah, şimdi yorumunuz mantıklı gelmeye başladı... çok Dornvari bir düşünce tarzıyla...~
 //[Rasaad] (Dorn)
-@91 = ~Dorn, bunu bilmiyorsun, deÄŸil mi?~
+@91 = ~Dorn, bunu bilmiyorsun, değil mi?~
 //[Dorn] (Rasaad)
-@92 = ~ZayÄ±f olduÄŸunu gÃ¶rmek iÃ§in onunla dÃ¶vÃ¼ÅŸmeme gerek yok. Silah yok!~
+@92 = ~Zayıf olduğunu görmek için onunla dövüşmeme gerek yok. Silah yok!~
 //[Rasaad] (Dorn)
-@93 = ~Herkesin savaÅŸmak iÃ§in silaha ihtiyacÄ± yoktur.~
+@93 = ~Herkesin savaşmak için silaha ihtiyacı yoktur.~
 //[Dorn] (Rasaad)
-@94 = ~Hareket etme ÅŸekli. O bir savaÅŸÃ§Ä± deÄŸildi.~
+@94 = ~Hareket etme şekli. O bir savaşçı değildi.~
 //[Rasaad] (Dorn)
-@95 = ~Hareket etme ÅŸekli... KatÄ±lÄ±yorum, o da keÅŸiÅŸ deÄŸildi. Ama konu bu deÄŸil.~
+@95 = ~Hareket etme şekli... Katılıyorum, o da keşiş değildi. Ama konu bu değil.~
 //[Rasaad]
-@96 = ~Ä°lk izlenime gÃ¶re yargÄ±lamamak insanlarÄ±n asla ulaÅŸamayacaÄŸÄ± bir idealdir. Bu adamÄ±n taÅŸÄ±masÄ± gereken aÄŸÄ±r bir yÃ¼k var. ~
+@96 = ~İlk izlenime göre yargılamamak insanların asla ulaşamayacağı bir idealdir. Bu adamın taşıması gereken ağır bir yük var. ~
 //[Neera]
-@97 = ~GÃ¶rÃ¼nÃ¼ÅŸÃ¼nÃ¼ze gÃ¶re yargÄ±lanmak zor olmalÄ±.~
+@97 = ~Görünüşünüze göre yargılanmak zor olmalı.~
 //[Safana]
-@98 = ~*iÃ§ geÃ§irir* GÃ¶rÃ¼nÃ¼ÅŸÃ¼mÃ¼zle yargÄ±lanmak... Bu hepimizin paylaÅŸmasÄ± gereken bir kader deÄŸil mi?~
+@98 = ~*iç geçirir* Görünüşümüzle yargılanmak... Bu hepimizin paylaşması gereken bir kader değil mi?~
 //[Neera] (Safana)
-@99 = ~Bir dereceye kadar, belki, ama ben yapmadÄ±m... BoÅŸ ver.~
+@99 = ~Bir dereceye kadar, belki, ama ben yapmadım... Boş ver.~
 //[Imoen]
-@100 = ~ZavallÄ± adam. UmarÄ±m aradÄ±ÄŸÄ± ÅŸeyi bulur.~
+@100 = ~Zavallı adam. Umarım aradığı şeyi bulur.~
 //[Xan]
-@101 = ~Ne saflÄ±k! Bu... adam gerÃ§ekten *bu* hayatta... aÅŸkÄ± ve huzuru bulacaÄŸÄ±na inanÄ±yor mu?~
+@101 = ~Ne saflık! Bu... adam gerçekten *bu* hayatta... aşkı ve huzuru bulacağına inanıyor mu?~
 //[Imoen] (Xan)
-@102 = ~Xan, belki de onu Ã¶rnek almalÄ±sÄ±nÄ±z.~
+@102 = ~Xan, belki de onu örnek almalısınız.~
 //[Xan] (Imoen)
-@103 = ~ Ä°Ã§tenlikle yapmamalÄ±yÄ±m, Imoen. ZamanÄ±mÄ± bir hayalperest olarak geÃ§irerek *hiÃ§* bir iÅŸe yaramayacaÄŸÄ±m kesin!~
+@103 = ~ İçtenlikle yapmamalıyım, Imoen. Zamanımı bir hayalperest olarak geçirerek *hiç* bir işe yaramayacağım kesin!~
 //[Imoen] (Xan)
-@104 = ~Åu anda daha Ã§ok gece-gÃ¼ndÃ¼z dÃ¼ÅŸkÃ¼nÃ¼ gibisin... Oh, peki, unut gitsin.~
+@104 = ~Şu anda daha çok gece-gündüz düşkünü gibisin... Oh, peki, unut gitsin.~
 //[Xan] (Imoen)
-@105 = ~*iÃ§ geÃ§irir* Unutuyorsun genÃ§ insan, bir elf zihni asla unutmaz. Asla.~
+@105 = ~*iç geçirir* Unutuyorsun genç insan, bir elf zihni asla unutmaz. Asla.~
 //[Imoen] (Xan)
-@106 = ~Oh, gerÃ§ekten mi? GeÃ§enlerde bu melodiyi arÄ±yordum. ÅarkÄ±yÄ± biliyor musun? Bana sÃ¶zlerini sÃ¶yleyebilir misin? ÅÃ¶yle *bir melodi mÄ±rÄ±ldanÄ±yor.*~
+@106 = ~Oh, gerçekten mi? Geçenlerde bu melodiyi arıyordum. Şarkıyı biliyor musun? Bana sözlerini söyleyebilir misin? Şöyle *bir melodi mırıldanıyor.*~
 //[Xan] (Imoen)
-@107 = ~Arvanaith'in yÃ¼ce tanrÄ±larÄ±... beni hemen size gÃ¶tÃ¼rÃ¼n!~
+@107 = ~Arvanaith'in yüce tanrıları... beni hemen size götürün!~
 //[Imoen] (Xan)
-@108 = ~Er, hayÄ±r, bu doÄŸru sÃ¶zler deÄŸildi. Kafiyeli bile deÄŸildi!~
+@108 = ~Er, hayır, bu doğru sözler değildi. Kafiyeli bile değildi!~
 //[Xan] (Imoen)
-@109 = ~*iÃ§ geÃ§irir*~
+@109 = ~*iç geçirir*~
 //[Ajantis]
-@110 = ~Bu iyi adama her ÅŸeyin en iyisini diliyorum. Hayat onun iÃ§in kolay olmadÄ±. ~
+@110 = ~Bu iyi adama her şeyin en iyisini diliyorum. Hayat onun için kolay olmadı. ~
 //[Dynaheir]
 @111 = ~Yolu huzurlu olsun.~
 //[Xzar]
-@112 = ~Yolu barÄ±ÅŸla, hayatÄ± uyumla ve falanla filanla dolu olsun!~
+@112 = ~Yolu barışla, hayatı uyumla ve falanla filanla dolu olsun!~
 //[Montaron] (Xzar)
-@113 = ~Åimdi baÅŸardÄ±n Xzar, gÃ¶zlerim yaÅŸardÄ±.~
+@113 = ~Şimdi başardın Xzar, gözlerim yaşardı.~
 //[Kagain]
-@114 = ~Belki de onu takip etmeliyiz... ve hak ettiÄŸi selamlamayÄ± aldÄ±ÄŸÄ±ndan emin olmalÄ±yÄ±z!~
+@114 = ~Belki de onu takip etmeliyiz... ve hak ettiği selamlamayı aldığından emin olmalıyız!~
 //[Dorn] (Kagain)
-@115 = ~Ve bu ne olurdu, cÃ¼ce?~
+@115 = ~Ve bu ne olurdu, cüce?~
 //[Kagain] (Dorn)
-@116 = ~Oh, hadi, Blackguard. SilahÄ±nÄ± bunun Ã¼zerinde denemek istemeyeceÄŸinden deÄŸil.~
+@116 = ~Oh, hadi, Blackguard. Silahını bunun üzerinde denemek istemeyeceğinden değil.~
 //[Safana]
-@117 = ~NasÄ±l bir kadÄ±n kendini bÃ¶yle bir... yaratÄ±ÄŸa vaat eder. AlnÄ±ndaki Ã§Ä±kÄ±ntÄ±larÄ± gÃ¶rdÃ¼n mÃ¼? ~
+@117 = ~Nasıl bir kadın kendini böyle bir... yaratığa vaat eder. Alnındaki çıkıntıları gördün mü? ~
 //[Coran]
-@118 = ~GerÃ§ek aÅŸkÄ± gÃ¶rdÃ¼ÄŸÃ¼mde tanÄ±rÄ±m. Bu adam aÅŸÄ±ktÄ± ve kur yaptÄ±ÄŸÄ± kadÄ±n bunun sadece yarÄ±sÄ±nÄ± hissederse, sonsuza dek mutlu yaÅŸayacaklar.~
+@118 = ~Gerçek aşkı gördüğümde tanırım. Bu adam aşıktı ve kur yaptığı kadın bunun sadece yarısını hissederse, sonsuza dek mutlu yaşayacaklar.~
 
 //[Imoen]
-@119 = ~Ona ne sÃ¶ylersen sÃ¶yle niÅŸanlÄ±sÄ±na gideceÄŸini dÃ¼ÅŸÃ¼nen tek kiÅŸi ben miyim, <KARAKTER ADI>?~
+@119 = ~Ona ne söylersen söyle nişanlısına gideceğini düşünen tek kişi ben miyim, <KARAKTER ADI>?~
 
 
-/* yeni iÃ§erik v10 */
+/* yeni içerik v10 */
 
-@120 = ~AynÄ± soydan olduÄŸumuzu gÃ¶rÃ¼yorum, tabiri caizse. Ama bu da dostÃ§a bir karÅŸÄ±laÅŸmanÄ±n garantisi deÄŸil... AlÄ±nmak yok. ~
+@120 = ~Aynı soydan olduğumuzu görüyorum, tabiri caizse. Ama bu da dostça bir karşılaşmanın garantisi değil... Alınmak yok. ~

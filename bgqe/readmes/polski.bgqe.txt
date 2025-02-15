@@ -4,190 +4,190 @@
 						autorstwa jastey
 
 
-Jest to modyfikacja do BGT, BG:EE lub EET, która wprowadza do gry kilka ma³ych zadañ oraz spotkañ. Oryginalne BG1 bez dodatku "Opowieœci z Wybrze¿a Mieczy" oficjalnie nie jest ju¿ wspierane, ale mod powinien i w takim przypadku dzia³aæ. 
+Jest to modyfikacja do BGT, BG:EE lub EET, ktÃ³ra wprowadza do gry kilka maÂ³ych zadaÃ± oraz spotkaÃ±. Oryginalne BG1 bez dodatku "OpowieÅ“ci z WybrzeÂ¿a Mieczy" oficjalnie nie jest juÂ¿ wspierane, ale mod powinien i w takim przypadku dziaÂ³aÃ¦. 
 
-Czas przejœcia modyfikacji wynosi ³¹cznie oko³o 30-60 minut, zale¿nie od stylu gry.
+Czas przejÅ“cia modyfikacji wynosi Â³Â¹cznie okoÂ³o 30-60 minut, zaleÂ¿nie od stylu gry.
 
-Od wydania wersji 9 modu "Rozszerzenie spotkania z Bjorninem" zosta³o przeniesione do modyfikacji RE BG1 (Romantic Encounters for BG1), gdzie lepiej pasuje.
+Od wydania wersji 9 modu "Rozszerzenie spotkania z Bjorninem" zostaÂ³o przeniesione do modyfikacji RE BG1 (Romantic Encounters for BG1), gdzie lepiej pasuje.
 
-Mod nale¿y instalowaæ przed BG1NPC Project. W przeciwnym razie pewne opcje odpowiedzi bêd¹ niewidoczne.
+Mod naleÂ¿y instalowaÃ¦ przed BG1NPC Project. W przeciwnym razie pewne opcje odpowiedzi bÃªdÂ¹ niewidoczne.
 
-Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a" jako wstêpny warunek przy³¹czenia Brage'a do dru¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. Uwaga: w przypadku instalacji obu modów BGQE musi byæ zainstalowane przed "Brage's Redemption".
+Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a" jako wstÃªpny warunek przyÂ³Â¹czenia Brage'a do druÂ¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazÃ³wki i wpisy do dziennika. Zaleca siÃª zainstalowanie "Brage's Redemption" dla zapoznania siÃª z nowÂ¹ zawartoÅ“ciÂ¹, ale nie jest to wymagane do rozegrania zadania. Uwaga: w przypadku instalacji obu modÃ³w BGQE musi byÃ¦ zainstalowane przed "Brage's Redemption".
  
 
-ZAWARTOŒÆ
+ZAWARTOÅ’Ã†
 
 1. Przygoda ze Szlamem (bgqe_slimequest)
 ------
-Komponent wprowadza nowy quest na obszarze Beregostu. Jeœli przejdziecie ko³o jednego z domów w pó³nocno-zachodniej czêœci Beregostu, zaczepi was na czerwono ubrana kobieta. Coœ dziwnego dzieje siê w domu jej s¹siada i kobieta prosi was o pomoc...
+Komponent wprowadza nowy quest na obszarze Beregostu. JeÅ“li przejdziecie koÂ³o jednego z domÃ³w w pÃ³Â³nocno-zachodniej czÃªÅ“ci Beregostu, zaczepi was na czerwono ubrana kobieta. CoÅ“ dziwnego dzieje siÃª w domu jej sÂ¹siada i kobieta prosi was o pomoc...
 
-To wydanie zawiera zrewidowan¹ wersjê komponentu, by unikn¹æ problemów z kompatybilnoœci¹; dodaje równie¿ z³e zakoñczenie zadania.
+To wydanie zawiera zrewidowanÂ¹ wersjÃª komponentu, by uniknÂ¹Ã¦ problemÃ³w z kompatybilnoÅ“ciÂ¹; dodaje rÃ³wnieÂ¿ zÂ³e zakoÃ±czenie zadania.
 
 
-2. K³ótnia Rodzinna w Beregoœcie (bgqe_familyquest)
+2. KÂ³Ã³tnia Rodzinna w BeregoÅ“cie (bgqe_familyquest)
 ------
-Quest równie¿ rozgrywa siê w Beregoœcie, w s¹siednim domu wobec "Przygody ze Szlamem". Jeœli wejdziecie do pewnego domu w pó³nocno-zachodniej czêœci miasta, spotkacie dziwne ma³¿eñstwo. Chocia¿ maj¹ powa¿ne problemy, nie rozmawiaj¹ ze sob¹ od d³u¿szego czasu. Z wami te¿ nie bêd¹ chcieli rozmawiaæ o swoich problemach, ale mimo to wydaje siê mo¿liwe rozwi¹zanie zagadki i pomoc tej rodzinie. Albo mo¿ecie ich oszukaæ, rujnuj¹c ich kompletnie...
+Quest rÃ³wnieÂ¿ rozgrywa siÃª w BeregoÅ“cie, w sÂ¹siednim domu wobec "Przygody ze Szlamem". JeÅ“li wejdziecie do pewnego domu w pÃ³Â³nocno-zachodniej czÃªÅ“ci miasta, spotkacie dziwne maÂ³Â¿eÃ±stwo. ChociaÂ¿ majÂ¹ powaÂ¿ne problemy, nie rozmawiajÂ¹ ze sobÂ¹ od dÂ³uÂ¿szego czasu. Z wami teÂ¿ nie bÃªdÂ¹ chcieli rozmawiaÃ¦ o swoich problemach, ale mimo to wydaje siÃª moÂ¿liwe rozwiÂ¹zanie zagadki i pomoc tej rodzinie. Albo moÂ¿ecie ich oszukaÃ¦, rujnujÂ¹c ich kompletnie...
 
 
-3. Opieka nad Dzieæmi w Nashkel, zawiera spotkanie na Jarmarku (bgqe_babysitting)
+3. Opieka nad DzieÃ¦mi w Nashkel, zawiera spotkanie na Jarmarku (bgqe_babysitting)
 ------
-Quest rozgrywa siê w Nashkel. Widzicie zrozpaczon¹ kobietê z dwójk¹ ma³ych dzieci? Ma coœ wa¿nego do za³atwienia i pilnie potrzebuje kogoœ, kto zaopiekuje siê jej dzieæmi w tym czasie. Przeszliœcie wiele niebezpieczeñstw i zabiliœcie mrowie potworów... ale czy jesteœcie odpowiednio uzbrojeni na to zadanie? 
+Quest rozgrywa siÃª w Nashkel. Widzicie zrozpaczonÂ¹ kobietÃª z dwÃ³jkÂ¹ maÂ³ych dzieci? Ma coÅ“ waÂ¿nego do zaÂ³atwienia i pilnie potrzebuje kogoÅ“, kto zaopiekuje siÃª jej dzieÃ¦mi w tym czasie. PrzeszliÅ“cie wiele niebezpieczeÃ±stw i zabiliÅ“cie mrowie potworÃ³w... ale czy jesteÅ“cie odpowiednio uzbrojeni na to zadanie? 
 
-Quest da siê rozwi¹zaæ, je¿eli g³ówna postaæ jest paladynem lub reputacja dru¿yny wy¿sza ni¿ 12. Z³e postacie mog¹ zastraszyæ kobietê, co doprowadzi do dalszych konsekwencji.
+Quest da siÃª rozwiÂ¹zaÃ¦, jeÂ¿eli gÂ³Ã³wna postaÃ¦ jest paladynem lub reputacja druÂ¿yny wyÂ¿sza niÂ¿ 12. ZÂ³e postacie mogÂ¹ zastraszyÃ¦ kobietÃª, co doprowadzi do dalszych konsekwencji.
 
-Na jarmarku spotkacie m³od¹ kobietê imieniem Tina. Pilnie potrzebuje pieniêdzy i szuka pracy... przynajmniej tak mówi.
+Na jarmarku spotkacie mÂ³odÂ¹ kobietÃª imieniem Tina. Pilnie potrzebuje pieniÃªdzy i szuka pracy... przynajmniej tak mÃ³wi.
 
 
-4. Potwór w Nashkel (bgqe_nashkelmonster)
+4. PotwÃ³r w Nashkel (bgqe_nashkelmonster)
 ------
-W pobli¿u szlacheckiej rezydencji w Nashkel nadarzy siê okazja uratowania ma³ego Armina z paszczy potwora. Za taki czyn mo¿ecie byæ pewni wdziêcznoœci rodziców... prawda?
+W pobliÂ¿u szlacheckiej rezydencji w Nashkel nadarzy siÃª okazja uratowania maÂ³ego Armina z paszczy potwora. Za taki czyn moÂ¿ecie byÃ¦ pewni wdziÃªcznoÅ“ci rodzicÃ³w... prawda?
 
-Dorêczyciela, który pomyli³ przesy³ki zawieraj¹ce jaja mo¿na spotkaæ w dalszej czêœci gry. Jeden z jego klientów jest bardzo, bardzo niezadowolony z tego, co mu dostarczono, obaj zaœ uciesz¹ siê na twój widok.
+DorÃªczyciela, ktÃ³ry pomyliÂ³ przesyÂ³ki zawierajÂ¹ce jaja moÂ¿na spotkaÃ¦ w dalszej czÃªÅ“ci gry. Jeden z jego klientÃ³w jest bardzo, bardzo niezadowolony z tego, co mu dostarczono, obaj zaÅ“ ucieszÂ¹ siÃª na twÃ³j widok.
 
 
-5. Upad³y Paladyn we Wrotach Baldura (bgqe_fallenpaladin)
+5. UpadÂ³y Paladyn we Wrotach Baldura (bgqe_fallenpaladin)
 ------
-W pó³nocnej czêœci miasta, w œwi¹tyni Helma, ukry³ siê z³y, upad³y paladyn. Bez wahania zaszlachtowa³ ma³¹ dziewczynkê... Tak przynajmniej twierdz¹ wzburzeni ludzie zebrani przed œwi¹tyni¹.
+W pÃ³Â³nocnej czÃªÅ“ci miasta, w Å“wiÂ¹tyni Helma, ukryÂ³ siÃª zÂ³y, upadÂ³y paladyn. Bez wahania zaszlachtowaÂ³ maÂ³Â¹ dziewczynkÃª... Tak przynajmniej twierdzÂ¹ wzburzeni ludzie zebrani przed Å“wiÂ¹tyniÂ¹.
 
 
-6. Nieœmiertelna Mi³oœæ w Wiosce Rybackiej (bgqe_undyinglove)
+6. NieÅ“miertelna MiÂ³oÅ“Ã¦ w Wiosce Rybackiej (bgqe_undyinglove)
 ------
-Przestraszona kobieta w jednym z domów rybackiej wioski twierdzi, ¿e za jej domem przebywa potwór i jej zagra¿a. Mo¿e powinniœcie sprawdziæ...
+Przestraszona kobieta w jednym z domÃ³w rybackiej wioski twierdzi, Â¿e za jej domem przebywa potwÃ³r i jej zagraÂ¿a. MoÂ¿e powinniÅ“cie sprawdziÃ¦...
 
 
-7. Zakochany Pó³ork (bgqe_orclover)
+7. Zakochany PÃ³Â³ork (bgqe_orclover)
 ------
-Na trakcie na pó³noc od Nashkel spotkacie Ugutha, z wygl¹du ewidentnie potomka pó³orka. Jest w drodze do Wrót Baldura, do swojej ukochanej... i musi jeszcze przezwyciê¿yæ pewne przeszkody, nim bêdzie rzeczywiœcie móg³ j¹ wzi¹æ w ramiona.
+Na trakcie na pÃ³Â³noc od Nashkel spotkacie Ugutha, z wyglÂ¹du ewidentnie potomka pÃ³Â³orka. Jest w drodze do WrÃ³t Baldura, do swojej ukochanej... i musi jeszcze przezwyciÃªÂ¿yÃ¦ pewne przeszkody, nim bÃªdzie rzeczywiÅ“cie mÃ³gÂ³ jÂ¹ wziÂ¹Ã¦ w ramiona.
 
 
 8. Nieoczekiwana Pomoc (bgqe_unexpectedhelp)
 ------
-W szpitalu Candlekeep przebywa pogr¹¿ony w myœlach sir Trun. Zosta³ ciê¿ko ranny w ostatniej walce, ale to wydaje siê go mniej martwiæ ni¿ fakt, ¿e prze¿y³ tylko dziêki nieoczekiwanej pomocy. Mo¿e coœ wiêcej wie Linda, lekko zdesperowana kobieta w gospodzie Candlekeep...
-Ten quest jest dostêpny zarówno w prologu, jak i póŸniej, po powrocie do Candlekeep. Uwaga: poniewa¿ wiêkszoœæ graczy wykonuje to zadanie podczas prologu, nie przewidziano w nim reakcji cz³onków dru¿yny.
+W szpitalu Candlekeep przebywa pogrÂ¹Â¿ony w myÅ“lach sir Trun. ZostaÂ³ ciÃªÂ¿ko ranny w ostatniej walce, ale to wydaje siÃª go mniej martwiÃ¦ niÂ¿ fakt, Â¿e przeÂ¿yÂ³ tylko dziÃªki nieoczekiwanej pomocy. MoÂ¿e coÅ“ wiÃªcej wie Linda, lekko zdesperowana kobieta w gospodzie Candlekeep...
+Ten quest jest dostÃªpny zarÃ³wno w prologu, jak i pÃ³Å¸niej, po powrocie do Candlekeep. Uwaga: poniewaÂ¿ wiÃªkszoÅ“Ã¦ graczy wykonuje to zadanie podczas prologu, nie przewidziano w nim reakcji czÂ³onkÃ³w druÂ¿yny.
 
-Uwaga: "Rozszerzenie spotkania z Bjorninem" zosta³o przeniesione do "bg1re: Romantic Encounters for BG1", gdzie lepiej pasuje. 
+Uwaga: "Rozszerzenie spotkania z Bjorninem" zostaÂ³o przeniesione do "bg1re: Romantic Encounters for BG1", gdzie lepiej pasuje. 
 
 
-9. Wiele Ma³ych £apek (bgqe_manypaws)
+9. Wiele MaÂ³ych Â£apek (bgqe_manypaws)
 ------
-Zadanie pomyœlane by³o pierwotnie jako easter egg. Teraz chcia³am przynajmniej wskazaæ graczom, ¿e ono w ogóle istnieje. Upewnij siê, ¿e masz w dru¿ynie Minsca podczas rozmowy ze sprzedawc¹ na Jarmarku Nashkel. Dalej wszystko potoczy siê samo - obiecujê!
+Zadanie pomyÅ“lane byÂ³o pierwotnie jako easter egg. Teraz chciaÂ³am przynajmniej wskazaÃ¦ graczom, Â¿e ono w ogÃ³le istnieje. Upewnij siÃª, Â¿e masz w druÂ¿ynie Minsca podczas rozmowy ze sprzedawcÂ¹ na Jarmarku Nashkel. Dalej wszystko potoczy siÃª samo - obiecujÃª!
 
 Spoiler:
-Sprzedawca zwierz¹t pojawi siê ponownie po trzech dniach czasu gry na trzecim poziomie gospody "Pod Pomocn¹ D³oni¹".
+Sprzedawca zwierzÂ¹t pojawi siÃª ponownie po trzech dniach czasu gry na trzecim poziomie gospody "Pod PomocnÂ¹ DÂ³oniÂ¹".
 
 
-10. Pijak w Pobli¿u Œwi¹tyni w Beregoœcie (bgqe_drunk)
+10. Pijak w PobliÂ¿u Å’wiÂ¹tyni w BeregoÅ“cie (bgqe_drunk)
 ------
-Poinformuj kap³anów w œwi¹tyni w Beregoœcie o pijanym niedosz³ym liczu, by mogli go popilnowaæ!
+Poinformuj kapÂ³anÃ³w w Å“wiÂ¹tyni w BeregoÅ“cie o pijanym niedoszÂ³ym liczu, by mogli go popilnowaÃ¦!
 
 
 11. Schronienie Dla Noobera (bgqe_noober)
 ------
-Po oko³o trzech dniach od pierwszego spotkania z Nooberem w Nashkel mo¿na go spotkaæ ponownie, ale tym razem pozbawionego g³osu! Pomó¿ mu znaleŸæ jakieœ schronienie, by tam odzyska³ zdrowie, jak równie¿ znalaz³ zastosowanie dla swojej nieustannej paplaniny.
+Po okoÂ³o trzech dniach od pierwszego spotkania z Nooberem w Nashkel moÂ¿na go spotkaÃ¦ ponownie, ale tym razem pozbawionego gÂ³osu! PomÃ³Â¿ mu znaleÅ¸Ã¦ jakieÅ“ schronienie, by tam odzyskaÂ³ zdrowie, jak rÃ³wnieÂ¿ znalazÂ³ zastosowanie dla swojej nieustannej paplaniny.
 
 
 12. Miecz Brage'a (nie dla oryginalnego BG1) (bgqe_bragesword)
 ------
-Ten komponent daje graczowi mo¿liwoœæ udowodnienia, ¿e Brage pad³ ofiar¹ intrygi, a tak¿e ocalenia go od szubienicy, jeœli taka jest wola gracza. Jest te¿ oczywiœcie opcja wykonania zadania przeznaczona dla z³ych postaci.
-Brage musi zostaæ dostarczony ¿ywy do Nashkel. Modyfikacja dodaje te¿ mo¿liwoœæ wydania go Oublekowi (tj. w³adzom Nashkel). Jest to niedokoñczona zawartoœæ z oryginalnej gry (by mieæ tê mo¿liwoœæ, zwróæ uwagê na kolejnoœæ instalacji podan¹ powy¿ej).
+Ten komponent daje graczowi moÂ¿liwoÅ“Ã¦ udowodnienia, Â¿e Brage padÂ³ ofiarÂ¹ intrygi, a takÂ¿e ocalenia go od szubienicy, jeÅ“li taka jest wola gracza. Jest teÂ¿ oczywiÅ“cie opcja wykonania zadania przeznaczona dla zÂ³ych postaci.
+Brage musi zostaÃ¦ dostarczony Â¿ywy do Nashkel. Modyfikacja dodaje teÂ¿ moÂ¿liwoÅ“Ã¦ wydania go Oublekowi (tj. wÂ³adzom Nashkel). Jest to niedokoÃ±czona zawartoÅ“Ã¦ z oryginalnej gry (by mieÃ¦ tÃª moÂ¿liwoÅ“Ã¦, zwrÃ³Ã¦ uwagÃª na kolejnoÅ“Ã¦ instalacji podanÂ¹ powyÂ¿ej).
 
-Zadanie dotycz¹ce miecza Brage'a rozpoczyna siê od rozmowy z Oublekiem po doprowadzeniu Brage'a ¿ywego do Nashkel.
+Zadanie dotyczÂ¹ce miecza Brage'a rozpoczyna siÃª od rozmowy z Oublekiem po doprowadzeniu Brage'a Â¿ywego do Nashkel.
 
-Uwaga: Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a", jako wstêpny warunek przy³¹czenia Brage'a do dru¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. BGQE musi byæ zainstalowane przed "Brage's Redemption". BGQE powinno byæ te¿ zainstalowane przed BG1NPC Project, inaczej niektóre z dodanych odpowiedzi Brage'a oraz Bordy siê nie wyœwietl¹.
+Uwaga: Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a", jako wstÃªpny warunek przyÂ³Â¹czenia Brage'a do druÂ¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazÃ³wki i wpisy do dziennika. Zaleca siÃª zainstalowanie "Brage's Redemption" dla zapoznania siÃª z nowÂ¹ zawartoÅ“ciÂ¹, ale nie jest to wymagane do rozegrania zadania. BGQE musi byÃ¦ zainstalowane przed "Brage's Redemption". BGQE powinno byÃ¦ teÂ¿ zainstalowane przed BG1NPC Project, inaczej niektÃ³re z dodanych odpowiedzi Brage'a oraz Bordy siÃª nie wyÅ“wietlÂ¹.
 
 ***** Spoiler *****
-- Kupiec Borda (postaæ z oryginalnej gry) odgrywa rolê w tym zadaniu. Normalnie mo¿na go spotkaæ w lokacji z wiosk¹ xvartów. W zale¿noœci od stadium zadania gracz mo¿e go spotkaæ w³aœnie tam. Je¿eli gracz spotka³ go ju¿ wczeœniej, dojdzie do drugiego spotkania. 
-- Miecz Brage'a równie¿ odgrywa wa¿n¹ rolê. W pewnym momencie nalezy go pokazaæ Nalinowi. Potem jest ju¿ zbêdny dla fabu³y modu (i mo¿e byæ np. u¿yty przez Thalantyr's Item Upgrade Mod). 
-- Zadanie mo¿e zostaæ ukoñczone przed oczyszczeniem Kopalñ Nashkel. W przypadku, gdy Laryssa, kuzynka Brage'a, zosta³a zabita przy pierwszym spotkaniu, ostatni¹ wskazówkê wymagan¹ do ukoñczenia zadania bêdzie mo¿na znaleŸæ nie wczeœniej ni¿ w namiocie Tazoka.
+- Kupiec Borda (postaÃ¦ z oryginalnej gry) odgrywa rolÃª w tym zadaniu. Normalnie moÂ¿na go spotkaÃ¦ w lokacji z wioskÂ¹ xvartÃ³w. W zaleÂ¿noÅ“ci od stadium zadania gracz moÂ¿e go spotkaÃ¦ wÂ³aÅ“nie tam. JeÂ¿eli gracz spotkaÂ³ go juÂ¿ wczeÅ“niej, dojdzie do drugiego spotkania. 
+- Miecz Brage'a rÃ³wnieÂ¿ odgrywa waÂ¿nÂ¹ rolÃª. W pewnym momencie nalezy go pokazaÃ¦ Nalinowi. Potem jest juÂ¿ zbÃªdny dla fabuÂ³y modu (i moÂ¿e byÃ¦ np. uÂ¿yty przez Thalantyr's Item Upgrade Mod). 
+- Zadanie moÂ¿e zostaÃ¦ ukoÃ±czone przed oczyszczeniem KopalÃ± Nashkel. W przypadku, gdy Laryssa, kuzynka Brage'a, zostaÂ³a zabita przy pierwszym spotkaniu, ostatniÂ¹ wskazÃ³wkÃª wymaganÂ¹ do ukoÃ±czenia zadania bÃªdzie moÂ¿na znaleÅ¸Ã¦ nie wczeÅ“niej niÂ¿ w namiocie Tazoka.
 
 
 13. Legalne Pozyskanie Map Morskich (nie dla oryginalnego BG1) (bgqe_seacharts)
 -------
-Ten komponent dodaje dwie dodatkowe mo¿liwoœci zdobycia map morskich potrzebnych do wykonania zadania dla Mendasa i wyruszenia w rejs na Wyspê Baldurana. Oba sposoby zostaj¹ zainstalowane. 
-13.A wg pomys³u Lumorusa: Je¿eli gracz pomóg³ Aldethowi Sashenstarowi zarówno w Kniei Otulisko, jak równie¿ w w Lidze Kupieckiej, bêdzie on bardzo zainteresowany poszukiwaniem artefaktów zwi¹zanych z Balduranem. Pomo¿e graczowi w uzyskaniu map morskich bez koniecznoœci ich kradzie¿y albo upicia kapitana Kieresa.
-13.B CALABALD (= Calahan + Balduran's Island) wg pomys³u Shuv-Oohl: Calahan z Brody Ulgotha nie by³by prawdziwym marynarzem, gdyby nie mia³ w³asnych map morskich. Ale nie ma niczego za darmo... Gracz z odpowiedni¹ iloœci¹ pieniêdzy ma teraz mo¿liwoœæ podró¿y na Wyspê Baldurana bez odwiedzin we Wrotach Baldura.
+Ten komponent dodaje dwie dodatkowe moÂ¿liwoÅ“ci zdobycia map morskich potrzebnych do wykonania zadania dla Mendasa i wyruszenia w rejs na WyspÃª Baldurana. Oba sposoby zostajÂ¹ zainstalowane. 
+13.A wg pomysÂ³u Lumorusa: JeÂ¿eli gracz pomÃ³gÂ³ Aldethowi Sashenstarowi zarÃ³wno w Kniei Otulisko, jak rÃ³wnieÂ¿ w w Lidze Kupieckiej, bÃªdzie on bardzo zainteresowany poszukiwaniem artefaktÃ³w zwiÂ¹zanych z Balduranem. PomoÂ¿e graczowi w uzyskaniu map morskich bez koniecznoÅ“ci ich kradzieÂ¿y albo upicia kapitana Kieresa.
+13.B CALABALD (= Calahan + Balduran's Island) wg pomysÂ³u Shuv-Oohl: Calahan z Brody Ulgotha nie byÂ³by prawdziwym marynarzem, gdyby nie miaÂ³ wÂ³asnych map morskich. Ale nie ma niczego za darmo... Gracz z odpowiedniÂ¹ iloÅ“ciÂ¹ pieniÃªdzy ma teraz moÂ¿liwoÅ“Ã¦ podrÃ³Â¿y na WyspÃª Baldurana bez odwiedzin we Wrotach Baldura.
 
 
-14. Dodatki Dotycz¹ce Domu Pani Oraz Œwi¹tyni Królowej Suki (bgqe_waterqueentemple)
+14. Dodatki DotyczÂ¹ce Domu Pani Oraz Å’wiÂ¹tyni KrÃ³lowej Suki (bgqe_waterqueentemple)
 -------
-Komponent rozszerza zadania z oryginalnej gry zwi¹zane z Domem Pani Wód, jedno dotycz¹ce martwego syna kap³ana Tremaina, a drugie - zwoju zdejmuj¹cego geas z Lothandera.
-14.A Powstrzymaj Jalanthê przed pope³nieniem g³upstwa (i zatrzymaj dla siebie Wolumin Zrozumienia), wg pomys³u Lumorusa: arcykap³anka Królowej Wód domaga siê Woluminu Zrozumienia w zamian za zdjêcie geasu z Lothandera. Ale czy naprawdê tego chce? Gracz mo¿e teraz poddaæ w w¹tpliwoœæ, czy Umberlee by³aby zadowolona z faktu, ¿e ceremonia tylko dlatego dosz³a do skutku, ¿e jej kap³anka pos³u¿y³a siê m¹droœci¹ pochodz¹c¹ od innej bogini... 
-14.B Wydanie Tremaina œwi¹tyni Tymory: w oryginalnej grze Tremain prosi nas o odzyskanie cia³a swojego syna ze œwi¹tyni Umberlee, by móg³ go wskrzesiæ. Dziêki temu komponentowi gracz ma teraz mo¿liwoœæ zdradziæ Tremaina i zanieœæ zw³oki jego syna do Domu Pani. 
+Komponent rozszerza zadania z oryginalnej gry zwiÂ¹zane z Domem Pani WÃ³d, jedno dotyczÂ¹ce martwego syna kapÂ³ana Tremaina, a drugie - zwoju zdejmujÂ¹cego geas z Lothandera.
+14.A Powstrzymaj JalanthÃª przed popeÂ³nieniem gÂ³upstwa (i zatrzymaj dla siebie Wolumin Zrozumienia), wg pomysÂ³u Lumorusa: arcykapÂ³anka KrÃ³lowej WÃ³d domaga siÃª Woluminu Zrozumienia w zamian za zdjÃªcie geasu z Lothandera. Ale czy naprawdÃª tego chce? Gracz moÂ¿e teraz poddaÃ¦ w wÂ¹tpliwoÅ“Ã¦, czy Umberlee byÂ³aby zadowolona z faktu, Â¿e ceremonia tylko dlatego doszÂ³a do skutku, Â¿e jej kapÂ³anka posÂ³uÂ¿yÂ³a siÃª mÂ¹droÅ“ciÂ¹ pochodzÂ¹cÂ¹ od innej bogini... 
+14.B Wydanie Tremaina Å“wiÂ¹tyni Tymory: w oryginalnej grze Tremain prosi nas o odzyskanie ciaÂ³a swojego syna ze Å“wiÂ¹tyni Umberlee, by mÃ³gÂ³ go wskrzesiÃ¦. DziÃªki temu komponentowi gracz ma teraz moÂ¿liwoÅ“Ã¦ zdradziÃ¦ Tremaina i zanieÅ“Ã¦ zwÂ³oki jego syna do Domu Pani. 
 
 
-15. Zaniepokojony Rolnik (nie dla oryginalnego BG1) (bgqe_worriedfarmer), wg pomys³u Lumorusa oraz White Agnusa
+15. Zaniepokojony Rolnik (nie dla oryginalnego BG1) (bgqe_worriedfarmer), wg pomysÂ³u Lumorusa oraz White Agnusa
 -------
-W Beregoœcie i Nashkel kr¹¿¹ pog³oski wœród kilku farmerów (w tym momencie tylko jedna czêœæ tego komponentu zosta³a wykonana). Porozmawiaj z pewnym farmerem z Beregostu, który opowie o dziwnych odg³osach, jakie s³yszy nocami w swoim ogrodzie. Nastêpnie poprosi on o zbadanie tej sprawy.
+W BeregoÅ“cie i Nashkel krÂ¹Â¿Â¹ pogÂ³oski wÅ“rÃ³d kilku farmerÃ³w (w tym momencie tylko jedna czÃªÅ“Ã¦ tego komponentu zostaÂ³a wykonana). Porozmawiaj z pewnym farmerem z Beregostu, ktÃ³ry opowie o dziwnych odgÂ³osach, jakie sÂ³yszy nocami w swoim ogrodzie. NastÃªpnie poprosi on o zbadanie tej sprawy.
 
 
-16. Zw³oki w Szczytnym Celu (bgqe_bodiesforgoodcause), wg pomys³u Lumorusa oraz White Agnusa
+16. ZwÂ³oki w Szczytnym Celu (bgqe_bodiesforgoodcause), wg pomysÂ³u Lumorusa oraz White Agnusa
 -------
-Ten komponent rozgrywa siê we Wrotach Baldura i skupia siê na ochronie œrodowiska. :D
-Przynieœ nekromancie Sylarowi cia³a z miejskich kana³ów, które pos³u¿¹ mu do specjalnych eksperymentów.
+Ten komponent rozgrywa siÃª we Wrotach Baldura i skupia siÃª na ochronie Å“rodowiska. :D
+PrzynieÅ“ nekromancie Sylarowi ciaÂ³a z miejskich kanaÂ³Ã³w, ktÃ³re posÂ³uÂ¿Â¹ mu do specjalnych eksperymentÃ³w.
 
 
-17. Ukoñczenie Zadania Cordyra Bez Zabijania Sil, wg pomys³u Lumorusa
+17. UkoÃ±czenie Zadania Cordyra Bez Zabijania Sil, wg pomysÂ³u Lumorusa
 -------
 Ten komponent zmienia zadanie Cordyra na dwa sposoby:
-- Drzwi do jego domu bêd¹ otwarte i ka¿da postaæ gracza, niezale¿nie od reputacji, bêdzie mog³a dostaæ co wykonania zadanie rozprawienia siê z sirinami, które przejê³y ³owiska Cordyra.
-- Konflikt mo¿na teraz rozwi¹zaæ bez koniecznoœci zabicia Sil i pozosta³ych sirin.
+- Drzwi do jego domu bÃªdÂ¹ otwarte i kaÂ¿da postaÃ¦ gracza, niezaleÂ¿nie od reputacji, bÃªdzie mogÂ³a dostaÃ¦ co wykonania zadanie rozprawienia siÃª z sirinami, ktÃ³re przejÃªÂ³y Â³owiska Cordyra.
+- Konflikt moÂ¿na teraz rozwiÂ¹zaÃ¦ bez koniecznoÅ“ci zabicia Sil i pozostaÂ³ych sirin.
 
-Komponent jest kompatybilny ze zmianami dotycz¹cymi Sil i jej sirin, które wprowadzaj¹ takie mody jak "BG1 Romantic Encounters" oraz "Lure of Sirine's Call".
+Komponent jest kompatybilny ze zmianami dotyczÂ¹cymi Sil i jej sirin, ktÃ³re wprowadzajÂ¹ takie mody jak "BG1 Romantic Encounters" oraz "Lure of Sirine's Call".
 
 
 
 INSTALACJA
 
 BG:EE
-Je¿eli korzystasz z BG Enhanced Edition w wersjach z GOG lub Steam, bêdziesz musia³ u¿yæ któregoœ z poni¿szych narzêdzi przed instalacj¹ jakichkolwiek modów:
+JeÂ¿eli korzystasz z BG Enhanced Edition w wersjach z GOG lub Steam, bÃªdziesz musiaÂ³ uÂ¿yÃ¦ ktÃ³regoÅ“ z poniÂ¿szych narzÃªdzi przed instalacjÂ¹ jakichkolwiek modÃ³w:
 https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
 
-lub (przestarza³e narzêdzie)
+lub (przestarzaÂ³e narzÃªdzie)
 https://forums.beamdog.com/discussion/50441/modmerge-merge-your-steam-gog-zip-based-dlc-into-something-weidu-nearinfinity-dltcep-can-use/p1
 
 
 Dla wszystkich wersji (Windows, Mac OS X, Linux):
 
-Dla bezpieczeñstwa nale¿y przed instalacj¹ sporz¹dziæ kopiê zapasow¹ swojej instalacji gry.
+Dla bezpieczeÃ±stwa naleÂ¿y przed instalacjÂ¹ sporzÂ¹dziÃ¦ kopiÃª zapasowÂ¹ swojej instalacji gry.
 
-Zawartoœæ archiwum modu rozpakuj do g³ównego folderu gry (Baldur's Gate, BGT, BG1Tutu / EasyTutu lub BG:EE. Rozpoznanie rodzaju instalacji nast¹pi automatycznie.)
+ZawartoÅ“Ã¦ archiwum modu rozpakuj do gÂ³Ã³wnego folderu gry (Baldur's Gate, BGT, BG1Tutu / EasyTutu lub BG:EE. Rozpoznanie rodzaju instalacji nastÂ¹pi automatycznie.)
 
-Uwaga: W przypadku BG:EE wa¿ne jest zainstalowanie dodatku w takiej wersji jêzykowej, w której zainstalowana jest gra. W przeciwnym razie w dialogach z modu mog¹ pojawiæ siê b³êdy. 
+Uwaga: W przypadku BG:EE waÂ¿ne jest zainstalowanie dodatku w takiej wersji jÃªzykowej, w ktÃ³rej zainstalowana jest gra. W przeciwnym razie w dialogach z modu mogÂ¹ pojawiÃ¦ siÃª bÂ³Ãªdy. 
 
 
 Windows
-Uruchom "setup-bgqe.exe" podwójnym klikniêciem. Wybierz wersjê jêzykow¹ i potwierdŸ rozpoczêcie instalacji. Teraz zostan¹ skopiowane niezbêdne dane i przeprowadzona instalacja. 
+Uruchom "setup-bgqe.exe" podwÃ³jnym klikniÃªciem. Wybierz wersjÃª jÃªzykowÂ¹ i potwierdÅ¸ rozpoczÃªcie instalacji. Teraz zostanÂ¹ skopiowane niezbÃªdne dane i przeprowadzona instalacja. 
 
 Mac OS X
-Upewnij siê, ¿e œci¹gn¹³eœ wersjê modu dla systemu Mac OS X. Po prawid³owym rozpakowaniu w g³ównym katalogu gry powinien znajdowaæ siê folder bgqe, setup-bgqe i setup-bgqe.command. Aby zainstalowaæ, kliknij dwukrotnie na setup-bgqe.command i postêpuj wed³ug instrukcji na ekranie.
+Upewnij siÃª, Â¿e Å“ciÂ¹gnÂ¹Â³eÅ“ wersjÃª modu dla systemu Mac OS X. Po prawidÂ³owym rozpakowaniu w gÂ³Ã³wnym katalogu gry powinien znajdowaÃ¦ siÃª folder bgqe, setup-bgqe i setup-bgqe.command. Aby zainstalowaÃ¦, kliknij dwukrotnie na setup-bgqe.command i postÃªpuj wedÂ³ug instrukcji na ekranie.
 
 Linux
-Upewnij siê, ¿e masz wersjê moda dla systemu Linux.
-Œci¹gnij najnowsz¹ wersjê WeiDU dla Linux z WeiDU.org i skopiuj WeiDU oraz WeInstall do /usr/bin. Nastepnie otwórz terminal, przejdŸ do katalogu instalacyjnego BG, uruchom 'tolower' i odpowiedz TAK (Y) na oba pytania. Mo¿esz pomin¹æ drug¹ opcjê (linux.ini), jeœli chocia¿ raz by³a ju¿ uruchamiana w tym katalogu. Dla zaoszczêdzenia czasu pliki archiwum sa juz "tolowered", wiêc nie ma potrzeby uruchamiania tak¿e pierwszej opcji (ustawienie ma³ych liter w nazwach plików), o ile rozpakowywa³eœ wy³¹cznie ten mod od czasu ostatniego uruchomienia opcji ustawienia ma³ych liter w nazwach plików. Je¿eli nie masz pewnoœci, najbezpieczniej jest uruchomiæ 'tolower' i wybraæ obie opcje.
-Uruchom WeInstall setup-bgqe w katalogu z gr¹, aby zainstalowaæ mod. Nastêpnie uruchom "wine BGMain.exe" i zacznij grê.
+Upewnij siÃª, Â¿e masz wersjÃª moda dla systemu Linux.
+Å’ciÂ¹gnij najnowszÂ¹ wersjÃª WeiDU dla Linux z WeiDU.org i skopiuj WeiDU oraz WeInstall do /usr/bin. Nastepnie otwÃ³rz terminal, przejdÅ¸ do katalogu instalacyjnego BG, uruchom 'tolower' i odpowiedz TAK (Y) na oba pytania. MoÂ¿esz pominÂ¹Ã¦ drugÂ¹ opcjÃª (linux.ini), jeÅ“li chociaÂ¿ raz byÂ³a juÂ¿ uruchamiana w tym katalogu. Dla zaoszczÃªdzenia czasu pliki archiwum sa juz "tolowered", wiÃªc nie ma potrzeby uruchamiania takÂ¿e pierwszej opcji (ustawienie maÂ³ych liter w nazwach plikÃ³w), o ile rozpakowywaÂ³eÅ“ wyÂ³Â¹cznie ten mod od czasu ostatniego uruchomienia opcji ustawienia maÂ³ych liter w nazwach plikÃ³w. JeÂ¿eli nie masz pewnoÅ“ci, najbezpieczniej jest uruchomiÃ¦ 'tolower' i wybraÃ¦ obie opcje.
+Uruchom WeInstall setup-bgqe w katalogu z grÂ¹, aby zainstalowaÃ¦ mod. NastÃªpnie uruchom "wine BGMain.exe" i zacznij grÃª.
 
 
-UWAGA: BG(II):EE to aktywnie wspierane gry. Miej na uwadze, ¿e ka¿da instalacja patcha usunie twoj¹ aktualn¹ konfiguracjê modów! W trakcie gry z modami mo¿esz uznaæ za stosowne, by opóŸniæ aktualizacjê gry, poniewa¿ nawet po przeinstalowaniu modów granie w dawne zapisy mo¿e siê okazaæ niemo¿liwe. 
+UWAGA: BG(II):EE to aktywnie wspierane gry. Miej na uwadze, Â¿e kaÂ¿da instalacja patcha usunie twojÂ¹ aktualnÂ¹ konfiguracjÃª modÃ³w! W trakcie gry z modami moÂ¿esz uznaÃ¦ za stosowne, by opÃ³Å¸niÃ¦ aktualizacjÃª gry, poniewaÂ¿ nawet po przeinstalowaniu modÃ³w granie w dawne zapisy moÂ¿e siÃª okazaÃ¦ niemoÂ¿liwe. 
 
 
-Aby móc rozegraæ dodatek w ca³oœci, nale¿y rozpocz¹æ now¹ grê, a przynajmniej nie wchodziæ wczeœniej na mapê ze œwi¹tyni¹ w Beregoœcie, inaczej wyst¹pi¹ b³êdy w zadaniu "Pijak w pobli¿u œwi¹tyni w Beregoœcie". 
+Aby mÃ³c rozegraÃ¦ dodatek w caÂ³oÅ“ci, naleÂ¿y rozpoczÂ¹Ã¦ nowÂ¹ grÃª, a przynajmniej nie wchodziÃ¦ wczeÅ“niej na mapÃª ze Å“wiÂ¹tyniÂ¹ w BeregoÅ“cie, inaczej wystÂ¹piÂ¹ bÂ³Ãªdy w zadaniu "Pijak w pobliÂ¿u Å“wiÂ¹tyni w BeregoÅ“cie". 
 
-Gdyby podczas instalacji wyst¹pi³y b³êdy, proszê zwróciæ siê do mnie przedstawiaj¹c zawartoœæ pliku "setup-log" na którymœ z wymienionych poni¿ej  forum:
+Gdyby podczas instalacji wystÂ¹piÂ³y bÂ³Ãªdy, proszÃª zwrÃ³ciÃ¦ siÃª do mnie przedstawiajÂ¹c zawartoÅ“Ã¦ pliku "setup-log" na ktÃ³rymÅ“ z wymienionych poniÂ¿ej  forum:
 
-Bezpoœrednie linki: 
+BezpoÅ“rednie linki: 
 Angielskie forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-mini-quests-and-encounters/
 
-Niemiecki w¹tek na Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
+Niemiecki wÂ¹tek na Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
 
-KOMPATYBILNOŒÆ 
+KOMPATYBILNOÅ’Ã† 
 
-Ta modyfikacja zosta³a utworzona z pomoc¹ instalatora WeiDU i nie nadpisuje istniej¹cych zasobów gry (a tylko dodaje now¹ zawartoœæ). Z technicznego punktu widzenia powinna zachowywaæ kompatybilnoœæ z wszystkimi innymi modami WeiDU.
+Ta modyfikacja zostaÂ³a utworzona z pomocÂ¹ instalatora WeiDU i nie nadpisuje istniejÂ¹cych zasobÃ³w gry (a tylko dodaje nowÂ¹ zawartoÅ“Ã¦). Z technicznego punktu widzenia powinna zachowywaÃ¦ kompatybilnoÅ“Ã¦ z wszystkimi innymi modami WeiDU.
 
-BG1NPC Project: komponent "Miecz Brage'a" musi byæ instalowany przed BG1NPC Project, ¿eby opcje odpowiedzi dodane przez BGQE wyœwietla³y siê prawid³owo.
+BG1NPC Project: komponent "Miecz Brage'a" musi byÃ¦ instalowany przed BG1NPC Project, Â¿eby opcje odpowiedzi dodane przez BGQE wyÅ“wietlaÂ³y siÃª prawidÂ³owo.
 
-Brage's Redemption: komponent "Miecz Brage'a" powinien by¿ zainstalowany przed Brage's Redemption. Mod ten dodaje to samo zadanie, ale rozszerza je o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. 
+Brage's Redemption: komponent "Miecz Brage'a" powinien byÂ¿ zainstalowany przed Brage's Redemption. Mod ten dodaje to samo zadanie, ale rozszerza je o dodatkowe wskazÃ³wki i wpisy do dziennika. Zaleca siÃª zainstalowanie "Brage's Redemption" dla zapoznania siÃª z nowÂ¹ zawartoÅ“ciÂ¹, ale nie jest to wymagane do rozegrania zadania. 
 
-Dla klasycznego BG1 mod powinien byæ kompatybilny z (co nie znaczy, ¿e wszystkie wymienione mody s¹ na pewno kompatybilne miêdzy sob¹):
+Dla klasycznego BG1 mod powinien byÃ¦ kompatybilny z (co nie znaczy, Â¿e wszystkie wymienione mody sÂ¹ na pewno kompatybilne miÃªdzy sobÂ¹):
 -BG1 Unfinished Business
 -BG1 Adventure and CoM Forge
 -BG1 Ajantis Expansion Mod
@@ -204,23 +204,23 @@ Dla klasycznego BG1 mod powinien byæ kompatybilny z (co nie znaczy, ¿e wszystkie
 
 ZNANE PROBLEMY
 
-- "Wiele ma³ych ³apek": niekiedy ch³opiec, który powinien wzi¹æ od nas wszystkie chomiki, zostawia nam jednego lub dwa, choæ za ka¿dym razem inne. (powinno byæ to naprawione w wersji 16)
+- "Wiele maÂ³ych Â³apek": niekiedy chÂ³opiec, ktÃ³ry powinien wziÂ¹Ã¦ od nas wszystkie chomiki, zostawia nam jednego lub dwa, choÃ¦ za kaÂ¿dym razem inne. (powinno byÃ¦ to naprawione w wersji 16)
 
-- "Miecz Brage'a" (BG:EE / EET): po sprowadzeniu Brage'a do Nashkel wpis w dzienniku "Historia kapitana Brage'a" mo¿e pozostaæ w dzienniku, ale bez tekstu. Z powodu b³êdu w silniku system dziennika nie kasuje tytu³ów nawet jeœli same wpisy zostan¹ usuniête. (byæ mo¿e zostanie to naprawione w wersji 2.5 gry)
+- "Miecz Brage'a" (BG:EE / EET): po sprowadzeniu Brage'a do Nashkel wpis w dzienniku "Historia kapitana Brage'a" moÂ¿e pozostaÃ¦ w dzienniku, ale bez tekstu. Z powodu bÂ³Ãªdu w silniku system dziennika nie kasuje tytuÂ³Ã³w nawet jeÅ“li same wpisy zostanÂ¹ usuniÃªte. (byÃ¦ moÂ¿e zostanie to naprawione w wersji 2.5 gry)
 
-- "Schronienie dla Noobera" (BG1:TotSC): mo¿e siê zdarzyæ, ¿e matka ¿ony Józefa œpi na pod³odze, a w ³ó¿ku zamiast niej pojawia losowa œpi¹ca kobieta. Po prostu trzeba sobie wyobraziæ, ¿e wdowa po Józefie okazuje wielkie serce potrzebuj¹cym.
+- "Schronienie dla Noobera" (BG1:TotSC): moÂ¿e siÃª zdarzyÃ¦, Â¿e matka Â¿ony JÃ³zefa Å“pi na podÂ³odze, a w Â³Ã³Â¿ku zamiast niej pojawia losowa Å“piÂ¹ca kobieta. Po prostu trzeba sobie wyobraziÃ¦, Â¿e wdowa po JÃ³zefie okazuje wielkie serce potrzebujÂ¹cym.
 
-- "Pijak w pobli¿u œwi¹tyni w Beregoœcie" (BG1:TotSC): pijany Polus wykonuje swój taniec, kiedy siê z nim porozmawia (upada na ziemie i wstaje po kilkanaœcie razy).
+- "Pijak w pobliÂ¿u Å“wiÂ¹tyni w BeregoÅ“cie" (BG1:TotSC): pijany Polus wykonuje swÃ³j taniec, kiedy siÃª z nim porozmawia (upada na ziemie i wstaje po kilkanaÅ“cie razy).
 
 
-++++++++++++++++ Bitte ab hier nicht übersetzen ++++++++++++++++++++++++++++++++
+++++++++++++++++ Bitte ab hier nicht Ã¼bersetzen ++++++++++++++++++++++++++++++++
 
 
 DANKSAGUNGEN
 
 Ich danke allen, die mir bei der Erstellung dieses Mods geholfen haben.
 
-Viel Spaß mit der Modifikation! 
+Viel SpaÃŸ mit der Modifikation! 
 
 -jastey
 
@@ -269,6 +269,8 @@ Hedian: alpha and beta testing, ideas for quest developpment / NPC-reactions
 
 hook71: proofreading of English translation
 
+Ä°lhan BilaloÄŸlu: Turkish translation
+
 ilot: Italian translation
 
 Jakkus: Italian translation
@@ -286,8 +288,6 @@ Lumorus: author, alpha and beta testing, ideas for quest developpment
 lzw104522773: Simplified Chinese translation
 
 Melmoth: Spanish translation
-
-medic2000: Turkish translation
 
 Miloch: alpha and beta testing, ideas for quest developpment / NPC-reactions, proofreading of English translation
 
@@ -338,12 +338,15 @@ Polish translation: Aristo and Zed Nocear
 Spanish translation:
 by Melmoth, revised and fixed by davoker (v26)
 full revised by ElGamerViejuno (v27)
+(v8) Excalibur (slime quest), Immortality (proofreading) 
 
 Simplified Chinese:
 by lzw104522773 (v27)
 updated by yoshimo0417 (v28)
 
--v8: Spanische Übersetzung: Excalibur (Schleimquest), Immortality (proofreading)
+Turkish translation:
+by Ä°lhan BilaloÄŸlu (v29)
+Baldur GeÃ§idi 2 Ã‡eviri ekibine selam olsun!
 
 
 -Hosten-
@@ -385,8 +388,8 @@ DLC Merger 				https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-
 LEGAL INFORMATION
 
 =================================================================================
-BG1 Quest and Encounters Modifikation for Baldur's Gate © 2007 jastey. 
-This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+BG1 Quest and Encounters Modifikation for Baldur's Gate Â© 2007 jastey. 
+This Mod is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Â©Wizards of the Coast LLC.
 BG1 Quest and encounters Modifikation is not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., the Wizards of the Coast, Overhaul Games or Beamdog. All other trademarks and copyrights are property of their respective owners.
 =================================================================================
 
@@ -401,12 +404,12 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 HISTORIE
 
 Version 29:
--Turkish version added, by medic2000.
+-Turkish version added, by Ä°lhan BilaloÄŸlu.
 -"Babysitting Quest": Ruffian fighters should only drop one axe +2.
 -Corrected charset_table entries for Fench, Italian, Polish, Spanish (fixed install error).
 
 Version 28:
--Turkish version prepared, by medic2000. Need files in ANSI to unlock.
+-Turkish version prepared, by Ä°lhan BilaloÄŸlu. Need files in ANSI to unlock.
 -updated Simplified Chinese version and adjust file construction, by yoshimo0417.
 -loot corrections. In BGT and EET: RNDTRE04 => RNDTRE08; In BGEE and EET: AX1H03 (Battle Axe of Mauletar +2) => AX1H11 (Generic axe +2)
 -typo corrections.
@@ -649,37 +652,37 @@ Version 0.x: English / German public releases.
 Schleim-Quest (former stand-alone version):
 
 Danksagungen:
-Rabain - Korrektur der englischen Übersetzung des Schleim-Quest, Einfügen des visuellen Effekts, generelle Hilfsbereitschaft!
+Rabain - Korrektur der englischen Ãœbersetzung des Schleim-Quest, EinfÃ¼gen des visuellen Effekts, generelle Hilfsbereitschaft!
 
-Zed Nocear - Polnische Übersetzung des Schleim-Quest (http://zed_nocear.webpark.pl/)
+Zed Nocear - Polnische Ãœbersetzung des Schleim-Quest (http://zed_nocear.webpark.pl/)
 
-weigo - BGT-Kompatibilität
+weigo - BGT-KompatibilitÃ¤t
 
-Iogan (A.E.R.I.E.ru) - Russische Übersetzung und eine Menge Verbesserungen, u.a. Korrekturen an Items und Skripten (Schleim-Quest)!
+Iogan (A.E.R.I.E.ru) - Russische Ãœbersetzung und eine Menge Verbesserungen, u.a. Korrekturen an Items und Skripten (Schleim-Quest)!
 
 cujo - Viel Hilfe mit WeiDU-Offsets! (Die ich nun leider wieder rausgeschmissen habe.)
 
 Volly - Korrektur weiterer Schreibfehler im Englischen (Schleim-Quest)!
 
-Jakkus & Lord Hagen von GIMT - italienische Übersetzung des Schleim-Quest!
+Jakkus & Lord Hagen von GIMT - italienische Ãœbersetzung des Schleim-Quest!
 
-Excalibur - Spanische Übersetzung des Schleim-Quest!
+Excalibur - Spanische Ãœbersetzung des Schleim-Quest!
 
-weigo und Miloch - vielen Dank für die Korrektur des Ambient-Fehlers (Schleim-Quest, mittlerweile wieder entfernt.)
+weigo und Miloch - vielen Dank fÃ¼r die Korrektur des Ambient-Fehlers (Schleim-Quest, mittlerweile wieder entfernt.)
 
 Historie Schleimquest
-Version 1.7 - Korrektur eines Fehlers in den Ambients, der versehentlich von mir beim Verändern der Area AR3344 eingetragen wurde 
+Version 1.7 - Korrektur eines Fehlers in den Ambients, der versehentlich von mir beim VerÃ¤ndern der Area AR3344 eingetragen wurde 
 
-Version 1.6 - Spanische Übersetzung
+Version 1.6 - Spanische Ãœbersetzung
 
-Version 1.5 - Italienische Übersetzung
+Version 1.5 - Italienische Ãœbersetzung
 
-Version 1.4 - Russische Übersetzung, inklusive vieler Bugfixes und Verbesserungen
-Version 1.3 - BGT-Kompatibilität 
+Version 1.4 - Russische Ãœbersetzung, inklusive vieler Bugfixes und Verbesserungen
+Version 1.3 - BGT-KompatibilitÃ¤t 
 
-Version 1.2 - Polnische Übersetzung
+Version 1.2 - Polnische Ãœbersetzung
 
-Version 1.1 - Englische Version korrekturgelesen, visuellen Effekt eingefügt,                    Bugfixing
+Version 1.1 - Englische Version korrekturgelesen, visuellen Effekt eingefÃ¼gt,                    Bugfixing
 
 Version 1.0 - Wettbewerbsbeitrag September 2004, Black Wyrm Forums
 

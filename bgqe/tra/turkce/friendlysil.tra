@@ -1,37 +1,37 @@
-@0 = ~BalÄ±kÃ§Ä± Cordyr bana teknesini batÄ±rdÄ±ÄŸÄ±nÄ±zÄ± ve onu buradaki balÄ±kÃ§Ä±lÄ±k alanÄ±ndan kovaladÄ±ÄŸÄ±nÄ±zÄ± sÃ¶yledi.~
+@0 = ~Balıkçı Cordyr bana teknesini batırdığınızı ve onu buradaki balıkçılık alanından kovaladığınızı söyledi.~
 @1 = ~Tamam, gidiyorum.~
-@2 = ~Sen hala hayattayken hiÃ§bir yere gitmeyeceÄŸim!~
-@3 = ~Bu kÄ±yÄ± bÃ¶lgesi her zaman Sil'in kabilesinin evi olmuÅŸtur! Sirenlerin evi olduÄŸunu iddia edenler kara halkÄ±dÄ±r! Yeterince uzun sÃ¼re yaptÄ±klarÄ±na gÃ¶z yumduk ve denizin sayÄ±sÄ±z sakinlerinin aÃ§gÃ¶zlÃ¼lÃ¼klerinin kurbanÄ± olmasÄ±nÄ± izledik!~
-@4 = ~Bekle... Bizi Ã¶ldÃ¼rmek, topraklarÄ±mÄ±zÄ± kuru halk iÃ§in talep etmek ve yaÄŸmalamak Ã¼zere gÃ¶nderilen o maceracÄ±lardan biri misin?~
-@5 = ~Evet, o balÄ±kÃ§Ä± tarafÄ±ndan balÄ±kÃ§Ä±lÄ±k alanlarÄ±nÄ± tekrar gÃ¼venli hale getirmek iÃ§in gÃ¶nderildim ve yapacaÄŸÄ±m ÅŸey de bu!~
-@6 = ~Ne diyebilirim ki... bu konuda haklÄ±sÄ±n, o yÃ¼zden Ã¶lmeye hazÄ±rlan!~
-@7 = ~Evet, balÄ±kÃ§Ä± bizden yardÄ±m istedi. Ama ben -tÄ±pkÄ± balÄ±kÃ§Ä±nÄ±n kendisi gibi- halkÄ±nÄ±za zarar vermek istemiyorum.~
+@2 = ~Sen hala hayattayken hiçbir yere gitmeyeceğim!~
+@3 = ~Bu kıyı bölgesi her zaman Sil'in kabilesinin evi olmuştur! Sirenlerin evi olduğunu iddia edenler kara halkıdır! Yeterince uzun süre yaptıklarına göz yumduk ve denizin sayısız sakinlerinin açgözlülüklerinin kurbanı olmasını izledik!~
+@4 = ~Bekle... Bizi öldürmek, topraklarımızı kuru halk için talep etmek ve yağmalamak üzere gönderilen o maceracılardan biri misin?~
+@5 = ~Evet, o balıkçı tarafından balıkçılık alanlarını tekrar güvenli hale getirmek için gönderildim ve yapacağım şey de bu!~
+@6 = ~Ne diyebilirim ki... bu konuda haklısın, o yüzden ölmeye hazırlan!~
+@7 = ~Evet, balıkçı bizden yardım istedi. Ama ben -tıpkı balıkçının kendisi gibi- halkınıza zarar vermek istemiyorum.~
 @8 = ~Yalan!~
-@9 = ~Kara adamÄ±nÄ±n Sil'in kabilesinin topraklarÄ±nÄ± kan dÃ¶kmeden fethetmesine yardÄ±m etmek mi istiyorsunuz? HalkÄ±mÄ±n hayatÄ±nÄ± Ã¶nemsediÄŸini mi iddia ediyorsun?~
-@10 = ~Bu gerÃ§ek. Onunla konuÅŸurken, halkÄ±nÄ±za zarar verme dÃ¼ÅŸÃ¼ncesi karÅŸÄ±sÄ±nda Ã§ok isteksiz olduÄŸunu fark ettim. O sadece hayatta kalmak istiyorsa iÅŸini huzur iÃ§inde yapmasÄ± gereken bir adam!~
-@11 = ~Ne isterseniz ona inanÄ±n. BirkaÃ§ sirenin kaybÄ±nÄ±n Ã¶nemli olacaÄŸÄ±nÄ± sanmÄ±yorum. Benim bir gÃ¶revim var ve onu yapacaÄŸÄ±m.~
-@12 = ~Bu konuÅŸma anlamsÄ±z. GÃ¶rÃ¼nÃ¼ÅŸe gÃ¶re bunu zor yoldan yapmamÄ±z gerekecek.~
-@13 = ~Tuhaf geliyor ama sÃ¶zlerin doÄŸru gibi gÃ¶rÃ¼nÃ¼yor, Ã§Ã¼nkÃ¼ kan dÃ¶kÃ¼lmesinden kaÃ§Ä±nma isteÄŸini hissediyorum.~
-@14 = ~Belki... HayÄ±r! HayÄ±r, sirenlerin kara halkÄ±nÄ±n kendi bÃ¶lgelerinde yaÅŸamasÄ±na izin vermesi her zaman sorun yaratmÄ±ÅŸtÄ±r!~
-@15 = ~Ã‡ok iyi, o zaman korkarÄ±m bana baÅŸka seÃ§enek bÄ±rakmadÄ±nÄ±z. Cordyr'e yardÄ±m edeceÄŸimize sÃ¶z verdik ve edeceÄŸiz.~
-@16 = ~Basit bir balÄ±kÃ§Ä± kabileniz iÃ§in ne kadar tehlikeli olabilir? Cordyr halkÄ±nÄ±za zarar verme fikrinden nefret ediyor... sizi en azÄ±ndan ona burada tahammÃ¼l etmeye ikna etmek iÃ§in yapabileceÄŸi hiÃ§bir ÅŸey yok mu?~
-@17 = ~Bu konuÅŸmadan yoruldum... o zaman bunu zorla yapacaÄŸÄ±z, bana baÅŸka seÃ§enek bÄ±rakmÄ±yorsun!~
-@18 = ~AslÄ±nda, basit bir toprak adamÄ± Sil'in kabilesi iÃ§in deÄŸerli bir rakip olmaz... ve belki...~
-@19 = ~Ona bir ÅŸans vermeye hazÄ±rÄ±z. Sirenlerin topraklarÄ±na saygÄ± gÃ¶sterdiÄŸi ve denizde aÅŸÄ±rÄ± avlanmadÄ±ÄŸÄ± sÃ¼rece halkÄ±m bu kara adamÄ±na zarar vermeyecektir. Belki yararlÄ± bile olabilir. Kabilemiz iÃ§in yapabileceÄŸi bir ÅŸey biliyorum.~
-@20 = ~TeÅŸekkÃ¼r ederim, Sil. Ona haberleri getireceÄŸim. Elveda.~
-@21 = ~SÃ¶zÃ¼nÃ¼ Cordyr'a memnuniyetle iletirim. Ama ondan ne tÃ¼r bir hizmet istiyorsun?~
-@22 = ~Åu anda bu seni ilgilendirmez. Ama emin olun ki bu onun kaybÄ± olmayacak.~
-@23 = ~Åimdi git!~
-@24 = ~Ä°hanet... Siz karadakiler bunu hep yaparsÄ±nÄ±z! Daha fazla konuÅŸmak yok. ArtÄ±k konuÅŸmak yok! SavaÅŸacaÄŸÄ±z!~
-@25 = ~Sirenleri Ã¶ldÃ¼rmedik, ama liderleriyle konuÅŸtuk. Evlerinden uzak durduÄŸunuz ve balÄ±kÃ§Ä±lÄ±kla uÄŸraÅŸtÄ±ÄŸÄ±nÄ±z sÃ¼rece kabilesinin sizi rahat bÄ±rakacaÄŸÄ±na sÃ¶z verdi... AyrÄ±ca onlar iÃ§in yapabileceÄŸin bir ÅŸeyden bahsetti ama ne olacaÄŸÄ±nÄ± sÃ¶ylemedi.~
-@26 = ~Ah, bu harika bir haber! Bunu kan dÃ¶kmeden yapabildiÄŸin iÃ§in ne kadar rahatladÄ±ÄŸÄ±mÄ± nasÄ±l sÃ¶yleyeceÄŸimi bilemiyorum! Ã‡ok az kiÅŸi bunu yapabilirdi...~
-@27 = ~BalÄ±k tutmaya gittiÄŸimde sirenleri rahatsÄ±z etmeyeceÄŸime ve bÃ¶lgelerine saygÄ± gÃ¶stereceÄŸime dair memnuniyetle sÃ¶z veriyorum. AyrÄ±ca ihtiyacÄ±mdan fazlasÄ±nÄ± yakalamayacaÄŸÄ±ma da sÃ¶z veriyorum. Hizmete gelince... eÄŸer sirenler bunun benim zararÄ±ma olmayacaÄŸÄ±nÄ± garanti ederlerse, memnuniyetle elimden geldiÄŸince yardÄ±mcÄ± olurum.~
-@28 = ~YardÄ±mÄ±n iÃ§in teÅŸekkÃ¼rler, dostum. Ä°ÅŸte, bu parÅŸÃ¶menleri al, asla bilemezsin...~
-/* BG_EE: #31307 â€œCordyr ve Sirenlerâ€ */
+@9 = ~Kara adamının Sil'in kabilesinin topraklarını kan dökmeden fethetmesine yardım etmek mi istiyorsunuz? Halkımın hayatını önemsediğini mi iddia ediyorsun?~
+@10 = ~Bu gerçek. Onunla konuşurken, halkınıza zarar verme düşüncesi karşısında çok isteksiz olduğunu fark ettim. O sadece hayatta kalmak istiyorsa işini huzur içinde yapması gereken bir adam!~
+@11 = ~Ne isterseniz ona inanın. Birkaç sirenin kaybının önemli olacağını sanmıyorum. Benim bir görevim var ve onu yapacağım.~
+@12 = ~Bu konuşma anlamsız. Görünüşe göre bunu zor yoldan yapmamız gerekecek.~
+@13 = ~Tuhaf geliyor ama sözlerin doğru gibi görünüyor, çünkü kan dökülmesinden kaçınma isteğini hissediyorum.~
+@14 = ~Belki... Hayır! Hayır, sirenlerin kara halkının kendi bölgelerinde yaşamasına izin vermesi her zaman sorun yaratmıştır!~
+@15 = ~Çok iyi, o zaman korkarım bana başka seçenek bırakmadınız. Cordyr'e yardım edeceğimize söz verdik ve edeceğiz.~
+@16 = ~Basit bir balıkçı kabileniz için ne kadar tehlikeli olabilir? Cordyr halkınıza zarar verme fikrinden nefret ediyor... sizi en azından ona burada tahammül etmeye ikna etmek için yapabileceği hiçbir şey yok mu?~
+@17 = ~Bu konuşmadan yoruldum... o zaman bunu zorla yapacağız, bana başka seçenek bırakmıyorsun!~
+@18 = ~Aslında, basit bir toprak adamı Sil'in kabilesi için değerli bir rakip olmaz... ve belki...~
+@19 = ~Ona bir şans vermeye hazırız. Sirenlerin topraklarına saygı gösterdiği ve denizde aşırı avlanmadığı sürece halkım bu kara adamına zarar vermeyecektir. Belki yararlı bile olabilir. Kabilemiz için yapabileceği bir şey biliyorum.~
+@20 = ~Teşekkür ederim, Sil. Ona haberleri getireceğim. Elveda.~
+@21 = ~Sözünü Cordyr'a memnuniyetle iletirim. Ama ondan ne tür bir hizmet istiyorsun?~
+@22 = ~Şu anda bu seni ilgilendirmez. Ama emin olun ki bu onun kaybı olmayacak.~
+@23 = ~Şimdi git!~
+@24 = ~İhanet... Siz karadakiler bunu hep yaparsınız! Daha fazla konuşmak yok. Artık konuşmak yok! Savaşacağız!~
+@25 = ~Sirenleri öldürmedik, ama liderleriyle konuştuk. Evlerinden uzak durduğunuz ve balıkçılıkla uğraştığınız sürece kabilesinin sizi rahat bırakacağına söz verdi... Ayrıca onlar için yapabileceğin bir şeyden bahsetti ama ne olacağını söylemedi.~
+@26 = ~Ah, bu harika bir haber! Bunu kan dökmeden yapabildiğin için ne kadar rahatladığımı nasıl söyleyeceğimi bilemiyorum! Çok az kişi bunu yapabilirdi...~
+@27 = ~Balık tutmaya gittiğimde sirenleri rahatsız etmeyeceğime ve bölgelerine saygı göstereceğime dair memnuniyetle söz veriyorum. Ayrıca ihtiyacımdan fazlasını yakalamayacağıma da söz veriyorum. Hizmete gelince... eğer sirenler bunun benim zararıma olmayacağını garanti ederlerse, memnuniyetle elimden geldiğince yardımcı olurum.~
+@28 = ~Yardımın için teşekkürler, dostum. İşte, bu parşömenleri al, asla bilemezsin...~
+/* BG_EE: #31307 “Cordyr ve Sirenler” */
 @29 = ~Cordyr ve Sirenler
 
-Sirenleri Cordyr'in balÄ±kÃ§Ä±lÄ±k sahasÄ±na dÃ¶nmesine izin vermeye ikna edebildim. Adil olduÄŸuna inandÄ±ÄŸÄ±m koÅŸullara saygÄ± gÃ¶sterdiÄŸi sÃ¼rece artÄ±k onu tehdit etmeyecekler. Kolay olmadÄ± ama Cordyr'in kan dÃ¶kmek zorunda kalmadan eski hayatÄ±na dÃ¶nmesine yardÄ±mcÄ± olmayÄ± baÅŸardÄ±m.~
+Sirenleri Cordyr'in balıkçılık sahasına dönmesine izin vermeye ikna edebildim. Adil olduğuna inandığım koşullara saygı gösterdiği sürece artık onu tehdit etmeyecekler. Kolay olmadı ama Cordyr'in kan dökmek zorunda kalmadan eski hayatına dönmesine yardımcı olmayı başardım.~
 @30 = ~Cordyr ve Sirenler
 
-Sirenleri Cordyr'in balÄ±k avlama sahasÄ±na dÃ¶nmesine izin vermeye ikna edebildim. RÄ±htÄ±m'daki evine dÃ¶nÃ¼p ona haberleri gÃ¶tÃ¼rmeliyim.~
-@31 = ~Yola Ã§Ä±kÄ±yorum.~
+Sirenleri Cordyr'in balık avlama sahasına dönmesine izin vermeye ikna edebildim. Rıhtım'daki evine dönüp ona haberleri götürmeliyim.~
+@31 = ~Yola çıkıyorum.~

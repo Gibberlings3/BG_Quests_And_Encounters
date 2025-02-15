@@ -1,32 +1,32 @@
-@0 = ~Size yardÄ±mcÄ± olacak baÅŸka bir ÅŸey bilmiyorum. Ama...~
-@1 = ~Senin iÃ§in gidip o haritalarÄ± getirebilirim. Uygun bir altÄ±n karÅŸÄ±lÄ±ÄŸÄ±nda tabii.~
+@0 = ~Size yardımcı olacak başka bir şey bilmiyorum. Ama...~
+@1 = ~Senin için gidip o haritaları getirebilirim. Uygun bir altın karşılığında tabii.~
 @2 = ~Ne kadar istiyorsun?~
-@3 = ~HayÄ±r, teÅŸekkÃ¼rler. Bu teklifle ilgilenmiyorum.~
-@4 = ~Peki, tÃ¼m masraflarÄ± bir dÃ¼ÅŸÃ¼neyim. Hmmm... yolculuk... yemek... konaklama... (kÃ¼Ã§Ã¼k bir denizkÄ±zÄ±...) hÄ±mmm...~
-@5 = ~EÄŸer bana 5,000 altÄ±n verirsen, sana haritalarÄ± getiririm.~
-@6 = ~Bu Ã§ok fazla altÄ±n, Calahan! Ama Ã¶demeye hazÄ±rÄ±m. Ä°ÅŸte, al 5,000 sikke.~
-@7 = ~Bu Ã§ok fazla altÄ±n, Calahan! Maalesef bende o kadar yok.~
-@8 = ~NE? Sandalyenden Ã§ok mu dÃ¼ÅŸtÃ¼n, planladÄ±ÄŸÄ±m tÃ¼m yolculuk bu miktarÄ±n sadece bir kÄ±smÄ±na mal olacak! Beni rahat bÄ±rak!~
-@9 = ~Sana teÅŸekkÃ¼r ederim! Ä°ki gÃ¼n sonra buraya gel, ben de haritalarla birlikte dÃ¶neceÄŸim. Ä°yi gÃ¼nler.~
-@10 = ~NasÄ±l istersen, seni sÄ±kÄ± yumruklu istiridye! Fikrini deÄŸiÅŸtirirsin diye biraz demir atÄ±yorum.~
-@11 = ~'Allo dostlar! YaÅŸlÄ± Calahan'Ä± sabÄ±rsÄ±zlÄ±kla bekliyordunuz, deÄŸil mi? HaritalarÄ± aldÄ±ÄŸÄ±mÄ± duyduÄŸunuza sevineceksiniz o zaman.~
-@12 = ~PlanlandÄ±ÄŸÄ± gibi gitmedi gerÃ§i - maliyetler ÅŸiÅŸti ve gÃ¼neÅŸte bir balina gibi yÃ¼kseldi. GerÃ§ekten gurur duymuyorum ama...~
-@13 = ~Sizden 3,000 altÄ±n daha almam gerekiyor.~
-@14 = ~Sana en baÅŸÄ±ndan beri gÃ¼venmemeliydim, seni sinsi deniz yÄ±lanÄ±! Ama artÄ±k Ã§ok geÃ§. AltÄ±nÄ± al, bana haritalarÄ± ver ve defol!~
-@15 = ~Sana en baÅŸÄ±ndan beri gÃ¼venmemeliydim, seni sinsi deniz yÄ±lanÄ±! Ama Ã§ok fazla para istiyorsun. YanÄ±mda o kadar altÄ±n yok.~
-@16 = ~Seni alÃ§ak! Benden daha fazla altÄ±n alamayacaksÄ±n! YengeÃ§ler seni canlÄ± canlÄ± yesin! HaritalarÄ± unut, onlarÄ± almak iÃ§in baÅŸka yollarÄ±m var!~
-@17 = ~Seninle iÅŸ yapmak bir zevkti! Ä°yi gÃ¼nler.~
-@18 = ~Evet, altÄ±n yok, grafik yok. Bu nasÄ±l olacak!~
-@19 = ~Bunu dÃ¼ÅŸÃ¼neceÄŸim.~
-@20 = ~Eski Calahan'Ä±n listeler konusunda yardÄ±mcÄ± olmasÄ±nÄ± ister misin?~
-@21 = ~BaÅŸka anlaÅŸma yok, Calahan. HaritalarÄ± almak iÃ§in baÅŸka kaynaklarÄ±m var.~
-@22 = ~Oh? NasÄ±l istersen. Ä°yi gÃ¼nler.~
-@23 = ~GerÃ§ekten Ã§ok bÃ¼yÃ¼k bir meblaÄŸ, Calahan! Bunu yapÄ±yorum Ã§Ã¼nkÃ¼ bu haritalarÄ± Ã§almak istemiyorum. Ä°ÅŸte altÄ±nÄ±nÄ±z.~
-@24 = ~Ã‡ok bÃ¼yÃ¼k bir meblaÄŸ, Calahan! Bunu sadece bu grafikleri Ã§almak istemediÄŸim iÃ§in yapÄ±yorum. Ne yazÄ±k ki, o kadar altÄ±nÄ±m yok.~
-@25 = ~Calahan'Ä±n Deniz HaritalarÄ±
+@3 = ~Hayır, teşekkürler. Bu teklifle ilgilenmiyorum.~
+@4 = ~Peki, tüm masrafları bir düşüneyim. Hmmm... yolculuk... yemek... konaklama... (küçük bir denizkızı...) hımmm...~
+@5 = ~Eğer bana 5,000 altın verirsen, sana haritaları getiririm.~
+@6 = ~Bu çok fazla altın, Calahan! Ama ödemeye hazırım. İşte, al 5,000 sikke.~
+@7 = ~Bu çok fazla altın, Calahan! Maalesef bende o kadar yok.~
+@8 = ~NE? Sandalyenden çok mu düştün, planladığım tüm yolculuk bu miktarın sadece bir kısmına mal olacak! Beni rahat bırak!~
+@9 = ~Sana teşekkür ederim! İki gün sonra buraya gel, ben de haritalarla birlikte döneceğim. İyi günler.~
+@10 = ~Nasıl istersen, seni sıkı yumruklu istiridye! Fikrini değiştirirsin diye biraz demir atıyorum.~
+@11 = ~'Allo dostlar! Yaşlı Calahan'ı sabırsızlıkla bekliyordunuz, değil mi? Haritaları aldığımı duyduğunuza sevineceksiniz o zaman.~
+@12 = ~Planlandığı gibi gitmedi gerçi - maliyetler şişti ve güneşte bir balina gibi yükseldi. Gerçekten gurur duymuyorum ama...~
+@13 = ~Sizden 3,000 altın daha almam gerekiyor.~
+@14 = ~Sana en başından beri güvenmemeliydim, seni sinsi deniz yılanı! Ama artık çok geç. Altını al, bana haritaları ver ve defol!~
+@15 = ~Sana en başından beri güvenmemeliydim, seni sinsi deniz yılanı! Ama çok fazla para istiyorsun. Yanımda o kadar altın yok.~
+@16 = ~Seni alçak! Benden daha fazla altın alamayacaksın! Yengeçler seni canlı canlı yesin! Haritaları unut, onları almak için başka yollarım var!~
+@17 = ~Seninle iş yapmak bir zevkti! İyi günler.~
+@18 = ~Evet, altın yok, grafik yok. Bu nasıl olacak!~
+@19 = ~Bunu düşüneceğim.~
+@20 = ~Eski Calahan'ın listeler konusunda yardımcı olmasını ister misin?~
+@21 = ~Başka anlaşma yok, Calahan. Haritaları almak için başka kaynaklarım var.~
+@22 = ~Oh? Nasıl istersen. İyi günler.~
+@23 = ~Gerçekten çok büyük bir meblağ, Calahan! Bunu yapıyorum çünkü bu haritaları çalmak istemiyorum. İşte altınınız.~
+@24 = ~Çok büyük bir meblağ, Calahan! Bunu sadece bu grafikleri çalmak istemediğim için yapıyorum. Ne yazık ki, o kadar altınım yok.~
+@25 = ~Calahan'ın Deniz Haritaları
 
-Ulgoth'un SakalÄ±'ndaki bir denizci olan Calahan, Mendas'Ä±n gezisi iÃ§in ihtiyacÄ±m olan deniz haritalarÄ±nÄ± bana getirmeyi teklif etti. Ä°ki gÃ¼n iÃ§inde Ulgoth'un SakalÄ±'na dÃ¶nmÃ¼ÅŸ olacak.~
-@26 = ~Calahan'Ä±n Deniz HaritalarÄ±
+Ulgoth'un Sakalı'ndaki bir denizci olan Calahan, Mendas'ın gezisi için ihtiyacım olan deniz haritalarını bana getirmeyi teklif etti. İki gün içinde Ulgoth'un Sakalı'na dönmüş olacak.~
+@26 = ~Calahan'ın Deniz Haritaları
 
-Ulgoth'un SakalÄ±'ndaki Calahan deniz haritalarÄ± iÃ§in 3.000 altÄ±n daha istiyor!~
-@27 = ~Calahan'Ä±n Deniz HaritalarÄ±~
+Ulgoth'un Sakalı'ndaki Calahan deniz haritaları için 3.000 altın daha istiyor!~
+@27 = ~Calahan'ın Deniz Haritaları~
