@@ -1,0 +1,12 @@
+
+/* Unlock door: BG:EE, EET */
+/* this gets applied to the assigned door script because door and travel trigger have the same name so Unlock("Doorname") doesn't work */
+IF
+	Global("WAFARM1","Global",1)
+	Global("WAFARM_AddMapNote","MYAREA",0)
+THEN
+	RESPONSE #100
+		AddMapNote([950.2850],@126)
+		Unlock(Myself)
+		SetGlobal("WAFARM_AddMapNote","MYAREA",1)
+END

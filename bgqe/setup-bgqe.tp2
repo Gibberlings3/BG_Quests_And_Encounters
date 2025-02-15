@@ -87,6 +87,7 @@ BEGIN
 END 
 
 INCLUDE ~bgqe/lib/func_fetch_journal_entries.tph~
+INCLUDE ~bgqe/lib/assign_door_script.tph~
 
 
    ACTION_IF GAME_IS ~tutu tutu_totsc~ THEN BEGIN
@@ -1741,31 +1742,31 @@ END
 COMPILE EVALUATE_BUFFER ~bgqe/farmer/dlg/WAFARMBE.d~
 COMPILE EVALUATE_BUFFER ~bgqe/farmer/dlg/WAFARM.d~
 
-/*
-COPY_EXISTING ~ar6700.are~ ~override~
-  READ_ASCII 0x94 area_script
-  PATCH_IF (("%area_script%" STRING_COMPARE_CASE "")=0) BEGIN
-  	WRITE_ASCII 0x94 ar6700 (8)
-  	READ_ASCII 0x94 area_script
-  END
-BUT_ONLY
-EXTEND_BOTTOM ~%area_script%.bcs~ ~bgqe/farmer/baf/WA6700.baf~
-*/
 
 LAF extend_area_script STR_VAR area="%Beregost%" bottom="bgqe/farmer/baf/WA6700.baf" END
 
-/*
-COPY_EXISTING ~ar6755.are~ ~override~
-  READ_ASCII 0x94 area_script
-  PATCH_IF (("%area_script%" STRING_COMPARE_CASE "")=0) BEGIN
-  	WRITE_ASCII 0x94 ar6755 (8)
-  	READ_ASCII 0x94 area_script
-  END
+/* Unlock door to farmer's house Beregost */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  LAF extend_area_script STR_VAR area="%Beregost%" bottom="bgqe/farmer/baf/WA6700_bgt.baf" END
+
+END ELSE BEGIN
+  COPY_EXISTING ~%Beregost%.are~ ~override~
+   LPF assign_door_script
+     STR_VAR
+       door_name = ~Door3355~
+       script_resref = ~door3355~
+     RET
+       result
+   END
+   PATCH_PRINT ~Door script: %result%.BCS~
 BUT_ONLY
-EXTEND_BOTTOM ~%area_script%.bcs~ ~bgqe/farmer/baf/WA6755.baf~
-*/
+  EXTEND_TOP ~%result%.BCS~ ~bgqe/farmer/baf/WA6700_doorunlock.baf~ EVALUATE_BUFFER
+
+END //unlock door in bg:ee, eet 
 
 LAF extend_area_script STR_VAR area="%Beregost_House08%" bottom="bgqe/farmer/baf/WA6755.baf" END
+
+
 
 
 //////////////////////////////////////////////////////////////////
@@ -1860,8 +1861,24 @@ END ELSE BEGIN
 
 END
 
-/* Unlock door to Cordyr's house */
-LAF extend_area_script STR_VAR area="%BaldursGateDocks%" top="bgqe/friendlysil/AR1200.baf" END
+/* Unlock door to Cordyr's house BaldursGateDocks */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  LAF extend_area_script STR_VAR area="%BaldursGateDocks%" top="bgqe/friendlysil/AR1200.baf" END
+
+END ELSE BEGIN
+  COPY_EXISTING ~%BaldursGateDocks%.are~ ~override~
+   LPF assign_door_script
+     STR_VAR
+       door_name = ~Door1213~
+       script_resref = ~door1213~
+     RET
+       result
+   END
+   PATCH_PRINT ~Door script: %result%.BCS~
+BUT_ONLY
+  EXTEND_TOP ~%result%.BCS~ ~bgqe/friendlysil/AR1200_doorunlock.baf~ EVALUATE_BUFFER
+
+END //unlock door in bg:ee, eet 
 
 
 /* BGT: Erase journal entries upon transition to BGII */
