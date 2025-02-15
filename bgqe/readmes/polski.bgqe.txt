@@ -407,6 +407,7 @@ Version 29:
 -Turkish version added, by İlhan Bilaloğlu.
 -"Babysitting Quest": Ruffian fighters should only drop one axe +2.
 -Corrected charset_table entries for Fench, Italian, Polish, Spanish (fixed install error).
+-Quest doors will be unlocked in EE, too (Cordyr's, Farmer's).
 
 Version 28:
 -Turkish version prepared, by İlhan Bilaloğlu. Need files in ANSI to unlock.
