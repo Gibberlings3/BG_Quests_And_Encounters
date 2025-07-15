@@ -1,0 +1,226 @@
+@0    = ~Lasst Ihr bereits von mir ab? Verschwindet, Scheusal.~
+@1    = ~Stört mich nicht. Ich muss zu meinem Gott beten.~
+@2    = ~Ich habe mit der Mutter von Luisa gesprochen. Sie sagt, dass Ihr der Familie geholfen habt, den Dämon zu besiegen.~
+@3    = ~Ich habe eine seltsame Begegnung in der Stadt gehabt... Eine Kinderfrau aus Luskan sprach davon, dass ihr Zögling plötzlich starke magische Fähigkeiten entwickelte.~
+@4    = ~Seid Ihr der gefallene Paladin, von dem sie draußen sprechen?~
+@5    = ~Erzählt mir noch einmal Eure Geschichte.~
+@6    = ~Natürlich, betet weiter.~
+@7    = ~Ein Hund wie Ihr erhält keine Vergebung! Ich werde Euch selbst richten!~
+@8    = ~Wenn dies Helms Wille ist, so werde ich durch Eure Hand sterben. Ich werde mich nicht gegen Euch verteidigen. Bedenkt jedoch, dass die Helmpriester mich verteidigen müssen.~
+@9    = ~*schwerer Seufzer* Ja, die Leute stehen draußen und fordern meinen Tod. Ich wünschte, Helm würde mir eine Antwort auf meine Fragen geben.~
+@10   = ~Was genau ist geschehen? Die Leute draußen sagen, Ihr hättet ein Kind erschlagen.~
+@11   = ~Wie kann ein Gottloser wie Ihr noch zu Helm beten!~
+@12   = ~Ihr seid ein feiger und gemeiner Hund! Ich werde Euch selbst richten!~
+@13   = ~Indem er um Erlösung fleht. Wie auch immer sie aussehen möge.~
+@14   = ~Das habe ich auch... Ein kleines Mädchen, mit braunen Locken... Ich bin sicher, ihr Lachen klang hell und fröhlich wie von allen Kindern in diesem Alter. Entschuldigt mich, aber ich möchte hier auf meine Knie sinken und Helm um Vergebung anflehen.~
+@15   = ~Einen Moment noch. Wieso habt Ihr das getan?~
+@16   = ~Natürlich, betet also.~
+@17   = ~Warum wollt Ihr das wissen? Ich habe gefehlt mit dem Schlimmsten, was ein Mann tun kann: Ich habe ein Kind getötet. Lasst mich zu meinem Gott flehen, ich bitte Euch.~
+@18   = ~Ich möchte es wissen, weil ich mir nicht vorstellen kann, dass Ihr es mit Absicht getan habt. War es nicht alles ein großes Versehen?~
+//@19   = 
+@20   = ~Ein Versehen... Nun, es war wohl ein Versehen. Aber was kümmert es die Eltern, die ihr Kind verloren haben, dass ich dieses für einen Dämon hielt? Was kümmert es die Leute, die da draußen stehen, dass nicht der Dämon die Gestalt des Kindes angenommen hatte, wie von mir geglaubt, sondern es nur von ihm besessen war? Verzeiht es Helm seinem gefehlten Diener, dass er es nicht verstand, den Dämon zu bannen und vom Kind zu trennen, bevor er zuschlug? Was interessiert es Euch?~
+@21   = ~Also wurdet Ihr von einem Dämon getäuscht, sozusagen?~
+@22   = ~Das ist aber auch wirklich zu dämlich. Nun, dann betet mal schön.~
+@23   = ~Ihr seid ein Stümper ohnegleichen! Ich werde das Kind rächen!~
+@24   = ~*lacht bitter* Getäuscht, ja, vielleicht. Ich habe gefehlt, und ein Kind erschlagen. Ich werde mich nicht damit herausreden, dass die böse Macht, mit der ich konfroniert war, zu stark für mich war. Es war mein Fehler.~
+@25   = ~Die Geschichte macht so, wie Ihr sie erzählt, aber viel mehr Sinn. Ich hoffe, Ihr findet die Vergebung Eures Gottes.~
+@26   = ~Ihr ertrinkt in Selbstmitleid, anstatt Euch um eine Lösung zu bemühen!~
+@27   = ~Nun, dann betet weiter.~
+@28   = ~Die Grenze zwischen Reue und Selbstmitleid ist fließend, nehme ich an. Doch ich bemühe mich um eine Lösung: Ich bete zu meinem Gott. Wenn Ihr mich bitte entschuldigen würdet.~
+@29   = ~Ich danke Euch von Herzen. Doch nun lasst mich weiterbeten.~
+@30   = ~Helm segne die arme Frau. Ich bin ihr sehr dankbar dafür, dass sie keinen Groll gegen mich hegt.~
+@31   = ~Das klingt... wie das, was mit der kleinen Luisa geschah. Aus Luskan, sagt Ihr? Vielleicht treffe ich die erwähnte Frau noch hier in Baldurs Tor und kann sie nach der Familie befragen. Sollte der Dämon dorthin geflüchtet sein? Ich werde ihn finden! Ich werde ihn stellen! Und dieses Mal bin ich besser vorbereitet und weiß, wie ich ihn bannen werde!~
+@32   = ~Habt Dank! Wie soll ich Euch danken? Ich kann Euch nichts anbieten als meine bloße Dankbarkeit und meine guten Wünsche. Helms Segen sei mit Euch, Ihr habt mir neue Hoffnung gegeben. Luisa ist durch meine Hand gestorben, aber ich werde dieses Scheusal finden und weitere Kinder retten. Vielleicht... vielleicht erhalte ich so auch meine Ehre zurück. Lebt wohl.~
+//@33   = 
+//@34   = 
+//@35   = 
+//@36   = 
+//@37   = 
+//@38   = 
+@39   = ~So ein gemeiner Kerl!~
+@40   = ~Das ist doch... Schert Euch lieber schnell weg, Ihr Rüpel!~
+@41   = ~Der gehört aufgeknüpft!~
+@42   = ~Vielleicht... gibt es ja auch hier mehr zu bedenken, wer weiß.~
+@43   = ~Dieser Mörder ist noch immer dort drin!~
+@44   = ~Wo wohnte eigentlich das Mädchen?~
+@45   = ~Der Bösewicht soll mir besser nicht in die Finger kommen!~
+@46   = ~Ha! Ist ja nett. Wenn die jetzt schon meine Arbeit machen, dann bleibt bald für mich nichts mehr übrig.~
+@47   = ~Habt Ihr es noch nicht gehört? Im Tempel hat sich der Schweinehund verkrochen, der die kleine Luisa erschlagen hat! Ein Paladin war der, könnt Ihr Euch das vorstellen!~
+@48   = ~Das ist ja schrecklich! Danke für die Information.~
+@49   = ~Im Tempel ist ein gefallener Paladin, der ein Mädchen erschlagen hat? Der Bösewicht soll mir besser nicht in die Finger kommen!~
+@50   = ~So ist's Recht. Treibt ihn raus, den Rest besorgen wir!~
+@51   = ~Gar nicht weit von hier, in einem Haus direkt am Palasteingang. Die armen Eltern gehen schon gar nicht mehr auf die Straße. Der Vater habe den Verstand verloren, heißt es!~
+@52   = ~Der Hund soll rauskommen, wenn er sich traut!~
+@53   = ~Verkriecht sich feige im Tempel!~
+@54   = ~Die armen Eltern!~
+@55   = ~So jemand wie der gehört gehängt! Lyncht ihn, den Kindesmörder!~
+@56   = ~Was ist denn hier los?~
+@57   = ~Gibt es ein Problem?~
+@58   = ~Leute, geht nach hause! Was soll denn die ganze Aufregung?~
+@59   = ~Ja, das geschieht ihm Recht, dem Hundesohn!~
+@60   = ~Jetzt hat er seine verdiente Strafe!~
+@61   = ~Endlich ist des Leben in der Stadt wieder sicherer geworden!~
+@62   = ~Es ist erstaunlich, wie tief ein Mensch sinken kann! Dass der Helmpriester ihn aber auch verteidigen musste.~
+//@63   = 
+@64   = ~Verzeiht, aber seit Luisas Tod schließen wir die Tür ab, um unsere Ruhe zu haben. Warum seid Ihr hereingekommen?~
+@65   = ~Verzeiht, dass ich störe. Ich werde sogleich wieder gehen.~
+@66   = ~Luisa? War das Eure Tochter?~
+@67   = ~Ich wollte nur mal nach Euch schauen. Bin schon wieder weg.~
+@68   = ~Weil ich es wollte.~
+@69   = ~Ich sollte wohl nach Hilfe rufen, aber ich bin zu müde. Bedient Euch, wir sind kein Hindernis.~
+@70   = ~Das war sie... Seht meinen Mann, der hier durch die Räume irrt; Er hat den Verstand verloren.~
+@71   = ~Verzeiht, dass ich Euch gestört habe. Ich gehe nun wieder.~
+@72   = ~Ich habe von dem Paladin gehört, der Eure Tochter erschlug.~
+@73   = ~Ich habe mit dem gefallenen Paladin gesprochen, der Eure Tochter erschlug.~
+@74   = ~Herzzerreißend, wirklich. Ich bin bereits weg.~
+@75   = ~Ja, armer Sir Dauron...~
+@76   = ~"Armer Sir Dauron"? Das klingt nicht so, als würdet Ihr ihm die Schuld am Tod Eurer Tochter geben.~
+@77   = ~Seid Ihr nicht böse darüber, dass er Eure Tochter getötet hat?!~
+@78   = ~Ich gehe jetzt. Auf ein andermal.~
+@79   = ~Wir bedauern ihren Tod sehr, aber der Paladin tut mir ebenfalls leid.~
+@80   = ~Eine sehr noble Einstellung. Ich wünsche einen schönen Tag.~
+@81   = ~Nach dem, was die Leute erzählen, klingt es so, als hätte er sie abgeschlachtet.~
+@82   = ~Nach dem, was Sir Dauron erzählt, scheint eine sehr mächtige böse Macht im Spiel gewesen zu sein.~
+@83   = ~Nein, nein, das hat er nicht... Es tut mir leid, dass die Leute das denken.~
+@84   = ~Was ist dann geschehen?~
+@85   = ~Verzeiht, aber ich möchte nicht darüber sprechen. Die Leute sind auch so schon erregt genug.~
+@86   = ~Dann gehe ich jetzt. Auf ein andermal.~
+@87   = ~Hat er Euch das erzählt? Was hat er erzählt?~
+@88   = ~Dass ein Dämon Besitz von Eurer Tochter ergriffen habe.~
+@89   = ~So genau müssen wir das wohl nicht besprechen. Ich wünsche einen schönen Tag.~
+@90   = ~Bitte, ich flehe Euch an; die Leute sind bereits aufgebracht genug. Erzählt nicht weiter, dass unser Kind von einem Dämon besessen war, oder sie werden uns das Haus einrennen. Ich bin Sir Dauron zutiefst dankbar, dass er es für sich behalten und nicht zu seiner Verteidigung den Leuten erzählt hat.~
+@91   = ~Was genau ist geschehen?~
+@92   = ~Es begann damit, dass Luisa... *schluckt* Unsere Tochter hat magische Fähigkeiten entwickelt. Wir... wir dachten, sie wäre plötzlich magisch begabt, so eine Art Hexenmeisterin...~
+@93   = ~Dann... dann veränderte sich ihr Charakter. Sie tat Böses... die arme Kleine. Ich vermute, dass der Dämon sich langsam in ihrem Geist ausbreitete. Wie ein Schimmel, der ein Brot durchzieht...~
+@94   = ~Es wurde gefährlich. Mein Mann, der hier verwirrt durch die Räume streift und seine eigene Frau nicht mehr erkennt, hat durch die Veränderungen seinen Verstand verloren. Sir Dauron kam uns zu Hilfe... Alle waren sich sicher, dass sie unrettbar verloren wäre. Doch nachdem er sie... erschlagen hatte, war da nur unser kleines Mädchen. Wir hörten ein furchtbares Lachen... Sir Dauron wurde kreidebleich. Der Arme hat seine Ehre verloren, als er uns von diesem Dämon befreite.~
+@95   = ~Versteht mich nicht falsch. Ich trauere um meine Tochter, aber sie war bereits lange vorher weg. Sie hatte sich in ein Monster verwandelt. Warum muss der arme Sir Dauron nun so leiden? Er hat uns doch nur geholfen.~
+@96   = ~Ihr hörtet ein Lachen? Wollt Ihr andeuten, dass der Dämon noch irgendwo hier ist?!~
+@97   = ~Das ist eine furchtbare Geschichte. Wir werden sehen, was daraus wird.~
+@98   = ~Ich gehe dann mal.~
+@99   = ~Sir Daurons Glaubensbrüder haben die Gegend abgesucht, aber nichts gefunden.~
+@100  = ~Vielen Dank, dass Ihr Eure Geschichte mit mir geteilt habt.~
+@101  = ~Ich musste es einmal jemandem erzählen... Doch nun geht, bitte.~
+@102  = ~Verzeiht, Habt Ihr vielleicht eine Kleinigkeit für mich... Etwas zu Essen, oder etwas Gold?~
+@103  = ~Sicher, hier nehmt eine Goldmünze.~
+@104  = ~Arme Frau! Was ist mit Euch geschehen, dass Ihr betteln müsst? Ihr seht nicht wie eine Bettlerin aus.~
+@105  = ~Schert Euch weg, Bettlerin!~
+@106  = ~Jaja, immer dasselbe! Ich kann Euch auch nicht leiden!~
+@107  = ~Ha! Ja, da habt Ihr Recht.~
+@108  = ~Hier nehmt eine Goldmünze.~
+@109  = ~Habt Dank! Das macht jetzt schon drei...~
+@110  = ~Wenn ich dieses verdammte Gör erwische! Erst die ganzen Streiche, und dann entwickelt sie plötzlich magische Kräfte und teleportiert mich mir nichts, dir nichts nach Baldurs Tor! Wenn ich genug Geld beisammen habe, werde ich zurück nach Luskan reisen und das Gör samt Familie vor das Gericht bringen!~
+
+@111    = ~Die aufgebrachten Leute draußen sind verschwunden... Ich fürchte, sie haben ein anderes Opfer gefunden, das sie beschimpfen können.~ 
+@112    = ~Ja, hihi. Es ist erstaunlich, wie schnell sie manchmal weiterziehen, nicht wahr?~
+@113    = ~Habt Ihr nicht mitbekommen, warum sie weggegangen sind?~ 
+@114    = ~Ich möchte mit Euch nicht sprechen.~ 
+@115    = ~Wie kommt es, dass keine Soldaten der Flammenden Faust Euch verfolgen?~ 
+@116    = ~Etwas gefällt mir nicht an der Art, wie Ihr das sagt. Ich hoffe inständig, dass Ihr nichts damit zu tun habt, obwohl ich nicht wüsste, was Ihr ihnen hättet sagen können, um die ganze Sache noch schlimmer zu machen.~ 
+@117    = ~Helm, habt Erbarmen und zeigt mir Eure Gnade, auf dass ich meine Ehre wiedererlangen kann!~ 
+@118    = ~Die Verantwortlichen wissen, was geschehen ist. Es besteht kein Grund für weitere Handlungen, Helm sei gedankt. Die Situation ist unter Kontrolle, und vom Dämon ist in der ganzen Stadt nichts zu merken... Ansonsten würde ich nicht müßig hier stehen. *seufzt*~ 
+@119    = ~Ich bin mir nicht sicher, ob ich mit dieser Situation zufrieden bin. Wenn wenigstens die Stadtoberenen es für nötig befunden hätten, mich für das zu bestrafen, was ich getan habe! Aber so erhalte ich vielleicht die Chance, für mein Vergehen zu büßen, und ich werde sie nutzen.~ 
+@120    = ~Nein. Ich war vertieft in mein Gebet.~
+@121   = ~Es ist erstaunlich, wie schnell sie manchmal weiterziehen, nicht wahr?~
+@122   = ~Sie haben riskiert, dass die Stadt mit Dämonen überschwemmt wird!~ 
+@123   = ~Ich frage mich, welche Rolle die Eltern in dieser Dämonensache gespielt haben.~ 
+@124   = ~Dämonen innerhalb der Stadtmauern! Das ist unglaublich.~ 
+@125   = ~Stellt Euch nur vor, was hätte passieren können, wenn wir das nicht gemerkt hätten!~ 
+@126   = ~*Mit lauter Stimme* Wusstet Ihr, dass das kleine Mädchen von einem Dämon besessen war? Die Mutter hat es mir erzählt! Ein DÄMON, mitten in dieser STADT!~ 
+@127   = ~Dies ist nicht mein Problem.~
+@128   = ~Ein... ein Dämon?!~
+@129   = ~Macht Ihr Witze? Das ist Blödsinn.~
+@130   = ~Mein Neffe Dunn arbeitet bei der Flammenden Faust. Er meinte, es hätte einige seltsame Vorfälle in letzter Zeit gegeben!~ 
+@131   = ~Ihr meint, die Stadt könnte von Dämonen überrannt werden?~ 
+@132   = ~Und alles begann in Luisas Haus! Schande über die Eltern, sie hätten was tun müssen!~ 
+@133   = ~Lasst uns zu ihnen gehen und ihnen klar machen, dass wir uns sowas nicht gefallen lassen!~
+@134   = ~Bitte geht jetzt. Ihr seid hier nicht willkommen.~
+@135   = ~Was habt Ihr getan! Alle diese aufgebrachten Leute vor unserem Haus... Wir haben keinen Ort, an den wir ziehen könnten, deshalb müssen wir bleiben. Ich bete, dass sie sich bald beruhigen. Bitte geht jetzt. Ihr seid hier nicht willkommen.~
+@136   = ~Es tut mir leid, aber ich werde die Details nicht herumerzählen. Ich bespreche das nur mit denen, die es bereits wissen. Bitte versteht.~ 
+
+
+/* neuer Inhalt v9 */
+
+@137   = ~Das ist in der Tat eine furchtbare Situation. Ihr habt ein unschuldiges Kind getötet. Es gibt keine Ausreden, Ihr seid aus guten Grund gefallen. Aber Ihr habt diese furchtbare Tat nicht mit Absicht begangen, also besteht Hoffnung. Helm möge Euch verzeihen, wenn Ihr Euch dessen würdig erweist.~
+@138   = ~Betet zum Ewig Wachsamen, dass Euch so etwas niemals geschehen wird, mein Freund.~
+
+@139   = ~Es freut mich unendlich, dass wir diesem Mann helfen konnten, <CHARNAME>.~
+@140   = ~Möge er seinen Frieden finden.~
+@141   = ~Ah, schön. Jetzt findet er vielleicht doch noch seine Vergebung. Und rettet gleichzeitig Leben in Luskan.~
+@142   = ~Eine müßige Hoffnung, zu glauben, dass man Vergebung finden könnte.~
+@143   = ~So ist es gut. Ich hatte überlegt, ob man die Behörden in Luskan vor diesem Dämon warnen sollte, aber einen besseren Boten mit der Nachricht über die Gefahr hätten wir nicht schicken können.~
+@144   = ~Ich hoffe, er ist schnell dort. Was dieser Dämon wohl alles anstellt?~
+@145   = ~Minsk kriegt Angst, wenn er an das kleine Mädchen in Luskan denkt. Der Paladin soll sich beeilen!~
+@146   = ~Ich wünsche ihm Erfolg.~
+@147   = ~Vielleicht hat er in Luskan ja auch mal wieder Zeit, sich um sein Aussehen zu kümmern... Obwohl, so sehr schlecht konnte es ihm nicht gehen, oder fandet Ihr ihn irgendwie schmutzig? Ich hätte ja erwartet, dass er gegen den Wind stinkt, solange, wie er bereits hier herumsteht.~
+@148   = ~Ein Paladin hat immer sein Äußeres zu pflegen, Safana.~
+@149   = ~Ja, aber das hat er nicht getan, zumindest, was seine Kleidung angeht. Aber gewaschen und rasiert hat sich dieser Paladin trotz seiner allumfassenden Reue wohl doch, oder was?~
+@150   = ~Aber er ist doch keiner mehr? Jetzt verstehe ich gar nichts mehr.~
+@151   = ~Es ist eine sehr traurige Geschichte.~
+@152   = ~Irgendwie fehlt es mir trotzdem an Drama.~
+@153   = ~Aber nun bekommt das Ganze vielleicht ein glückliches Ende. Meint Ihr, dass wir etwas über den Ausgang erfahren? ...Wie weit ist Luskan eigentlich entfernt?~
+@154   = ~Weit genug weg, um uns nichts anzugehen.~
+
+
+@155   = ~Ich frage mich, ob dieser Dämon die Mädchen komplett besessen hält, oder ob sie auf seine Kräfte Zugriff haben... Hm, ich muss mir das noch einmal überlegen. Die Zunahme an Macht muss enorm sein!~
+@156   = ~Es muss in der Tat ein seltsames Gefühl sein, plötzlich mit so viel Macht ausgestattet zu sein, wie diese Mädchen.~
+@157   = ~Aber diese Gedanken sind müßig. Diese Mädchen haben keine Kontrolle über diese Macht.~
+@158   = ~Da ist der Dämon also hin? Ich hoffe, die Mädchen bekommen davon gar nichts mit... Er muss sie komplett übernehmen, sonst hätte sich der Paladin nicht so sehr geirrt.~
+@159   = ~Als ob ein Mensch nicht bereits genug Dämonen in sich trüge...~
+@160   = ~Wahre Worte, mein Freund, wahre Worte.~
+@161   = ~Ach, was soll das denn überhaupt für ein Dämon sein. Ich habe noch nie davon gehört, dass es einen Dämon gäbe, der einen derartig besitzen kann. Ich bin jedenfalls noch nie einem begegnet.~
+@162   = ~Das muss daran liegen, dass Ihr kein junges Mädchen mehr seid, Xzar. Ich fände es jedenfalls sehr interessant, Eure Begegnung zu sehen...~
+
+
+@163   = ~Aus den Augen, aus dem Sinn. Da geht er hin, der Mädchenmörder. Eine gute Ausrede hatte er jedenfalls.~
+@164   = ~Bah, wir strahlen vor Nächstenliebe und Glückseligkeit, es ist zum Davonlaufen.~
+@165   = ~Ihr wollt auch nach Luskan?...~
+
+@166   = ~<CHARNAME>, warum habt Ihr das getan?~
+@167   = ~Ach, das musste doch jetzt nicht sein! Glaubt Ihr nicht, dass die armen Leute bereits genug Probleme haben?~
+@168   = ~Die Mutter hatte uns um Verschwiegenheit gebeten!~
+@169   = ~Es ist erschreckend zu sehen, wie Ihr mit dem Frieden und dem Vertrauen dieser Leute spielt, <CHARNAME>.~
+@170   = ~Jetzt ge-gehen sie alle vor das H-haus der armen Eltern!~
+@171   = ~Wenn der Vorfall nicht so ernst wäre, fände ich es lustig. Hm, nein. Ich finde es nicht lustig!~
+@172   = ~Findet Ihr das lustig? Warum habt Ihr den Leuten diese Information gegeben?~
+@173   = ~Ha! Ich wusste gar nicht, dass Ihr zu Scherzen aufgelegt seid.~
+@174   = ~Och, <CHARNAME>, wie konntet Ihr nur... Die armen, armen Elternchen... gnihihihihi!~
+@175   = ~Ja-haaa! Schnell, lasst uns zum Haus der Eltern gehen und dem Lynchmob bei der Arbeit zusehen!~
+
+@176   = ~Aber, das klang ja genauso wie bei Luisa! Oder?~
+@177   = ~Was die Frau da sagte, war sehr aufschlussreich. Es könnte für den gefallenen Paladin interessant sein.~
+@178   = ~<CHARNAME>, was diese Frau gerade gesagt hat, macht mich stutzig. Bitte, lasst es uns so schnell wie möglich Sir Dauron im Tempel des Helm mitteilen.~
+
+@179   = ~War das derselbe Dämon wie bei Luisa? Er muss große Kräfte besitzen, wenn er sich selbst und die Amme zwischen Baldurs Tor und Luskan so hin- und herteleportieren kann.~
+
+//Dorn
+@180   = ~Gefallene Paladine in irgendwelchen Tempeln interessieren mich nicht, außer, wenn ich mein Schwert in sie jagen muss. Den Dämon aber, den hätte ich gerne getroffen.~
+
+//Neera
+@181   = ~Ich... ich wünsche ihm seine Vergebung. Nicht jeder von uns kann großartige Dinge tun, um sie zu erlangen.~
+ //Rasaad
+@182   = ~Sein Gott mag sich von ihm abgewandt haben, aber sein Herz ist noch immer gut und rechtschaffen. Meine guten Wünsche begleiten ihn.~
+
+//Baeloth
+@183   = ~Was, was? Wieso geht er nach Luskan, da ist doch jetzt der Dämon? Ich kenne diese Art Dämon. Ich finde es *gut*, dass er in Lusakan ist. Weit, *weit* weg!~
+
+//Dorn
+@184   = ~Hmpf. Wo der Mob sich sammelt ist mir gleich, aber ich zöge es vor, wenn Ihr nicht so viel Aufmerksamkeit auf uns lenken würdet.~
+
+//Neera
+@185   = ~Ah, dass die ganzen ärgerlichen Leute jetzt weg sind ist eine Erleichterung. Aber.. sie gehen jetzt zum Haus der Mutter, oder? Oh, das ist nicht gut.~
+
+//Baeloth
+@186   = ~Hmm, Manipulation der ärgerlichen Massen, <CHARNAME>? Was für ein Spektakel. Wenn diese Dummköpfe wüssten, vor was für einem Dämon dieser Mann sie bewahrt hat, würden sie ihn verehren, nicht ihn und die Familie schmähen.~
+
+//Neera
+@187   = ~In einem komplett anderen Teil der Lande aufzuwachen, ohne Gold und ohne das Wissen, wie man dorthin kam... Was für eine Vorstellung!~
+
+//Baeloth
+@188   = ~Uaha! In Luskan ist er jetzt also! Nach der Geschichte zu urteilen, die diese Frau zu erzählen hatte, wird es dort in Kürze ebenfalls einen gefallenen Paladin geben.~
+
+ //Rasaad
+@189   = ~Die Geschichte, die die bedauernswerte Frau da erzählt hat, klang bekannt. Wir sollten sie dem gefallenen Paladin im Tempel erzählen, <CHARNAME>.~
+
+//Rasaad
+@190   = ~Hattet Ihr Euren Spaß? Denn das wird es für Euch wohl gewesen sein, diese Information in die Menge zu rufen. Für die Mutter aber ist es eine unerträgliche Verschlimmerung ihrer Lage. Ich wünschte, Ihr würdet mehr Respekt vor denen zeigen, die bereits bitter vom Schicksal gezeichnet sind. Insbesondere dann, wenn sie Euch darum baten!~
+

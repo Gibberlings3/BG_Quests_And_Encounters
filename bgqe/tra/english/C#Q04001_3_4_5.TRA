@@ -1,0 +1,131 @@
+@0    = ~Help! Help! It's trying to eat me!~
+//@1    
+@2    = ~What... what is this person talking about?~
+@3    = ~Ask your son. A baby wyvern chased him.~
+@4    = ~You do not frighten me. Fight me, if you dare!~
+@5    = ~That is nonsense! You threatened my son!~
+@6    = ~I swear I killed a baby wyvern that was chasing your son.~
+@7    = ~What is this about? You threatened my son!~
+@8    = ~How dare you talk to my son?! Soldier, I *demand* that you arrest this person right now!~
+@9    = ~Did you never wonder about the size and shape of that egg?~
+@10   = ~What do you know about the egg?!~
+@11   = ~Nothing, but I saw the "pet" that was inside, and it definitely wasn't a grass snake, but a baby wyvern.~
+@12   = ~Are you deaf? You are accused of threatening the son of Lord and Lady von Undenzieht with your weapons and killing his little pet animal! Surrender your weapons!~
+@13   = ~No, I did not do what you claim. I saved that boy from an attacking baby wyvern.~
+@14   = ~His pet animal? Since when do little boys have baby wyvern as pets?~
+@15   = ~That is a confession! Attack!~
+//@16   
+@17   = ~What is this talk about a baby wyvern! You are accused of threatening young Lord von Undenzieht and killing his pet grass snake!~
+@18   = ~His pet "grass snake?" I repeat: it was a baby wyvern that was chasing him!~
+@19   = ~Yeah, sure.~
+@20   = ~Is this the person you meant, Arnim?~
+@21   = ~Erm... yes! That's her!~
+@22   = ~Erm... yes! That's him!~
+@23   = ~Soldier! Arrest this person!~
+@24   = ~You, wait! You are accused of threatening the son of Lord and Lady von Undenzieht with your weapons and killing his little pet animal. Do you confess?~
+@25   = ~I beg your pardon?~
+@26   = ~No, I do not. I saved that boy from an attacking baby wyvern.~
+@27   = ~Ooh...~
+@28   = ~Why does there have to be so much talking? Arrest this person!~
+@29   = ~Under the circumstances I have to give him the right to explain himself. I am beginning to feel annoyed though!~
+@30   = ~Under the circumstances I have to give her the right to explain herself. I am beginning to feel annoyed though!~
+@31   = ~Arrest this person! Our son nearly got killed!~
+@32   = ~And the little grass snake! That egg cost 500 gp with an exclusive delivery from Waterdeep! I want compensation for the costs!~
+@33   = ~"Grass snake?" Arnim, don't you think it's time to tell your parents the truth?~
+@34   = ~And I tell you it wasn't a grass snake, but a baby wyvern. Your son was lying to you.~
+@35   = ~Stop talking about a wyvern! Well, that egg *did* look kind of... big... But the animal dealer said it was a special breed...~
+@36   = ~Arnim?!~
+@37   = ~I... I...~
+@38   = ~Papa, Mama, I am really sorry! It is true! It was a baby wyvern that came out of that egg! I was so frightened! It tried to eat me!~
+@39   = ~Arnim! Poor baby! Why didn't you tell us?~
+@40   = ~Because he knew he would feel my beating, that is why! So you lost your pet animal, and you accused innocent... well, maybe not innocent, but anyway, a stranger of it! Boy, you wait until we get home!~
+@41   = ~Dearest, please! He is innocent!~
+@42   = ~*cough* As is the person you accused of threatening your son. Am I right that the complaint will be withdrawn?~
+@43   = ~What? Yes, yes, of course.~
+@44   = ~Would you like to say some last words to the savior of your son?~
+@45   = ~We are thankful, dear stranger...~
+@46   = ~No, we are not! You killed an exotic animal worth 1000 gp that was in my possession! Better leave quickly and never return!~
+@47   = ~*Lord* von Undenzieht! Be careful with your manner of speech! <CHARNAME>, our apologies for the false accusations. We thank you for the courage you displayed by saving a child in our city.~
+@48   = ~I am glad it is all sorted then.~
+//@49   
+@50   = ~Next time, ask before you try to arrest me.~
+@51   = ~No, it is not over. I want my revenge! Fight me, if you dare!~
+@52   = ~There is only one more thing. Lord von Undenzieht, I arrest you under the charge of possessing dangerous exotic animals inside the city area! Come with me now!~
+@53   = ~What? This... this is... I am Lord von Undenzieht! I protest! Take your hands off me, you *idiots*!~
+@54   = ~Thank... thank you again. I am sorry I lied, but I was so scared... of my father's reaction.~
+@55   = ~Thank you for saving our son. Let me apologize for our confrontation... and my husband's behavior. He has a good soul, I think. Somewhere deep inside.~
+@56   = ~Little Arnim is playing outside with his new pet. I hope he won't be too tired when he returns.~
+@57   = ~It won't be long until he returns. I am sure they will charge him some sum, but that should be all. We will continue our travels to Neverwinter then. Farewell.~
+@58   = ~What do you want? Do I look as if I'd talk to strangers that barged into my apartment?~
+
+
+
+//--new NPC reaction lines
+@59   = ~What...? There I went into the wilderness, searching for days without end, combining forces and where do I find a wyvern, even if it's only a baby? Inside the city!~
+@60   = ~This was the delivery of the wrong beast? From Waterdeep?~
+@61   = ~A wrong delivery!... Humans seem to breed everything. I feel... tricked.~
+@62   = ~One more moment, please, soldier. Lord von Undenzieht, I overheard this egg was a wrong delivery from Waterdeep? I have a... personal interest in this. Please tell me, was the beast breeder's name Ilvastarr?~
+@63   = ~What do I care about the name! No, it wasn't such a funny name. It was a real, trustworthy shop name, something like "Bennie's Snake Delivery", or something like that. What business is it of yours anyway? Don't you see that I have other problems now?!~
+@64   = ~I do sympathize with your personal misfortune, but I had to make sure it was not my parents's business which sent the wrong delivery... Still, this has to be investigated further!~
+@65   = ~You can be assured that we will not let this matter rest. A wyvern was loose within the city! We will sort this out. A messenger will go as far as Waterdeep today, to prevent such an occurrence again.~
+@66   = ~I thank you, soldier.~
+@67   = ~What a coincidence! First we have to fight a monster, then we are accused of killing it! I am still trying to understand what actually happened. So, are we heroes, then?~
+@68   = ~But Ajantis - are you saying that your family breeds wyverns?! No wonder you aren't afraid of those things...~
+@69   = ~Common sense triumphs, again. For a moment I was afraid the situation would escalate.~
+@70   = ~I don't know what all the excitement was about. Young drow have pet monsters far more dangerous than a newly hatched wyvern. That man should be glad his son had such a good opportunity to train himself!~
+@71   = ~I hope he rots in prison, after trying to accuse us so.~
+@72   = ~What a misunderstanding. That is what happens if people of, ahem, lower intellectual capacity try to communicate. Next time let me do the talking, <CHARNAME>.~
+@73   = ~Tiax hears words of praise. Yes, commoner, you are thanking and praising the right person. I, Tiax, defeated the monsters!~
+@74   = ~Tiax, it was only one, and a baby.~
+@75   = ~Ah! Noise in Tiax' ears again!~
+@76   = ~Hmm, I have to know what delivery service that was. Maybe, if I order a baby *wyvern*, I would get...~
+@77   = ~No, Xzar, we don't need another pet monster. Ye're enough as it is.~
+@78   = ~I am sorry they didn't order a Spectral Panther. I would have liked to fight whatever the delivery actually was *then*.~
+@79   = ~Er, tigers do not come out of eggs, as far as I know.~
+@80   = ~I could crack yer skull with my axe and see what comes out of there!~
+@81   = ~*gulp* Didn't say a word!~
+@82   = ~Foolish people! To think you can own wild nature as they did! Serves them right.~
+@83   = ~So self-opinionated. See what it led to, a son that is too afraid to tell of the danger he was in. And an innocent, the saviour of his son, wrongly accused. *sigh*~
+@84   = ~If he wasn't already arrested, I would have liked to tell that man my opinion quite clearly!~
+@85   = ~I am sorry for the wife and child, having such a husband and father.~
+@86   = ~Minsc has to remember that this man is an innocent! His butt is wanting to be kicked!~
+@87   = ~The thought of a pet grass snake... *shudders*~
+@88   = ~A grass snake seems ordinary enough, but it can be worth a lot, if you have a good breed. I can understand the man's anger.~
+@89   = ~If my father had done that, I would... I would..., hm, maybe I would have liked the idea. it's kind of... exotic.~
+@90   = ~The thought of a wyvern coming out of that egg!...~
+@91   = ~Good point. I am, er, quite sure I wouldn't have liked that.~
+@92   = ~The poor boy. He will never be able to collect frogs, snails or turtle eggs any more, always afraid what will really come out of them!~
+@93   = ~Because you never know really. I still remember how proud I was to see that my little frogs had laied eggs in the tank I kept them in, and out of the eggs came hundreds of little water snails, and I was so disappointed... Although I admit this probably isn't really comparable considering the terror he must have felt.~
+@94   = ~I know why I never wanted to handle anything alive. The thought of a hatching monster out of a delivery... And now this has happened, and to a child! That's the worst case.~
+@95   = ~Something like that would never happen to me. I boil the eggs first. They taste better that way, anyway.~
+@96   = ~Very funny, Coran.~
+@97   = ~Am I the only one who wonders where the snake egg was delivered to? And... who would order a wyvern anyway? Assuming that this was a mixed-up delivery.~
+@98   = ~At least we already know where the snake egg was delivered to, and that there won't be any more mixed-up monster packages!~
+@99   = ~If this incident hadn't been resolved, that w-would have been bad indeed.~
+@100  = ~It is good to know this whole situation is settled. And with that, I am referring to the beast's appearance, as well as the accusations. And we saved a child.~
+@101  = ~Yes! Everything makes sense! We killed a valuable beast in their possession, now everyone involved in the process gets scolded by the beast master. Ah, I feel almost at home!~
+@102  = ~We killed the creature. I have no objection to completing the task and continuing with the family, if they are trouble.~
+@103  = ~Some people don't even need magic to get others into danger. Complete ignorance suffices!~
+
+/* new in v10 */
+@104  = ~Here, take a look at this baby wyvern head. Does this look like a grass snake to you?~
+@105  = ~This is a wyvern head, and very freshly taken! Would this mean, that...~
+
+/*
+@106  = 
+@107  = 
+@108  = 
+@100  = 
+@110  = 
+@111  = 
+@112  = 
+@113  = 
+@114  = 
+@115  = 
+@116  = 
+@117  = 
+@118  = 
+@119  = 
+@120  = 
+
+*/

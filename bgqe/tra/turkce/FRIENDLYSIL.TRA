@@ -1,0 +1,37 @@
+@0 = ~Balýkçý Cordyr bana teknesini batýrdýðýnýzý ve onu buradaki balýkçýlýk alanýndan kovaladýðýnýzý söyledi.~
+@1 = ~Tamam, gidiyorum.~
+@2 = ~Sen hala hayattayken hiçbir yere gitmeyeceðim!~
+@3 = ~Bu kýyý bölgesi her zaman Sil'in kabilesinin evi olmuþtur! Sirenlerin evi olduðunu iddia edenler kara halkýdýr! Yeterince uzun süre yaptýklarýna göz yumduk ve denizin sayýsýz sakinlerinin açgözlülüklerinin kurbaný olmasýný izledik!~
+@4 = ~Bekle... Bizi öldürmek, topraklarýmýzý kuru halk için talep etmek ve yaðmalamak üzere gönderilen o maceracýlardan biri misin?~
+@5 = ~Evet, o balýkçý tarafýndan balýkçýlýk alanlarýný tekrar güvenli hale getirmek için gönderildim ve yapacaðým þey de bu!~
+@6 = ~Ne diyebilirim ki... bu konuda haklýsýn, o yüzden ölmeye hazýrlan!~
+@7 = ~Evet, balýkçý bizden yardým istedi. Ama ben -týpký balýkçýnýn kendisi gibi- halkýnýza zarar vermek istemiyorum.~
+@8 = ~Yalan!~
+@9 = ~Kara adamýnýn Sil'in kabilesinin topraklarýný kan dökmeden fethetmesine yardým etmek mi istiyorsunuz? Halkýmýn hayatýný önemsediðini mi iddia ediyorsun?~
+@10 = ~Bu gerçek. Onunla konuþurken, halkýnýza zarar verme düþüncesi karþýsýnda çok isteksiz olduðunu fark ettim. O sadece hayatta kalmak istiyorsa iþini huzur içinde yapmasý gereken bir adam!~
+@11 = ~Ne isterseniz ona inanýn. Birkaç sirenin kaybýnýn önemli olacaðýný sanmýyorum. Benim bir görevim var ve onu yapacaðým.~
+@12 = ~Bu konuþma anlamsýz. Görünüþe göre bunu zor yoldan yapmamýz gerekecek.~
+@13 = ~Tuhaf geliyor ama sözlerin doðru gibi görünüyor, çünkü kan dökülmesinden kaçýnma isteðini hissediyorum.~
+@14 = ~Belki... Hayýr! Hayýr, sirenlerin kara halkýnýn kendi bölgelerinde yaþamasýna izin vermesi her zaman sorun yaratmýþtýr!~
+@15 = ~Çok iyi, o zaman korkarým bana baþka seçenek býrakmadýnýz. Cordyr'e yardým edeceðimize söz verdik ve edeceðiz.~
+@16 = ~Basit bir balýkçý kabileniz için ne kadar tehlikeli olabilir? Cordyr halkýnýza zarar verme fikrinden nefret ediyor... sizi en azýndan ona burada tahammül etmeye ikna etmek için yapabileceði hiçbir þey yok mu?~
+@17 = ~Bu konuþmadan yoruldum... o zaman bunu zorla yapacaðýz, bana baþka seçenek býrakmýyorsun!~
+@18 = ~Aslýnda, basit bir toprak adamý Sil'in kabilesi için deðerli bir rakip olmaz... ve belki...~
+@19 = ~Ona bir þans vermeye hazýrýz. Sirenlerin topraklarýna saygý gösterdiði ve denizde aþýrý avlanmadýðý sürece halkým bu kara adamýna zarar vermeyecektir. Belki yararlý bile olabilir. Kabilemiz için yapabileceði bir þey biliyorum.~
+@20 = ~Teþekkür ederim, Sil. Ona haberleri getireceðim. Elveda.~
+@21 = ~Sözünü Cordyr'a memnuniyetle iletirim. Ama ondan ne tür bir hizmet istiyorsun?~
+@22 = ~Þu anda bu seni ilgilendirmez. Ama emin olun ki bu onun kaybý olmayacak.~
+@23 = ~Þimdi git!~
+@24 = ~Ýhanet... Siz karadakiler bunu hep yaparsýnýz! Daha fazla konuþmak yok. Artýk konuþmak yok! Savaþacaðýz!~
+@25 = ~Sirenleri öldürmedik, ama liderleriyle konuþtuk. Evlerinden uzak durduðunuz ve balýkçýlýkla uðraþtýðýnýz sürece kabilesinin sizi rahat býrakacaðýna söz verdi... Ayrýca onlar için yapabileceðin bir þeyden bahsetti ama ne olacaðýný söylemedi.~
+@26 = ~Ah, bu harika bir haber! Bunu kan dökmeden yapabildiðin için ne kadar rahatladýðýmý nasýl söyleyeceðimi bilemiyorum! Çok az kiþi bunu yapabilirdi...~
+@27 = ~Balýk tutmaya gittiðimde sirenleri rahatsýz etmeyeceðime ve bölgelerine saygý göstereceðime dair memnuniyetle söz veriyorum. Ayrýca ihtiyacýmdan fazlasýný yakalamayacaðýma da söz veriyorum. Hizmete gelince... eðer sirenler bunun benim zararýma olmayacaðýný garanti ederlerse, memnuniyetle elimden geldiðince yardýmcý olurum.~
+@28 = ~Yardýmýn için teþekkürler, dostum. Ýþte, bu parþömenleri al, asla bilemezsin...~
+/* BG_EE: #31307 “Cordyr ve Sirenler” */
+@29 = ~Cordyr ve Sirenler
+
+Sirenleri Cordyr'in balýkçýlýk sahasýna dönmesine izin vermeye ikna edebildim. Adil olduðuna inandýðým koþullara saygý gösterdiði sürece artýk onu tehdit etmeyecekler. Kolay olmadý ama Cordyr'in kan dökmek zorunda kalmadan eski hayatýna dönmesine yardýmcý olmayý baþardým.~
+@30 = ~Cordyr ve Sirenler
+
+Sirenleri Cordyr'in balýk avlama sahasýna dönmesine izin vermeye ikna edebildim. Rýhtým'daki evine dönüp ona haberleri götürmeliyim.~
+@31 = ~Yola çýkýyorum.~

@@ -1,0 +1,312 @@
+@0    = ~What... what have you *done*?!~
+@1    = ~What... what have you *done*?! My child!~
+@2    = ~Oh, another one. He is *upstairs*, you should know this by now. Tell him he has to make the tea himself. I am not his slave.~
+@3    = ~I beg your pardon, my lady?~
+@5    = ~Sorry to have disturbed you. I'll be leaving, now.~
+@6    = ~We just talked to your husband and he...~
+@7    = ~Now, what is this all about? You *are* a strange couple!~
+@8    = ~We hope the necklace is to your taste, my friendly helper.~
+@9    = ~Indeed, it was Annie who had the necklace! My poor husband! *guilty look* Thank you very much for your help, dear stranger! You did a very good deed by us.~
+@10   = ~I really want to see you people happy. Do you have an honest buyer for your necklace?~
+@11   = ~It was a pleasure. Good day.~
+@12   = ~Yes. It's a wonder how childishly some adults behave.~
+@13   = ~I have the gold now. Are you still interested?~
+@14   = ~*sob* Please go now...~
+@15   = ~What do you want now?~
+@16   = ~Are you sure you are not in need of some gold?~
+@17   = ~Your husband told us the missing necklace belongs to you.~
+@18   = ~Nothing. Goodbye.~
+@19   = ~I *told* you where you can find him!~
+@20   = ~You seem to be missing something. Can we help you in any way?~
+@21   = ~Your daughter mentioned you are missing a necklace.~
+@22   = ~Nothing. Goodbye.~
+@23   = ~Thank you very very much. We... are very shy people, and maybe a bit too proud. *shy smile* You are a very generous and friendly person. We are indeed in your debt.~
+@24   = ~*You give the 500 gp to Mr. Dudley.*~
+
+@26   = ~*You put 550 gp directly into Mr. Dudley's gold bag, trying to be sure that he doesn't notice the extra gold.* I thank *you*, good people.~
+
+@28   = ~*You put 600 gp directly into Mr. Dudley's gold bag, trying to be sure that he doesn't notice the extra gold.* I wish you all well.~
+
+@30   = ~You heard me perfectly. At least have the decency to wipe your shoes before going upstairs.~
+@31   = ~I... Oh, never mind.~
+@32   = ~Whatever you say. At least have the decency to wipe your shoes before going upstairs.~
+@33   = ~I won't listen any further! I don't know why he keeps sending his friends. He's making the whole street think *I* have it. But *he's* hiding it! This is ridiculous. Leave me in peace.~
+@34   = ~Are you missing something?~
+@35   = ~I won't say anything further. Go back to him and leave me in peace.~
+@36   = ~Did she tell you that? *sigh* Poor girl. Her father doesn't think of what he is doing to her. He doesn't think of what he is doing to *us*, by hiding that pearl necklace!~
+@37   = ~Can I help you in any way?~
+@38   = ~Well, too bad. I must be going.~
+@39   = ~No, I don't think so. I am sorry, I don't mean to offend you, but even our friends couldn't talk any sense into him... I do apologize for my unfriendly behavior. I imagined that you were his friends when you came in the first time. I thank you for your offer of help, but please leave us alone now.~
+@40   = ~If it's only gold that you miss, maybe I could give you some?~
+@41   = ~As you wish. Goodbye.~
+@42   = ~Ah... no, no, thank you. We have enough gold. At least we *would* have... Never mind. It is not your problem.~
+@43   = ~Did he? Well, at least he seems to remember... Although that doesn't help, if he doesn't *give* it to me!~
+@44   = ~But he said that he has no reason to hide it... And that you agreed on selling it too, but then you changed your mind.~
+@45   = ~Too bad. I must be going.~
+@46   = ~*I* changed my mind? *I* changed my mind? One evening we discussed the necessity of selling my... *sob* my grandmother's necklace, and the next morning he hid it! We will lose the house because we can't pay our last debt on it. I really don't blame him that he's no longer capable of earning as much as he did. I haven't talked to that stubborn husband of mine for several days now. I... I can't take this any longer... *sob* Please, leave me in peace...~
+@47   = ~I have the impression we are running in circles here. There must be a different solution to this.~
+@48   = ~Oh come on please, no crying... Argh, I had better go now!~
+@49   = ~Poor Annie... What will become of her... *sob*~
+@50   = ~What... what have you *done*?! Annie!~
+@51   = ~What are you doing here? Go down and remind her of our agreement. It's *mine* here and *hers* downstairs. And tell her I want some tea! Now, off you go!~
+@52   = ~I beg your pardon, my lord?~
+@53   = ~All right, I'm gone.~
+@54   = ~We just talked to your wife and she said...~
+@55   = ~Wait! Wait! You... *pant* you gave us too much gold, my friendly helper. It was 500 *pant* 500 coins we agreed on!~
+@56   = ~Ah, you again! It's nice to see a friendly face. Did your friend like the necklace?~
+@57   = ~Who would have thought it was Annie who took the necklace!~
+@58   = ~Your wife is crying downstairs... Are you sure you don't want to just accept some gold and let it be over?~
+@59   = ~Are you sure you don't want any gold?~
+@60   = ~From talking to your wife I got the impression that she thinks that *you* are hiding the necklace!~
+@61   = ~Think about asking for the tea!~
+@62   = ~You seem to be missing something?~
+@63   = ~Do you have ear problems? Now go down to her. There *is* enough space on the ground floor.~
+@64   = ~I... all right, goodbye.~
+@65   = ~Hmph. You would think there *is* enough space on the ground floor.~
+@66   = ~Oh, don't try that one on me. We know all perfectly well that *she* is hiding it! Tell her it's getting her nowhere. We have to sell it!~
+@67   = ~You are missing something?~
+@68   = ~Ha! Guess the whole street knows it already. Is it shameful to sell possessions because you don't have enough gold? It's not my fault the horse stepped on my foot. Now, please! I want to rest a bit. Goodbye.~
+@69   = ~Could we help you in any way?~
+@70   = ~Of course. Goodbye.~
+@71   = ~Yes. Go down to her and tell her to stop hiding it! Goodbye.~
+@72   = ~Missing? Yes, it's indeed missing! My dear wife is hiding the last possession that would save us from losing the house... Ye gods, I'm talking to a complete stranger about my gold problems! Better if you leave now. Goodbye!~
+@73   = ~That's ridiculous! Why should I do that? It is actually hers, to be precise, old family jewelry... *sigh* It's not easy for a man to admit that he is not capable of providing for his family any longer. She agreed to sell the pearls. Really brave woman she is, my Margareth! But *sigh* she somehow changed her mind, and now it's gone. Haven't talked to her for over a week now! This situation is unbearable. Please, leave an old man with his sorrow. Good day to you.~
+@74   = ~If it's only gold you are missing, maybe I could give you some?~
+@75   = ~Goodbye.~
+@76   = ~Ah? Oh, thank you for that... er, kind offer. But she would never accept that, my Margareth... No, she wouldn't.~
+@77   = ~*sigh* It's not that easy, see? It isn't right that we take gold from strangers because we can't reach an agreement. It sounds very tempting, but it's not that easy. *sigh*~
+@78   = ~There were 100 gp too much in my bag after you left... Is that a grin on your face there? You are very friendly and generous indeed, but we can't accept a donation of so much gold.~
+@79   = ~It's no donation. I offered you 600 gp, because that is exactly the sum I think this necklace is worth. I would not argue with you in front of your wife, but there is no way I will take back these 100 gp, as they belong to you, good man.~
+@80   = ~Are you sure? See, you really need that gold, and I still have enough for my own purposes.~
+@81   = ~*sigh* Well, then give it back to me.~
+@82   = ~There were 50 gp too much in my bag after you left... Is that a grin on your face there? You are very friendly and generous indeed, but we can't accept a donation of so much gold.~
+@83   = ~It's no donation. I offered you 600 gp, because that is exactly the sum I think this necklace is worth. Well, your counter-offer was 500, so we met in the middle. I would not argue with you in front of your wife, but there is no way I will take back these 50 gp, as they belong to you, good man.~
+@84   = ~We are in your debt for sure, friendly stranger. May the gods be with you.~
+@85   = ~There is no question about it. We are in your debt for sure, friendly stranger. Take those coins back, and may the gods be with you.~
+@86   = ~Ah, nah, you don't... I mean... Do you really...?~
+@87   = ~You see, that's not tears in my old eyes. I guess I got some sand in them, running so fast to catch up with you. You are something special, young one, I tell you. But what you said made actual sense... I hope I can remember that until I return home, so I can tell Margareth... Or maybe I won't tell her, keeping it a nice surprise...~
+@88   = ~We are in your debt, friendly stranger. I will keep the coins then... May the gods be with you!~
+@89   = ~Well, we will go to someone we know in private... It's always a risk to do gold business with people you know, but it's...~
+@90   = ~Good gracious, do you want to tell every detail of our gold misery?~
+@91   = ~We are very grateful for what you did for us, but we need some time to discuss the proceedings further... I do apologize, but it was a very anxious time we had.~
+@92   = ~I am sorry to interfere so much with your private problems, but I actually am looking for a nice pearl necklace for a, er... friend. Would you sell the necklace to me for... let's say 600 gp?~
+@93   = ~Well, I surely hope everything will be alright. Good day to you.~
+@94   = ~Yeah, sure. Bye.~
+@95   = ~600 gp?! That is... that is much more than we would get from the other buyer.~
+@96   = ~Thank you very much, this is a very honorable offer. Yet we do not want to trouble you that much. We...~
+@97   = ~Margareth, what are you saying? Didn't you hear what was said? Why shouldn't we sell it now? We couldn't buy it back from Edgar anyhow.~
+@98   = ~Honey, please. I am not so stupid as to think...~
+@99   = ~Margareth, come aside for a short moment.~
+@100  = ~*whisperwhisper* ...gold directly and... *mumblemumble* ...you never know whether Edgar... *whisperwhisper*...~
+@101  = ~Yes, but *whisperwhisper*...~
+@102  = ~Margareth, please *whisperwhisper*... Annie, hm?~
+@103  = ~Well *whisperwhisper* *sob* You are so right, my dear. But only *whisperwhisper*...~
+@104  = ~You are the wisest of all, my lovely wife. That is exactly how we will do it.~
+@105  = ~All right, amicable helper. We finally decided to accept your offer, but not for the 600 you offered. Five hundred, it will be. This is still a very generous trade for us, and we are very well aware of the fact that you know that... *ahem*.~
+@106  = ~What a comfort. And I thought I might have to go on searching forever for a pearl necklace!~
+@107  = ~If you are decided, I won't argue with you.~
+@108  = ~Yeah, yeah, just let's get this deal over with.~
+@109  = ~Ah, it seems I don't have enough gold right now. I will come back later!~
+
+@111  = ~Mommy!~
+@112  = ~Daddy!~
+@113  = ~Who are you? You are scary!~
+@114  = ~Do you still have the necklace? Can I have a look?~
+@115  = ~Mom isn't as angry as I thought! Only bad thing is that the necklace will be sold now...~
+@116  = ~I didn't mean to hurt anyone!~
+@117  = ~Oh, poor child. Hush, everything will be all right. Hiding the necklace doesn't help, Annie. Go inside and give it back. Some things have to be done, even if it hurts.~
+@118  = ~Are you *still* crying?~
+@119  = ~You talked again to my parents, yes?~
+@120  = ~I did, indeed. Are you sure you know nothing about this missing necklace, Annie?~
+@121  = ~I don't want to talk to you, girl.~
+@122  = ~Annie, from what your mom said, I have the strong impression "someone" took the necklace from its place that particular night... Don't you think it's time to give it back to your mom?~
+@123  = ~*sigh* I wish Mom and Dad would stop arguing!~
+@124  = ~You've been in our house! Did you talk to my parents?~
+@125  = ~I indeed did "talk" to your parents... Seems they are missing something?~
+@126  = ~And you are...?~
+@127  = ~I talked to your mother... Seems your parents don't get along with each other very well recently?~
+@128  = ~I talked to your father... Seems your parents don't get along with each other very well recently?~
+@129  = ~Me? I'm... I'm Annie, why do you ask?~
+@130  = ~No, they don't... *sigh* I wish Mom and Dad would stop arguing!~
+@131  = ~Ye-es... Did they tell you that? What did they say?~
+@132  = ~They didn't tell me, to be honest. I figured it out from what they said. Do you know anything about it?~
+@133  = ~Yes, they told me. Tell me what you know!~
+@134  = ~Doesn't matter. I don't want to talk to you, girl.~
+@135  = ~Mom said we need some gold to pay for the house... But we lost the necklace that could be sold.~
+@136  = ~Ah, so it's a *necklace*! Well, I have the impression that both your mom and dad think the other one is hiding it... Do you have an idea where it could be?~
+@137  = ~Me? No... no, why should I?~
+@138  = ~It doesn't matter, I guess.~
+@139  = ~I don't believe you! They never tell anybody!~
+@140  = ~Right, all right. They didn't tell me. I figured it out from what they said. Do you know anything about it?~
+@141  = ~But I... I... *sob* I don't *want* the necklace to be sold! It's the last piece we have from Grandma and I... I... I thought they would find another way and I... *sob* I took it when they where sleeping and now they are so angry and everything is so bad... *sob*~
+@142  = ~Oh *dear* me! Another crying female! I can't stand this!~
+@143  = ~May... *sob* Maybe you are right. Oh, I hope mom won't be too angry!~
+
+
+@147   = ~You! Aren't you... You took the necklace from our daughter, didn't you! Of course we can't prove anything, but I believe my daughter. You are evil... We had to give up the house, because we couldn't pay the debt. We will go far away, to make a new start. Shame on you!~
+@148   = ~Do you still have the necklace? You will give it to Mommy, right?~
+@149   = ~I changed my mind. Better you take the necklace to your mom. And make it quick!~
+@150   = ~Give the necklace to me, child. I will... erm, keep it safe until your parents calm down.~
+@151   = ~I should give you Grandma's necklace?~
+@152   = ~No, better not.~
+@153   = ~Why, yes, sure. Just imagine how upset your mother will be when she finds out. Better you don't have it with you then!~
+@154   = ~If... if you think so. But you will give it to Mommy, yes?~
+
+@156   = ~You are a scoundrel!~
+@157   = ~You took the necklace! You are evil!~
+@158   = ~Why are you telling me that?~
+@159   = ~Here you are... your necklace. It was Annie who took it.~
+
+@161   = ~Really! And you are giving it to us. I have no idea how you made Annie give it to you, but we are in your debt for your honesty!~
+@162   = ~My necklace! And... Annie, you say? Oh, how did you find out? Thank you so much for your help. You have no idea how much your honesty is helping us!~
+@163   = ~Here, Annie, take the necklace back. It belongs to you, not me. You can keep it, as a present!~
+@164   = ~You... you are giving me Grandma's necklace? Ooh, that is wonderful! I have to tell all my friends. Thank you so much!~
+@165   = ~Hello! I haven't shown the necklace to my parents yet... Mom was so strange about it. Maybe I'll show it to Dad, tomorrow.~
+
+
+/* new content v9 */
+
+//---NPC reactions
+
+@166   = ~MwahaHAHA! This was fun! Let's find another family and do this again!~
+@167   = ~You are sooooo mee-hee-hean!~
+@168   = ~Serves them right, if they cannot help themselves!~
+@169   = ~Oh, no! Are you sure there is nothing we can do? This is bad...~
+@170   = ~Does that mean we can buy the house for a small amount now?~
+@171   = ~I can help them move with another kick in the butt!~
+@172   = ~Maybe they left some useful things in the house. Surely they have things they cannot move?~
+@173   = ~Oh, of course not! It was absolutely impossible to guess who took the necklace. Phaaaaargh, some people!~
+@174   = ~And the prize for riddle solving goes to - tadaa! - <CHARNAME>! Let's get outta here.~
+@175   = ~Tiax doesn't understand what we are doing in this house. Those people do not render homage to the great Tiax! They don't even look at him!~
+@176   = ~I am not sure what we are doing here. Nothing of that wife's and husband's babbling made any sense to me. And the brat - argh!~
+@177   = ~I cannot believe how some families behave. Why couldn't they just *talk* to each other?~
+@178   = ~Wouldn't be the first family where the daughter plays a game with the parents...~
+@179   = ~Ahem. That's a completely different story!~
+@180   = ~I could never imagine keeping a valuable object the way the girl did!~
+@181   = ~No, you would probably show it around and be proud of it.~
+@182   = ~I know that feeling. When I was young, I took valuables and wanted to keep them for myself because I liked them so much, too. Er, my intention probably wasn't as honorable as Annie's, though.~
+@183   = ~*laughs* You are the most honest rogue I ever met, Alora.~
+@184   = ~*I* never stole shiny objects for myself. They were always for a beautiful girl...~
+@185   = ~I am still waiting, you know, Coran...~
+@186   = ~I hope they will punish that child accordingly. There is no excuse to threaten the existence of a family so!~
+@187   = ~Oh, no! Hopefully, they don't!~
+@188   = ~I don't know why I even care! Surfacers and their problems, bah!~
+@189   = ~I hope they've solved their problems now. It would be a shame to see them in any more trouble.~
+@190   = ~It's great to see them happy, and so forth, but how much longer do we have to stay in this town?~
+@191   = ~'Tis funny what effects too little communication can have. Well, I guess I should keep my mouth shut, considering t' consequences of  "too much" talking in my case *sigh*.~
+@192   = ~Do not give in to the feelings of guilt, my friend. Those bastards made us all suffer.~
+@193   = ~Helping this family seems to be little and unimportant, but every good deed tips the scale in the right direction.~
+@194   = ~You are taking the words out of my mouth! We work in big and in little steps against the evil that spreads along the Sword Coast, and it is good.~
+@195   = ~We did a good deed for a family of good people. I thank you, <CHARNAME>.~
+@196   = ~We should be careful with the good deeds we are doing. Too much of anything is an excess.~
+@197   = ~I wanted to say exactly that, Branwen. We have to keep the balance.~
+@198   = ~Balance? I could drop those good deeds altogether.~
+@199   = ~It is n-nice to see them so united.~
+@200   = ~Now they are all standing united, it would take only one blow with my axe to finish them off. <CHARNAME>, say that this was yer intention! Ye're not going to listen to this babbling any longer, are ye?!~
+@201   = ~There are moments when the best song and the sweetest music cannot help, but it all comes down to a handful of plain gold. Er, that is what I thought when I hired you for Silke...~
+@202   = ~Another family that consists of members pretending they love each other - bah!~
+@203   = ~Now they look all happy... but what is it worth? How long will it last?~
+@204   = ~Xan, in your memory it will last all eternity. Elven memory and all?~
+@205   = ~That memory will remain in my head, indeed, but you are foolish, Imoen, to think that it won't be drowned by hundreds of bad memories that share the same space in my brain.~
+@206   = ~Ah, Minsc's heart glows to see those people happy again.~
+@207   = ~This is a fine ending.~
+@208   = ~Oh, buying it is so nice! Can I have it? Please? Please?~
+@209   = ~It is very honorable, being there at the right time, doing the right things...~
+@210   = ~Buying that necklace will help those people, although I am not sure what thou art planning to do with it.~
+@211   = ~Are you sure that is a good idea? They had a buyer for that necklace, already.~
+@212   = ~Whoever that "friend" of yours might be, I am ready to carry that necklace, if it's too much for your inventory.~
+@213   = ~I wonder who that "friend" would be?...~
+@214   = ~Skie, you are really cute.~
+@215   = ~Oh, thank you! *blushes*~
+@216   = ~*laughs*~
+@217   = ~Oh, no! You are not going to give them gold? Gold always complicates things! Especially amongst friends! Wahahaa!~
+@218   = ~Better give me all your gold, Xzar, to make things simple and straight!~
+@219   = ~<CHARNAME>, I have a thing or two I'd like to sell you, too, if you have the time...~
+@220   = ~The attempt to give them happiness is vain, <CHARNAME>. Save your gold. Although I wouldn't know what for... *sigh*~
+@221   = ~Hm, I doubt this happened by accident... *smiles*~
+@222   = ~You did that? <CHARNAME>, I honour you.~
+@223   = ~Why is it always that those who need it and deserve it are too honest to keep it?~
+@224   = ~Some people are too honest for this world.~
+@225   = ~Some people are too proud for this world!~ 
+@226   = ~Some people are just too plain stupid for this world, if ye ask me.~
+@227   = ~Can we give him another 100 gold, just for his honesty?~ 
+@228   = ~Not all people like to receive donations.~
+@229   = ~Some people are t-too proud to accept help... Aren't th-they, Jaheira?~ 
+@230   = ~We are talking about this family, yes?~
+@231   = ~Of c-course.~ 
+@232   = ~What a fool! He could have extra gold, and he brought it back!~
+@233   = ~He understood the insignificance of his existence, as should we all.~ 
+@234   = ~I am quite content that he is bringing it back!!~ 
+@235   = ~<CHARNAME>, next time ye got too much gold, just give it to us.~
+@236   = ~I liked the necklace, but that is even better! Did you see the look in her eyes?~ 
+@237   = ~Happy children's eyes! Oh, that is wonderful, Boo, isn't it?~ 
+@238   = ~I know you meant well, but I cannot take any more exclamations of joy and happiness.~ 
+@239   = ~Oh, no! If I have to face any of that do-goodery again soon, I will start choking fireballs.~ 
+@240   = ~I surely hope thou took it to give it to the parents thyself, <CHARNAME>!~
+@241   = ~Let us make haste and take the necklace to the parents. I understand they need it rather urgently.~
+@242   = ~Er, we are going to give it back, yes?~
+@243   = ~Let me have a look at it - hm, that's a fine one, indeed. It should be worth something, if you know what I mean!~
+@244   = ~Children are so confiding.~
+@245   = ~Children are so confiding, it breaks my heart!~
+@246   = ~Oh, dear Xzar, don't cry! The world is mean and heartless!~
+@247   = ~You are my comfort!~
+@248   = ~Here it is...~
+@249   = ~We are very grateful for your help.~
+
+//Neera
+@250   = ~These people lost their house? But we didn't *do* anything!~ 
+
+//Eldoth (PartyHasItem("c#q02004"))
+@251   = ~I *would* advice we get rid of the piece of evidence... preferably by getting some gold out of it.~
+
+//Dorn
+@252   = ~Time was on our side. A very effective and painless method of destroying others. Way too painless, for my taste.~
+
+//Baeloth
+@253   = ~I wouldn't exactly call withholding a property "doing nothing", but yes, this was rather effective destructional behaviour considering the low efforts it took.~
+
+//Dorn
+@254   = ~I couldn't care less about these people. Let's go, enough time wasted.~
+
+//Neera
+@255   = ~It *does* something to you if people look at you with so much thankfulnes. And if it is only the will to leave the place, fast.~
+
+//Rasaad
+@256   = ~Helping this family was a good deed, <CHARNAME>, no matter how small the action.~
+//Neera
+@257   = ~I am not really comfortable with this. It's a very... *personal* necklace.~
+//Rasaad
+@258   = ~I understand why you wanted to buy the necklace yourself, and honor your will to see this problem solved in good terms.~
+
+//Rasaad
+@259   = ~I appreciate honour where I see it. That goes for you, <CHARNAME>. And also for this husband and father. Such pride!~
+ 
+//Montaron
+@260   = ~Excuse me while I kill myself in that corner over there.~
+
+//Xzar
+@261   = ~You... you *gave* it to her? Just like... just like tha-ha-hat?~
+//Montaron
+@262   = ~Don't be jealous, mage, I 'm sure <CHARNAME> loves ye, too.~
+
+//Rasaad
+@263   = ~Happily gleaming children's eyes. There is *nothing* more exhilarating than that.~
+
+//Branwen
+@264   = ~Should I be relieved that we don't have enough gold for all people in need out there, or should I start worrying? Your interest in the well-being of this random family is surprising, <CHARNAME>.~
+
+//Dorn
+@265   = ~Hmph. This might have been easy, but what is the point in tricking a child? Give me the town's guard to fight!~
+
+//Neera (Dorn in party)
+@266   = ~Er, no worries, Dorn. If we keep the necklace it might well be there *will* be the town's guard on our heels.~
+
+//Neera
+@267   = ~Hm, this wasn't exactly stealing, was it? What will you do with the necklace, <CHARNAME>?~
+
+//Rasaad
+@268   = ~The overtrustfulness of the child put us into a position of great responsibility towards this family in need, <CHARNAME>. I hope you know this.~
+
+@269   = ~Jaheira, d-do you remember the necklace I wanted t-to buy you once, the one with the tiger...~
+
+@270   = ~I was thinking of exactly the same, Khalid. But no need to let this story be heard by everyone. Ahem.~

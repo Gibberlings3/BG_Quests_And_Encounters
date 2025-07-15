@@ -1,0 +1,118 @@
+@0    = ~*cough* Croak! (Ack) *cough*~
+@1    = ~What happened to your voice?~
+@2    = ~You seem to be ill, my friend.~
+@3    = ~Ha-hahaHAHA! Noober without a voice! Priceless.~
+@4    = ~(points and waves his arms) Croak! Croak! (Ack) *cough* Croak!!~
+@5    = ~The river? ...Thrown into... Ah, you were thrown into the river by the town's youth? And probably got a heavy cold afterwards.~
+@6    = ~Do not strain your voice further. I do understand that you have a heavy cold.~
+@7    = ~Whatever. You are ill, I can see as much.~
+@8    = ~Leave me be, fool. Do I look like I am interested in what happened to you?~
+@9    = ~Croak!... *cough cough*~
+@10   = ~A Warm Place for Noober
+
+Noober got a heavy cold after being thrown into the river. He needs a warm place to rest and recover and ideally someone who takes care of him, too, but he doesn't seem to have such a place. Maybe I can warm the hearts of the townspeople in his favor.~
+@11   = ~A Warm Place for Noober
+
+That fool Noober got a heavy cold after being thrown into the river. Now he wanders the streets, his voice just a rusty croak. Probably because he got himself being thrown out of the warmth of the whole town.~
+@12   = ~Croak?~
+@13   = ~Good news, my friend. Joseph's wife will take you in and see to your health.~
+@14   = ~Spare your voice, Noober, and see to a good rest.~
+@15   = ~Haha! Croak again. This sound is *so* funny!~
+@16   = ~...? (sigh of relief) Croak!~
+@17   = ~A Warm Place for Noober
+
+The good woman in the south east house of Nashkel will take Noober in. I should tell him as soon as possible.~
+@18   = ~A Warm Place for Noober
+
+Noober is on his way to his warm place. I could go there at some time and see how they fare.~
+@19   = ~... - croak! *cough*~
+@20   = ~Croak?! Croak! *cough* *cough*~
+@21   = ~Croak!~
+@22   = ~Hello!~
+@23   = ~What? Sorry, I don't have time to chat. I am talking with old Mrs. Joseph.~
+@24   = ~Noober has a heavy cold. Would you take him in and see to a proper recovery?~
+@25   = ~My god grants me healing powers, but a mere cold has to be healed like it always was. Alas, my chores will keep me here in the temple, and this is not the best place for a cold to be nursed away, I am afraid. Keep on asking the townsfolk, I am sure there is a willing soul with a warm bed amongst them. But do return if you do not find anyone ready to take him in.~
+@26   = ~No, I neither have the time, nor the will, nor even a spare bed even if I wanted to. I am sure you'll find a willing soul alongside the farmers, especially if you offer some coin along with your request.~
+@27   = ~Hm, Joseph's wife would be a kind enough soul to take someone like Noober in.~
+@28   = ~Hm, poor Joseph's widow would be a kind enough soul to take someone like Noober in.~
+@29   = ~She locks her door, though. But don't be afraid to enter nonetheless. If you approach her in a friendly manner, she'll be ready to listen.~
+@30   = ~But there's no sense in you asking her, not after how you treated her! Well, maybe I'll ask her when I close the shop tonight.~
+/* @31   */
+@32   = ~A Warm Place for Noober
+
+According to the shop keeper, the woman in the south east house of Nashkel might take Noober in. He also said I shouldn't be scared by a locked door but enter nonetheless, if I am willing to explain my trespassing in a friendly manner.~
+@33   = ~A Warm Place for Noober
+
+The woman in the south east house of Nashkel might take Noober in. The shop keeper will ask her, because it doesn't make any sense for me to go around playing the messenger (and especially at this silly woman's house). I guess that is settled, then. I don't expect anyone to tell me how this ended.~
+@34   = ~What, does this look like a nursery to you? He can have a good, strong ale to warm his stomach and head, if he can afford it. Other than that, he should keep off, before scaring away customers. Again.~
+@35   = ~Well, my rooms are warm and cosy, but I threw Noober out more than once because my customers felt pestered by him, so I'm glad he doesn't have the amount of gold it would take to afford a room, if you understand.~
+@36   = ~Noober? You know, you might think I'd do anything to get a small sum of gold. But I wouldn't take in Noober for all the gold in the world. You can't expect me to do that to my sister who'd be the one listening to his endless babble!~
+@37   = ~That fool! No-one died of a cold yet. I have much more important things to do than to nurse someone to health!~
+@38   = ~The days are so black and dull... I wish I had *some* kind of diversion. Except for mom, of course...~
+@39   = ~Huh? You said somethin'?~
+@40   = ~I said you are my only diversion, currently.~
+@41   = ~Huh?~
+@42   = ~I said you are my only diversion!~
+@43   = ~I said you are KEEPING ME BUSY!~
+@44   = ~Huh? Complaining again, aren't you?~
+@45   = ~(sigh)~
+@46   = ~Please, I would ask you to leave, now.~
+@47   = ~My apologies for bothering you, good woman, but one of your town's fellows would need a place to recover. It is Noober, and he can hardly speak after what happened to him recently.~
+@48   = ~I'll be off, then.~
+@49   = ~(sigh) Noober... His constant talking is the *last* thing I'd need. But if the poor man is ill... I have to care for mother, anyway. And with Joseph gone... Anything that keeps me occupied is good, actually...~
+@50   = ~(sigh) Yes. Yes, tell him to come here. I have a small spare bed, and as long as he doesn't talk as much - which he can't, if I understood you correctly - I will see to him taking a good rest. With a sore throat he'll enjoy mom's puddings and broths, probably, so I wouldn't have to cook extra...~
+/* @51   = @32 */
+@52   = ~Please go, if there is nothing else you want.~
+@53   = ~Good day.~
+@54   = ~You are not welcome here. I appreciate your help in bringing Noober here, but you are not welcome. Leave!~
+@55   = ~Yes, you see Noober found his way here.~
+@56   = ~Yes, we are talking about you, Noober. Back into your bed!~
+@57   = ~No, not you - it's alright, mother!~
+@58   = ~(sigh) Please, leave now.~
+@59   = ~A Warm Place for Noober
+
+Noober found a good nursery place with Joseph's widow. I do wonder what will happen once he gets his voice back, though. Maybe I should check in after some more time.~
+/* @60   = @55 */
+@61   = ~Now, look at them! Who could have guessed this would work out so well? I am so thankful for the help with mother. He is so patient, and she just deaf enough to make them the perfect pair.~
+@62   = ~And I have just the needed freedom to mourn my beloved husband...~
+@63   = ~And I have just the needed freedom to do my work in quietness, hoping for my beloved husband to return...~
+@64   = ~I do thank you, good <MANWOMAN>. But I also ask you to leave now.~
+@65   = ~A Warm Place for Noober
+
+Noober found a new home! At least for the time being, he seems to be the perfect entertainer for the old mother of Joseph's widow. And again the gods showed that they have a use for everything.~
+@66   = ~A Warm Place for Noober~
+
+/* c#lcno01.baf */
+@67   = ~Fine weather, isn't it?~
+@68   = ~Huh?~
+@69   = ~Do you need to drink something?~
+@70   = ~Water!~
+@71   = ~Ah, is it raining again?~
+@72   = ~What about now?~
+@73   = ~What is this? Do you think I am not capable of doing this on my own?!~
+@74   = ~Do you want to hear a story?~
+@75   = ~A story?~
+@76   = ~Nah, I am too tired to tell anything.~
+
+/*
+@77  = ~The Tale of Captain Brage
+
+Nalin at the Temple of Helm in Nashkel seems to think that Brage might be under the influence of some evil force. If I return Brage to the temple, he might not be killed for his crimes.~
+*/
+@78  = ~Hm, tough luck, you know. Seems the only soul who would have been ready to care for you is gone.~
+@79  = ~Too bad she's *dead* now, isn't it? Hmph.~
+@80  = ~It's... alright, I guess. It is strange, with him not able to talk, and he tries to be of help, although that is not how it should be, with him needing rest.~
+
+/* new for v19 */
+@81  = ~We wanted to ask you something...~
+@82  = ~Yes, adventurers usually come in to ask something about the mines.~
+
+/* new for v23 */
+/* same as @59, only "wife" instead of "widow" */
+@83   = ~A Warm Place for Noober
+
+Noober found a good nursery place with Joseph's wife. I do wonder what will happen once he gets his voice back, though. Maybe I should check in after some more time.~
+/* same as @65, only "wife" instead of "widow" */
+@84   = ~A Warm Place for Noober
+
+Noober found a new home! At least for the time being, he seems to be the perfect entertainer for the old mother of Joseph's wife. And again the gods showed that they have a use for everything.~
