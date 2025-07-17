@@ -639,4 +639,42 @@ Die Priester des Lathander werden sich um den betrunkenen Polus kümmern. Damit s
 
 Ich habe dem Betrunkenen jegliche weitere Unannehmlichkeiten erspart. Sozusagen.~
 
+/* @10069 used above */
+
+
+@10100   = ~Legale Quelle für die Seekarten~
+// @25 from calabald.tra
+@10101   = ~Legale Quelle für die Seekarten
+
+Der Seemann Calahan hat mir angeboten, dass er mir die Seekarten besorgt, die ich für Mendas brauche. Ich soll ihn in zwei Tagen wieder in Ulgoths Bart treffen.~
+// @26 from calabald.tra
+@10102   = ~Legale Quelle für die Seekarten
+
+Calahan in Ulgoths Bart möchte weitere 3,000 Goldstücke von mir für die Seekarten!~
+@10103   = ~Legale Quelle für die Seekarten
+
+Ich habe die Seekarten von Calahan erhalten.~
+@10104   = ~Legale Quelle für die Seekarten
+
+Mendas in einem der Häuser in der Nähe des Strandes in Ulgoth' Bart schlug das Bergen eines Schiffswracks vor, von dem er behauptet, es sei das von Balduran. Er will nicht nur den Bund der Kaufleute um die Artefakte betrügen - er will auch, dass ich ihnen die notwendigen Seekarten stehle! Das werde ich auf keinen Fall tun. Es muss einen anderen Weg geben, die Seekarten zu bekommen.~
+@10105   = ~Legale Quelle für die Seekarten
+
+Mendas in einem der Häuser in der Nähe des Strandes in Ulgoth' Bart schlug das Bergen eines Schiffswracks vor, von dem er behauptet, es sei das von Balduran. Er will nicht nur den Bund der Kaufleute um die Artefakte betrügen - er will auch, dass ich ihnen die notwendigen Seekarten stehle! Ich habe zugestimmt, aber das bedeutet nicht, dass ich nicht nach einer anderen Möglichkeit suchen kann, die Karten zu erhalten, ohne sie zu stehlen.~
+@10106   = ~Legale Quelle für die Seekarten
+
+Ich habe mit Aldeths Hilfe die Seekarten von Kapitän Kieres ohne Steheln erhalten.~
+//part of @24 from aldeth_seacharts.tra
+@10107   = ~Legale Quelle für die Seekarten
+
+Aldeth hat mir alle verfügbaren Mittel gegeben, um Zugang zum Zählhaus zu erhalten und die Seekarten zu bekommen.~
+@10108   = ~Legale Quelle für die Seekarten
+
+Der Seemann Calahan hat mir angeboten, dass er mir die Seekarten besorgt, die ich für Mendas brauche. Dafür möchte er 5000 Goldstücke!~
+@10109   = ~Legale Quelle für die Seekarten
+
+Ich habe Calahan gesagt, dass ich die Seekarten nicht von ihm kaufen werde.~
+@10110   = ~Legale Quelle für die Seekarten
+
+Schlussendlich habe ich die Seekarten doch von Kapitän Kieres gestohlen.~
+
 

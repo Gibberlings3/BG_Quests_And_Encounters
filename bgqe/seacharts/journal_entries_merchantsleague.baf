@@ -1,0 +1,37 @@
+/* PC sold all artefacts */
+IF
+    Global("C#q14_JournalEntry","MYAREA",0)
+    Global("c#q14_SoldBOOK87","MYAREA",1)
+	Global("c#q14_SoldMISC1B","MYAREA",1)
+	Global("c#q14_SoldSW1H18","MYAREA",1)
+	OR(2)
+        Dead("MENDAS3")
+        !Global("C#q14SeeCharts_Aldeth","GLOBAL",4)
+THEN
+    RESPONSE #100
+        EraseJournalEntry(@24)
+        EraseJournalEntry(@79)
+        EraseJournalEntry(@88)
+        EraseJournalEntry(@89)
+        EraseJournalEntry(@90)
+        AddJournalEntry(@87,QUEST_DONE)
+        SetGlobal("C#q14_JournalEntry","MYAREA",1)
+        Continue()
+END
+IF
+    Global("C#q14_JournalEntry","MYAREA",0)
+    Global("c#q14_SoldBOOK87","MYAREA",1)
+	Global("c#q14_SoldMISC1B","MYAREA",1)
+	Global("c#q14_SoldSW1H18","MYAREA",1)
+	!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)
+THEN
+    RESPONSE #100
+        EraseJournalEntry(@24)
+        EraseJournalEntry(@79)
+        EraseJournalEntry(@88)
+        EraseJournalEntry(@89)
+        EraseJournalEntry(@90)
+        AddJournalEntry(@87,QUEST)
+        SetGlobal("C#q14_JournalEntry","MYAREA",1)
+        Continue()
+END

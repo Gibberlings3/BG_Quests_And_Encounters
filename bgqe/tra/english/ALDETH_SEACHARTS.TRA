@@ -1,12 +1,12 @@
 @0    = ~I was asked by someone called Mendas to go on an expedition to an island where the Merchants' League believes the shipwreck of Balduran to be.~
 @1    = ~Mendas and I agreed that I will travel to this island for him. He said he has a ship, but what we do need are sea charts. He said one of your captains currently residing in the League's Counting House should have them.~
-@2    = ~Good news, Aldeth: We discovered the 'mystery' behind this man Mendas and took care of it!~
+@2    = ~Good news, Aldeth - We discovered the 'mystery' behind this man Mendas and took care of it!~
 @3    = ~I discovered Balduran's logbook! It is yours, if you want.~
 @4    = ~I also found this dagger in Balduran's shipwreck. Would you be interested in this?~
 @5    = ~I also found this sword and dagger, which I would give to you, if you want.~
 @6    = ~This sword is one of Balduran's artifacts, as well. Do you want it?~
 @7    = ~I bring you back the sea charts the League so generously borrowed us. Thank you again!~
-@8    = ~Greetings to you, Aldeth: we found artifacts of Balduran on the island!~
+@8    = ~Greetings to you, Aldeth - we found artifacts of Balduran on the island!~
 @9    = ~Would the Merchants' League be interested in artifacts of Balduran?~
 @10   = ~Aldeth, could you show me your special merchandise?~
 @11   = ~I wish you good luck with your undertaking.~
@@ -25,8 +25,7 @@
 @24   = ~Balduran's Artifacts for the Merchants' League
 
 I told Aldeth of the Merchants' League about Mendas and his plans concerning the island with Balduran's shipwreck and Aldeth agrees that it all seems a bit odd. 
-Aldeth promised me his help to learn about Mendas' true intentions and gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain. 
-He asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook.~
+Aldeth promised me his help to learn about Mendas' true intentions.~
 @25   = ~I thank you! It is good to see trustworthy people these days.~
 @26   = ~Wonderful news indeed, my friends! What can you tell me?~
 @27   = ~Mendas was a werewolf! He was searching for a way to move his pack to the main land and intended to spread lycanthropy!~
@@ -57,7 +56,7 @@ He asked me to investigate this shipwreck and bring back all of Balduran's artif
 @52   = ~Here, take this gold you earned well enough.~
 @53   = ~Balduran's logbook! This is really impressive.~
 @54   = ~I will have it verified, of course, but it looks originally enough. I will pay you right away: 10,000 gold pieces!~
-@55   = ~Balduran's artifacts?! In the name of the Merchants' League I am very interested in these. What do you have?~
+@55   = ~Balduran's artifacts?! In the name of the Merchants' League I am very interested in these.~
 @56   = ~Maybe later.~
 @57   = ~One more question! What about this man Mendas? Did you learn about his true intentions?~
 @58   = ~No, not yet. I was approached by one of his men, though. Something doesn't seem to be right.~
@@ -71,8 +70,45 @@ He asked me to investigate this shipwreck and bring back all of Balduran's artif
 @66   = ~Seems I forgot the letter from Aldeth for you. I'll be back.~
 @67   = ~Letter? Ye give me that ... (mumble) ... (mumble) ... special orders ... (mumble) ... report back t' the League immediately...~
 @68   = ~Ah is tha' so!? Master Sashenstar thinks me ain't enough t' confront th' island's inhabitants, so I shoul' hand th' charts to ye? ... Hmph, wha'ever, charts are from th' League, so here ye go.~
-@69   = ~Well then, ye landlubbers! Have fun diggin' for th' treasure, hahaha! (Should be done by real sailors, not some striplings!) Well then, le'see what new 'orders' Master Sachenstar has for me. Hmph.~
+@69   = ~Well then, ye landlubbers! Have fun diggin' for th' treasure, hahaha! (Should be done by real sailors, not some striplings!) Well then, le'see what new 'orders' Master Sashenstar has for me. Hmph.~
 @70   = ~But... Wha-?! Someone has stolen the sea charts from me! And that someone was you, I suppose!~
 @71   = ~Wha' now?~
 @72   = ~Nothing, I'm on my way.~
 @73   = ~Pff, then begone, landfolk.~
+@74   = ~I'm not sure I like where this is going, but please, continue.~
+@75   = ~We did, indeed.~
+@76   = ~What do you have?~
+@77   = ~I have artifacts from Balduran.~
+@78   = ~Balduran's Artifacts for the Merchants' League
+
+I gave Aldeth Sashenstar a report of what was up with Mendas.~
+@79   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
+@80   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
+@81   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+//@82
+//@83
+@84   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
+@85   = ~Balduran's Artifacts for the Merchants' League~
+@86   = ~Balduran's Artifacts for the Merchants' League
+
+I told Aldeth that I do not have any more items I am willing to sell him.~
+@87   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
+@88   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth the logbook of Balduran.~
+@89   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's butterknife.~
+@90   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's golden sword.~

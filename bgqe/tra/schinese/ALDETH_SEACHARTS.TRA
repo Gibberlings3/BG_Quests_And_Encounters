@@ -26,9 +26,7 @@
 
 我把曼达斯和他对那座岛屿以及博德安遇难船的关注告诉给了行商联盟的艾德思。后者同意这件事看上去很奇怪。
 
-艾德思向我许诺他将帮助我揭开曼达斯的真实意图。他给了我一枚戒指，使我得以自由出入行商联盟的记账房，并从那位船长手中拿到那张海图。
-
-他要求我调查这起海难，并把所有我能找到的博德安文物都带回来，要求是那本航海日志。~
+艾德思向我许诺他将帮助我揭开曼达斯的真实意图。他给了我一枚戒指，使我得以自由出入行商联盟的记账房，并从那位船长手中拿到那张海图。~
 @25   = ~谢谢你！很高兴在这些天还能看到值得信任的人。~
 @26   = ~这真是美妙的消息，我的朋友！你都能告诉我些什么？~
 @27   = ~曼达斯是只狼人！他在研究办法把他们的族群带到大陆上来，好传播兽化症！~
@@ -59,7 +57,7 @@
 @52   = ~这里，拿上这些你应得的金币。~
 @53   = ~博德安的航海日志！这实在令人印象深刻。~
 @54   = ~我会先去验证一下，当然。但这看上去应该是真品。我会马上付给你钱：10000枚金币！~
-@55   = ~博德安的文物？！以行商联盟之名，我对此非常感兴趣。你都有些什么？~
+@55   = ~博德安的文物？！以行商联盟之名，我对此非常感兴趣。~
 @56   = ~或许以后吧。~
 @57   = ~还有个问题！那个男人曼达斯怎么样了？你知道他真实的意图了吗？~
 @58   = ~不，还没有。但他的人马来找过我。看上去有些事情不太对劲。~
@@ -78,3 +76,40 @@
 @71   = ~现在又如何？~
 @72   = ~没什么。我要走了。~
 @73   = ~呸，快滚吧，旱鸭子。~
+@74   = ~I'm not sure I like where this is going, but please, continue.~
+@75   = ~We did, indeed.~
+@76   = ~你都有些什么？~
+@77   = ~I have artifacts from Balduran.~
+@78   = ~Balduran's Artifacts for the Merchants' League
+
+I gave Aldeth Sashenstar a report of what was up with Mendas.~
+@79   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
+@80   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
+@81   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+//@82
+//@83
+@84   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
+@85   = ~Balduran's Artifacts for the Merchants' League~
+@86   = ~Balduran's Artifacts for the Merchants' League
+
+I told Aldeth that I do not have any more items I am willing to sell him.~
+@87   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
+@88   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth the logbook of Balduran.~
+@89   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's butterknife.~
+@90   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's golden sword.~

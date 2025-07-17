@@ -1,3 +1,45 @@
+
+@74   = ~I'm not sure I like where this is going, but please, continue.~
+@75   = ~We did, indeed.~
+@76   = ~What do you have?~
+@77   = ~I have artifacts from Balduran.~
+@78   = ~Balduran's Artifacts for the Merchants' League
+
+I gave Aldeth Sashenstar a report of what was up with Mendas.~
+@79   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
+@80   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
+@81   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+@82   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
+@83   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
+@84   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
+@85   = ~Balduran's Artifacts for the Merchants' League~
+@86   = ~Balduran's Artifacts for the Merchants' League
+
+I told Aldeth that I do not have any more items I am willing to sell him.~
+@87   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
+@88   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth the logbook of Balduran.~
+@89   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's butterknife.~
+@90   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's golden sword.~
 @0 = ~Mendas adýnda biri tarafýndan Tüccarlar Birliði'nin Balduran gemi enkazýnýn olduðuna inandýðý bir adaya keþif gezisine gitmem istendi.~
 @1 = ~Mendas ve ben onun için bu adaya gideceðim konusunda anlaþtýk. Bir gemisi olduðunu söyledi ama ihtiyacýmýz olan þey deniz haritalarý. Þu anda Birliðin Sayým Evi'nde ikamet eden kaptanlarýnýzdan birinin onlara sahip olmasý gerektiðini söyledi.~
 @2 = ~Ýyi haber Aldeth: Bu Mendas denen adamýn ardýndaki 'gizemi' keþfettik ve icabýna baktýk!~
@@ -25,8 +67,7 @@
 @24 = ~Tüccarlar Birliði için Balduran'ýn Eserleri
 
 Tüccarlar Birliði'nden Aldeth'e Mendas'tan ve Balduran'ýn gemi enkazýnýn bulunduðu adayla ilgili planlarýndan bahsettim ve Aldeth tüm bunlarýn biraz tuhaf göründüðü konusunda hemfikir oldu.
-Aldeth, Mendas'ýn gerçek niyetini öðrenmem için bana yardým edeceðine söz verdi ve bana Birliðin Muhasebe Evi'ne ücretsiz eriþim saðlayacak bir yüzük ve Kaptan'dan deniz haritalarýný almam için bir mektup verdi.
-Benden bu gemi enkazýný araþtýrmamý ve Balduran'ýn bulabileceðimiz tüm eserlerini - özellikle de seyir defterini - geri getirmemi istedi.~
+Aldeth, Mendas'ýn gerçek niyetini öðrenmem için bana yardým edeceðine söz verdi ve bana Birliðin Muhasebe Evi'ne ücretsiz eriþim saðlayacak bir yüzük ve Kaptan'dan deniz haritalarýný almam için bir mektup verdi.~
 @25 = ~Teþekkür ederim! Bugünlerde güvenilir insanlar görmek çok güzel. ~
 @26 = ~Gerçekten harika haberler, dostlarým! Bana ne söyleyebilirsiniz? ~
 @27 = ~Mendas bir kurt adamdý! Sürüsünü ana karaya taþýmanýn bir yolunu arýyordu ve likantropiyi yaymayý amaçlýyordu!~
@@ -57,7 +98,7 @@ Benden bu gemi enkazýný araþtýrmamý ve Balduran'ýn bulabileceðimiz tüm eserlerin
 @52 = ~Ýþte, yeterince iyi kazandýðýnýz bu altýný alýn.~
 @53 = ~Balduran'ýn seyir defteri! Bu gerçekten etkileyici.~
 @54 = ~Tabii ki doðrulatacaðým, ama orijinal olarak yeterli görünüyor. Size hemen ödeme yapacaðým: 10,000 altýn!~
-@55 = ~Balduran'ýn eserleri mi?! Tüccarlar Birliði adýna bunlarla çok ilgileniyorum. Elinizde ne var? ~
+@55 = ~Balduran'ýn eserleri mi?! Tüccarlar Birliði adýna bunlarla çok ilgileniyorum.~
 @56 = ~Belki sonra.~
 @57 = ~Bir soru daha! Bu Mendas denen adamdan ne haber? Onun gerçek niyetini öðrendin mi?~
 @58 = ~Hayýr, henüz deðil. Ama adamlarýndan biri bana yaklaþtý. Doðru olmayan bir þeyler var gibi görünüyor. ~
@@ -76,3 +117,40 @@ Benden bu gemi enkazýný araþtýrmamý ve Balduran'ýn bulabileceðimiz tüm eserlerin
 @71 = ~Þimdi ne olacak? ~
 @72 = ~Hiçbir þey, ben yoldayým.~
 @73 = ~Püfff, o zaman defol, karahalký.~
+@74   = ~I'm not sure I like where this is going, but please, continue.~
+@75   = ~We did, indeed.~
+@76   = ~Elinizde ne var?~
+@77   = ~I have artifacts from Balduran.~
+@78   = ~Balduran's Artifacts for the Merchants' League
+
+I gave Aldeth Sashenstar a report of what was up with Mendas.~
+@79   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
+@80   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
+@81   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+//@82
+//@83
+@84   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
+@85   = ~Balduran's Artifacts for the Merchants' League~
+@86   = ~Balduran's Artifacts for the Merchants' League
+
+I told Aldeth that I do not have any more items I am willing to sell him.~
+@87   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
+@88   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth the logbook of Balduran.~
+@89   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's butterknife.~
+@90   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's golden sword.~

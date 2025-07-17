@@ -613,3 +613,39 @@ THAC0: +1
 Я избавил пьянчугу от лишних проблем. Да.~
 
 /* @10069 used above */
+
+
+@10100   = ~Legal Sea Chart Sources~
+// @25 from calabald.tra
+@10101   = ~Legal Sea Chart Sources
+
+Калахан, матрос в Бороде Улгота, обещал добыть мне морские карты, необходимые для экспедиции Менды. Он вернется в Бороду Улгота через два дня.~
+// @26 from calabald.tra
+@10102   = ~Legal Sea Chart Sources
+
+Калахан в Бороде Улгота требует еще 3 000 золота за морские карты!~
+@10103   = ~Legal Sea Chart Sources
+
+I received the sea charts from Calahan.~
+@10104   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
+@10105   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
+@10106   = ~Legal Sea Chart Sources
+
+I received the sea charts from Captain Kieres using the help of Aldeth without having to steal them.~
+//part of @24 from aldeth_seacharts.tra
+@10107   = ~Legal Sea Chart Sources
+
+Aldeth gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain.~
+@10108   = ~Legal Sea Chart Sources
+
+Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He wants 5000 gold!~
+@10109   = ~Legal Sea Chart Sources
+
+I told Calahan I will not buy the sea charts from him.~
+@10110   = ~Legal Sea Chart Sources
+
+In the end, I stole the sea charts from Captain Kieres.~

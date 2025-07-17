@@ -27,8 +27,7 @@
 @24   = ~Manufatti di Balduran per la Lega dei mercanti
  
 Ho detto ad Aldeth della Lega dei mercanti di Mendas e dei suoi piani riguardo l'isola con il relitto di Balduran e Aldeth conviene come sia tutto un po' strano.
-Aldeth mi ha promesso il suo aiuto per svelare le vere intenzioni di Mendas e mi ha dato un anello che dovrebbe garantire l'accesso completo alla Casa dei Conti della Lega e una lettera per ricevere le carte nautiche dal Capitano.
-Mi ha chiesto di indagare su questo relitto e di riportare indietro tutti i manufatti di Balduran che potrei trovare, specialmente il diario di bordo.~
+Aldeth mi ha promesso il suo aiuto per svelare le vere intenzioni di Mendas e mi ha dato un anello che dovrebbe garantire l'accesso completo alla Casa dei Conti della Lega e una lettera per ricevere le carte nautiche dal Capitano.~
 @25   = ~Ti ringrazio! È bello vedere persone affidabili di questi tempi.~
 @26   = ~Notizie davvero meravigliose, amico mio! Cosa puoi dirmi?~
 		~Notizie davvero meravigliose, amica mio! Cosa puoi dirmi?~
@@ -61,7 +60,7 @@ Mi ha chiesto di indagare su questo relitto e di riportare indietro tutti i manu
 @52   = ~Tieni, prendi questo oro che hai così ben meritato.~
 @53   = ~Il diario di bordo di Balduran! Questo è davvero impressionante.~
 @54   = ~Lo farò verificare, ovviamente, ma sembra abbastanza originale. Ti pagherò subito: 10.000 monete d'oro!~
-@55   = ~Manufatti di Balduran ?! A nome della Lega dei mercanti mi interessano molto. Cosa hai trovato?~
+@55   = ~Manufatti di Balduran ?! A nome della Lega dei mercanti mi interessano molto.~
 @56   = ~Forse più tardi.~
 @57   = ~Un'altra domanda! Che mi dici di quell'uomo Mendas? Hai saputo delle sue vere intenzioni?~
 @58   = ~No, non ancora. Però uno dei suoi uomini mi ha avvicinato. Qualcosa non sembrava essere giusto.~
@@ -80,4 +79,40 @@ Mi ha chiesto di indagare su questo relitto e di riportare indietro tutti i manu
 @71   = ~Cosa ora?~
 @72   = ~Niente, me ne sto andando.~
 @73   = ~Pff, e allora vattene.~
+@74   = ~I'm not sure I like where this is going, but please, continue.~
+@75   = ~We did, indeed.~
+@76   = ~Cosa hai trovato?~
+@77   = ~I have artifacts from Balduran.~
+@78   = ~Balduran's Artifacts for the Merchants' League
 
+I gave Aldeth Sashenstar a report of what was up with Mendas.~
+@79   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
+@80   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
+@81   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+//@82
+//@83
+@84   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
+@85   = ~Balduran's Artifacts for the Merchants' League~
+@86   = ~Balduran's Artifacts for the Merchants' League
+
+I told Aldeth that I do not have any more items I am willing to sell him.~
+@87   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
+@88   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth the logbook of Balduran.~
+@89   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's butterknife.~
+@90   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's golden sword.~
