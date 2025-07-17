@@ -226,14 +226,20 @@ InParty("BAELOTH") Detect("BAELOTH") !StateCheck("BAELOTH",CD_STATE_NOTVALID)~ T
 
 == C#Q04008 @32
 END
-IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
-GiveItemCreate("C#Q04001",[PC],0,0,0) EscapeArea()~ %UNSOLVED_JOURNAL% @10033 EXIT
+IF ~~ THEN DO ~GiveItemCreate("C#Q04001",[PC],0,0,0)
+SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS)
+SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
+ActionOverride("C#Q04008",EscapeArea())~ %UNSOLVED_JOURNAL% @10033 EXIT
 
-IF ~InParty("VICONIA") Detect("VICONIA") !StateCheck("VICONIA",CD_STATE_NOTVALID)~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
-GiveItemCreate("C#Q04001",[PC],0,0,0) EscapeArea()~ %UNSOLVED_JOURNAL% @10067 EXIT
+IF ~InParty("VICONIA") Detect("VICONIA") !StateCheck("VICONIA",CD_STATE_NOTVALID)~ THEN DO ~GiveItemCreate("C#Q04001",[PC],0,0,0)
+SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS)
+SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
+ActionOverride("C#Q04008",EscapeArea())~ %UNSOLVED_JOURNAL% @10067 EXIT
 
-IF ~InParty("BAELOTH") Detect("BAELOTH") !StateCheck("BAELOTH",CD_STATE_NOTVALID)~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
-GiveItemCreate("C#Q04001",[PC],0,0,0) EscapeArea()~ %UNSOLVED_JOURNAL% @10067 EXIT
+IF ~InParty("BAELOTH") Detect("BAELOTH") !StateCheck("BAELOTH",CD_STATE_NOTVALID)~ THEN DO ~GiveItemCreate("C#Q04001",[PC],0,0,0)
+SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS)
+SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
+ActionOverride("C#Q04008",EscapeArea())~ %UNSOLVED_JOURNAL% @10067 EXIT
 
 
 /* Mage, near Fishing Village, or in front of BG bridge? 
@@ -254,7 +260,8 @@ IF ~~ THEN mage_01
 SAY @68
 = @69
 = @70
-IF ~~ THEN DO ~SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS) ActionOverride("C#Q04007",EscapeArea())~ %UNSOLVED_JOURNAL% @10031 EXIT
+IF ~~ THEN DO ~SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",5)
+ActionOverride("C#Q04007",EscapeArea())~ %UNSOLVED_JOURNAL% @10031 EXIT
 END
 
 
@@ -380,7 +387,9 @@ IF ~~ THEN %tutu_var%THALAN thalantyr_04
 == %tutu_var%THALAN IF ~See("Melicamp") !Dead("Melicamp") !StateCheck("Melicamp",CD_STATE_NOTVALID)~ THEN @98
 == %tutu_var%MELICA IF ~See("Melicamp") !Dead("Melicamp") !StateCheck("Melicamp",CD_STATE_NOTVALID)~ THEN @99
 == %tutu_var%THALAN IF ~See("Melicamp") !Dead("Melicamp") !StateCheck("Melicamp",CD_STATE_NOTVALID)~ THEN @100
-EXIT
+END
+++ @102 + thalantyr_06
+++ @101 EXIT
 
 
 APPEND %tutu_var%THALAN

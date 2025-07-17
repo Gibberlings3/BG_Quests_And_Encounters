@@ -1,32 +1,33 @@
-IF 
-	Global("C#Q04_WyvernDeliverer","GLOBAL",4)
+IF
+	Global("C#Q04_SpawnMage","MYAREA",1)
 	!PartyHasItem("C#Q04001")
 	Exists("c#q04007")
 THEN
 	RESPONSE #100
-            ActionOverride("c#q04007",DestroySelf())
-	    SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
-	Continue()
+		ActionOverride("c#q04007",DestroySelf())
+	    SetGlobal("C#Q04_SpawnMage","MYAREA",0)
+		Continue()
 END
 
 IF 
-	GlobalGT("C#Q04_WyvernDeliverer","GLOBAL",4)
-	!PartyHasItem("C#Q04001")
+	GlobalGT("C#Q04_WyvernDeliverer","GLOBAL",7)
 	Exists("c#q04007")
 THEN
 	RESPONSE #100
-            ActionOverride("c#q04007",DestroySelf())
-	Continue()
+		ActionOverride("c#q04007",DestroySelf())
+		Continue()
 END
 
 IF 
-	Global("C#Q04_WyvernDeliverer","GLOBAL",3)
+	GlobalGT("C#Q04_WyvernDeliverer","GLOBAL",2)
+	GlobalLT("C#Q04_WyvernDeliverer","GLOBAL",8)
+	Global("C#Q04_SpawnMage","MYAREA",0)
 	PartyHasItem("C#Q04001")
 THEN
 	RESPONSE #100
-            SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",4)
+		SetGlobal("C#Q04_SpawnMage","MYAREA",1)
 	    CreateCreature("c#q04007",[3884.349]%FACE_0%) //mage
-	Continue()
+		Continue()
 END
 
 
