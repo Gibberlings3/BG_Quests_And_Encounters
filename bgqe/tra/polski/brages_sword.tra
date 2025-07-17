@@ -151,6 +151,10 @@
 @150  = ~Przy³¹czy³em siê do ciebie, ¿ebyœmy razem polowali na bandytów, a nie zachowywali siê jak oni. To nie jest miecz, którego u¿ywa³ Brage.~
 @151  = ~S³uchaj, mniejsza o powody, ale nie poka¿ê ci ¿adnego miecza. Przestañ o to pytaæ.~
 @152  = ~Rozumiem. Choæ bardzo tego ¿a³ujê, to uszanujê twoj¹ decyzjê.~
+@153  = ~<CHARNAME>, you have returned with Brage and handed him to the town's authorities. The whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+@154  = ~<CHARNAME>, thanks to you, Brage is save inside the temple now. Still, the whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+
+
 @1000 = ~Wina kapitana Brage'a
 
 Porucznik Bardolan wspomnia³, ¿e dowódca garnizonu o imieniu Brage znikn¹³. Na ulicach du¿o mówi siê o tym, ¿e wydarzy³o siê coœ z³ego.~
@@ -215,3 +219,12 @@ Brage zosta³ uniewinniony! Dowody dotycz¹ce spisku, który doprowadzi³ do tych sm
 
 Brage zosta³ powieszony! S¹dzê, ¿e dobrze to rozegraliœmy. To pokrzepiaj¹ce ujrzeæ, jak "sprawiedliwoœæ" dochodzi do g³osu. A co najlepsze, ten g³upiec jeszcze by³ nam za to wdziêczny! Muszê uwa¿aæ, bo to przyjemne mrowienie w brzuchu w koñcu przerodzi siê w zgagê.~
 @1021 = ~Wina kapitana Brage'a~
+@1022 = ~Wina kapitana Brage'a
+
+Nalin thinks the Brage incident should be investigated to prove his innocence. He suggested I whould ask Oublek about what the town's authorities are planning on doing in this regard.~
+@1023 = ~Wina kapitana Brage'a
+
+I confronted a merchant of cursed items and found a letter with clues about a conspiracy to switch out the sword of the Nashkel Commander, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes. I should hold on to them until I figured out how they could be of use in the whole affair.~ 
+@1024 = ~Wina kapitana Brage'a
+
+I confronted a mearchant of cursed items and found a letter with clues about a conspiracy to switch Brage's sword, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes.~ 

@@ -24,5 +24,8 @@ THEN
 		EraseJournalEntry(@1018)
 		EraseJournalEntry(@1019)
 		EraseJournalEntry(@1020)
+		EraseJournalEntry(@1022)
+		EraseJournalEntry(@1023)
+		EraseJournalEntry(@1024)
 		Continue()
 END

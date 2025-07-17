@@ -1,0 +1,18 @@
+/* after Brage was brought to Oublek but player didn't talk to him yet */
+
+IF
+	InMyArea(Player1)
+	!Dead("Brage")
+	InMyArea("NALIN")
+	!Detect([ENEMY])
+	CombatCounter(0)
+	!StateCheck(Player1,CD_STATE_NOTVALID)
+	!StateCheck("NALIN",CD_STATE_NOTVALID)
+	Global("OublekBounty1","GLOBAL",1)
+	Global("C#q13Brage_NalinVouch","GLOBAL",0)
+	Global("C#BE_NalinHint","GLOBAL",0)
+THEN
+  RESPONSE #100
+		SetGlobal("C#BE_NalinHint","GLOBAL",1) 
+		ActionOverride("NALIN",StartDialogNoSet(Player1))
+END

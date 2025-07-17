@@ -10,5 +10,20 @@ THEN
 		Continue()
 END
 
+/* add journal entries if quest items from Borda are picked up */
+IF
+	InMyArea(Player1)
+	Global("OublekBounty1","GLOBAL",1)
+	!Dead("Brage")
+	PartyHasItem("c#q13swd")
+	PartyHasItem("c#q13le2")
+	GlobalLT("C#BE_JournalEntries","MYAREA",0)
+THEN
+  RESPONSE #100
+		SetGlobal("C#BE_JournalEntries","MYAREA",1)
+		AddJournalEntry(@1024,QUEST)
+		Continue()
+END
+
 
 

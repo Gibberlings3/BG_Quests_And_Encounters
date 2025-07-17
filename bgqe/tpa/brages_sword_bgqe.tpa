@@ -1,6 +1,7 @@
 /* formerly quest "Brage's Sword" of bgqe */
 
-ADD_JOURNAL TITLE (@1021) @1000 @1001 @1002 @1003 @1004 @1005 @1006 @1007 @1008 @1009 @1010 @1011 @1012 @1013 @1014 @1015 @1016 @1017 @1018 @1019 @1020 USING ~bgqe/tra/%LANGUAGE%/brages_sword.tra~
+
+ADD_JOURNAL TITLE (@1021) @1000 @1001 @1002 @1003 @1004 @1005 @1006 @1007 @1008 @1009 @1010 @1011 @1012 @1013 @1014 @1015 @1016 @1017 @1018 @1019 @1020 @1022 @1023 @1024 USING ~bgqe/tra/%LANGUAGE%/brages_sword.tra~
 
 /* BGT: Erase journal entries upon transition to BGII */
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
@@ -230,8 +231,6 @@ END
 BUT_ONLY
 
 
-
-
 /* cutscene: Brage follows PC to Oublek */
 COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13brc.baf~
 
@@ -241,14 +240,12 @@ COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13cu2.baf~
 /* trial in the barracks */
 COMPILE EVALUATE_BUFFER ~bgqe/bragesword/c#q13cu3.baf~
 
-
+//read in tra for journal entries in scripts
+WITH_TRA ~bgqe/tra/%LANGUAGE%/brages_sword.tra~ BEGIN
 /* Brage quest: start is triggered by areascript %Nashkel% */
-
 LAF extend_area_script STR_VAR area="%Nashkel%" top="bgqe/bragesword/q13_ar4800.baf"   END
 
-
 /* track whether Borda is still alive */
-
 LAF extend_area_script STR_VAR area="%XvartVillage%" top="bgqe/bragesword/q13_ar4700.baf"   END
 
 /* count: PC investigated inside the Lotus tent */
@@ -267,6 +264,8 @@ REPLACE_TEXTUALLY ~\(EscapeArea()\)~ ~EscapeAreaMove("%Nashkel%",3443,1876,6)~
 REPLACE_TEXTUALLY ~\(EscapeAreaDestroy(90)\)~ ~EscapeAreaMove("%Nashkel%",3443,1876,6)~
 END
 BUT_ONLY_IF_IT_CHANGES
+
+END //WITH_TRA
 
 /* Give Hick his name so player sees he is no generic Amnish Soldier */
 COPY_EXISTING ~%tutu_var%hick.cre~ ~override~
@@ -363,4 +362,24 @@ COPY_EXISTING ~%BanditCamp_RaemonsTent%.are~ ~override~
     fj_structure_type = itm
   END
 BUT_ONLY
+
+/* after Brage was brought to Oublek but player didn't talk to him yet */
+EXTEND_BOTTOM ~%Nashkel_TempleofHelm%.bcs~ ~bgqe/bragesword/brage_ar4802_bs_extentions.baf~ EVALUATE_BUFFER
+
+/* Hick won't be longer in the baracks after Brage was brought in */
+EXTEND_BOTTOM ~%Nashkel_Garrison%.bcs~ ~bgqe/bragesword/brage_ar4810_bs_extentions.baf~ EVALUATE_BUFFER
+
+
+/* Patch Borda, the merchant for cursed items: mage fighting script, changed resistances, quest items */
+
+COMPILE ~bgqe/bragesword/c#q13bor.baf~
+
+COPY ~bgqe/bragesword/Borda.cre~ ~override/Borda.cre~
+
+/* custom Borda */
+COPY ~bgqe/bragesword/Borda.cre~ ~override/c#q13bor.CRE~
+SAY INITIAL_MEETING ~~
+    WRITE_ASCII 0x280 ~c#q13bor~ #32 // set DV
+WRITE_EVALUATED_ASCII 0x2cc ~c#q13bor~ #8
+WRITE_EVALUATED_ASCII 0x248 ~c#q13bor~ #8   // custom Override script
 

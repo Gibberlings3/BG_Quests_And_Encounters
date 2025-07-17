@@ -162,7 +162,8 @@
 @150 = ~Sizinle haydutlarý durdurmak için güçlerimi birleþtirdim, kendim gibi davranmak için deðil. Bu Brage'in kullandýðý kýlýç deðil. ~
 @151 = ~Dinle, her ne sebeple olursa olsun, Brage'in kýlýcýný sana sunmayacaðým. Bana bunu sormayý býrak.~
 @152 = ~Anlýyorum. Yazýk ama kararýnýzý kabul edeceðiz.~
-
+@153   = ~<CHARNAME>, you have returned with Brage and handed him to the town's authorities. The whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+@154   = ~<CHARNAME>, thanks to you, Brage is save inside the temple now. Still, the whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
 
 
 //------------------~
@@ -231,6 +232,13 @@ Brage özgür bir adam! Nashkel yetkilileri, Brage'nin lanetli kýlýcýyla ilgili tü
 @1020 = ~Kaptan Brage'in Suçluluk Duygusu
 
 Brage asýldý! Sanýrým bunu oldukça iyi yaptým. Adaletin yerini bulduðunu görmek her zaman güzeldir. Ve hepsinden önemlisi - o aptal Brage bunun için minnettardý! Dikkatli olmalýyým, yoksa karnýmdaki sýcak his beni hýçkýrýklara boðacak.~
-
-/* Brage Redemption modundan bragesword_extentions.tra dosyasýndaki ifadelerle tamamen ayný olmalýdýr */
 @1021 = ~Kaptan Brage'in Suçluluðu~
+@1022 = ~Captain Brage's Guilt
+
+Nalin thinks the Brage incident should be investigated to prove his innocence. He suggested I whould ask Oublek about what the town's authorities are planning on doing in this regard.~
+@1023 = ~Captain Brage's Guilt
+
+I confronted a merchant of cursed items and found a letter with clues about a conspiracy to switch out the sword of the Nashkel Commander, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes. I should hold on to them until I figured out how they could be of use in the whole affair.~ 
+@1024 = ~Captain Brage's Guilt
+
+I confronted a mearchant of cursed items and found a letter with clues about a conspiracy to switch Brage's sword, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes.~ 
