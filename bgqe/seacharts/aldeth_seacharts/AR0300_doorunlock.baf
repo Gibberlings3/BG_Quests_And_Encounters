@@ -3,9 +3,10 @@
 /* this gets applied to the assigned door script because door and travel trigger have the same name so Unlock("Doorname") doesn't work */
 
 IF
-	Global("C#bgqe_SilCordyr","GLOBAL",0)
+	PartyHasItem("c#q14rng") // Siegelring
+	Global("C#q14_SeachartsDoorunlock","MYAREA",0)
 THEN
 	RESPONSE #100
 		Unlock(Myself)
-		SetGlobal("C#bgqe_SilCordyr","GLOBAL",1)
+		SetGlobal("C#q14_SeachartsDoorunlock","MYAREA",1)
 END

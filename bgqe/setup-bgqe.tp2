@@ -1620,8 +1620,23 @@ COMPILE EVALUATE_BUFFER ~bgqe/seacharts/aldeth_seacharts/aldeth_seacharts.d~
 
 
 /* Door to Counting House: unlock it with Aldeth's ring */
+ACTION_IF GAME_IS ~bgt~ THEN BEGIN
+  LAF extend_area_script STR_VAR area="%NEBaldursGate%" top="bgqe/seacharts/aldeth_seacharts/q14_ar0300.baf"   END
+END ELSE BEGIN
+  COPY_EXISTING ~%NEBaldursGate%.are~ ~override~
+   LPF assign_door_script
+     STR_VAR
+       door_name = ~Door0307~
+       script_resref = ~door0307~
+     RET
+       result
+   END
+   PATCH_PRINT ~Door script: %result%.BCS~
+BUT_ONLY
+  EXTEND_TOP ~%result%.BCS~ ~bgqe/seacharts/aldeth_seacharts/AR0300_doorunlock.baf~ EVALUATE_BUFFER
 
-LAF extend_area_script STR_VAR area="%NEBaldursGate%" top="bgqe/seacharts/aldeth_seacharts/q14_ar0300.baf"   END
+END //unlock door in bg:ee, eet
+
 
 WITH_TRA ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~ BEGIN
 /* journal handling: add to Mendas' house */

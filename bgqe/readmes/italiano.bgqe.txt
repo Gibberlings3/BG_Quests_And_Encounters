@@ -444,6 +444,7 @@ Version 30:
 -journal entry upon finding Brage's sword should not happen if Brage is dead.
 -"Nashkel Monster": Removed bug where the hatching timer wouldn't start if egg was shown to Halbazzer or Thalantyr before meeting the mage on the road: timer for egg starts when it is handed to the group. If egg is treated or destroyed or hatches, the mage can no longer be moet on the road. -"Nashkel Monster": Reply option to destroy the egg added to Thalantyr's first dialogue so he doesn't have to be spoken to again.
 -"Legal Seacharts": revised flow of dialogues and journal entries.
+-(EE) "Legal Seacharts": door to Merchants' League should be unlocked if PC has signet ring.
 -"Unexpected Help": Talking to Sir Trun should not lead to a NVLOR with priest of Oghma/Fuller; question about Sir Trun should only show once for priest of Oghma.
 -German version: typo corrections, item description corrections.
 
