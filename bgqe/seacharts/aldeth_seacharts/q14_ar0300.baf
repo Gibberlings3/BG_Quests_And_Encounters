@@ -10,8 +10,8 @@ IF
 	Global("C#q14_SeachartsDoorunlock","MYAREA",0)
 THEN
 	RESPONSE #100
-		SetGlobal("C#q14_SeachartsDoorunlock","MYAREA",1)
 //		Unlock("DOOR0105")
 		Unlock("Door0307")
+		SetGlobal("C#q14_SeachartsDoorunlock","MYAREA",1)
 		Continue()
 END

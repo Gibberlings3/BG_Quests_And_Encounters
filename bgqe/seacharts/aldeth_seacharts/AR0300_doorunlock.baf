@@ -1,0 +1,12 @@
+/* Cordyr's Door in Baldur's Gate Docks - unlock it for EEs */
+/* BaldursGateDocks */
+/* this gets applied to the assigned door script because door and travel trigger have the same name so Unlock("Doorname") doesn't work */
+
+IF
+	PartyHasItem("c#q14rng") // Siegelring
+	Global("C#q14_SeachartsDoorunlock","MYAREA",0)
+THEN
+	RESPONSE #100
+		Unlock(Myself)
+		SetGlobal("C#q14_SeachartsDoorunlock","MYAREA",1)
+END
