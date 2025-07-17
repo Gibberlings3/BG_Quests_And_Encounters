@@ -98,7 +98,7 @@ Dies ist Sarahs Mantel.
 @103  = ~Ei der Gefrorenen Spinne~
 @104  = ~Dies ist ein konserviertes Ei einer Geisterspinne. Als Kopfstück getragen verschandelt es das Aussehen des Trägers, aber es schützt gleichzeitig davor, magisch gehalten zu werden.
 
-SPEZIFISCHE EIGENSCHAFTEN:
+EIGENSCHAFTEN:
 
 Besondere Fähigkeiten: Auf den Träger wirkt Schutz vor Halten.
 Charisma: um 3 Punkte reduziert.
@@ -203,13 +203,14 @@ Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
 
 EIGENSCHAFTEN:
 
-Schaden: 1W10 +1 (Klinge)
 ETW0-Bonus: -1
-Gewicht: 12
+Schaden: 1W10 +1 (Klinge)
 Initiativefaktor: 9
-Mindeststärke: 13
 Fertigkeit: Zweihänder
-Typ: 2-händig~
+Typ: 2-händig
+Mindeststärke: 14
+
+Gewicht: 12~
 @117  = ~Hick~
 @118  = ~Mein Diener Mulahey,
 
@@ -240,20 +241,20 @@ Besondere Fähigkeiten:
 
 Glück 3x täglich
 Personen bezaubern 3x täglich~
+/* unidentified description bgee / eet */
 @125  =  ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen. Dafür eignet sich dieses Schwert dank seiner Verzauberung besonders gut.
 
 Dies ist der Zweihänder, den Hauptmann Brage in Tiefwasser bestellt hatte.
 
 EIGENSCHAFTEN:
 
-Schaden: 1W10 +1 (Klinge)
-ETW0-Bonus: -1
-Gewicht: 12
-Initiativefaktor: 9
-Mindeststärke: 13
+Schaden: 1W10 (Klinge)
+Initiativefaktor: 10
 Fertigkeit: Zweihänder
-Typ: 2-händig~
+Typ: 2-händig
+Mindeststärke: 14
 
+Gewicht: 12~
 
 
 
