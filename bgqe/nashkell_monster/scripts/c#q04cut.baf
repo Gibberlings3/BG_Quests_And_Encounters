@@ -9,5 +9,5 @@ THEN
         Wait(5)
         FadeFromColor([20.0],0)
 	EndcutSceneMode()
-        ActionOverride("%tutu_var%HALBAZ",StartDialogueNoSet(Player1))
+        ActionOverride("HALBAZ",StartDialogueNoSet(Player1))
 END 

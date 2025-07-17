@@ -46,3 +46,33 @@ THEN
 		IncrementGlobal("C#q13Brage_FakeMerchant","GLOBAL",1)
 		Continue()
 END
+
+/* journal entry if PC found the quest items (letter and Brage's Sword) */
+
+IF
+	InMyArea(Player1)
+	!Global("OublekBounty1","GLOBAL",1)
+	Dead("Brage")
+	PartyHasItem("c#q13swd")
+	PartyHasItem("c#q13le2")
+	GlobalLT("C#BE_JournalEntries","MYAREA",0)
+THEN
+  RESPONSE #100
+		SetGlobal("C#BE_JournalEntries","MYAREA",1)
+		AddJournalEntry(@1023,QUEST)
+		Continue()
+END
+
+IF
+	InMyArea(Player1)
+	Global("OublekBounty1","GLOBAL",1)
+	Dead("Brage")
+	PartyHasItem("c#q13swd")
+	PartyHasItem("c#q13le2")
+	GlobalLT("C#BE_JournalEntries","MYAREA",0)
+THEN
+  RESPONSE #100
+		SetGlobal("C#BE_JournalEntries","MYAREA",1)
+		AddJournalEntry(@1024,QUEST)
+		Continue()
+END

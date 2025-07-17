@@ -1,0 +1,21 @@
+/* erase journal entries about alternative ways if PC stole them after all (only Aldeth's path, Calahan's will be removed upon talking to him) */
+IF
+    PartyHasItem("%tutu_var%MISC1C")
+    OR(4)
+        Global("C#q14SeeCharts_Aldeth","GLOBAL",2)
+        Global("C#q14_CalGetMap","GLOBAL",2)
+        Global("C#q14_CalGetMap","GLOBAL",3)
+        Global("C#q14_CalGetMap","GLOBAL",4)
+    !Global("C#q14SeeCharts_AldethKieres","GLOBAL",1)
+    !Global("C#q14_CalGetMap","GLOBAL",5)
+    Global("C#q14_PCStoleSeeCharts","GLOBAL",0)
+THEN
+    RESPONSE #100
+        EraseJournalEntry(@10104)
+        EraseJournalEntry(@10105)
+        EraseJournalEntry(@10107)
+        EraseJournalEntry(@10109)
+        AddJournalEntry(@10110,QUEST_DONE)
+        SetGlobal("C#q14_PCStoleSeeCharts","GLOBAL",1)
+        Continue()
+END

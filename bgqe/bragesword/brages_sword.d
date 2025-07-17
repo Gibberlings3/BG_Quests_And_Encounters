@@ -238,7 +238,7 @@ END
 
 IF ~~ THEN take_sword_07
 SAY @45
-IF ~~ THEN EXIT
+IF ~~ THEN DO ~AddexperienceParty(500)~ EXIT
 END
 
 
@@ -341,6 +341,20 @@ IF ~Global("C#BGQE_NPCReactions","GLOBAL",0) InParty("RASAAD") Detect("RASAAD") 
 /* Ajantis */
 IF ~Global("C#BGQE_NPCReactions","GLOBAL",0)
 InParty("AJANTIS") Detect("AJANTIS") !StateCheck("AJANTIS",CD_STATE_NOTVALID)~ THEN EXTERN ~%AJANTIS_JOINED%~ protest
+END
+
+/* if Brage was brought back to Nashkel */
+IF WEIGHT #-1
+~Global("C#BE_NalinHint","GLOBAL",1) !Global("BrageRiddle","GLOBAL",5)~ THEN nalinhint_garrison
+SAY @153
+IF ~~ THEN DO ~SetGlobal("C#BE_NalinHint","GLOBAL",2)~ UNSOLVED_JOURNAL @1022 EXIT
+END
+
+/* this will probably never show since Oublek initiates dialogue before, but I'll leave this in */
+IF WEIGHT #-1
+~Global("C#BE_NalinHint","GLOBAL",1) Global("BrageRiddle","GLOBAL",5)~ THEN nalinhint
+SAY @154
+IF ~~ THEN DO ~SetGlobal("C#BE_NalinHint","GLOBAL",2)~ UNSOLVED_JOURNAL @1022 EXIT
 END
 
 END //APPEND
@@ -680,6 +694,7 @@ IF WEIGHT #-1
 Global("C#q13Brage_NalinVouch","GLOBAL",4)~ THEN trial
 SAY @108
 IF ~~ THEN DO ~SetGlobal("C#Q13_BragesSwordQuest","GLOBAL",7) 
+AddexperienceParty(1000)
 EraseJournalEntry(@1000)
 EraseJournalEntry(@1001)
 EraseJournalEntry(@1002) 
@@ -734,6 +749,7 @@ END
 IF ~Global("BrageRiddle","GLOBAL",5) OR(2)
 Global("C#q13Brage_NalinVouch","GLOBAL",2)
 Global("C#q13Brage_NalinVouch","GLOBAL",3)~ THEN DO ~FadeToColor([20.0],0) SetGlobal("C#Q13_BragesSwordQuest","GLOBAL",4) ReputationInc(1) 
+AddexperienceParty(1000)
 
 EraseJournalEntry(@1001)
 EraseJournalEntry(@1014)
@@ -743,6 +759,7 @@ ActionOverride("c#q13amn",DestroySelf())Wait(1) FadeFromColor([20.0],0) DestroyS
 IF ~!Global("BrageRiddle","GLOBAL",5) OR(2)
 Global("C#q13Brage_NalinVouch","GLOBAL",2)
 Global("C#q13Brage_NalinVouch","GLOBAL",3)~ THEN DO ~FadeToColor([20.0],0) SetGlobal("C#Q13_BragesSwordQuest","GLOBAL",4)  
+AddexperienceParty(1000)
 
 EraseJournalEntry(@1001)
 EraseJournalEntry(@1014)
@@ -751,6 +768,7 @@ ActionOverride("Brage",DestroySelf()) ActionOverride("c#q13oub",DestroySelf())
 ActionOverride("c#q13amn",DestroySelf()) Wait(1) FadeFromColor([20.0],0) DestroySelf()~ SOLVED_JOURNAL @1019 EXIT
 IF ~Global("C#q13Brage_NalinVouch","GLOBAL",4)~ THEN DO ~FadeToColor([20.0],0) 
 SetGlobal("C#Q13_BragesSwordQuest","GLOBAL",7)  
+AddexperienceParty(1000)
 
 EraseJournalEntry(@1001)
 EraseJournalEntry(@1007)

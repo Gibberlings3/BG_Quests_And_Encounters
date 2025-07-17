@@ -14,7 +14,7 @@ BACKUP ~bgqe/Backup~
 SUPPORT ~Please post in one of the forums as listed in the readme~
 
 //MODDER
-VERSION ~29~ 
+VERSION ~30~
 
 README ~bgqe/readmes/%LANGUAGE%.bgqe.txt~ ~bgqe/readmes/english.bgqe.txt~
 
@@ -680,20 +680,7 @@ COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Dialogues/C#Q03008_9_10_11.d~
 
 LAF extend_area_script STR_VAR area="%Nashkel%" bottom="bgqe/Babysitting/Scripts/C#Q03_AR4800.baf" END
 LAF extend_area_script STR_VAR area="%NashkelCarnival%" bottom="bgqe/Babysitting/Scripts/C#Q03_AR4900.baf" END
-
-
-
-
-/* Workaround, as long as BG:EE's AR4300 has no scipt assigned */
-
-ACTION_IF GAME_IS ~bgee~ THEN BEGIN
-EXTEND_BOTTOM ~AR4800.bcs~ ~bgqe/Babysitting/Scripts/C#Q03_AR4800_bgee.baf~
-      EVALUATE_BUFFER
-END
-
-ACTION_IF NOT GAME_IS ~bgee~ THEN BEGIN
 LAF extend_area_script STR_VAR area="%NorthNashkelRoad%" bottom="bgqe/Babysitting/Scripts/C#Q03_AR4300.baf" END
-END
 
 COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03008.baf~
 COMPILE EVALUATE_BUFFER ~bgqe/Babysitting/Scripts/C#Q03009.baf~
@@ -877,6 +864,11 @@ ADD_JOURNAL TITLE (@10030) @10031 @10032 @10033 @10034 @10035 @10067 USING ~bgqe
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
   EXTEND_TOP ~AR0602.bcs~ ~bgqe/Nashkell_Monster/Scripts/C#Q04_ar0602_bgt.baf~  EVALUATE_BUFFER
 END
+
+/* Give Halbazzer Drin a DV (same as in BG:EE) */
+COPY_EXISTING ~%tutu_var%halbaz.cre~ ~override~
+WRITE_EVALUATED_ASCII 0x280 ~halbaz~ #32  // death variable
+BUT_ONLY_IF_IT_CHANGES
 
 COMPILE EVALUATE_BUFFER ~bgqe/Nashkell_Monster/Dialogues/C#Q04001_3_4_5.d~
 
@@ -1456,7 +1448,6 @@ LAF extend_area_script STR_VAR area="%Nashkel_JosephsHouse%" bottom="bgqe/noober
 BEGIN @5000 /* ~Brage's Sword~ */ DESIGNATED 11 LABEL bgqe_bragesword
 REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
 REQUIRE_PREDICATE GAME_IS ~tutu tutu_totsc bgt bgee eet~ @5008
-REQUIRE_PREDICATE NOT MOD_IS_INSTALLED ~setup-c#brage.TP2~ "0" @5007 /*~The quest "Brage's Sword" is already included via the mod "Brage's Redemption".~ */
 FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
@@ -1474,13 +1465,14 @@ FORBID_COMPONENT ~EET_end.tp2~ ~0~ @5010
 FORBID_COMPONENT ~EET_end.tp2~ ~1~ @5010
 
 
-/* Bgqe Erweiterte Händlerliga: Aldeth und die Werwolfinsel, von Lumorus */
+ADD_JOURNAL TITLE (@85) @24 @78 @79 @80 @81 @84 @86 @87 @88 @89 @90 USING ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~
+ADD_JOURNAL TITLE (@10100) @10101 @10102 @10103 @10104 @10105 @10106 @10107 @10108 @10109 @10110 USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 
-ADD_JOURNAL @24 USING ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~
 
 /* BGT: Erase journal entries upon transition to BGII */
 ACTION_IF GAME_IS ~bgt~ THEN BEGIN
-  EXTEND_TOP ~AR0602.bcs~ ~bgqe/seacharts/aldeth_seacharts/c#q14_ar0602_bgt.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/seacharts/c#q14_ar0602_bgt_a.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~
+  EXTEND_TOP ~AR0602.bcs~ ~bgqe/seacharts/c#q14_ar0602_bgt_c.baf~ EVALUATE_BUFFER USING ~bgqe/tra/%LANGUAGE%/bgqe_game.tra~
 END
 
 
@@ -1496,6 +1488,8 @@ REPLACE_TEXTUALLY ~\(Global("VP_MyBank","GLOBAL",1)\)~
 END
 BUT_ONLY_IF_IT_CHANGES
 
+
+/* Bgqe Erweiterte Händlerliga: Aldeth und die Werwolfinsel, von Lumorus */
 
 /* letter from Aldeth to Captain Kieres */
 COPY ~bgqe/seacharts/aldeth_seacharts/c#q14let.ITM~ ~override/c#q14let.ITM~
@@ -1629,7 +1623,13 @@ COMPILE EVALUATE_BUFFER ~bgqe/seacharts/aldeth_seacharts/aldeth_seacharts.d~
 
 LAF extend_area_script STR_VAR area="%NEBaldursGate%" top="bgqe/seacharts/aldeth_seacharts/q14_ar0300.baf"   END
 
+WITH_TRA ~bgqe/tra/%LANGUAGE%/aldeth_seacharts.tra~ BEGIN
+/* journal handling: add to Mendas' house */
+  LAF extend_area_script STR_VAR area="%UlgothsBeard_MendasHouse%" top="bgqe/seacharts/set_journal_entries_mendas.baf"   END
 
+/* journal handling: add to Merchants' League (Aldeth) */
+  LAF extend_area_script STR_VAR area="%SWBaldursGate_MerchantLeague_L2%" top="bgqe/seacharts/journal_entries_merchantsleague.baf"   END
+END
 
 
 /* CALABALD (= Calahan + Baldur's Isle): sea charts from Calahan, by Shuv-Oohl  */
@@ -1899,3 +1899,28 @@ USING ~bgqe/tra/%LANGUAGE%/friendlysil.tra~
 
 END
 
+
+
+/////////////////////////////////////////////////////////
+/* improved Borda: wand of sleep and custom mage fighting script, magic resistance 0% */
+/////////////////////////////////////////////////////////
+BEGIN @5011 /* ~Improved Borda~ */ DESIGNATED 17 LABEL bgqe_improved_borda
+REQUIRE_PREDICATE !(GAME_IS ~bg1 totsc~) @5006
+REQUIRE_PREDICATE GAME_IS ~bgt bgee eet~ @5008
+
+COPY_EXISTING ~%tutu_var%Borda.cre~ ~override~
+  WRITE_EVALUATED_ASCII 0x250 ~~ #8 //remove initdlg
+  WRITE_EVALUATED_ASCII 0x258 ~c#q13bo2~ #8 //custom mage script
+  ADD_CRE_ITEM ~wand08~ #5 #0 #0 ~unstealable~ ~inv~
+  ADD_CRE_ITEM ~potn10~ #1 #0 #0 ~unstealable~ ~inv~
+  ADD_CRE_ITEM ~potn41~ #1 #0 #0 ~unstealable~ ~inv~
+
+ACTION_IF MOD_IS_INSTALLED ~bgqe.tp2~ ~11~ THEN BEGIN
+/* custom Borda for later confrontation */
+  COPY_EXISTING ~c#q13bor.CRE~ ~override/c#q13bor.CRE~
+    WRITE_EVALUATED_ASCII 0x250 ~~ #8 //remove initdlg
+    WRITE_EVALUATED_ASCII 0x258 ~c#q13bo2~ #8 //custom mage script
+    ADD_CRE_ITEM ~wand08~ #5 #0 #0 ~unstealable~ ~inv~
+    ADD_CRE_ITEM ~potn10~ #1 #0 #0 ~unstealable~ ~inv~
+    ADD_CRE_ITEM ~potn41~ #1 #0 #0 ~unstealable~ ~inv~
+END

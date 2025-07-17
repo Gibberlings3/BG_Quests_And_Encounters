@@ -1,6 +1,23 @@
 
 /* aldeth_seacharts.d */
 
+/* additions to Mendas' dialogue */
+
+EXTEND_BOTTOM menda1 5
+++ @74 /* ~I'm not sure I like where this is going, but please, continue.~ */ + 8
+END
+
+ADD_TRANS_ACTION menda1 BEGIN 5 END BEGIN 0 END
+~SetGlobal("C#q14_JournalEntry0","MYAREA",1)~
+
+ADD_TRANS_ACTION menda1 BEGIN 8 END BEGIN 3 END
+~SetGlobal("C#q14_JournalEntry1","MYAREA",1)~
+
+ADD_TRANS_ACTION menda1 BEGIN 11 END BEGIN END
+~SetGlobal("C#q14_JournalEntry2","MYAREA",1)~
+
+
+
 /* GlobalGT("TalkedToMendas","GLOBAL",0): Mendas told PC quest
 Global("ChartQuest","GLOBAL",1) : PC agreed to get the sea charts */
 
@@ -37,16 +54,18 @@ Global("C#q14SeeCharts_Aldeth","GLOBAL",2)~ + @2 DO ~SetGlobal("C#q14SeeCharts_A
 
 /* Fall 1b: PC hat nun Mendas getötet, nachdem er vorher bereits Artefakte an Aldeth verkauft hat */
 + ~Dead("MENDAS3") 
-Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @2 DO ~SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",5) EraseJournalEntry(@24) 
-~ + rueckkehr
+Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @2 DO ~SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",5)~ + rueckkehr
 
 
 /* Mendas tot oder nicht: HC kann weitere Gegenstände loswerden, nachdem er mit Aldeth das erste mal gesprochen hat */
-+ ~GlobalGT("C#q14SeeCharts_Aldeth","GLOBAL",2) PartyHasItem("%tutu_var%BOOK87")~ + @3 DO ~TakePartyItem("%tutu_var%BOOK87") DestroyItem("%tutu_var%BOOK87") GiveGoldForce(10000) AddExperienceParty(700)~ + rueckkehr_08
-+ ~GlobalGT("C#q14SeeCharts_Aldeth","GLOBAL",2) PartyHasItem("%tutu_var%MISC1B")~ + @4 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") GiveGoldForce(1000) AddExperienceParty(500)~ + rueckkehr_09
-+ ~GlobalGT("C#q14SeeCharts_Aldeth","GLOBAL",2) PartyHasItem("%tutu_var%MISC1B") PartyHasItem("%tutu_var%SW1H18")~ + @5 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(2500) AddExperienceParty(500)~ + rueckkehr_10
-+ ~GlobalGT("C#q14SeeCharts_Aldeth","GLOBAL",2) PartyHasItem("%tutu_var%SW1H18")~ + @6 DO ~TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(3500) AddExperienceParty(1000)~  + rueckkehr_11
-+ ~Global("C#q14SeeCharts_AldethKieres","GLOBAL",1) PartyHasItem("%tutu_var%MISC1C")~ + @7 DO ~TakePartyItem("%tutu_var%MISC1C") DestroyItem("%tutu_var%MISC1C")~ + karten_zurueck
++ ~GlobalGT("C#q14SeeCharts_Aldeth","GLOBAL",2)
+OR(3)
+	PartyHasItem("%tutu_var%BOOK87")
+	PartyHasItem("%tutu_var%MISC1B")
+	PartyHasItem("%tutu_var%SW1H18")
+!Global("c#q14_SoldBOOK87","MYAREA",3)
+!Global("c#q14_SoldMISC1B","MYAREA",3)
+!Global("c#q14_SoldSW1H18","MYAREA",3)~ + @77 /* ~I have artifacts from Balduran.~ */ + rueckkehr_13
 
 /* Fall 2: HC war auf der Insel, hat die Gegenstände, hat aber Mendas noch nicht getötet */
 + ~!Dead("MENDAS3") 
@@ -99,14 +118,22 @@ END
 IF ~~ THEN seamaps_04
 SAY @20
 + ~Global("ChartQuest","GLOBAL",1)~ + @21 + seamaps_05
-IF ~Global("ChartQuest","GLOBAL",0)~ THEN DO ~SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",1)~ EXIT
+IF ~Global("ChartQuest","GLOBAL",0)~ THEN DO ~EraseJournalEntry(@84)
+SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",1)~ UNSOLVED_JOURNAL @81 EXIT
 END
 
 IF ~~ THEN seamaps_05
 SAY @22
 = @23
 /* die Gruppe erhält die Nachricht an den Kapitän und den Siegelring der Händlerliga */
-IF ~~ THEN DO ~GiveItemCreate("c#q14let",[PC],1,0,0) GiveItemCreate("c#q14rng",[PC],3,3,0) SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",2)~ UNSOLVED_JOURNAL @24 EXIT
+IF ~~ THEN DO ~GiveItemCreate("c#q14let",[PC],1,0,0) GiveItemCreate("c#q14rng",[PC],3,3,0)
+EraseJournalEntry(@81)
+EraseJournalEntry(@10104)
+EraseJournalEntry(@10105)
+EraseJournalEntry(@84)
+AddJournalEntry(@24,QUEST)
+AddJournalEntry(@10107,QUEST)
+SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",2)~ UNSOLVED_JOURNAL @79 EXIT
 END
 
 
@@ -140,7 +167,7 @@ END
 
 IF ~~ THEN rueckkehr_01
 SAY @30
-IF ~~ THEN + rueckkehr_05
+IF ~~ THEN + rueckkehr_02_b
 END
 
 IF ~~ THEN rueckkehr_02
@@ -168,23 +195,43 @@ END
 IF ~~ THEN rueckkehr_04
 SAY @38
 IF ~Global("C#q14SeeCharts_Aldeth","GLOBAL",3)~ THEN DO ~SetGlobal("C#q14SeeCharts_Aldeth","GLOBAL",5) EraseJournalEntry(@24) 
-~ + rueckkehr_05
-IF ~!Global("C#q14SeeCharts_Aldeth","GLOBAL",3)~ THEN + rueckkehr_07
+EraseJournalEntry(@24)
+EraseJournalEntry(@80)~ UNSOLVED_JOURNAL @78 + rueckkehr_05
+IF ~!Global("C#q14SeeCharts_Aldeth","GLOBAL",3)~ THEN DO ~EraseJournalEntry(@24)
+EraseJournalEntry(@24)
+EraseJournalEntry(@80)~ SOLVED_JOURNAL @78 + rueckkehr_07
 END
 
 IF ~~ THEN rueckkehr_05
 SAY @39
-+ ~PartyHasItem("%tutu_var%BOOK87")~ + @3 DO ~TakePartyItem("%tutu_var%BOOK87") DestroyItem("%tutu_var%BOOK87") GiveGoldForce(10000) AddExperienceParty(700)~ + rueckkehr_12
-+ ~PartyHasItem("%tutu_var%MISC1B")~ + @4 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") GiveGoldForce(1000) AddExperienceParty(500)~ + rueckkehr_09
-+ ~PartyHasItem("%tutu_var%MISC1B") PartyHasItem("%tutu_var%SW1H18")~ + @5 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(2500) AddExperienceParty(500)~ + rueckkehr_10
-+ ~PartyHasItem("%tutu_var%SW1H18")~ + @6 DO ~TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(3500) AddExperienceParty(1000)~  + rueckkehr_11
-++ @40 DO ~EraseJournalEntry(@24)~ + rueckkehr_06
++ ~OR(3)
+	PartyHasItem("%tutu_var%BOOK87")
+	PartyHasItem("%tutu_var%MISC1B")
+	PartyHasItem("%tutu_var%SW1H18")
+!Global("c#q14_SoldBOOK87","MYAREA",3)
+!Global("c#q14_SoldMISC1B","MYAREA",3)
+!Global("c#q14_SoldSW1H18","MYAREA",3)~ + @75 + sell_items
++ ~OR(3)
+	Global("c#q14_SoldBOOK87","MYAREA",0)
+	Global("c#q14_SoldMISC1B","MYAREA",0)
+	Global("c#q14_SoldSW1H18","MYAREA",0)~ + @40 + rueckkehr_06
 ++ @41 + rueckkehr_07
 END
 
 IF ~~ THEN rueckkehr_06
 SAY @42
-IF ~~ THEN + rueckkehr_07
+IF ~OR(2)
+Dead("MENDAS3")
+!Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ THEN DO ~EraseJournalEntry(@24)
+EraseJournalEntry(@79)
+SetGlobal("c#q14_SoldBOOK87","MYAREA",3)
+SetGlobal("c#q14_SoldMISC1B","MYAREA",3)
+SetGlobal("c#q14_SoldSW1H18","MYAREA",3)~ SOLVED_JOURNAL @86 + rueckkehr_07
+IF ~!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ THEN DO ~EraseJournalEntry(@24)
+EraseJournalEntry(@79)
+SetGlobal("c#q14_SoldBOOK87","MYAREA",3)
+SetGlobal("c#q14_SoldMISC1B","MYAREA",3)
+SetGlobal("c#q14_SoldSW1H18","MYAREA",3)~ UNSOLVED_JOURNAL @86 + rueckkehr_14
 END
 
 IF ~~ THEN rueckkehr_07
@@ -194,38 +241,25 @@ END
 
 IF ~~ THEN rueckkehr_08
 SAY @44
-+ ~OR(2)
-Dead("MENDAS3")
-!Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @45 + rueckkehr_07
-+ ~!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @45 + rueckkehr_14
-
-+ ~PartyHasItem("%tutu_var%BOOK87")~ + @3 DO ~TakePartyItem("%tutu_var%BOOK87") DestroyItem("%tutu_var%BOOK87") GiveGoldForce(10000) AddExperienceParty(700)~ + rueckkehr_12
-
-+ ~PartyHasItem("%tutu_var%MISC1B")~ + @4 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") GiveGoldForce(1000) AddExperienceParty(500)~ + rueckkehr_09
-+ ~PartyHasItem("%tutu_var%MISC1B") PartyHasItem("%tutu_var%SW1H18")~ + @5 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(2500) AddExperienceParty(500)~ + rueckkehr_10
-+ ~PartyHasItem("%tutu_var%SW1H18")~ + @6 DO ~TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(3500) AddExperienceParty(1000)~  + rueckkehr_11
-+ ~OR(2)
-Dead("MENDAS3")
-!Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @46 + rueckkehr_07
-+ ~!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @46 + rueckkehr_14
+IF ~~ THEN + sell_items
 END
 
 IF ~~ THEN rueckkehr_09
 SAY @47
 = @48
-IF ~~ THEN + rueckkehr_08
+IF ~~ THEN + sell_items
 END
 
 IF ~~ THEN rueckkehr_10
 SAY @49
 = @50
-IF ~~ THEN + rueckkehr_08
+IF ~~ THEN + sell_items
 END
 
 IF ~~ THEN rueckkehr_11
 SAY @51
 = @52
-IF ~~ THEN + rueckkehr_08
+IF ~~ THEN + sell_items
 END
 
 IF ~~ THEN rueckkehr_12
@@ -236,14 +270,7 @@ END
 
 IF ~~ THEN rueckkehr_13
 SAY @55
-+ ~Global("C#q14SeeCharts_Aldeth","GLOBAL",0) PartyHasItem("%tutu_var%BOOK87")~ + @3 DO ~TakePartyItem("%tutu_var%BOOK87") DestroyItem("%tutu_var%BOOK87") GiveGoldForce(10000) AddExperienceParty(700)~ + rueckkehr_12
-+ ~Global("C#q14SeeCharts_Aldeth","GLOBAL",0) PartyHasItem("%tutu_var%MISC1B")~ + @4 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") GiveGoldForce(1000) AddExperienceParty(500)~ + rueckkehr_09
-+ ~Global("C#q14SeeCharts_Aldeth","GLOBAL",0) PartyHasItem("%tutu_var%MISC1B") PartyHasItem("%tutu_var%SW1H18")~ + @5 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(2500) AddExperienceParty(500)~ + rueckkehr_10
-+ ~Global("C#q14SeeCharts_Aldeth","GLOBAL",0) PartyHasItem("%tutu_var%SW1H18")~ + @6 DO ~TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(3500) AddExperienceParty(1000)~  + rueckkehr_11
-+ ~OR(2)
-Dead("MENDAS3")
-!Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @56 + rueckkehr_07
-+ ~!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)~ + @56 + rueckkehr_14
+IF ~~ THEN + sell_items
 END
 
 IF ~~ THEN rueckkehr_14
@@ -255,7 +282,61 @@ END
 
 IF ~~ THEN rueckkehr_15
 SAY @61
-IF ~~ THEN EXIT
+IF ~~ THEN DO ~EraseJournalEntry(@24)~ UNSOLVED_JOURNAL @80 EXIT
+END
+
+IF ~~ THEN sell_items
+SAY @76 /* What do you have? */
+
++ ~PartyHasItem("%tutu_var%BOOK87")
+Global("c#q14_SoldBOOK87","MYAREA",0)~ + @3 DO ~TakePartyItem("%tutu_var%BOOK87") DestroyItem("%tutu_var%BOOK87") GiveGoldForce(10000) AddexperienceParty(700)
+AddJournalEntry(@88,QUEST)
+SetGlobal("c#q14_SoldBOOK87","MYAREA",1)~ + rueckkehr_12
++ ~PartyHasItem("%tutu_var%MISC1B")
+Global("c#q14_SoldMISC1B","MYAREA",0)~ + @4 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") GiveGoldForce(1000) AddexperienceParty(500)
+SetGlobal("c#q14_SoldMISC1B","MYAREA",1)~ + rueckkehr_09
++ ~PartyHasItem("%tutu_var%MISC1B") PartyHasItem("%tutu_var%SW1H18")
+Global("c#q14_SoldMISC1B","MYAREA",0)
+Global("c#q14_SoldSW1H18","MYAREA",0)~ + @5 DO ~TakePartyItem("%tutu_var%MISC1B") DestroyItem("%tutu_var%MISC1B") TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(2500) AddexperienceParty(100)
+AddJournalEntry(@89,QUEST)
+AddJournalEntry(@90,QUEST)
+SetGlobal("c#q14_SoldMISC1B","MYAREA",1)
+SetGlobal("c#q14_SoldSW1H18","MYAREA",1)~ + rueckkehr_10
++ ~PartyHasItem("%tutu_var%SW1H18")
+Global("c#q14_SoldSW1H18","MYAREA",0)~ + @6 DO ~TakePartyItem("%tutu_var%SW1H18") DestroyItem("%tutu_var%SW1H18") GiveGoldForce(3500) AddexperienceParty(500)
+AddJournalEntry(@90,QUEST)
+SetGlobal("c#q14_SoldSW1H18","MYAREA",1)~  + rueckkehr_11
+
++ ~OR(3)
+	Global("c#q14_SoldBOOK87","MYAREA",0)
+	Global("c#q14_SoldMISC1B","MYAREA",0)
+	Global("c#q14_SoldSW1H18","MYAREA",0)~ + @40 + rueckkehr_06
+
++ ~OR(2)
+Dead("MENDAS3")
+!Global("C#q14SeeCharts_Aldeth","GLOBAL",4)
+OR(3)
+	Global("c#q14_SoldBOOK87","MYAREA",0)
+	Global("c#q14_SoldMISC1B","MYAREA",0)
+	Global("c#q14_SoldSW1H18","MYAREA",0)~ + @56 + rueckkehr_07
++ ~!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)
+OR(3)
+	Global("c#q14_SoldBOOK87","MYAREA",0)
+	Global("c#q14_SoldMISC1B","MYAREA",0)
+	Global("c#q14_SoldSW1H18","MYAREA",0)~ + @56 + rueckkehr_14
+
++ ~OR(2)
+Dead("MENDAS3")
+!Global("C#q14SeeCharts_Aldeth","GLOBAL",4)
+OR(3)
+	Global("c#q14_SoldBOOK87","MYAREA",1)
+	Global("c#q14_SoldMISC1B","MYAREA",1)
+	Global("c#q14_SoldSW1H18","MYAREA",1)~ + @45 + rueckkehr_07
++ ~!Dead("MENDAS3") Global("C#q14SeeCharts_Aldeth","GLOBAL",4)
+OR(3)
+	Global("c#q14_SoldBOOK87","MYAREA",1)
+	Global("c#q14_SoldMISC1B","MYAREA",1)
+	Global("c#q14_SoldSW1H18","MYAREA",1)~ + @45 + rueckkehr_14
 END
 
 END //APPEND
@@ -286,8 +367,10 @@ END //APPEND
 Aaaah, ich bin fast bereit für die Meere, und wer stört mich jetzt? */
 
 EXTEND_BOTTOM ~%tutu_var%KIERES~ 0
-+ ~PartyHasItem("c#q14let")~ + @64 + aldeths_brief
-+ ~PartyHasItem("c#q14let")~ + @65 + aldeths_brief
++ ~PartyHasItem("c#q14let")
+Global("C#q14SeeCharts_AldethKieres","GLOBAL",0)~ + @64 + aldeths_brief
++ ~PartyHasItem("c#q14let")
+Global("C#q14SeeCharts_AldethKieres","GLOBAL",0)~ + @65 + aldeths_brief
 + ~!PartyHasItem("c#q14let") PartyHasItem("c#q14rng") Global("C#q14SeeCharts_AldethKieres","GLOBAL",0)~ + @66 + aldeths_brief_04
 END
 
@@ -305,13 +388,17 @@ IF ~~ THEN DO ~SetGlobal("C#q14SeeCharts_AldethKieres","GLOBAL",1) TakePartyItem
 EraseJournalEntry(%journalentry_menda1_11_0%)
 EraseJournalEntry(%journalentry_kieres_1_0%)
 EraseJournalEntry(%journalentry_detran_5_0%)
-EraseJournalEntry(%journalentry_detran_7_0%)~ EXIT
+EraseJournalEntry(%journalentry_detran_7_0%)
+EraseJournalEntry(@10104)
+EraseJournalEntry(@10105)
+EraseJournalEntry(@10107)
+EraseJournalEntry(@10109)~ SOLVED_JOURNAL @10106 EXIT
 END
 
 
 IF ~~ THEN aldeths_brief_02
 SAY @70
-IF ~~ THEN + 4
+IF ~~ THEN DO ~SetGlobal("C#q14SeeCharts_AldethKieres","GLOBAL",2) TakePartyItem("c#q14let") DestroyItem("c#q14let")~ + 4
 END
 
 IF ~NumTimesTalkedToGT(0) PartyHasItem("c#q14let") Global("C#q14SeeCharts_AldethKieres","GLOBAL",0)~ THEN aldeths_brief_03

@@ -1,0 +1,37 @@
+/* set additional journal entries for sea charts quest after dialogue with Mendas */
+/* PC stated they will not steal charts */
+IF
+    Global("C#q14_JournalEntry1","MYAREA",1)
+THEN
+    RESPONSE #100
+        AddJournalEntry(@10104,QUEST)
+        SetGlobal("C#q14_JournalEntry1","MYAREA",2)
+        Continue()
+END
+
+/* PC agreed to steal charts */
+IF
+    Global("C#q14_JournalEntry1","MYAREA",0) //not if talked to 2nd time
+    Global("C#q14_JournalEntry2","MYAREA",1)
+THEN
+    RESPONSE #100
+        AddJournalEntry(@10105,QUEST)
+        SetGlobal("C#q14_JournalEntry2","MYAREA",2)
+        Continue()
+END
+
+/* additional entry in case Aldeth should be available */
+IF
+    OR(3)
+        Global("C#q14_JournalEntry0","MYAREA",1)
+        GlobalGT("C#q14_JournalEntry1","MYAREA",0)
+        GlobalGT("C#q14_JournalEntry2","MYAREA",0)
+    GlobalLT("C#q14_JournalEntry0","MYAREA",2)
+    GlobalGT("AldethMove","GLOBAL",0)
+    !Dead("Aldeth")
+THEN
+    RESPONSE #100
+        AddJournalEntry(@84,QUEST)
+        SetGlobal("C#q14_JournalEntry0","MYAREA",2)
+        Continue()
+END

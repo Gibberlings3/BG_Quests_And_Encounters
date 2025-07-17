@@ -1,0 +1,8 @@
+IF
+	Global("OublekBounty1","GLOBAL",1)
+	Global("C#BE_HickRemoval","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("C#BE_HickRemoval","MYAREA",1)
+		ActionOverride("HICK",DestroySelf())
+END

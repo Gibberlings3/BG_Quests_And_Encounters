@@ -153,6 +153,9 @@
 @150 = ~Ich habe mich mit Euch zusammengeschlossen, um Banditen zu jagen, und nicht, um mich selbst wie einer zu verhalten. Dies ist nicht das Schwert, das Brage benutzt hat.~
 @151 = ~Hört mal, aus welchen Gründen auch immer, aber ich werde Euch kein Schwert zeigen. Hört auf, danach zu fragen.~
 @152 = ~Ich verstehe. So sehr ich dies auch bedauere, so werden wir doch Eure Entscheidung akzeptieren.~
+@153 = ~<CHARNAME>, Ihr habt Brage zurück zur Stadt gebracht und ihn den Stadtoberen übergeben. Jedoch, der ganze tragische Vorfall erweckt stark den Eindruck von böser Magie, die darin involviert sein musste. Ich bitte Euch, fragt bei Oublek an, welche weiteren Untersuchungen hierzu geplant sind. Es wäre ein Jammer, diesen aufrichtigen Mann als Mörder zu verurteilen, ohne seine eindeutige Schuld überprüft zu haben.~
+@154 = ~<CHARNAME>, dank Euch ist Brage nun erst einmal im Tempel in Sicherheit. Jedoch, der ganze tragische Vorfall erweckt stark den Eindruck von böser Magie, die darin involviert sein musste. Ich bitte Euch, fragt bei Oublek an, welche weiteren Untersuchungen hierzu geplant sind. Es wäre ein Jammer, diesen aufrichtigen Mann als Mörder zu verurteilen, ohne seine eindeutige Schuld überprüft zu haben.~
+
 
 @1000 = ~Hauptmann Brages Schuld
 
@@ -218,3 +221,12 @@ Brage ist frei! Die Beweise für die Intrige, die zu den traurigen Ereignissen fü
 
 Brage wurde gehängt! Ich finde, das habe ich gut gemacht. Es ist immer wieder erbauend, „Gerechtigkeit“ bei der Arbeit zuzusehen. Und vor allem: Der Narr war mir auch noch dankbar dafür! Ich sollte mich vorsehen, oder das wohlig-warme Gefühl in meinem Bauch wird noch so stark, dass ich Sodbrennen kriege.~
 @1021 = ~Hauptmann Brages Schuld~
+@1022 = ~Hauptmann Brages Schuld
+
+Nalin ist der Meinung, dass der Vorfall um Brages Morde näher untersucht werden müsste, weil er stark vermutet, dass böse Magie im Spiel war. Er bittet mich, Oublek zu fragen, was die Stadtoberen diesbezüglich planen.~
+@1023 = ~Hauptmann Brages Schuld
+
+Ich habe einen Händler verfluchter Waren konfrontiert und bei ihm einen Brief gefunden, der von einem Komplott erzählt, das Schwert des Hauptmanns von Nashkell auszutauschen. Ebenfalls bei sich hatte er einen Zweihänder, der wohl das Schwert ist, welches der Hauptmann eigentlich erhalten sollte. Beide Gegenstände sehen aus, als wären sie sehr wichtig. Ich sollte sie behalten, bis ich weiß, wie ich sie einsetzen kann.~
+@1024 = ~Hauptmann Brages Schuld
+
+Ich habe einen Händler verfluchter Waren konfrontiert und bei ihm einen Brief gefunden, der von einem Komplott erzählt, das Schwert des Hauptmanns von Nashkell auszutauschen. Ebenfalls bei sich hatte er einen Zweihänder, der wohl das Schwert ist, welches der Hauptmann eigentlich erhalten sollte. Beide Gegenstände sehen aus, als wären sie sehr wichtig.~

@@ -207,17 +207,14 @@ Requires:
 Weight: 12~
 @117  = ~Hick~
 @118  = ~My servant Mulahey,
-
-your stupid carelessness has made D. to interfere. He sent a nice surprise to the Nashkel Commander, who found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel obliged to investigate the sightings of your stupid kobolds. Do not fail me again. 
+Your stupid carelessness has made D. to interfere. He sent a nice surprise to the Nashkel Commander, who found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel obliged to investigate the sightings of your stupid kobolds. Do not fail me again. 
 
 TAZOK~
 @119  = ~Borda,
-
-we don't care whether you put all your effort into the task we ordered you to do. It's not our fault that the Commander went alone on his investigation and therefore found the new sword while being alone on the road instead of being inside the barracks. It is your oversight the whole thing nearly failed. You are lucky as it is that this fool went back to Nashkel at all, so the gold we spent on this blade with its special curse is not lost altogether. No, you will not receive the second amount of the payment. You can still keep the original sword that Brage was supposed to receive. That is enough compensation. Be glad we don't hunt you down.
+We don't care whether you put all your effort into the task we ordered you to do. It's not our fault that the Commander went alone on his investigation and therefore found the new sword while being alone on the road instead of being inside the barracks. It is your oversight the whole thing nearly failed. You are lucky as it is that this fool went back to Nashkel at all, so the gold we spent on this blade with its special curse is not lost altogether. No, you will not receive the second amount of the payment. You can still keep the original sword that Brage was supposed to receive. That is enough compensation. Be glad we don't hunt you down.
 
 TAZOK~
 @120  = ~Tazok,
-
 I demand you pay me the second half of what we agreed upon - the Commander only butchering his own family and not half of the garrison is not my fault. The Nashkel forces are weakened and that was the deal! You can send any letters for me to my contact at Nashkel Carnival. I found a merchant desperate enough to buy some of my special potions, he will pass on any letters, as well.
 
 Borda~
@@ -636,3 +633,39 @@ The priests of Lathander will watch over the drunk Polus. He should be safe then
 I saved the drunk from any more conveniences. So to say.~
 
 /* @10069 used above */
+
+
+@10100   = ~Legal Sea Chart Sources~
+// @25 from calabald.tra
+@10101   = ~Legal Sea Chart Sources
+
+Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He will be back to Ulgoth's Beard in two days.~
+// @26 from calabald.tra
+@10102   = ~Legal Sea Chart Sources
+
+Calahan in Ulgoth's Beard want to have another 3.000 gold pieces for the sea charts!~
+@10103   = ~Legal Sea Chart Sources
+
+I received the sea charts from Calahan.~
+@10104   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
+@10105   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
+@10106   = ~Legal Sea Chart Sources
+
+I received the sea charts from Captain Kieres using the help of Aldeth without having to steal them.~
+//part of @24 from aldeth_seacharts.tra
+@10107   = ~Legal Sea Chart Sources
+
+Aldeth gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain.~
+@10108   = ~Legal Sea Chart Sources
+
+Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He wants 5000 gold!~
+@10109   = ~Legal Sea Chart Sources
+
+I told Calahan I will not buy the sea charts from him.~
+@10110   = ~Legal Sea Chart Sources
+
+In the end, I stole the sea charts from Captain Kieres.~

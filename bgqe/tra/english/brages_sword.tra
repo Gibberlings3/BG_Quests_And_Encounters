@@ -49,7 +49,7 @@
 @46   = ~So, you brought Brage in alive. I care not about the tears the others shed over this 'Commander'. All this talk about Brage's honor and righteousness and the suspicions about a foul magic being involved!~
 @47   = ~The sentence for this murderer will be a quick and easy one, considering all that points towards his guilt. It's almost a pity Brage's trial will have to wait a while, with the guard currently thinned out and busy as it is. Well, no matter, this way the murderer will have some time to 'prepare' for his last day!~
 @48   = ~Ah, but why did you let him hide in the temple!~
-@49   = ~Priest Nalin already confirmed that he was under no spell when you brought him. Brage said he gave you his sword. I have to ask you - please go to Nalin and let him prove there is nothing strange about it, so this talk of Brage being innocent, deep down, can stop at last. I mean, what *else* does a man has to do to prove that he's a murderer than the slaughter Brage brought down on his own family and comrades?!~
+@49   = ~Priest Nalin already confirmed that he was under no spell when you brought him. Brage said he gave you his sword. I have to ask you - please go to Nalin and let him prove there is nothing strange about it, so this talk of Brage being innocent, deep down, can stop at last. I mean, what *else* does a man have to do to prove that he's a murderer? He admitted that he slaughtered his own family and men at arms!~
 @50   = ~Ah, <CHARNAME>. I have already heard the news about your efforts to prove Brage's innocence, and I'll support you in any way I can. Let me have a look at that sword.~
 @51   = ~(Show the right sword) Here it is.~
 @52   = ~I don't have it with me.~
@@ -165,6 +165,10 @@
 
 
 
+@153   = ~<CHARNAME>, you have returned with Brage and handed him to the town's authorities. The whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+@154   = ~<CHARNAME>, thanks to you, Brage is save inside the temple now. Still, the whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+
+
 //------------------
 
 
@@ -231,6 +235,13 @@ Brage is a free man! Nashkel authorities accepted the evidence I found that prov
 @1020 = ~Captain Brage's Guilt
 
 Brage was hanged! I think I did this rather well. It's always nice to see 'justice' take its turn. And above all - that fool Brage was thankful for it! I should watch out, or the warm feeling in my belly will give me a hiccup.~
-
-/* Needs to be the exact same wording as in bragesword_extentions.tra from Brage Redemption mod */
 @1021 = ~Captain Brage's Guilt~
+@1022 = ~Captain Brage's Guilt
+
+Nalin thinks the Brage incident should be investigated to prove his innocence. He suggested I whould ask Oublek about what the town's authorities are planning on doing in this regard.~
+@1023 = ~Captain Brage's Guilt
+
+I confronted a merchant of cursed items and found a letter with clues about a conspiracy to switch out the sword of the Nashkel Commander, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes. I should hold on to them until I figured out how they could be of use in the whole affair.~ 
+@1024 = ~Captain Brage's Guilt
+
+I confronted a mearchant of cursed items and found a letter with clues about a conspiracy to switch Brage's sword, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes.~ 

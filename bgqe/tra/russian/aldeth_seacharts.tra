@@ -26,9 +26,7 @@
 
 Я рассказал Алдету из Лиги Торговцев о Мендасе и его планах, касаемых острова, где потерпел крушение корабль Балдурана. Алдет согласился, что все это звучит довольно подозрительно.
 
-Алдет пообещал мне всю возможную помощь в раскрытии истинных планах Мендаса, вручил кольцо, дающее доступ к Счетной Палате Лиги Торговцев и письмо, которое я должен передать капитану Киересу.
-
-Он попросил расследовать кораблекрушение и вернуть все артефакты Балдурана, которые удасться найти - особенно его интересует судовой журнал.~
+Алдет пообещал мне всю возможную помощь в раскрытии истинных планах Мендаса, вручил кольцо, дающее доступ к Счетной Палате Лиги Торговцев и письмо, которое я должен передать капитану Киересу.~
 @25   = ~Благодарю! В наше время не часто удается встретить людей, заслуживающих доверия!~
 @26   = ~Отличные новости! Что-то еще?~
 @27   = ~Мендас оказался вервольфом! Он пытался найти способ переправить свою стаю на материк, планируя распространять ликантропию!~
@@ -59,7 +57,7 @@
 @52   = ~Вот ваше золото - вы его честно заработали.~
 @53   = ~Судовой журнал Балдурана! Это действительно впечатляет...~
 @54   = ~Конечно, мне нужно удостовериться в подлинности, но я готов заплатить сразу: 10 000 золотом!~
-@55   = ~Артефакты Балдурана?! Лига Торговцев очень заинтересована в их приобретении. Что у вас есть?~
+@55   = ~Артефакты Балдурана?! Лига Торговцев очень заинтересована в их приобретении.~
 @56   = ~Может, позже.~
 @57   = ~Еще один вопрос! Что насчет этого Мендаса? Вам удалось что-то узнать о его намерениях?~
 @58   = ~Пока еще нет. Но с ним что-то явно не так.~
@@ -78,3 +76,40 @@
 @71   = ~И чегой теперь?~
 @72   = ~Ничего, я пойду.~
 @73   = ~Уйди с глаз моих.~
+@74   = ~I'm not sure I like where this is going, but please, continue.~
+@75   = ~We did, indeed.~
+@76   = ~Что у вас есть?~
+@77   = ~I have artifacts from Balduran.~
+@78   = ~Balduran's Artifacts for the Merchants' League
+
+I gave Aldeth Sashenstar a report of what was up with Mendas.~
+@79   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
+@80   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
+@81   = ~Balduran's Artifacts for the Merchants' League
+
+Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+//@82
+//@83
+@84   = ~Balduran's Artifacts for the Merchants' League
+
+Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
+@85   = ~Balduran's Artifacts for the Merchants' League~
+@86   = ~Balduran's Artifacts for the Merchants' League
+
+I told Aldeth that I do not have any more items I am willing to sell him.~
+@87   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
+@88   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth the logbook of Balduran.~
+@89   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's butterknife.~
+@90   = ~Balduran's Artifacts for the Merchants' League
+
+I sold Aldeth Balduran's golden sword.~

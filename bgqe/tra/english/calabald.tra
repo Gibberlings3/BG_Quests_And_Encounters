@@ -23,10 +23,8 @@
 @22   = ~Oh? As ye wish. G'day, to ye.~
 @23   = ~Indeed a very large sum, Calahan! I'm only doing this because I don't want to steal these charts. Here is your gold.~
 @24   = ~Indeed a very large sum, Calahan! I'm only doing this because I don't want to steal these charts. Unfortunately, I don't have that much gold.~
-@25   = ~Sea Charts by Calahan
-
-Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He will be back to Ulgoth's Beard in two days.~
-@26   = ~Sea Charts by Calahan
-
-Calahan in Ulgoth's Beard want to have another 3.000 gold pieces for the sea charts!~
-@27   = ~Sea Charts by Calahan~
+//@25
+//@26
+//@27
+@28   = ~As ye wish. I be anchorin' a bit, in case ye'll change yer mind.~
+@29   = ~That's an interesting offer, but I have no need for it at the moment.~

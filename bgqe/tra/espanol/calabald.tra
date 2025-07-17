@@ -1,4 +1,8 @@
-@0 = ~No sé nada más que os pueda ser de ayuda. Pero...~
+
+@27   = ~Sea Charts by Calahan~
+@28   = ~Sea Charts by Calahan
+
+I received the sea charts from Calahan.~@0 = ~No sé nada más que os pueda ser de ayuda. Pero...~
 @1 = ~Podría ir a buscar esas cartas para usted. A cambio de una 'montaña de oro' apropiada, por supuesto.~
 @2 = ~¿Cuánto queréis?~
 @3 = ~No, gracias. No estoy interesado en esta oferta.~
@@ -23,10 +27,8 @@
 @22 = ~¿Ah? Como deseéis. Buen día, para vos.~
 @23 = ~¡Claro que es una suma muy grande, Calahan! Solo hago esto porque no quiero robar esas cartas de navegación. Aquí está vuestro oro.~
 @24 = ~¡Claro que es una suma muy grande, Calahan! Solo hago esto porque no quiero robar esas cartas de navegación. Desafortunadamente, no tengo tanto oro.~
-@25 = ~Cartas de navegación de Calahan
-
-Calahan, un marinero de la Barba de Ulgoth me ha ofrecido traerme las cartas de navegación que necesito para la excursión de Mendas. Volverá a Barba de Ulgoth en dos días.~
-@26 = ~Cartas de navegación de Calahan
-
-Calahan en Ulgoth's Beard quiere tener otras 3,000 piezas de oro por las cartas de navegación.~
-@27 = ~Cartas de navegación de Calahan~
+//@25 
+//@26 
+//@27
+@28   = ~As ye wish. I be anchorin' a bit, in case ye'll change yer mind.~
+@29   = ~That's an interesting offer, but I have no need for it at the moment.~

@@ -1,0 +1,201 @@
+/* Borda Script */
+
+// Player1 Level 1-3
+IF
+	See(NearestEnemyOf(Myself))
+	OR(2)
+	     LevelLT(Player1,4)
+	     DifficultyLT(NORMAL)
+	!StateCheck(LastSeenBy(Myself),STATE_DEAD)
+	!HasBounceEffects(LastSeenBy(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_STUNNED)
+	!StateCheck(LastSeenBy(Myself),STATE_SLEEPING)
+	!Race(LastSeenBy(Myself),ELF)
+	HasItem("wand08",Myself) // Stab des Schlafes
+	Global("Behavior","LOCALS",0)
+THEN
+	RESPONSE #100
+	        UseItem("wand08",NearestEnemyOf(Myself)) // Stab des Schlafes
+		SetGlobal("Behavior","LOCALS",1)
+END
+
+IF
+	See(SecondNearestEnemyOf(Myself))
+	OR(2)
+	     LevelLT(Player1,4)
+	     DifficultyLT(NORMAL)
+	!StateCheck(LastSeenBy(Myself),STATE_DEAD)
+	!HasBounceEffects(LastSeenBy(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_STUNNED)
+	!StateCheck(LastSeenBy(Myself),STATE_SLEEPING)
+	!Race(LastSeenBy(Myself),ELF)
+	HasItem("wand08",Myself) // Stab des Schlafes
+	Global("Behavior","LOCALS",0)
+THEN
+	RESPONSE #100
+	        UseItem("wand08",SecondNearestEnemyOf(Myself)) // Stab des Schlafes
+		SetGlobal("Behavior","LOCALS",1)
+		Continue()
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	OR(2)
+	     LevelLT(Player1,4)
+	     DifficultyLT(NORMAL)
+	!StateCheck(Myself,STATE_MIRRORIMAGE)
+	HaveSpell(WIZARD_MIRROR_IMAGE) // SPWI212.SPL (Spiegelbild)
+THEN
+	RESPONSE #100
+		Spell(Myself,WIZARD_MIRROR_IMAGE) // SPWI212.SPL (Spiegelbild)
+END
+
+IF
+   See(NearestEnemyOf(Myself))
+   OR(2)
+        LevelLT(Player1,4)
+        DifficultyLT(NORMAL)
+   HasItem("POTN41",Myself) // Trank der Macht
+THEN
+  RESPONSE #100
+    UseItem("POTN41",Myself) // Trank der Macht
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	OR(2)
+	     LevelLT(Player1,4)
+	     DifficultyLT(NORMAL)
+THEN
+	RESPONSE #100
+		AttackReevaluate(NearestEnemyOf(Myself),15)
+END
+
+// Player1 Level 4-5
+
+IF
+	See(NearestEnemyOf(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_DEAD)
+	!HasBounceEffects(LastSeenBy(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_STUNNED)
+	!StateCheck(LastSeenBy(Myself),STATE_SLEEPING)
+	!Race(LastSeenBy(Myself),ELF)
+	HasItem("wand08",Myself) // Stab des Schlafes
+	Global("Behavior","LOCALS",0)
+THEN
+	RESPONSE #100
+	        UseItem("wand08",NearestEnemyOf(Myself)) // Stab des Schlafes
+		SetGlobal("Behavior","LOCALS",1)
+END
+
+IF
+	See(SecondNearestEnemyOf(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_DEAD)
+	!HasBounceEffects(LastSeenBy(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_STUNNED)
+	!StateCheck(LastSeenBy(Myself),STATE_SLEEPING)
+	!Race(LastSeenBy(Myself),ELF)
+	HasItem("wand08",Myself) // Stab des Schlafes
+	Global("Behavior","LOCALS",0)
+THEN
+	RESPONSE #100
+	        UseItem("wand08",SecondNearestEnemyOf(Myself)) // Stab des Schlafes
+		SetGlobal("Behavior","LOCALS",1)
+		Continue()
+END
+
+// Level 7: Invisibility -> Mirrorimage
+IF
+   See(NearestEnemyOf(Myself))
+   LevelGT(Player1,6)
+   HasItem("POTN10",Myself) // Unsichtbarkeitstrank
+THEN
+  RESPONSE #100
+    UseItem("POTN10",Myself) // Unsichtbarkeitstrank
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	!StateCheck(Myself,STATE_MIRRORIMAGE)
+	HaveSpell(WIZARD_MIRROR_IMAGE) // SPWI212.SPL (Spiegelbild)
+THEN
+	RESPONSE #100
+		Spell(Myself,WIZARD_MIRROR_IMAGE) // SPWI212.SPL (Spiegelbild)
+END
+
+IF
+   See(NearestEnemyOf(Myself))
+   HasItem("POTN41",Myself) // Trank der Macht
+THEN
+  RESPONSE #100
+    UseItem("POTN41",Myself) // Trank der Macht
+END
+
+// Level LT7:  Mirrorimage -> Potion -> Invisibility
+
+IF
+   See(NearestEnemyOf(Myself))
+   HasItem("POTN10",Myself) // Unsichtbarkeitstrank
+THEN
+  RESPONSE #100
+    UseItem("POTN10",Myself) // Unsichtbarkeitstrank
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	StateCheck(Myself,STATE_INVISIBLE)
+THEN
+	RESPONSE #100
+	        AttackOneRound(NearestEnemyOf(Myself))
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	LevelGT(Player1,4)
+	HaveSpell(WIZARD_HORROR) // SPWI205.SPL (Schrecken)
+THEN
+	RESPONSE #100
+		Spell(NearestEnemyOf(Myself),WIZARD_HORROR) // SPWI205.SPL (Schrecken)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_PANIC)
+	HaveSpell(WIZARD_MAGIC_MISSILE)
+THEN
+	RESPONSE #100
+		Spell(NearestEnemyOf(Myself),WIZARD_MAGIC_MISSILE)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	!StateCheck(LastSeenBy(Myself),STATE_PANIC)
+THEN
+	RESPONSE #100
+		AttackReevaluate(NearestEnemyOf(Myself),15)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	HaveSpell(WIZARD_MAGIC_MISSILE)
+THEN
+	RESPONSE #100
+		Spell(NearestEnemyOf(Myself),WIZARD_MAGIC_MISSILE)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		AttackReevaluate(NearestEnemyOf(Myself),15)
+END
+
+
+
+
+
+
+
+
+
+

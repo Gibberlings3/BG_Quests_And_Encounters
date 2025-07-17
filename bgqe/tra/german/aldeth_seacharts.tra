@@ -25,8 +25,7 @@
 @24   = ~Baldurans Artefakte für die Händlerliga
 
 Ich habe mit Aldeth in der Händlerliga über diesen seltsamen Mendas und seine Pläne für die Reise zur Insel mit Baldurans Schiff gesprochen und er ist ebenso misstrauisch wie ich.
-Um mehr über die wahren Hintergründe zu dieser Reise herauszufinden, hat mir Aldeth seine Hilfe zugesagt und mir alle verfügbaren Mittel gegeben, um Zugang zum Zählhaus zu gelangen und die Seekarten zu bekommen.
-Er bat mich mich noch, auf der Insel das Schiffswrack zu untersuchen und ihm das Logbuch Baldurans zu bringen – und wenn möglich weitere Gegenstände aus Baldurans Besitztümern, sollte ich welche finden.~
+Um mehr über die wahren Hintergründe zu dieser Reise herauszufinden, hat mir Aldeth seine Hilfe zugesagt.~
 @25   = ~Ich danke Euch! Es ist schön zu sehen, dass es noch ehrliche Leute gibt.~
 @26   = ~Ausgezeichnet meine Freunde! Nun, was habt Ihr zu berichten?~
 @27   = ~Mendas war in Wahrheit ein Werwolf! Er wollte seinen Leuten auf der Insel ermöglichen, auf das Festland überzusiedeln und hier den Fluch der Lycanthropie weiterzuverbreiten!~
@@ -57,7 +56,7 @@ Er bat mich mich noch, auf der Insel das Schiffswrack zu untersuchen und ihm das
 @52   = ~Hier, diese Belohnung habt Ihr Euch wahrlich mehr als verdient!~
 @53   = ~Baldurans Logbuch! Das ist wirklich sehr beeindruckend.~
 @54   = ~Ich werde das natürlich prüfen lassen, aber es sieht echt genug aus. Ich werde Euch sofort auszahlen: 10.000 Gold!~
-@55   = ~Baldurans Artefakte?! Im Namen der Händlerliga bin ich an diesen Gegenständen sehr interessiert. Was habt Ihr?~
+@55   = ~Baldurans Artefakte?! Im Namen der Händlerliga bin ich an diesen Gegenständen sehr interessiert.~
 @56   = ~Vielleicht später.~
 @57   = ~Wartet! Was ist mit Mendas? Habt Ihr herausgefunden, was er wollte?~
 @58   = ~Nein, noch nicht. Ich wurde aber bereits von einem seiner Leute empfangen. Irgendwas ist da gehörig faul.~
@@ -76,3 +75,39 @@ Er bat mich mich noch, auf der Insel das Schiffswrack zu untersuchen und ihm das
 @71   = ~Wat denn nu?~
 @72   = ~Nichts, ich gehe mal wieder.~
 @73   = ~Pf, dann zieht mal von dannen, Ihr Landratten.~
+@74   = ~Ich bin mir nicht sicher, ob ich mag, wohin das führt, aber sprecht weiter.~
+@75   = ~We did, indeed.~
+@76   = ~Was habt Ihr?~
+@77   = ~Ich habe Artefakte von Balduran.~
+@78   = ~Baldurans Artefakte für die Händlerliga
+
+Ich habe Aldeth Sashenstar berichtet, was mit Mendas los war.~
+@79   = ~Baldurans Artefakte für die Händlerliga
+
+Aldeth Sashenstar bat mich mich noch, auf der Insel das Schiffswrack zu untersuchen und ihm das Logbuch Baldurans zu bringen – und wenn möglich weitere Gegenstände aus Baldurans Besitztümern, sollte ich welche finden. Er ist in der Händlerliga im Südwesten von Baldurs Tor.~
+@80   = ~Baldurans Artefakte für die Händlerliga
+
+Aldeth Sashenstar ist immer noch an Mendas' wahren Absichten interessiert. Ich sollte mit ihm reden, nachdem ich Mendas konfrontiert habe.~
+@81   = ~Baldurans Artefakte für die Händlerliga
+
+Aldeth Sashenstar hat mich ermutigt, Mendas' Vorschlag anzunehmen, damit wir erfahren können, was dessen wahren Absichten sind. Ich sollte Mendas' Bitte nachkommen und Aldeth im Gebäude der Händlerliga im Südwesten von Baldur's Gate Bericht erstatten.~
+
+@84   = ~Baldurans Artefakte für die Händlerliga
+
+Mendas will die Artefakte aus dem Schiffswrack für die Wissenschaft, während er behauptet, dass die Händlerliga nur von ihnen profitieren will. Vielleicht sollte ich mir selbst anhören, was die Händlerliga von der ganzen Sache hält? Ich bin sicher, dass ich mit Aldeth zu einer Einigung kommen kann, die uns beide zufrieden stellen wird.~
+@85   = ~Baldurans Artefakte für die Händlerliga~
+@86   = ~Baldurans Artefakte für die Händlerliga
+
+Ich habe Aldeth gesagt, dass ich keine weiteren Artefakte für ihn habe.~
+@87   = ~Baldurans Artefakte für die Händlerliga
+
+Ich habe Aldeth alle Gegenstände von Balduran verkauft, die ich beim Schiffswrack gefunden hatte.~
+@88   = ~Baldurans Artefakte für die Händlerliga
+
+Ich habe Aldeth das Logbuch von Balduran verkauft.~
+@89   = ~Baldurans Artefakte für die Händlerliga
+
+Ich habe Aldeth das Buttermesser von Balduran verkauft.~
+@90   = ~Baldurans Artefakte für die Händlerliga
+
+Ich habe Aldeth das goldene Schwert von Balduran verkauft.~

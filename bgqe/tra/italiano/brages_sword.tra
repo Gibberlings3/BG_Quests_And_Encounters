@@ -36,14 +36,14 @@
 @34   = ~Brage. Questa spada è tua, l'hai pagata. Prendila!~
 @35   = ~Brage. La spada è tua e voglio che tu la riprenda.~
 @36   = ~Cosa-? No. No, non prenderò mai più una spada tra le mani. Tienila pure tu,  <CHARNAME>. Ti sarà molto più utile che a me.~
-@37   = ~Non farmi vergognare, <CHARNAME>. Sicuramente capisci perché non posso più impugnare di nuovo una spada?! Vendila, se non ne hai bisogno. Io non la toccherò.~
+@37   = ~Perché mi tormenti, <CHARNAME>? Sicuramente capirai che non posso impugnare di nuovo una spada! Vendila se non ti serve, ma io non la toccherò.~
 @38   = ~Ma... perché? Perché insisti su questo? Non è chiaro che non vorrò mai più impugnare una spada?~
 @39   = ~Hai detto che volevi guadagnare più oro possibile per pagare le vedove e gli orfani. Beh, combattere e proteggere le persone è tutto ciò che hai imparato, Brage. Immagino che pulire il tempio sia un compito molto importante, ma non credi che potresti raccogliere più oro lavorando come mercenario? O come guardia personale, se ti va meglio.~
 @40   = ~Bene, allora vendila, se non vuoi tenerla. Tuttavia, è tua.~
 @41   = ~Beh... Ci sono ancora molti banditi là fuori, vero? Potrei... Potrei proteggere i deboli sulla strada...~
 @42   = ~No, non la venderò. Non trarrò profitto da quella spada. La metto nelle tue mani, <CHARNAME>, perché lì sarà più utile.~
 @43   = ~Bene, se questo è il tuo ultimo desiderio, allora ti ringrazio.~
-/* non modificare la riga 44, deve essere uguale al Brage Redemption Mod */
+/* non modificare la riga 44, deve essere la stessa di bgqe */
 @44   = ~È un pensiero intrigante, ma non ho la fiducia in me stesso e la confidenza per farlo in questo momento. Io... prenderò la spada. Helm dammi la forza! So che le tue parole sono vere, ma io sono... non sono pronto per affrontarlo in questo momento. Resterò qui e farò tutto ciò che posso... per ora.~
 @45   = ~Ti ringrazio, <CHARNAME>.~
 @46   = ~Quindi hai portato Brage vivo. Non m'importa delle lacrime che gli altri versano per questo "Comandante". Tutto questo parlare dell'onore e della rettitudine di Brage e dei sospetti che sia stato plagiato da qualche magia oscura!~
@@ -59,7 +59,7 @@
 @56   = ~Per favore, portamela. Abbiamo tutti bisogno di sapere la verità.~
 @57   = ~Questa sarebbe la lama?~
 @58   = ~Oh, quanto sono maldestro! No non lo è. Questa qui è la spada. *Mostra la spada giusta.*~
-		~Oh, quanto sono maldestra! No non lo è. Questa qui è la spada. *Mostra la spada giusta.*~
+	~Oh, quanto sono maldestra! No non lo è. Questa qui è la spada. *Mostra la spada giusta.*~
 @59   = ~*Mostra ancora un'altra spada.* Assolutamente. Questa è la spada che Brage brandiva, e voglio che il tuo giudizio sia basato su questo.~
 @60   = ~Perché non rimandiamo tutto questo a un'altra volta? Addio.~
 @61   = ~Tu... razza di avvoltoio! È oro quello che vuoi? Stiamo parlando di prevenire la morte di un uomo d'onore e stai cercando di ricavarne qualcosa? Beh, immagino che ci siano persone che lavorano solo per l'oro. Ottimo. Raccogli le prove che Brage è innocente e ti pagherò altre 400 monete d'oro. 200 ora, 200 quando la sua innocenza sarà provata. Che ne dici?~
@@ -166,7 +166,9 @@
 @150  = ~Ho unito le forze con te per fermare i banditi, non per comportarmi come tale. Questa non è la spada usata da Brage.~
 @151  = ~Ascolta, non mi importa il motivo, non ti farò vedere la spada di Brage. Smettila di chiedermelo.~
 @152  = ~Capisco. È un peccato, ma accetteremo la tua decisione.~
- 
+@153   = ~<CHARNAME>, sei tornato con Brage e lo hai consegnato alle autorità  della città . L'intero tragico avvenimento urla il coinvolgimento di magia malvagia. Per favore, sii gentile e chiedi a Oublek di questo. Sarebbe un peccato definire un assassino quest'uomo onesto senza ulteriori indagini su ciò che sia realmente accaduto.~
+		~<CHARNAME>, sei tornata con Brage e lo hai consegnato alle autorità  della città . L'intero tragico avvenimento urla il coinvolgimento di magia malvagia. Per favore, sii gentile e chiedi a Oublek di questo. Sarebbe un peccato definire un assassino quest'uomo onesto senza ulteriori indagini su ciò che sia realmente accaduto.~
+@154    = ~<CHARNAME>, grazie a te, Brage è ora in salvo all'interno del tempio. Tuttavia, l'intero tragico avvenimento urla il coinvolgimento di magia malvagia. Per favore, sii gentile e chiedi a Oublek di questo. Sarebbe un peccato definire un assassino quest'uomo onesto senza ulteriori indagini su ciò che sia realmente accaduto.~
  
  
 // ------------------
@@ -232,9 +234,17 @@ Le autorità di Nashkel credono che Brage sia l'assassino che sembra essere. Beh,
 @1019 = ~La Colpa del Capitano Brage
  
 Brage è un uomo libero! Le autorità di Nashkel hanno accettato le prove che ho scoperto che hanno dimostrato come l'intero incidente con la spada maledetta di Brage fosse un intrigo. L'ex Comandante ora è un uomo libero, ma considerando quello che è successo, dubito che sarà mai più felice. Nalin gli ha offerto un posto dove stare, quindi se voglio rivedere Brage immagino che il tempio di Nashkel sia dove potrei trovarlo.~
-@1020 = ~La Colpa del capitano Brage
- 
-Brage è stato impiccato! Penso di aver fatto piuttosto bene. È sempre bello vedere la "giustizia" prendere il suo spazio. E soprattutto, quello sciocco di Brage me ne è stato grato! Dovrei stare attento, o la sensazione di calore nella mia pancia finirà per farmi venire il singhiozzo.~
-/* non modificare la riga 44, deve essere uguale al Brage Redemption Mod */
+@1020 = ~Colpa del capitano Brage
+
+Brage è stato impiccato! Penso di averlo fatto piuttosto bene. È sempre bello vedere la "giustizia" prendere il suo spazio. E soprattutto, quello sciocco di Brage me ne è stato grato! Dovrei stare attento, o la sensazione di calore nella mia pancia finirà per farmi venire il singhiozzo.~
 @1021 = ~La Colpa del Capitano Brage~
+@1022 = ~La Colpa del Capitano Brage
+
+Nalin pensa che si debba indagare sull'incidente di Brage per provare la sua innocenza. Mi ha suggerito di chiedere a Oublek cosa stanno progettando di fare le autorità  della città  al riguardo.~
+@1023 = ~La Colpa del Capitano Brage
+
+Ho affrontato un mercante di oggetti maledetti e ho trovato una lettera con indizi riguardanti una cospirazione per cambiare la spada del comandante di Nashkel, insieme a una spada a due mani che sembra essere quella che il comandante avrebbe dovuto ricevere in origine. Questi due oggetti sembrano essere elementi di prova importanti relativi ai crimini del comandante. Dovrei conservarli con cura finchà© non avrò capito come potranno essere utili in tutta questa faccenda.~ 
+@1024 = ~La Colpa del Capitano Brage
+
+Ho affrontato un mercante di oggetti maledetti e ho trovato una lettera con indizi su una cospirazione per cambiare la spada di Brage, insieme a una spada a due mani che sembra essere quella che il comandante avrebbe dovuto ricevere in origine. Questi due oggetti sembrano essere elementi di prova importanti relativi ai crimini del comandante.~ 
 

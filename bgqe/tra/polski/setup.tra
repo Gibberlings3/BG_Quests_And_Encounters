@@ -26,3 +26,6 @@
 @5008 = ~Mod bgqe nie jest kompatybilny z ta gra.~
 @5009 = ~Instalacja questu "Ukonczenie zadania Cordyra bez zabijania Sil"~
 @5010   = ~Ten mod powinien byc zainstalowany przed EET_End podczas instalacji EET.~
+
+/* new for v30 */
+@5011   = ~Improved Borda~
