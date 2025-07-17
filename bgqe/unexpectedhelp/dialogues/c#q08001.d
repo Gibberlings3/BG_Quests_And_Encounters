@@ -1,8 +1,11 @@
 A_T_T %tutu_var%POGHM4 3 ~Global("C#Q08_TalkedToTrun","GLOBAL",5)~
 
 EXTEND_BOTTOM %tutu_var%POGHM4 3
-+ ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5)~ + @0 DO ~SetGlobal("C#Q08_HeardAboutTrun","GLOBAL",1)~ + trun_01
-+ ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5)~ + @1 + trun_02
++ ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5)
+Global("C#Q08_HeardAboutTrun","GLOBAL",0)~ + @0 DO ~SetGlobal("C#Q08_HeardAboutTrun","GLOBAL",1)~ + trun_01
++ ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5)
+Global("C#Q08_HeardAboutTrun","GLOBAL",0)~ + @1 + trun_02
+IF ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5) GlobalGT("C#Q08_HeardAboutTrun","GLOBAL",0)~ THEN + trun_02
 END
 
 APPEND %tutu_var%POGHM4 
@@ -23,7 +26,7 @@ A_T_T %tutu_var%FULLER2 4 ~Global("C#Q08_TalkedToTrun","GLOBAL",5)~
 EXTEND_BOTTOM %tutu_var%FULLER2 4
 + ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5) Global("C#Q08_HeardAboutTrun","GLOBAL",0)~ + @0 DO ~SetGlobal("C#Q08_HeardAboutTrun","GLOBAL",1)~ + trun_01
 + ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5) Global("C#Q08_HeardAboutTrun","GLOBAL",0)~ + @1 + trun_02
-IF ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5) Global("C#Q08_HeardAboutTrun","GLOBAL",1)~ THEN + trun_02
+IF ~GlobalLT("C#Q08_TalkedToTrun","GLOBAL",5) GlobalGT("C#Q08_HeardAboutTrun","GLOBAL",0)~ THEN + trun_02
 END
 
 APPEND %tutu_var%FULLER2 
