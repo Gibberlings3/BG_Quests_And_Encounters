@@ -1,0 +1,232 @@
+@0 = ~Nashkell ist vielleicht eine Garnison ohne Hauptmann, aber das heißt nicht, dass wir die Stadt nicht verteidigen können!~
+@1 = ~Wahnsinn, das war beeindruckend. Wir WUSSTEN, dass unser Hauptmann nicht seinen Verstand verloren hat. Der Arme hat einen schweren Weg vor sich. Ich würde nicht weiterleben wollen mit dem Wissen, meine Familie erschlagen zu haben! Auf alle Fälle danke dafür, dass Ihr die Beweise für seine Unschuld gesammelt habt. Unser Hauptmann wird nicht als verrückter Mörder in der Erinnerung bleiben.~
+@2 = ~Mannomann, hätte nie gedacht, dass Brage wirklich einfach nur durchgedreht ist. Er wird wohl als verrückter Mörder in Erinnerung bleiben.~
+@3 = ~’tschuldigung, dass ich Euch da drin so angefahren habe. Es ist nur wegen unserem Hauptmann Brage. Hätten wir ihn bloß nicht alleine auf diese Mission gehen lassen … Aber er hatte darauf bestanden, weil es nur eine Leiche am Straßenrand sein sollte. Aber als wir schließlich dorthin kamen, fanden wir nur noch einen zerstörten Handkarren und mittendrin das alte Schwert des Hauptmanns, also dachten wir, dass er in Schwierigkeiten wäre. Und dann kamen wir hierher zurück, und … fanden seine Familie, und … Ihr sagt das nicht unserem Leutnant, dass ich so unwirsch zu Euch war, oder? Nichts für ungut, ja?~
+@4 = ~Man sucht Euch wegen Mordes, Hauptmann Brage. Ich bin hier, um Euch Eurer gerechten Strafe zuzuführen. Folgt mir nach Nashkell und stellt Euch dem Urteil, das auf Euch wartet.~
+@5 = ~Ich stehe vor Euch in meiner Schuld. So viele Leben habe ich beendet … und das ohne zu wissen, warum ich es tat. Ich werde Euch folgen. Ich bin bereit, die gerechte Strafe für die entsetzlichen Verbrechen zu erhalten, die ich begangen habe.~
+@6 = ~Brage, was ist in der Nacht geschehen?~
+@7 = ~Lebt wohl.~
+@8 = ~Wird darüber noch nicht genug gesprochen? Habt Ihr es nicht bereits in der Kaserne und den Tavernen erfahren, hat Oublek Euch nicht bereits berichtet, was ich mit diesen meinen Händen tat? Warum wollt Ihr mich zwingen, Euch zu erzählen, wie ich meine Familie niedermetzelte … Meine geliebte Frau und Töchter. Wie ich meine Kameraden erschlug, als sie zu meiner Rettung kamen? Wie ich eine ganze Reisegruppe ermordete und ihren Pferdewagen zertrümmerte, nachdem sie es gerade so geschafft hatten, die Banditen zu vermeiden? Wie ich sogar … wie ich selbst auf einen bereits toten Mann einschlug, bis nichts mehr von ihm übrig war …~
+@9 = ~Fragt Ihr Euch nicht selbst, was Euch dazu getrieben hat? Habt Ihr nicht auch den Verdacht, dass es mehr war als nur ein Kontrollverlust durch Euch selbst?~
+@10 = ~Äh, ich meinte, BEVOR das alles geschah.~
+@11 = ~Etwas hat Euch wie einen Berserker die Kontrolle verlieren lassen. Erinnert Ihr Euch an irgendetwas davor?~
+@12 = ~Ah, nein, in der Tat, das muss ich nicht noch einmal hören. Ihr seid ein Mörder und habt verdammtes Glück, dass der Tempel Euch Schutz gewährt!~
+@13 = ~Ich glaube, mehr möchte ich nicht hören.~
+@14 = ~Verschwendet nicht mit mir Eure Zeit, Freunde. Keine Sekunde Eurer Aufmerksamkeit bin ich wert, außer um mich zu verfluchen für das, was ich tat.~
+@15 = ~Davor? Davor geschah nichts besonderes. Ein Betrunkener meldete eine Leiche am Straßenrand. Sagte, dass es wie ein Händler aussah, mit vielen seiner Waren bei sich. Ich … ich wollte das selbst untersuchen. Wenn die Waren tatsächlich noch da waren, dann konnten es nicht die Banditen gewesen sein. Und wenn es der Händler war, auf den ich wartete, dann musste ich dafür sorgen, dass zumindest die Waren sichergestellt wurden. Schon vor einer ganzen Weile hatte ich ein neues Schwert bestellt. Aufgrund der Eisenkrise wartete ich bereits länger auf ein gutes Schwert aus dem entfernten Tiefwasser.~
+@16 = ~Und tatsächlich, es war der Händler, den wir erwarteten. Ich durchsuchte seine Waren und fand ein Schwert, das an mich adressiert war. Ich nahm es …~
+@17 = ~Der Rest ist wie verschwommen. Ich erinnere mich an das, was ich tat, aber warum … warum, das weiß ich nicht.~
+@18 = ~Nun, wie wir bereits wissen, war das Schwert verflucht.~
+@19 = ~Nun, irgendwas war mit dem Schwert nicht in Ordnung, soviel können wir bereits sagen.~
+@20 = ~Und sonst erinnert Ihr Euch an nichts? Irgendwas besonderes? Einen Hinweis, was diesem Händler zugestoßen sein könnte?~
+@21 = ~Ihr sagtet, der Händler hätte seine Ware noch bei sich gehabt. Durch was ist er dann gestorben?~
+@22 = ~Ich glaube nicht, dass das irgendwas bringt. Lebt wohl.~
+@23 = ~Freunde, wenn Ihr all das getan hättet und Euch daran erinnern könntet … an die Angst und das Entsetzen in den Augen derer, die Ihr liebt, an ihre Schreie, während Ihr sie erschlagt! Es besteht kein Zweifel, dass ICH es war, der dies getan hat, und ich erinnere mich an alles … klar und deutlich …~
+@24 = ~Verflucht … Es ändert nichts an den schrecklichen Erinnerungen in meinem Kopf, und auch nicht an meinen Taten, von denen sie sprechen.~
+@25 = ~Ja, dass ich dieses Schwert geschwunden habe ist das, was mit ihm nicht in Ordnung war!~
+@26 = ~Durch die ganzen Banditenüberfälle ist eine Leiche am Straßenrand nichts außergewöhnliches, leider. Aber daneben der Handkarren voll mit Waren … das war in der Tat besonders. Zuerst vermutete ich einen Angriff eines wilden Tieres, aber dann sah ich, dass es eine Klinge war, die die tödlichen Verletzungen zugefügt hatte. Der Händler wurde von Räubern getötet, aber sie nahmen die Waren nicht mit.~
+@27 = ~Nun, was nicht heißt, dass es sie noch gibt. Das erste, was ich tat, nachdem ich das verflixte neue Schwert in der Hand hatte, war, alles vor meiner Nase zu zerstören … Dies, meine Freunde, ist alles, was ich Euch sagen kann.~
+@28 = ~Bitte, lasst mich. Ich muss für meine Missetaten sühnen.~
+@29 = ~Verschwendet nicht Eure Zeit hiermit. Der Galgen ist es, was auf mich wartet, und das ist genau der richtige Ort für einen Mörder wie mich.~
+@30 = ~Ich danke Euch, <CHARNAME>, für Euer Vertrauen … in mich. Ich verstehe nun, dass es die gerechtere Strafe ist, mit all dem Blut an meinen Händen weiterleben zu müssen. Ich werde für meine Taten büßen und Rechenschaft ablegen. Viele Familien haben durch mich einen Vater, einen Ernährer … eine geliebte Person verloren, und ich werde allen von ihnen Gold zukommen lassen … Sicher nur kleine Mengen, aber doch so viel, wie ich nur aufbringen kann. Priester Nalin hat mir hier im Tempel einen Platz angeboten, also werde ich erst einmal hier bleiben. Danach werde ich weitersehen.~
+@31 = ~Ich bin dankbar für die Möglichkeit, zu arbeiten und alles zu geben, um meine Taten zu sühnen. Die Götter seien gepriesen für die Gnade, die mir zuteilwurde. Und ich danke Euch, <CHARNAME>. Möge Euer Weg von Frieden begleitet sein.~
+@32 = ~Ich werde alles geben und nicht ruhen, und niemals werde ich vergessen, dass Ihr Euch so für mich eingesetzt und mir diese Chance ermöglicht habt.~
+@33 = ~Brage, ich habe das Schwert gefunden, das eigentlich Ihr hättet erhalten sollten. Es ist ein sehr edler Zweihänder. Hier, es ist Euer.~
+@34 = ~Brage. Dieses Schwert gehört Euch. Ihr habt dafür bezahlt. Nehmt es!~
+@35 = ~Brage. Das Schwert gehört Euch, und ich möchte, dass Ihr es nehmt.~
+@36 = ~Wa… Nein. Nein, niemals werde ich wieder ein Schwert in die Hand nehmen. Behaltet Ihr es, gut<PRO_MANWOMAN>. In Euren Händen wird es sehr viel bessere Dienste leisten.~
+@37 = ~Warum quält Ihr mich so, <CHARNAME>? Sicher seht Ihr selbst ein, dass ich nie wieder ein Schwert führen sollte?! Verkauft es, wenn Ihr es nicht braucht. Ich werde es nicht anfassen.~
+@38 = ~Aber … Warum? Warum besteht Ihr darauf? Ist es nicht mehr als augenscheinlich, dass ich nie wieder ein Schwert führen sollte?~
+@39 = ~Ihr wolltet doch so viel Gold wie möglich verdienen, um die Witwen und Waisen zu unterstützen. Nun, zu kämpfen und Leute zu beschützen ist das, was Ihr gelernt habt, Brage. Den Tempel hier sauber zu halten, ist bestimmt eine wichtige Aufgabe, aber glaubt Ihr nicht, dass Ihr mehr Gold verdienen könntet, wenn Ihr als Söldner arbeitet? Oder als Leibwächter, wenn Euch das mehr zusagt?~
+@40 = ~Verkauft es selbst, wenn Ihr es nicht behalten möchtet. Es ist trotzdem Euer Schwert.~
+@41 = ~Nun … Es gibt noch immer viele Banditen da draußen, nicht wahr? Ich könnte … ich könnte die Reisenden auf den Straßen beschützen …~
+@42 = ~Nein, ich werde es nicht verkaufen. Ich werde von keinem Schwert profitieren. Ich gebe es Euch, <CHARNAME>, weil es bei Euch bessere Dienste verrichten wird.~
+@43 = ~Nun gut, wenn das Euer letztes Wort ist, dann behalte ich es.~
+/* Zeile 44 nicht verändern, muss wortgleich mit der in Brage's Redemption sein */
+@44 = ~Was für ein wunderbarer Gedanke, er elektrisiert mich geradezu … aber ich traue es mir nicht zu, meinen Mitmenschen so zu dienen – noch nicht. Ich werde … ich werde das Schwert an mich nehmen. Helm stehe mir bei! Ich weiß, dass Ihr wahre Worte sprecht, aber ich bin noch nicht bereit sie umzusetzen. Ich werde hier bleiben und so viel tun, wie ich kann … fürs Erste.~
+@45 = ~Ich danke Euch, <CHARNAME>.~
+@46 = ~Ihr habt also Brage eingefangen, und das lebendig. Ich gebe nichts auf das ganze Gerede davon, dass bei seiner Ehre und Rechtschaffenheit ein fauler Zauber für sein Verhalten verantwortlich sein muss. All die Tränen, die in der Stadt für diesen Mörder vergossen werden!~
+@47 = ~Seine Strafe wird eine schnelle und gerechte sein, wenn man bedenkt, dass alles auf seine Schuld hindeutet. Fast schade, dass seine Verurteilung noch auf sich warten lassen muss, so beschäftigt, wie momentan alle sind. Nun, eigentlich auch nicht schlecht. So kann er sich noch etwas auf seinen letzten Tag „vorbereiten“!~
+@48 = ~Ah, aber warum habt Ihr ihm ermöglicht, sich im Tempel zu verstecken?~
+@49 = ~Priester Nalin hat bereits bestätigt, dass er unter keinem Zauber stand, als Ihr ihn brachtet. Brage sagte, er hätte Euch sein Schwert gegeben. Ich habe einen Auftrag für Euch: Bringt das Schwert in den Tempel und lasst Nalin bestätigen, dass es nichts ungewöhnliches mit dem Schwert auf sich hat. Auf dass dieses Gerede, dass er in Wirklichkeit doch unschuldig sein muss, endlich ein Ende hat! Ich meine, was muss ein Mann NOCH machen, um zu zeigen, dass er ein gewissenloser Mörder ist – neben dem Meucheln seiner Familie und Kameraden?!~
+@50 = ~Ah, <CHARNAME>. Eure Bestrebungen, Brages Unschuld zu beweisen, sind mir bereits zu Ohren gekommen. Ich werde Euch auf jede erdenkliche Art unterstützen, wenn es in meiner Macht steht. Lasst mich das Schwert sehen.~
+@51 = ~(Den richtigen Zweihänder zeigen.) Hier ist es.~
+@52 = ~Ich habe es nicht bei mir.~
+@53 = ~Also … ich habe zwar das entsprechende Schwert bei mir, und bin mir auch sehr sicher, dass damit was nicht in Ordnung ist, aber warum würde ich es Euch zeigen? Was springt für mich dabei raus?~
+@54 = ~(Einen anderen Zweihänder zeigen.) Hier ist es.~
+@55 = ~Nicht jetzt, zuerst benötige ich Eure Dienste.~
+@56 = ~Bitte, bringt es zu mir. Wir alle müssen die Wahrheit erfahren.~
+@57 = ~Dies ist das Schwert?~
+@58 = ~Oh, wie ungeschickt von mir. Da habe ich doch tatsächlich das falsche Schwert gezeigt. (Den richtigen Zweihänder zeigen.) Hier ist das richtige.~
+@59 = ~(Weiterhin einen anderen Zweihänder zeigen.) Ab-so-lut. Dies ist der Zweihänder, den Ihr untersuchen müsst, um Brages Schuld zu identifizieren.~
+@60 = ~Warum verschieben wir das nicht auf ein andermal? Lebt wohl.~
+@61 = ~Ihr … Ihr raffgierige Person! Gold wollt Ihr also? Wir sprechen über das Abwenden des Todes durch den Strick eines ehrwürdigen Mannes und Ihr versucht noch, Gewinn daraus zu ziehen? Nun, vermutlich gibt es Leute, die nur für Gold einen Finger krumm machen. Sammelt die Beweise für Brages Unschuld, und ich werde Euch weitere 400 Goldstücke zahlen. 200 jetzt, 200 dann, wenn seine Unschuld bewiesen wurde. Einverstanden?~
+@62 = ~(Den richtigen Zweihänder zeigen.) Erhöht die Summe und wir sind im Geschäft.~
+@63 = ~(Den richtigen Zweihänder zeigen.) Klingt gut.~
+@64 = ~Ich werds mir überlegen.~
+@65 = ~Hmpf. 500 Gold dann also!~
+@66 = ~Ah, <CHARNAME>. Ihr habt Brages Unschuld bewiesen, und wir hatten uns auf eine Belohnung geeinigt. Es ist die Pflicht der Anhänger Helms, ihre Vereinbarungen einzuhalten.~
+@67 = ~Hier sind also die 200 Goldmünzen, die noch ausstanden. Möge Helm Euch leiten.~
+@68 = ~Hier sind also die 250 Goldmünzen, die noch ausstanden. Möge Helm Euch leiten.~
+@69 = ~… Es liegt ein Fluch darauf.~
+@70 = ~Ein verfluchtes Schwert, Brage. Das ist es, was in Eure vertrauensvollen Hände gelegt wurde.~
+@71 = ~Ver… verflucht? Also soll es ein anderes Übel gewesen sein, dass meine Gedanken und Hände zum Töten verleitete? Ach, weckt nicht so eine schwache Hoffnung im Herzen eines gefallenen Kriegers. Nicht, wenn an meinen Händen so viel Blut klebt.~
+@72 = ~„Schwach“?!~
+@73 = ~Dies, mein Freund, ändert ALLES. Nicht Eure langen Jahre des tumben Kämpfens waren es, die Euch brutal und abgestumpft gegenüber dem Leid und dem Schmerz anderer haben werden lassen. Ihr werdet für Eure Taten büßen müssen, aber nicht für den Grund, warum Ihr es tatet! Nicht, wenn es <CHARNAME> gelingt, diesen faulen Zauber zu beweisen!~
+@74 = ~Ein verfluchtes Schwert wurde in Brages vertrauensvolle Hände gelegt. Dies, meine Freunde, ändert alles. Nicht die langen Jahre des tumben Kämpfens waren es, die ihn brutal und abgestumpft gegenüber dem Leid und dem Schmerz anderer haben werden lassen. Brage wird für seine Taten büßen müssen, aber nicht für den Grund, warum er es tat! Nicht, wenn es Euch gelingt, diesen faulen Zauber zu beweisen, <CHARNAME>!~
+@75 = ~Nun … Ich muss Euch hierzu glauben. Brage erinnert sich nicht, wie das Schwert aussah, und er gab es Euch, also …~
+@76 = ~(seufz) Nein, an dem Schwert ist nichts besonderes. Es ist ein normaler Zweihänder …~
+@77 = ~Ihr müsst es Euch eingestehen, Priester. Ihr gebt einem Mörder Unterschlupf in Eurem Tempel. Wenn ich nur wüsste, warum ich es tat …~
+@78 = ~Ihr habt hier einen Platz im Tempel, Brage, und das ist richtig so. Ihr werdet für Eure Taten büßen. Helm wird Euch die Kraft dafür geben.~
+@79 = ~Es gibt nichts weiter zu sagen. Es ist ein normales Schwert, und Brage ist schuldig der Taten, die ihm zur Last gelegt werden. Ich werde so aussagen, wenn sein Urteil gesprochen wird.~
+@80 = ~Ich grüße Euch. Wir sind uns bereits begegnet. Ich bin Laryssa, Brages Cousine. Ihr habt es geschafft, ihn lebendig nach Nashkell zu bringen – dafür bin ich Euch sehr dankbar. Ich bin abgehauen, als wir uns letztes Mal trafen. Ich hatte erwartet, dass Ihr entweder meinen Cousin oder er Euch töten würde, und an beidem wollte ich keinen Anteil haben.~
+@81 = ~Ich … verstehe, warum Ihr ihn ausgeliefert habt.~
+@82 = ~Ich … danke Euch von Herzen, dass Ihr ihn im Tempel habt Schutz suchen lassen.~
+@83 = ~Er hat all die Taten begangen, die ihm vorgeworfen werden, und hätte dafür sicher den Galgen verdient. Aber er war nicht bei Verstand, das kann ich Euch mit Sicherheit sagen. Wenn es irgendetwas gibt, dass ich sicher weiß, dann, dass er ein treuer, ein gütiger, ein guter Mann ist. Er hätte niemals seine Waffe gegen Schwache oder Unschuldige erhoben. Und vor allem nicht gegen seine Familie!~
+@84 = ~Es gibt wohl keine Möglichkeit, ihn offiziell von dieser Schuld loszusprechen. Ich danke Euch trotzdem für die Mühe, die Ihr Euch gemacht habt, und für die zweite Chance, die er Euretwegen hat. Der Segen der Götter sei mit Euch.~
+@85 = ~Es gibt wohl keine Möglichkeit, ihn offiziell von dieser Schuld loszusprechen. Ich danke Euch trotzdem für die Mühe, die Ihr Euch gemacht habt. Der Segen der Götter sei mit Euch.~
+@86 = ~Ich verfolge Eure Nachforschungen mit großem Interesse, <CHARNAME>. Es gibt mir Hoffnung dass es doch noch eine Chance für meinen Cousin geben könnte. Der Segen der Götter möge Euch begleiten!~
+@87 = ~Womit ich bei dem wäre, was mich hierherführt. Ich habe gehört, dass Ihr Interesse zeigt, Brages Unschuld zu beweisen. Wie Ihr Euch sicher vorstellen könnt, liegt das auch sehr in meinem Interesse. Ich habe einige Nachforschungen angestellt und habe den Betrunkenen gefunden, der die Leiche am Straßenrand gemeldet hatte. Durch ihn konnte ich weitere Reisende identifizieren, die an diesem Abend auf der Straße unterwegs waren. Einer davon war wohl ein Händler – ein sehr zwielichtiger Geselle.~
+@88 = ~Wir haben diesen Brief bei einem falschen Händler gefunden, aus dem eindeutig hervorgeht, dass Brages neues Schwert mit einem verfluchten vertauscht wurde!~
+@89 = ~Wir haben diesen Brief bei den Banditen in den Minen gefunden. Daraus geht hervor, dass es geplant war, die Garnison in Nashkell zu schwächen, indem irgendein fauler Trick mit Brages neuem Schwert gespielt wird.~
+@90 = ~Wegen Brage …~
+@91 = ~Ja, was ist mit ihm?~
+@92 = ~Brage ist im Gefängnis, wie Ihr wisst. Ich untersuche die Vorkommnisse und würde ihm gerne ein paar Fragen stellen. Kann ich mit ihm sprechen?~
+@93 = ~Priester Nalin bestätigt die Gerüchte, dass das Schwert verflucht war.~
+@94 = ~Nichts, lebt wohl.~
+@95 = ~Nun, die Garnison war geschwächt, das ist wahr. Und ja, irgendwie hat Brages Schwert da auch einen Einfluss gespielt – wegen der Art, wie er es „nutzte“. Aber das beweist nicht, dass Brage nicht der Mörder ist, der er zu sein scheint, falls das Eure Absicht war.~
+@96 = ~Hm, also war das Schwert, das Brage für seine Greueltaten verwendete, TATSÄCHLICH verflucht, wie es scheint.~
+@97 = ~Trotzdem beweist dies nicht, dass der „Hauptmann“ das Schwert nicht mit Absicht genommen hat – um Greueltaten auszuführen, die er vielleicht geplant hatte!~
+@98 = ~Hm, ja, dies beweist, dass es GEPLANT war, Brages neues Schwert mit einem verfluchten zu ersetzen.~
+@99 = ~Es beweist aber nicht, dass es ein verfluchtes Schwert WAR, das Brage schwang, als er Unschuldige erschlug!~
+@100 = ~Also gibt es nun Beweise dafür, dass Brages Schwert verflucht war UND es ihm ohne sein Wissen untergeschoben wurde. Ich werde unseren Bürgermeister Ghastkill darüber informieren, obwohl mir ganz anders wird bei dem Gedanken, dass solch ein Mörder am Ende vielleicht noch unbestraft davon kommen soll! Nun gut. Kann gut sein, dass Ihr bei Eurem nächsten Besuch in Nashkell Brages Urteilsverkündung beiwohnen könnt.~
+@101 = ~Oh, ein verfluchtes Schwert war es also? Ja, ein Schwert, mit dem solche Taten verübt werden, kann man getrost als „verflucht“ bezeichnen. Zu schade, dass wir weder Brage noch das Schwert dahaben, um Gewissheit zu erhalten, nicht wahr?~
+@102 = ~Hmpf. Eigentlich gibt es keinen Grund, der dagegen spricht. Aber ich warne Euch, macht hier keine Dummheiten. Und überlegt Euch gut, was Ihr ihn fragen wollt, denn eine zweite Möglichkeit zur Befragung werdet Ihr nicht erhalten.~
+@103 = ~Was …~
+@104 = ~<CHARNAME> möchte Euch ein paar Fragen stellen, Brage. Erzählt also, was geschehen ist.~
+@105 = ~Ah, <CHARNAME>. Bürgermeister Ghastkill ist nun bereit, über Brage Gericht zu sprechen.~
+@106 = ~Aufgrund der guten Aussichten hat Nalin sich einverstanden erklärt, und der Feigling Brage hat sich tatsächlich aus dem Tempel gewagt.~
+@107 = ~Da Ihr derjenige wart, der die Beweise gesammelt hat, dürft Ihr der Versammlung beiwohnen. Folgt mir!~ ~Da Ihr diejenige wart, die die Beweise gesammelt hat, dürft Ihr der Versammlung beiwohnen. Folgt mir!~
+@108 = ~Ah, <CHARNAME>. Ich danke Euch, dass Ihr endlich mit diesen Gerüchten aufgeräumt habt. „Ein verfluchtes Schwert“, wurde gemunkelt. „Irgendwas stimmte nicht“, haben sie gesagt. Nö, Brage ist schlicht und ergreifend ein Mörder, und die Stadt wird das nicht vergessen. Der Feigling soll sich mal schön weiter im Tempel verstecken. Aber wir sind für ihn bereit, wenn er da jemals raus kommt, davon könnt Ihr ausgehen.~
+@109 = ~Hauptmann Brage, die gegen Euch erhobenen Anschuldigungen sind sehr ernst. Ihr seid beschuldigt, Eure Familie erschlagen zu haben, fünf Eurer Soldaten und Reisende einer Karawane. Was habt Ihr zu Eurer Verteidigung zu sagen?~
+@110 = ~In jeder Hinsicht schuldig.~
+@111 = ~Nun, <CHARNAME> hat Beweise hierzu gesammelt. Oublek, würdet Ihr bitte zusammenfassen?~
+@112 = ~Ja. Wie von Priester Nalin bestätigt, war das Schwert, das der Beschuldigte verwendete, verflucht. Des Weiteren bestätigt dieser Brief, dass ihm das verfluchte Schwert ohne sein Wissen absichtlich zugespielt wurde, um die Garnison in Nashkell zu schwächen.~
+@113 = ~Ich … ich weiß nicht, was ich dazu sagen soll.~
+@114 = ~Dann werde ich es für Euch sagen, Brage. Ihr seid hiermit von dem Vorwurf befreit, die Morde absichtlich und bei vollem Verstand begangen zu haben. Die Todesstrafe durch den Strick ist hiermit hinfällig.~
+@115 = ~Nein … nein, nach allem, was ich getan habe, wie soll ich weiterleben mit dieser Schuld …~
+@116 = ~Die Taten habt Ihr begangen, in der Tat. Mit der mir verliehenen Autorität verurteile ich Euch dazu, Entschädigungen zu zahlen für die Leben, die Ihr nahmt, und den Schaden, den Ihr angerichtet habt. Ihr werdet unehrenvoll aus der Armee entlassen und verliert alle Eure Titel und Bezüge. Ihr könnt als freier Mann dieses Haus verlassen, Brage, doch ich fürchte, dass Ihr ein armer und gebrochener Mann sein werdet. Ihr habt mein Mitgefühl.~
+@117 = ~Ja. Wie von Priester Nalin bestätigt, war das Schwert, das der Beschuldigte verwendete, ein völlig normaler Zweihänder. Kein böser Zauber führte die Hände dieses Mörders!~
+@118 = ~(seufz) Dann ist es jetzt amtlich. Brage, mit der mir verliehenen Autorität verurteile ich Euch zum Tode am Galgen. Es tut mir sehr leid, was geschehen ist.~
+@119 = ~Ich … ich danke Euch. Dies wird die gerechte Strafe sein … Meine arme Familie.~
+@120 = ~Ich bin beeindruckt, mit welcher Hartnäckigkeit Ihr die Beweise für die Unschuld unseres Hauptmanns gesammelt habt. Dafür steht nicht nur er sondern die ganze Stadt in Eurer Schuld. Die Kameraden sind sehr viel ruhiger geworden, nachdem nun klar ist, dass es sich um eine Intrige handelte – wenigstens das. Wir sind trotzdem weiter sehr wachsam, natürlich. Nashkell scheint viele Feinde zu haben.~
+@121 = ~Ich danke Euch, dass Ihr Hauptmann Brage geholfen habt. (seufz) Was für eine traurige Geschichte. Es tut mir wahnsinnig leid um seine Familie und die Kameraden. Die Garnison hat fünf Männer durch diesen faulen Zauber verloren … Nein, sechs natürlich, wenn man Hauptmann Brage dazuzählt.~
+@122 = ~Und eingefädelt wurde es von denselben Banditen, die auch die Minen besetzt hielten?!~
+@123 = ~Eine Intrige, um unsere Garnison zu schwächen! Wer hätte das gedacht.~
+@124 = ~Die Obrigkeit muss von diesen Machenschaften erfahren. Ich würde Euch zu gerne helfen, die Männer zu finden, die hinter diesem Komplott stehen, aber ich kann meinen Posten nicht verlassen. Auch käme es bei den momentanen Spannungen zwischen Amn und Baldurs Tor wohl nicht so gut an, wenn ein amnischer Soldat auf Erkundungstour durch die Schwertküste zieht … Ich kann Euch nur Glück bei Eurem Unterfangen wünschen, den Vorkommnissen weiter auf den Grund zu gehen.~
+@125 = ~Tränke aus fernen Landen, hm? Schaut mal hier, ich suche nach einem Kontaktmann – einem Händler, der „verzweifelt genug“ war, um die Tränke eines Kriminellen und Mörders in sein Sortiment zu nehmen. Widersprecht Ihr mir, dass diese Beschreibung auf Euch passt?~
+@126 = ~Wir suchen einen Händler, der verfluchte Tränke und Gegenstände verkauft. Er wurde zuletzt hier auf dem Jahrmarkt gesehen. Eure Tränke sehen sehr nach seinen aus, also erklärt Euch besser schnell!~
+@127 = ~Ha, das macht mal, und dann werden wir ja sehen, wer von uns abgeführt wird! Schaut mal hier, ich suche nach einem Kontaktmann – einem Händler, der „verzweifelt genug“ war, um die Tränke eines Kriminellen und Mörders in sein Sortiment zu nehmen. Widersprecht Ihr mir, dass diese Beschreibung auf Euch passt?~
+@128 = ~Schaut mal hier, ich suche nach einem Kontaktmann – einem Händler, der „verzweifelt genug“ war, um die Tränke eines Kriminellen und Mörders in sein Sortiment zu nehmen. Widersprecht Ihr mir, dass diese Beschreibung auf Euch passt?~
+@129 = ~Was?! Ihr wagt es … Ah, aber ich bin zu klug, um so gut bewaffnete Leute wie Euch zu provozieren. Ja, ich habe die Tränke von einem fahrenden Händler gekauft, aber das macht MICH doch nicht zu einem Kriminellen! Meine Tränke sind nicht verflucht, nur eben sehr … speziell. Ich kenne diesen Mann nicht weiter, das schwöre ich!~
+@130 = ~Das einzige, was ich Euch über ihn sagen kann, ist, dass er letztes Mal auch bei dem Zelt war, in dem diese bemitleidenswerten Figuren schwarzen Lotus rauchen. Ob er selbst konsumiert hat oder dort nach weiteren Kunden Ausschau hielt, weiß ich nicht.~
+@131 = ~Er ist nun wieder fort. Soweit ich informiert bin, führte sein Weg nach Westen – ich habe meine eigenen Informationsquellen, vor allem für solch delikate Personen wie unbekannte Lieferanten. Meine „Quellen“ verloren seine Spur irgendwo westlich der Stadt.~
+@132 = ~Falls er zurückkehrt, werde ich es Euch sofort sagen, versprochen! Aber bis dahin verlasst bitte mein Zelt!~
+@133 = ~Außer Ihr hättet Interesse an einem meiner Tränke aus fernen Landen, natürlich. Wie ich bereits sagte, macht Euch der violette sehr, sehr stark.~
+@134 = ~Nein danke, lebt wohl.~
+@135 = ~Ich habe ihn aber schon länger nicht mehr gesehen. Ich schwöre, dass meine Tränke nicht verflucht sind! Falls er zurückkehrt, werde ich es Euch sofort sagen, versprochen. Aber bis dahin verlasst bitte mein Zelt!~
+@136 = ~Hm, Ihr seid ein zwielichtiger Händler, treibt Euch hier in den Wäldern herum. Ich suche nach einem Verkäufer verfluchter Waren. Wärt Ihr das etwa?!~
+@137 = ~Ihr! Ihr wart es, der dem Hauptmann Brage der Nashkeller Garnison ein verfluchtes Schwert verkauft hat!~
+@138 = ~Was werft Ihr mir da vor? Nun, scheint so, als wärt Ihr doch kein Kunde. Scheint so, als wärt Ihr ein Lieferant! Na, dann wirds jetzt gleich ein bisschen unschön.~
+@139 = ~Ah, Ihr habt lange genug herumgeschnüffelt und Eure Nase in Angelegenheiten gesteckt, die Euch nichts angehen! Wollt mich aufspüren, indem Ihr meine ganzen Geschäftskontakte absucht, ja?! Herzlichen Glückwunsch, Ihr habt mich gefunden. Leider bin ich nicht komplett hilflos, müsst Ihr wissen!~
+@140 = ~Der Mann, der mir davon berichtete, hatte von ihm Waren gekauft, aber nur, weil er diesen Händler vorher auch auf dem Nashkeller Jahrmarkt gesehen hatte. Aber die Schriftrolle, die er ihm abgekauft hatte, ist verflucht! Und da Brages Schwert auch verflucht ist, finde ich diese Information nun doch sehr interessant. Ich werde versuchen ihn aufzuspüren. Aber es ist gut möglich, dass diese Spur uns nicht weiterbringt, also fahrt Ihr am besten unabhängig davon ebenfalls mit Euren Nachforschungen fort. In Brages Namen danke ich Euch für Eure Mühen!~
+@141 = ~… Hm, ich sehe nichts … Seid Ihr sicher, dass dies das Schwert ist, das Brage geführt hat, als er die ihm zu Last gelegten Taten beging?~
+
+@142 = ~Psst, <CHARNAME>, ich mag diese Spielchen nicht. Du weißt, dass du damit Brages Leben aufs Spiel setzt, ja?~
+@143 = ~Nein, Priester Nalin. Es ist nicht das richtige. <CHARNAME>, mit dem Leben eines Mannes werden wir nicht spielen.~
+@144 = ~Nein, Priester Nalin. Es ist nicht das richtige. <CHARNAME>, spielt nicht so mit dem Leben eines Mannes!~
+@145 = ~Ist dies als schlechter Scherz gedacht? Dies ist nicht das richtige Schwert, Priester Nalin.~
+@146 = ~Minsk ist verwirrt. Das war doch gar nicht das Schwert, dass der Hauptmann <CHARNAME> gegeben hat, oder, Boo?~
+@147 = ~Was? Nein! <CHARNAME>, ich werde es nicht zulassen, dass Ihr ein falsches Schwert zeigt.~
+@148 = ~Ich b-bin mir ziemlich sicher, dass dies nicht das Schwert war, das Brage <CHARNAME> g-gab, Priester Nalin.~
+@149 = ~Das ist kein Spiel, wisst Ihr? Das ist nicht das richtige Schwert.~
+@150 = ~Ich habe mich mit Euch zusammengeschlossen, um Banditen zu jagen, und nicht, um mich selbst wie einer zu verhalten. Dies ist nicht das Schwert, das Brage benutzt hat.~
+@151 = ~Hört mal, aus welchen Gründen auch immer, aber ich werde Euch kein Schwert zeigen. Hört auf, danach zu fragen.~
+@152 = ~Ich verstehe. So sehr ich dies auch bedauere, so werden wir doch Eure Entscheidung akzeptieren.~
+@153 = ~<CHARNAME>, Ihr habt Brage zurück zur Stadt gebracht und ihn den Stadtoberen übergeben. Jedoch, der ganze tragische Vorfall erweckt stark den Eindruck von böser Magie, die darin involviert sein musste. Ich bitte Euch, fragt bei Oublek an, welche weiteren Untersuchungen hierzu geplant sind. Es wäre ein Jammer, diesen aufrichtigen Mann als Mörder zu verurteilen, ohne seine eindeutige Schuld überprüft zu haben.~
+@154 = ~<CHARNAME>, dank Euch ist Brage nun erst einmal im Tempel in Sicherheit. Jedoch, der ganze tragische Vorfall erweckt stark den Eindruck von böser Magie, die darin involviert sein musste. Ich bitte Euch, fragt bei Oublek an, welche weiteren Untersuchungen hierzu geplant sind. Es wäre ein Jammer, diesen aufrichtigen Mann als Mörder zu verurteilen, ohne seine eindeutige Schuld überprüft zu haben.~
+
+
+@1000 = ~Hauptmann Brages Schuld
+
+Leutnant Bardolan hat erwähnt, dass der Hauptmann der Garnison namens Brage verschwunden ist. Die Straßen sind voll von dieser Neuigkeit – schlimme Dinge müssen geschehen sein.~
+@1001 = ~Hauptmann Brages Schuld
+
+Einer der amnischen Soldaten hat mir erzählt, dass der Hauptmann alleine auf eine Mission gegangen ist, bevor er seine Familie erschlagen hat. Das Interessante daran war, dass er seine Morde wohl nicht mit seinem alten Schwert begangen hat.~
+@1002 = ~Hauptmann Brages Schuld
+
+Leider konnte Brage mir nichts sagen, was Licht auf die Frage werfen würde, wer ihm so übel mitspielen würde.~
+@1003 = ~Hauptmann Brages Schuld
+
+Brage erzählte etwas Interessantes über die Nacht, in der er anfing zu morden. Ein Händler war wohl auf der Küstenstraße durch Banditen umgebracht worden, ohne dass seine Waren geklaut wurden. Die Räuber wurden wohl entweder gestört oder das Ganze war eine Falle! Jedenfalls scheint es sich um jemanden zu handeln, der unangenehme Überraschungen für die Garde in Nashkell hinterlässt. Leider konnte Brage mir nichts sagen, was Licht auf die Frage werfen würde, wer ihm so übel mitspielen würde.~
+@1004 = ~Hauptmann Brages Schuld
+
+Ich habe Brage nach Nashkell gebracht, sodass er seine gerechte Strafe empfangen kann. Aber irgendetwas stimmt nicht an der ganzen Sache. Die meisten Leute, die ihn kennen, sind überzeugt davon, dass er niemals solche Taten bei klarem Verstand begangen hätte. Oublek hat mir aufgetragen, Nalin im Tempel einen Blick auf Brages Zweihänder werfen zu lassen, um die Gerüchte über dunkle Magie, die involviert sein solle, zu beenden. Nun, mit Brages Schwert ist definitiv irgendwas nicht in Ordnung. Brage ist nun im Gefängnis und wartet auf seine Verurteilung. Ich habe den Eindruck, dass es in meiner Hand liegt, wie dieses Urteil ausfallen wird – wenn man bedenkt, dass es davon abhängt, dass ich Nalin das richtige Schwert zeige …~
+@1005 = ~Hauptmann Brages Schuld
+
+Es scheint die richtige Entscheidung gewesen zu sein, Brage im Tempel Schutz suchen zu lassen, anstatt ihm dem sicheren Galgen auszuliefern. Irgendetwas stimmt nicht an der ganzen Sache. Die meisten Leute, die ihn kennen, sind überzeugt davon, dass er niemals solche Taten bei klarem Verstand begangen hätte. Oublek hat mir aufgetragen, Nalin im Tempel einen Blick auf Brages Zweihänder werfen zu lassen, um die Gerüchte über dunkle Magie, die involviert sein solle, zu beenden. Nun, mit Brages Schwert ist definitiv irgendwas nicht in Ordnung. Brage ist momentan sicher im Tempel. Ich habe den Eindruck, dass es in meiner Hand liegt, ob er auch in den Augen der Obrigkeit rehabilitiert wird – wenn man bedenkt, dass es davon abhängt, dass ich Nalin das richtige Schwert zeige …~
+@1006 = ~Hauptmann Brages Schuld
+
+Nalin bestätigt, dass das Schwert verflucht ist!~
+@1007 = ~Hauptmann Brages Schuld
+
+Nalin bestätigt, dass Brages Schwert ein normales ist. Nun, dass ich ein falsches Schwert gezeigt habe, könnte der Grund dafür sein … Manchmal muss der „Gerechtigkeit“ eben ein bisschen nachgeholfen werden. Brage wird also sicher gehängt werden.~
+@1008 = ~Hauptmann Brages Schuld
+
+Nalin „bestätigt“, dass Brages Schwert ein normales ist. Nun, dass ich ein falsches Schwert gezeigt habe, könnte der Grund dafür sein … Manchmal muss der „Gerechtigkeit“ eben ein bisschen nachgeholfen werden.~
+@1009 = ~Hauptmann Brages Schuld
+
+Laryssa, Brages Cousine, hat von einem Händler berichtet, der vornehmlich verfluchte Gegenstände verkauft. Er wurde zuletzt auf dem Jahrmarkt gesehen. Ich könnte mich dort mal umsehen und horchen, ob ihn jemand dort gesehen hat. Vielleicht finde ich auch andere Händler, die Kontakt zu ihm hatten? Dass er seine verfluchten Gegenstände hier in der Stadt unter der Nase der Soldaten versucht zu verkaufen, kann ich mir nicht vorstellen, aber dass er sich auf dem Jahrmarkt unter die anderen Händler mischt, sehr wohl.~
+@1010 = ~Hauptmann Brages Schuld
+
+Nalins Bestätigung, dass Brages Schwert verflucht war, reicht Oublek nicht als Beweis für seine Unschuld. Ich brauche einen Beweis, dass Brage das Schwert ohne sein Wissen verwendet hat.~
+@1011 = ~Hauptmann Brages Schuld
+
+Oh, wie praktisch. Der Händler verfluchter Waren hat mir auf dem Jahrmarkt aufgelauert, nachdem er mitbekommen hat, dass ich mich nach ihm erkundige. Ich sollte ihn gründlich durchsuchen. Wenn ich Glück habe, hat er noch irgendetwas bei sich, womit sich Brages Unschuld belegen lässt.~
+@1012 = ~Hauptmann Brages Schuld
+
+Ich habe den Händler verfluchter Waren gefunden, den Laryssa erwähnt hatte. Ich sollte ihn gründlich durchsuchen. Wenn ich Glück habe, hat er noch irgendetwas bei sich, womit sich Brages Unschuld belegen lässt.~
+@1013 = ~Hauptmann Brages Schuld
+
+Die Briefe, die explizit bestätigen, dass Brages Schwert ohne sein Wissen mit einem verfluchten ausgetauscht wurde, reichen Oublek nicht als Beweis für Brages Unschuld aus. Er wies darauf hin, dass Brage die Taten trotzdem mit einem normalen Schwert durchgeführt haben könnte. Ich muss Nalin also Brages Schwert zeigen, wenn ich beweisen will, dass Brage unter dem Einfluss eines bösen Zaubers stand.~
+@1014 = ~Hauptmann Brages Schuld
+
+Ich habe genug Beweise gesammelt, die Brages Unschuld belegen! Wenn ich nächstes mal nach Nashkell komme, kann ich vielleicht der Urteilsverkündung beiwohnen.~
+@1015 = ~Hauptmann Brages Schuld
+
+Die Briefe, die explizit bestätigen, dass Brages Schwert ohne sein Wissen mit einem verfluchten ausgetauscht wurde, reichen Oublek nicht als Beweis für Brages Unschuld aus. Er wies darauf hin, dass Brage die Taten trotzdem mit einem normalen Schwert durchgeführt haben könnte. Ob und was mit Brages Schwert nicht stimmt, werden wir wohl erst wissen, wenn der ehemalige Hauptmann gefunden wurde.~
+@1016 = ~Hauptmann Brages Schuld
+
+Der Händler verfluchter Waren geht gerne in das Zelt auf dem Nashkeller Jahrmarkt, in dem schwarzer Lotus geraucht wird. Zuletzt wurde er westlich von Nashkell gesehen.~
+@1017 = ~Hauptmann Brages Schuld
+
+Der Händler verfluchter Waren geht gerne in das Zelt auf dem Nashkeller Jahrmarkt, in dem schwarzer Lotus geraucht wird.~
+@1018 = ~Hauptmann Brages Schuld
+
+Brage wird als der Mörder angesehen, zu dem seine Taten ihn machen. Nun, dass ich Nalin ein falsches Schwert gezeigt habe, könnte der Grund dafür sein … Manchmal muss der „Gerechtigkeit“ ein bisschen nachgeholfen werden. Dass Brage im Tempel Schutz gefunden hat, kann ich ohne ein Blutbad nicht mehr ändern, aber zumindest wird er in den Augen der Leute ein Mörder bleiben.~
+@1019 = ~Hauptmann Brages Schuld
+
+Brage ist frei! Die Beweise für die Intrige, die zu den traurigen Ereignissen führten, wurden akzeptiert. Der ehemalige Hauptmann kann nun als freier Mann seinen weiteren Lebensweg antreten – allerdings bezweifle ich nach den Vorkommnissen, dass es ein glücklicher für ihn sein wird. Nalin hat ihm im Tempel einen Platz angeboten. Wenn ich Brage noch einmal sehen will, werde ich ihn dort finden.~
+@1020 = ~Hauptmann Brages Schuld
+
+Brage wurde gehängt! Ich finde, das habe ich gut gemacht. Es ist immer wieder erbauend, „Gerechtigkeit“ bei der Arbeit zuzusehen. Und vor allem: Der Narr war mir auch noch dankbar dafür! Ich sollte mich vorsehen, oder das wohlig-warme Gefühl in meinem Bauch wird noch so stark, dass ich Sodbrennen kriege.~
+@1021 = ~Hauptmann Brages Schuld~
+@1022 = ~Hauptmann Brages Schuld
+
+Nalin ist der Meinung, dass der Vorfall um Brages Morde näher untersucht werden müsste, weil er stark vermutet, dass böse Magie im Spiel war. Er bittet mich, Oublek zu fragen, was die Stadtoberen diesbezüglich planen.~
+@1023 = ~Hauptmann Brages Schuld
+
+Ich habe einen Händler verfluchter Waren konfrontiert und bei ihm einen Brief gefunden, der von einem Komplott erzählt, das Schwert des Hauptmanns von Nashkell auszutauschen. Ebenfalls bei sich hatte er einen Zweihänder, der wohl das Schwert ist, welches der Hauptmann eigentlich erhalten sollte. Beide Gegenstände sehen aus, als wären sie sehr wichtig. Ich sollte sie behalten, bis ich weiß, wie ich sie einsetzen kann.~
+@1024 = ~Hauptmann Brages Schuld
+
+Ich habe einen Händler verfluchter Waren konfrontiert und bei ihm einen Brief gefunden, der von einem Komplott erzählt, das Schwert des Hauptmanns von Nashkell auszutauschen. Ebenfalls bei sich hatte er einen Zweihänder, der wohl das Schwert ist, welches der Hauptmann eigentlich erhalten sollte. Beide Gegenstände sehen aus, als wären sie sehr wichtig.~

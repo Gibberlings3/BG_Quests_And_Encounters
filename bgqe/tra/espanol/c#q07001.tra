@@ -1,0 +1,178 @@
+@0    = ~Saludos, viajeros. Estoy de camino a Puerta de Baldur y no busco problemas.~
+@1    = ~Nosotros tampoco buscamos problemas.~
+@2    = ~Viéndoos desde la distancia hubiera jurado que sois un medio-orco, pero vuestra apariencia no es lo que parece.~
+@3    = ~Pero lo soy. ¡Veamos como lucha un piel verde como vos!~
+@4    = ~Perdonad mi locuacidad. Se que no puedo ocultar mi herencia orca, y eso me ha dado en el pasado montones de confrontaciones innecesarias.~
+@5    = ~Bueno, entonces, me marcharé y continuaré mi camino hasta Puerta de Baldur, ¡donde mi amada me espera!~
+@6    = ~*suspiro* Otra vez no.~
+@7    = ~¿Qué queréis decir con eso?~
+@8    = ~¡Callaos y luchad!~
+@9    = ~*suspiro* Ni lo quiero ni lo deseo, pero desearía tanto tomar una bebida.~
+@10   = ~Ey, ¿no os conozco? Nos conocimos en la carretera al norte de Nashkel.~
+@11   = ~¿Qué sucedió?~
+@12   = ~Un medio-orco enamorado...?~
+@13   = ~No tengo tiempo para hablar.~
+@14   = ~Si, continuad y divertíos. Tenéis tanta razón...~
+@15   = ~Claro. Si, os recuerdo. ¿Os dije donde iba, verdad?~
+@16   = ~Estaba tan seguro yendo por el camino. Quizás algo nervioso, quizás debido a mis felices expectaciones. Ahora estoy aquí, sentado en un tronco, en vez de ir con mi amada.~
+@17   = ~¿Por qué?~
+@18   = ~¿Tenéis miedo?~
+@19   = ~¿Es ridículo, verdad? Llevo la herencia de un medio-orco, soy grande y fuerte. Pero no me atrevo a acercarme a mi amada, por que estoy asustado por su reacción.~
+@20   = ~No lo entiendo. ¿Por qué?~
+@21   = ~¿Pero ya la conocéis, verdad?~
+@22   = ~Mi ascendencia es claramente visible, y esto lleva a sentimientos de rechazo y desconfianza por parte de los humanos. Pero, ¿eso no es la respuesta a vuestra pregunta, verdad?~
+@23   = ~Nunca nos hemos conocido antes. Y ese es el problema realmente. Toda nuestra comunicación se ha echo con cartas y regalos que nos hemos ido enviando. Yo... mis antepasados son principalmente humanos, pero por un capricho de la naturaleza, mi ascendencia orca se muestra claramente. Mi prometida sabe lo de mi herencia, ¿pero realmente sabe lo que significa? No temo nada más que el momento en el que los ojos de la compañera con la que me he escrito se vuelvan fríos y desdeñosos al darse cuenta de lo que soy.~
+@24   = ~Si ella ya lo sabe, no debería haber ningún problema.~
+@25   = ~¡Nunca lo sabréis si os quedáis aquí sentado!~
+@26   = ~La única posibilidad que hay es ir allí. Mantener otras formas de comunicación solo retardará el momento de la verdad.~
+@27   = ~Bueno, ahí tenéis razón. Si fuera vos, yo me asustaría.~
+@28   = ~No iré allí. No puedo imaginar un medio-orco y a una mujer de ciudad manteniendo una relación feliz.~
+@29   = ~Vuestras palabras estimulan mis dudas...~
+@30   = ~Es cierto lo que decís. Solo que ya me he encontrado con muchas decepciones...~
+@31   = ~Me quedaré un rato más y pensaré en ello.~
+@32   = ~Ah, sois vos otra vez.~
+@33   = ~Estoy tan asustado, ¡qué pena! ¡Con la de monstruos que he luchado y con lo duro que he trabajado para ganar dinero y pagar el viaje! Y ahora que estoy tan cerca de mi amada, me dejo vencer por mis miedos y no me atrevo a acercarme a ella.~
+@34   = ~Sois muy atractivo, hablando humildemente como vos lo hacéis. ¿Lo sabíais?~
+@35   = ~Os tenéis que armar de valor con vuestros sentimientos para este primer contacto. No os desaniméis si su primera mirada hacia vos no muestra la admiración que os gustaría tener. Tapad vuestros oídos contra cualquier tipo de ofensa que os haga. Todas las cosas llevan su tiempo, esto lo sabéis bien.~
+@36   = ~Considerando la perseverancia que habéis mostrado hasta ahora, ¿no os vais a rendir, verdad?~
+@37   = ~Si sois un cobarde, quizás sea mejor que no vayáis.~
+@38   = ~Quedaos aquí sentado... Seguro que encontrará a otro con el tiempo.~
+@39   = ~Nunca hubiera funcionado. Sed realista y volved a vuestro hogar, donde sea que esté. Seguro que la futura Sra. Medio-Orca os espera en algún lugar.~
+@40   = ~¡No soy un cobarde! Yo...~
+@41   = ~Iré con ella ahora. ¡Me habéis convencido! Mis temores han sido conquistados y estoy ansioso de conocerla. Pero quizás... después de una buena ducha...~
+@42   = ~Gracias, amigos. Adiós.~
+@43   = ~¡No os atreváis a hablar de ella de esta forma! Ni siquiera la conocéis. Es sensible, y dotada con el sentido del humor más grande que jamás he visto. Ella...~
+@44   = ~¡Tonterías! Estoy aquí, por que no hay ninguna "Sra. Medio-Orca". Yo...~
+@45   = ~Si, claro. Hay cosas más importantes que hablar con un medio-orco sobre su miedo interior. Especialmente desde que este medio-orco ya ha pasado mucho tiempo sentado en esta taberna, en vez de hacer lo que ha venido a hacer. Yo...~
+@46   = ~Qué... Eso es muy dulce. Si tuviera tantos cumplidos de un extraño, habrían muchas posibilidades de que mi prometido también pensara eso.~
+@47   = ~Oh si, sé exactamente de lo que estáis hablando. Cuántas veces habré alcanzado mis metas trabajando duro y combatiendo, sin rendirme... Debería saber eso mejor que temer a mis reacciones de consternación. Yo...~
+@48   = ~¡Estoy tan feliz!~
+@49   = ~Perdonadnos, pero no tenemos tiempo de hablar.~
+@50   = ~¿Qué queréis? Estamos preparando una celebración y no tenemos mucho tiempo. Si nos perdonáis...~
+@51   = ~¿Qué queréis?~
+@52   = ~He oído que habéis tenido problemas con los orcos. ¿Necesitáis ayuda?~
+@53   = ~¿Dónde están los monstruos que os asustan? ¡Los machacaremos!~
+@54   = ~Nada. Buenos días.~
+@55   = ~Por los nueve infiernos, ¡¿ésto nunca parará?!~
+//@56   
+@57   = ~Perdonad mi tono, pero la situación me empieza a irritar. Para responder vuestra pregunta: no, no tenemos, ni hemos tenido, problemas con los medio-orcos o otros monstruos atacando la casa, robando a mi hija, o otras cosas similares que hayáis podido oír. Es simplemente que mi yerno, de descendencia orca, está celebrando la boda con mi hija. Ellos ahora están en su luna de miel... afortunadamente.~
+@58   = ~No me malinterpretéis. Aprecio vuestros esfuerzos y vuestro deseo de ayudar. Pero no sé que debería hacer para parar a estos aventureros de irrumpir en mi casa, creyendo que pueden ganarse una bolsa de monedas. ¡No sois el primero que venís aquí!~
+@59   = ~Entonces perdonad mi intrusión. Me iré inmediatamente.~
+@60   = ~¿Estáis hablando de Uguth, verdad? Le conozco. Estaba bastante inseguro de si aquí sería bien recibido.~
+@61   = ~Queridos dioses, me pongo en marcha.~
+@62   = ~¿Eh? Bueno, primero nos sorprendió su apariencia, eso es cierto. Pero realmente es un buen muchacho. Tiene más educación que algunos de los chicos locales, eso seguro. Creo que algún día tendré que pensar en acostumbrarme a que mis nietos tengan la piel verde y la frente crestada...~
+@63   = ~Espero que mi hija sea siempre feliz como ahora.~
+@64   = ~¿Lo habéis oído? Había un orco atacando una casa cerca de la Taberna de la Canción del Elfo, ¡con una chica herida! En medio de la ciudad, ¿os lo podéis imaginar?~
+//@65   
+@66   = ~¿Qué queréis? Por favor, hablad con mi marido.~
+@67   = ~¡Vosotros! Vosotros habéis matado a mi prometida. ¡Ahora os mataré!~
+@68   = ~¡Vosotros! Vosotros habéis matado a los padres de mi prometida. ¡Ahora os mataré!~
+@69   = ~Por favor, dejadnos. Sufrimos una gran pérdida y no queremos hablar de ello.~
+@70   = ~En este mundo no hay justicia.~
+
+// --NPC reactions
+
+//[Imoen]
+@71 = ~Entonces... su propio control era el verdadero problema, ¿por qué no se acercaba a su amada?~
+//[Imoen]
+@72 = ~Hm, tal vez sea demasiado pronto para decirlo. Seguramente fue su *primer* problema a superar.~
+//[Garrick]
+@73 = ~Oh, esto tiene un gran potencial romántico. El semiorco fuerte pero feo, noble de nacimiento y gentil de mente...~
+//[Imoen] (Garrick)
+@74 = ~Sí, esto definitivamente tiene potencial.~
+//[Álora] (Garrick)
+@75 = ~Escucharía una historia así, Garrick.~
+//[Safana] (Garrick)
+@76 = ~Solo si incluye el beso que lo convierte en un príncipe bien guapo.~
+//[Skie] (Garrick)
+@77 = ~Ewww, imaginad su primer beso...~
+//[Skie] (Garrick) (Dorn)
+@78 = ~Eh, sin ánimo de ofender, Dorn.~
+//[Eldoth]
+@79 = ~Este cuento romántico bien podría terminar con el apuesto príncipe persiguiendo al feo monstruo.~
+//[Skie] (Eldoth)
+@80 = ~¡Oh, definitivamente me gusta el beso en *esta* historia!~
+//[Álora]
+@81 = ~Me gustó mucho su actitud.~
+//[Jaheira]
+@82 = ~¿Sus padres tienen apariencia humana? Algunos... accidentes de la naturaleza son difíciles de explicar.~
+//[Imoen] (Jaheira)
+@83 = ~Perturba el equilibrio que cabría esperar, ¿no es así, Jaheira?~
+//[Jaheira] (Imoen)
+@84 = ~Bueno... sí.~
+//[Faldorn]
+@85 = ~No existe el desequilibrio en la naturaleza. Sus ancestros corrieron el riesgo de su aparición cuando mezclaron razas.~
+//[Kivan]
+@86 = ~Este hombre era fuerte, pero pacífico. El mundo sería un lugar mejor, si hubiera más como él.~
+//[Dorn]
+@87 = ~Es una vergüenza que su herencia semiorca se muestre de esa manera.~
+//[Neera] (dorn)
+@88 = ~¿Qué? No hubiera pensado escuchar una declaración así de vos, Dorn.~
+//[Dorn]
+@89 = ~Él es un chiste malo de la naturaleza. Parece un medio orco, pero nunca se mantendría firme si tuviera que luchar como tal. Es una desgracia para mi raza.~
+//[Neera] (Dorn)
+@90 = ~Ah, ahora vuestro comentario empieza a tener sentido... en una forma de pensar muy Dorn.~
+//[Rasaad] (Dorn)
+@91 = ~Dorn, no lo sabéis, ¿verdad?~
+//[Dorn] (Rasaad)
+@92 = ~No tengo que pelear con él para ver que es débil. ¡Sin armas!~
+//[Rasaad] (Dorn)
+@93 = ~No todo el mundo necesita armas para luchar.~
+//[Dorn] (Rasaad)
+@94 = ~La forma en que se movía. No era un guerrero.~
+//[Rasaad] (Dorn)
+@95 = ~La forma en que se movía... De acuerdo, tampoco era un monje. Pero ese no es el tema.~
+//[Rasaad]
+@96 = ~No juzgar por la primera impresión es un ideal que la gente nunca alcanzará. Este hombre tiene una pesada carga que llevar.~
+//[Neera]
+@97 = ~Debe ser difícil ser juzgado por las apariencias.~
+//[Safana]
+@98 = ~*suspiro* Para ser juzgados por nuestra apariencia... ¿No es este un destino que tenemos que compartir todos?~
+//[Neera] (Safana)
+@99 = ~Bueno, hasta cierto punto, tal vez, pero yo no... No importa.~
+//[Imoen]
+@100 = ~Pobre hombre. Espero que encuentre lo que está buscando.~
+//[Xan]
+@101 = ~¡Qué ingenuidad! ¿Este... hombre realmente cree que encontrará el amor y la paz... en *esta* vida?~
+//[Imoen] (Xan)
+@102 = ~Xan, tal vez deberíais coger ejemplo.~
+//[Xan] (Imoen)
+@103 = ~Sinceramente no debería, Imoen. ¡Seguramente no sería de *ningún* uso pasar mi tiempo como soñador!~
+//[Imoen] (Xan)
+@104 = ~Bueno, actualmente sois más como un día de pesadilla... Oh, bueno, olvídalo.~
+//[Xan] (Imoen)
+@105 = ~*suspiro* Olvidáis, joven humano, que la mente de un elfo nunca olvida. Nunca.~
+//[Imoen] (Xan)
+@106 = ~Oh, ¿en serio? Estuve buscando esta melodía recientemente. ¿Sabéis la canción? ¿Podéis decirme la letra? Va así *tararea una melodía.*~
+//[Xan] (Imoen)
+@107 = ~Dioses todopoderosos de Arvanaith... ¡llevádme con vosotros, ahora!~
+//[Imoen] (Xan)
+@108 = ~Er, no, esa no era la letra correcta. ¡Eso ni siquiera rima!~
+//[Xan] (Imoen)
+@109 = ~*suspiro*~
+//[Ajantis]
+@110 = ~Le deseo lo mejor a este buen hombre. La vida no ha sido fácil para él.~
+//[Dynaheir]
+@111 = ~Que su camino sea pacífico.~
+//[Xzar]
+@112 = ~¡Que su camino esté lleno de paz y su vida llena de armonía y bla, bla, bla!~
+//[Montaron] (Xzar)
+@113 = ~Ya lo hicisteis, Xzar, se me humedecen los ojos.~
+//[Kagain]
+@114 = ~¡Tal vez deberíamos seguirlo... y asegurarnos de que reciba el saludo que se merece!~
+//[Dorn] (Kagain)
+@115 = ~¿Y eso sería qué, enano?~
+//[Kagain] (Dorn)
+@116 = ~Oh, vamos, Guardia Negro. No es que no os gustaría probar vuestra arma en esto.~
+//[Safana]
+@117 = ~Qué clase de mujer se promete a tal... criatura. ¿Visteis sus cejas?~
+//[Coran]
+@118 = ~Reconozco el amor verdadero cuando lo veo. Este hombre estaba enamorado, y si la mujer a la que corteja solo siente la mitad de su amor, vivirán felices para siempre.~
+
+//[Imoen]
+@119 = ~¿Soy la única que piensa que habría ido con su prometida sin importar lo que le dijerais, <CHARNAME>?~
+
+
+/* new content v10 */
+
+@120 = ~Veo que somos del mismo linaje, por así decirlo. Pero eso tampoco es garantía de un encuentro amistoso... Sin ánimo de ofender.~

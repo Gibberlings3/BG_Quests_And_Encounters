@@ -1,0 +1,35 @@
+@0    = ~Je n'sais rien d'plus qui puisse vous aider. Mais...~
+@1    = ~J'pourrais aller vous chercher ces cartes maritimes. Pour un bon paquet d'oseille, bien sûr.~
+@2    = ~Combien voulez-vous ?~
+@3    = ~Non, merci. Je ne suis pas intéressé par cette offre.~ ~Non, merci. Je ne suis pas intéressée par cette offre.~
+@4    = ~Ben, j'réfléchis à c'que ça m'coûtera. Hummm... l'voyage... la bouffe... la piaule... (une p'tite sirène...) hummm...~
+@5    = ~Si vous m'donnez 5 000 pièces d'or, j'vous ramène les cartes.~
+@6    = ~C'est beaucoup d'or, Calahan ! Mais je suis prêt à les payer. Tenez, prenez ces 5 000 pièces d'or.~ ~C'est beaucoup d'or, Calahan ! Mais je suis prête à les payer. Tenez, prenez ces 5 000 pièces d'or.~
+@7    = ~C'est beaucoup d'or, Calahan ! Malheureusement, je n'en possède pas autant.~
+@8    = ~QUOI ? Vous êtes tombé de votre berceau lorsque vous étiez enfant, tout le voyage que je prévois ne coûtera qu'une partie de cette somme ! Allez voir ailleurs si j'y suis !~
+@9    = ~J'vous remercie ! Rev'nez dans deux jours et j'reviendrai avec les cartes. Salut à vous.~
+@10   = ~Comme vous v'lez, espèce de grippe-sou d'eau douce ! J'vais j'ter l'ancre un peu, au cas où vous changez d'avis.~
+@11   = ~Ola moussaillon ! Vous avez attendu l'vieux Calahan avec impatience, n'est-ce pas ? Vous s'rez heureux d'apprendre qu'j'ai ces cartes.~ ~Ola moussaillon ! Vous avez attendu l'vieux Calahan avec impatience, n'est-ce pas ? Vous s'rez heureuse d'apprendre qu'j'ai ces cartes.~
+@12   = ~Ça s'est pas passé comme prévu, par contre, l'prix a explosé comme une baleine crevée sous l'soleil. J'n'en suis pas vraiment fier, mais...~
+@13   = ~J'dois vous facturer 3 000 pièces d'or d'plus.~
+@14   = ~Je n'aurais pas dû vous faire confiance depuis le début, espèce de serpent de mer sournois ! Mais il est trop tard maintenant. Prenez l'or, donnez-moi ces cartes et allez-vous-en !~
+@15   = ~Je n'aurais pas dû vous faire confiance depuis le début, espèce de serpent de mer sournois ! Vous m'en demandez trop. Je n'ai pas autant d'or avec moi.~
+@16   = ~Espèce de scélérat ! Vous n'obtiendrez pas une seule pièce d'or de plus ! Que les crabes vous mangent vivant ! Oubliez ces cartes, j'ai d'autres moyens de les obtenir !~
+@17   = ~C'fut un plaisir d'faire affaires avec vous ! Salut à vous.~
+@18   = ~Eh bien, pas d'or, pas d'cartes. C'est comme ça qu'ça s'passe !~
+@19   = ~Je vais y réfléchir.~
+@20   = ~Vous v'lez que l'vieux Calahan vous aide avec les cartes ?~
+@21   = ~Plus de combines, Calahan. J'ai d'autres sources pour obtenir ces cartes.~
+@22   = ~Oh ? Comme vous v'lez. Salut à vous.~
+@23   = ~En effet, c'est une somme très importante, Calahan ! Vous pouvez vous estimer heureux que j'aie vraiment besoin de ces cartes. Voici votre or.~
+@24   = ~En effet, c'est une somme très importante, Calahan ! Vous pouvez vous estimer heureux que j'aie vraiment besoin de ces cartes. Malheureusement, je n'ai pas autant d'or avec moi.~
+@25   = ~Cartes maritimes via Calahan
+
+Calahan, un marin de la Barbe d'Ulgoth a proposé de m'apporter les cartes maritimes dont j'ai besoin pour l'excursion de Mendas. Il sera de retour à la Barbe d'Ulgoth dans deux jours.~
+@26   = ~Cartes maritimes via Calahan
+
+Calahan, à la Barbe d'Ulgoth veut 3 000 pièces d'or supplémentaires pour les cartes maritimes !~
+@27   = ~Cartes maritimes via Calahan~
+@28   = ~Cartes maritimes via Calahan
+
+I received the sea charts from Calahan.~

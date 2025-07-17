@@ -1,0 +1,178 @@
+@0    = ~Seid gegrüßt, Reisende. Ich bin auf dem Weg nach Baldurs Tor und möchte keinen Ärger.~
+@1    = ~Wir auch nicht.~
+@2    = ~Aus der Ferne hatte ich Euch für einen Ork gehalten, aber weder Manieren noch Kleidung passen dazu.~
+@3    = ~Ich aber. Mal sehen, wie gut du Knorpelgesicht kämpfen kannst!~
+@4    = ~Verzeiht meine Geschwätzigkeit. Ich weiss, dass ich meine Orkabstammung nicht verbergen kann, und habe deswegen schon viele feindliche Reaktionen von Fremden erlebt, leider.~
+@5    = ~Nun denn, auf nach Baldurs Tor, meiner Liebsten entgegen!~
+@6    = ~*seufzt* Nicht schon wieder.~
+@7    = ~Was soll das denn jetzt heißen?~
+@8    = ~Halt's Maul und kämpfe!~
+@9    = ~*seufzt* Ich sollte und werde nichts trinken, obwohl mir wahrlich danach wäre.~
+@10   = ~He, kenne ich Euch nicht? Wir hatten uns doch nördlich von Nashkell auf der Straße getroffen.~
+@11   = ~Was ist denn los?~
+@12   = ~Ein Halbork mit Liebeskummer?~
+@13   = ~Ich habe jetzt keine Zeit für ein Gespräch.~
+@14   = ~Macht Euch ruhig lustig, Ihr habt ja Recht...~
+@15   = ~Tatsächlich. Ja, ich erinnere mich auch an Euch. Ich hatte Euch erzählt, wohin ich gehe, nicht wahr?~
+@16   = ~Ich war mir so sicher, auf dem Weg hierher. Nervös vielleicht, aber eher aufgrund der Erwartung und der Vorfreude. Nun bin ich hier, und sitze auf einer Holzbank, anstelle meiner Liebsten die Aufwartung zu machen.~
+@17   = ~Wieso das denn?~
+@18   = ~Ihr traut Euch nicht?~
+@19   = ~Es ist lächerlich, nicht wahr? Ich bin wie ein Halbork, groß und kräftig, und traue mich nicht, meiner menschlichen Angebeteten vor die Augen zu treten, aus Angst vor ihrer Reaktion.~
+@20   = ~Wieso das?~
+@21   = ~Ihr habt Euch aber schonmal gesehen, oder?~
+@22   = ~Dass man meine Abstammung klar und deutlich sieht und dies Abneigung bei vielen Menschen verursacht, war nicht der Inhalt Eurer Frage, oder?~
+@23   = ~Wir haben uns noch nie gesehen... Das ist genau das Problem. Unsere bisherige Kommunikation lief über Briefe und andere Dinge, die wir uns schickten. Ich... ich bin nur zu Bruchteilen Halbork, aber aus einer Laune der Natur heraus sieht man mir dieses Erbe besonders stark an. Sie weiß um meine Abstammung, aber weiß sie wirklich, was es bedeutet? Ich fürchte nichts mehr als diesen Moment, in dem die Augen meines Gegenübers bei meinem Anblick kalt und ablehnend werden.~
+@24   = ~Wenn sie es weiß, gibt es doch kein Problem.~
+@25   = ~Ihr werdet es nie erfahren, wenn Ihr hier sitzen bleibt!~
+@26   = ~Ich sehe keine andere Lösung, als dass Ihr hingeht. Jede andere Form der Verständigung verschiebt nur eben genau diesen Moment der Offenbarung.~
+@27   = ~Nun, da habt Ihr sicherlich Recht. Ich hätte an Eurer Stelle auch große Angst.~
+@28   = ~Ich würde auf keinen Fall hingehen. Ein Halbork und ein Stadtmensch? Das muss schiefgehen.~
+@29   = ~Eure Worte geben Wasser auf die Mühlen meines Zweifels...~
+@30   = ~Das stimmt alles, was Ihr sagt. Ich habe einfach bereits zu viele Enttäuschungen erlebt...~
+@31   = ~Ich werde noch eine Weile hierbleiben und nachdenken.~
+@32   = ~Ah, Ihr seid es wieder.~
+@33   = ~Ich bin wie gelähmt vor Angst. Es ist eine Schande! Was für Monster habe ich auf meinem Weg bezwungen, was für harte Arbeit getan, um Geld für die Reise zu verdienen. Und nun sitze ich hier und verliere gegen mich selbst.~
+@34   = ~Ihr seht gar nicht so schlecht aus, wenn Ihr so selbstkritisch redet. Wisst Ihr das?~
+@35   = ~Stählt Euch gegen den ersten Moment, in dem ihre Augen nicht mit Wohlwollen auf Euch fallen könnten. Verschließt die Ohren gegen unfreundliche Kommentare ihrer Verwandten. Alles dauert seine Zeit, dass wisst Ihr doch selbst.~
+@36   = ~Bei der Ausdauer, die Ihr bisher gezeigt habt, werdet Ihr doch nicht jetzt aufgeben!~
+@37   = ~Wenn Ihr so ein Angsthase seid, dann ist es vielleicht besser, wenn Ihr nicht hingeht.~
+@38   = ~Bleibt ruhig hier sitzen... Vielleicht findet sie in der Zwischenzeit einen anderen.~
+@39   = ~Es würde sowieso nicht klappen. Geht zurück und sucht Euch eine andere.~
+@40   = ~Ich bin kein Angsthase! Ich...~
+@41   = ~Ich werde hingehen. Ihr habt es geschafft, nun sind die Zweifel überwunden, die Angst besänftigt! Zuerst sollte ich mich allerdings vielleicht etwas frischmachen.~
+@42   = ~Habt Dank, mein Freund.~ ~Habt Dank, meine Freundin.~
+@43   = ~Redet nicht so von ihr! Ihr kennt sie doch gar nicht! Sie ist feinfühlig, und ihr Humor ist umwerfend. Sie...~
+@44   = ~Was für ein dämlicher Vorschlag! Ich bin genau deswegen hier, weil ich dort keine "Andere" gefunden habe. Ich...~
+@45   = ~Ja, natürlich. Es gibt wahrlich wichtigere Dinge, als mit einem Halbork über seine inneren Ängste zu sprechen. Zumal dieser Halbork nun seit geraumer Zeit in dieser Spelunke sitzt, anstatt endlich aufzustehen und das zu machen, weswegen er hergekommen ist! Ich...~
+@46   = ~Was... Das habt Ihr nett gesagt. Wenn mir so etwas von einer Fremden gesagt wird, müsste es meine Angebetete es doch erst recht sehen, oder?~
+@47   = ~Oh ja, das weiß ich nur zu gut. Wie häufig habe ich meine Ziele nur durch harten Kampf und mit viel Mühen erreicht, bin ich gegen Windmühlen gelaufen, hat mein bloßer Anblick feindliche Reaktionen hervorgerufen. Ich sollte es besser wissen! Ich...~
+@48   = ~Ich bin ja so aufgeregt!~
+@49   = ~Verzeiht, aber wir haben jetzt keine Zeit.~
+@50   = ~Was wollt Ihr? Wir bereiten eine große Feier vor und sind sehr beschäftigt. Geht bitte wieder.~
+@51   = ~Was wollt Ihr?~
+@52   = ~Uns ist zu Ohren gekommen, dass Ihr Probleme mit Orks hattet?~
+@53   = ~Wo sind die Bestien, die Euch bedrängen? Ich werde sie in Stücke hauen!~
+@54   = ~Nichts, bin schon wieder weg.~
+@55   = ~Bei den Göttern, hört das denn nie auf!~
+//@56   = 
+@57   = ~Verzeiht meinen Tonfall, aber es geht mir langsam wirklich auf die Nerven. Um Eure Frage zu beantworten: Nein, ich habe und hatte keine Probleme mit Orkangriffen. Es sind auch nicht Horden von Monstern hier hereingestürmt und haben meine Tochter entführt. Meine Tochter hat sich schlicht und ergreifend mit einem Halbork verlobt. Das ist alles! Mein Schwiegersohn ist ein Halbork. Die beiden sind auf Hochzeitsreise!~
+@58   = ~Versteht mich nicht falsch. Ich bin Euch ja sehr verbunden, aber ich frage mich, was ich machen soll, damit hier keine Halbstarken mehr hereinplatzen, die ein Abenteuer wittern oder sich eine goldene Nase verdienen wollen. Nichts für ungut, aber Ihr seid nicht die ersten, die hier hereinkommen!~
+@59   = ~Dann verzeiht die Störung, wir werden sofort wieder gehen.~
+@60   = ~Ihr sprecht von Uguth, nicht wahr? Ich hatte ihn getroffen. Er war sich nicht sicher, ob er bei Euch willkommen sein würde.~
+@61   = ~Meine Güte, ich bin ja schon wieder weg.~
+@62   = ~Ahja? Nun, wir haben bei seinem Anblick tatsächlich etwas gestutzt. Aber er ist ein prächtiger Kerl, wenn man ihn erstmal kennt. Sehr viel besser erzogen als so mancher Sprössling der hiesigen Familien. An Enkel mit grünlicher Haut und Knorpeln an der Stirn werde ich mich auch noch gewöhnen... denke ich.~
+@63   = ~Ich hoffe, meine Tochter wird glücklich.~
+@64   = ~Habt Ihr das schon gehört? In einem Haus nahe dem Elfsong wurde ein Mädchen von Orks angegriffen! Mitten in der Stadt, ist das zu fassen?~
+//@65   = 
+@66   = ~Was wollt Ihr? Sprecht mit meinem Mann!~
+@67   = ~Ihr! Ihr habt meine Verlobte getötet! Nun werde ich Euch zerschmettern!~ 
+@68   = ~Ihr! Ihr habt die Eltern meiner Verlobten getötet! Nun werde ich Euch zerschmettern!~
+@69   = ~Lasst uns alleine. Wir haben einen schweren Verlust erlitten und wünschen nicht, darüber zu sprechen.~ 
+@70   = ~Es gibt keine Gerechtigkeit in der Welt.~ 
+
+
+// --NPC reactions
+
+
+//[Imoen] 
+@71   = ~Also waren es nur seine eigenen Hemmungen, die ihn davor zurückgehalten haben, zu seiner Geliebten zu gehen?~
+//[Imoen] 
+@72   = ~Hm, vielleicht ist es für diesen Schluss noch etwas zu früh. Aber es war auf alle Fälle sein *erstes* Hindernis.~
+//[Garrick] 
+@73   = ~Oh, das bietet auf alle Fälle genug Material für eine romantische Ballade. Der starke aber hässliche Halbork, von nobler Abstammung und friedlichen Gemüts...~
+//[Imoen] (Garrick) 
+@74   = ~Ja, das klingt wie eine gute Geschichte!~
+//[Alora] (Garrick) 
+@75   = ~So eine Erzählung würde ich mir anhören, Garrick.~
+//[Safana] (Garrick) 
+@76   = ~Nur, wenn die Ballade einen Kuss enthält, der ihn in einen gutaussehenden Prinzen verwandelt.~
+//[Skie] (Garrick) 
+@77   = ~Iiiieh, stellt Euch ihren ersten Kuss vor...~
+//[Skie] (Garrick) (Dorn) 
+@78   = ~Äh, das meinte ich jetzt nicht so, Dorn.~
+//[Eldoth] 
+@79   = ~Eine gute romantische Erzählung wird dies nur mit einem gutaussehenden Prinzen, der das hässliche Monster vertreibt.~
+//[Skie] (Eldoth) 
+@80   = ~Oh, in dieser Version mag ich mir Küsse lieber vorstellen!~
+//[Alora] 
+@81   = ~Ich mochte seine Einstellung.~
+//[Jaheira] 
+@82   = ~Seinen Eltern sieht man das Halborkerbe nicht an? Manche Ausreißer der Natur sind schwer zu erklären.~
+//[Imoen] (Jaheira) 
+@83   = ~Es stört die Balance, die man erwarten würde, nicht wahr, Jaheira?~
+//[Jaheira] (Imoen) 
+@84   = ~Nun... ja.~
+//[Faldorn] 
+@85   = ~Unausgewogenheit gibt es in der Natur nicht. Seine Vorfahren haben seine Erscheinung in Kauf genommen, als sie die Rassen mischten.~
+//[Kivan] 
+@86   = ~Dieser Mann war stark, und doch sanftmütig. Mehr von seiner Sorte würde diese Welt einen friedlicheren Ort machen.~ 
+//[Dorn] 
+@87   = ~Dass sich sein Halborkerbe so stark zeigt ist eine Schande!~
+//[Neera] (Dorn) 
+@88   = ~Was? So eine Bemerkung hätte ich nicht von Euch erwartet, Dorn.~
+//[Dorn] 
+@89   = ~Er ist eine Laune der Natur. Er sieht vielleicht wie ein Halbork aus, aber er wäre niemals in der Lage, sich zu behaupten, wenn er wie einer zu kämpfen hätte. Er ist eine Schande für meine Rasse!~
+//[Neera] (Dorn) 
+@90   = ~Ah, jetzt macht Eure Bemerkung Sinn. Wenn auch auf eine sehr... Dorn-ische Art und Weise.~
+//[Rasaad] (Dorn) 
+@91   = ~Dorn, das wisst Ihr nicht mit Sicherheit.~
+//[Dorn] (Rasaad) 
+@92   = ~Dazu muss ich ihn nicht bekämpfen. Ich sehe seine Schwächlichkeit auch so. Keine Waffen!~
+//[Rasaad] (Dorn) 
+@93   = ~Nicht jeder braucht Waffen zum Kämpfen...~
+//[Dorn] (Rasaad) 
+@94   = ~Die Art, wie er sich bewegt hat. Das ist kein Krieger.~
+//[Rasaad] (Dorn) 
+@95   = ~Seine Art, sich zu bewegen... Ja, er war auch kein Mönch, das stimmt. Aber darum geht es hier nicht.~
+//[Rasaad] 
+@96   = ~Nicht nach dem ersten Eindruck zu urteilen ist ein Ideal das nur wenige erreichen können. Dieser Mann hat eine schwere Last zu tragen.~
+//[Neera] 
+@97   = ~Es muss anstrengend sein, immer so nach dem Äußeren beurteilt zu werden.~
+//[Safana] 
+@98   = ~*seufzt* So nach dem Äußeren beurteilt zu werden... Ergeht es uns nicht allen so?~
+//[Neera] (Safana) 
+@99   = ~Nun, in gewissem Sinne schon, aber ich meinte nicht... schon gut.~
+//[Imoen] 
+@100   = ~Armer Mann. Ich hoffe, dass er findet, was er sucht.~
+//[Xan] 
+@101   = ~Welch Naivität! Glaubt dieser... Mann wirklich, dass er Liebe und Frieden finden wird, in *diesem* Leben?~
+//[Imoen] (Xan) 
+@102   = ~Xan, vielleicht solltet Ihr Euch ein Beispiel an ihm nehmen.~
+//[Xan] (Imoen) 
+@103   = ~Das sollte ich mit Sicherheit nicht, Imoen. Als Träumer und Hans-guck-in-die-Luft wäre ich sicherlich keine Hilfe mehr!~
+//[Imoen] (Xan) 
+@104   = ~Nun, momentan seid Ihr eher ein Hans-sieht-schwarz... Na gut, vergesst es.~
+//[Xan] (Imoen) 
+@105   = ~*seufzt* Ihr überseht, junger Mensch, dass ein Elfengedächtnis niemals vergisst. Niemals.~
+//[Imoen] (Xan) 
+@106   = ~Oh, wirklich? Das ist ja toll. Mir fällt nämlich beim besten Willen nicht mehr der Text zu diesem Lied hier ein. Wisst Ihr, welches ich meine? *summt eine Melodie*~
+//[Xan] (Imoen) 
+@107   = ~Allmächtige Götter von Arvanaith... nehmt mich zu Euch, jetzt!~
+//[Imoen] (Xan) 
+@108   = ~Äh, nein, das war's nicht. Das reimt sich ja nicht mal!~
+//[Xan] (Imoen) 
+@109   = ~*seufzt*~
+//[Ajantis] 
+@110   = ~Ich wünsche diesem Mann nur das Beste. Das Leben hat ihm eine große Bürde aufgeladen.~
+//[Dynaheir] 
+@111   = ~Möge er auf Friedfertigkeit an seinen Wegen stoßen.~
+//[Xzar] 
+@112   = ~Möge sein Pfad friedlich sein und sein Leben voller Harmonie und bla bla bla!~
+//[Montaron] (Xzar) 
+@113   = ~Jetzt habt Ihr es erreicht, Xzar, ich habe Tränen in den Augen.~
+//[Kagain] 
+@114   = ~Vielleicht sollten wir ihm nachsetzen... um sicherzugehen, dass er die angemessene Begrüßung erhält!~
+//[Dorn] (Kagain) 
+@115   = ~Und die wäre welche, Zwerg?~
+//[Kagain] (Dorn) 
+@116   = ~Ach, kommt schon, Dorn. Als ob Ihr nicht selbst gerne Eure Waffe an dieser Grünhaut ausprobieren würdet.~
+//[Safana] 
+@117   = ~Was ist das für eine Frau, die sich so einem... Wesen verspricht. Habt Ihr die Knorpeln an seiner Stirn gesehen?~
+//[Coran] 
+@118   = ~Wahre Liebe muss man anerkennen, wenn man sie sieht. Dieser Mann war verliebt, und wenn die Frau, um die er wirbt, nur halb so viel für ihn fühlt, werden sie sehr glücklich sein.~
+
+//[Imoen] 
+@119   = ~Bin ich eigentlich die einzige, die denkt, dass er auf alle Fälle zu seiner Verlobten gegangen wäre, egal, was Ihr zu ihm hättet sagen können, <CHARNAME>?~
+
+/* new content v10 */
+@120   = ~Ich sehe durchaus, dass wir dasselbe Blut teilen, sozusagen... Das ist jedoch auch keine Garantie für ein friedliches Zusammentreffen - nichts für ungut!~

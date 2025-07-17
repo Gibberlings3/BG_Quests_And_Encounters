@@ -1,0 +1,671 @@
+/* All unused numbers are used in setup.tra! */
+
+@3    = ~Empty Bottle~
+@4    = ~This is the empty bottle Alanna found in the house of the transformed Eltolth. The writing on the label reads:
+"Magnificent Surprise:
+Time to effect: 5 seconds up to 1 minute. Duration by correct dosage: up to 1 hour.
+Be cautious not to overdose, unexpected side effects possible!!
+No warranty in case of failure!"
+It is signed by an unreadable signature starting with a "T".~
+@5    = ~Eltolth's Notes~
+@6    = ~This seems to be some kind of diary belonging to Alanna's neighbor Eltolth. By browsing through the pages you find some entries that might give a clue as to what happened before his transformation:
+"...Talked to Tulbor again. Met him at the usual place. As always, he wanted to sit far away from the bar, and I had to buy him a drink (...) He says his potions are just as good as Juoma's, but much cheaper. (...) He offered me the special one again. It costs a fortune, but I think it's worth it! This time I will try it."
+The notes end here.~
+@7    = ~Transformation Elixir~
+@8    = ~This is the elixir that should transform poor Eltolth into his proper self. If taken in overdose, it should give a nice strength bonus. Drinking the whole bottle should yield this effect.~
+
+@10   = ~Alanna~
+@11   = ~Eltolth~
+@12   = ~Tulbor~
+
+@14   = ~Mrs. Dudley~
+@15   = ~Mr. Dudley~
+@16   = ~Annie Dudley~
+@17   = ~Dudley Family's Necklace~
+@18   = ~This pearl necklace is the much sought-after heirloom of the Dudleys.~
+
+@20   = ~Mrs. Blackwood~
+@21   = ~Sarah~
+@22   = ~Tom~
+@23   = ~Tina~
+@24   = ~Sarah's Doll~
+@25   = ~This is Sarah's doll. The colors of its face are already fading, but it is dressed in a skillfully knitted dress and shoes.~
+@26   = ~Tom's Teddy~
+@27   = ~This is Tom's teddy bear. It looks old, used, sticky and dirty, exactly like the highly loved teddy of a young child ought to look.~
+@28   = ~Sarah's Bottle~
+@29   = ~This is Sarah's bottle that Mrs. Blackwood gave to you. It is covered with traces of a sticky liquid, combined with the obligatory sand and dirt. You are sure you don't want to drink out of it.~
+@30   = ~Tom's Bottle~
+@31   = ~This is Tom's bottle that Mrs. Blackwood gave to you. It is covered with traces of a sticky liquid, combined with the obligatory sand and dirt, as well as some leaves, seeds and a dead ant. You are sure that you don't want to drink out of it.~
+@32   = ~Candy Sweets~
+@33   = ~These are some of the sweets Mrs. Blackwood gave you for the children. It is some sort of colored candy, sweet and sticky.~
+@34   = ~Sweets~
+@35   = ~These are some of the sweets Mrs. Blackwood gave you for the children. It looks like some kind of candied almonds.~
+@36   = ~Sarah's Coat~
+@37   = ~This is Sarah's coat.~
+
+@40   = ~Arnim~
+@41   = ~Lady von Undenzieht~
+@42   = ~Lord von Undenzieht~
+
+@44   = ~Dauron~
+@45   = ~Onlooker~
+@46   = ~Luisa's Mother~
+@47   = ~Nanny~
+
+@49   = ~Leila~
+
+@51   = ~Uguth~
+@52   = ~Viola~
+@53   = ~Mrs. Kenn~
+@54   = ~Mr. Kenn~
+//@55   
+
+@57   = ~Sir Trun~
+@58   = ~Linda~
+@59   = ~Alternative Antidote~
+@60   = ~This is the cheap alternative potion. It should transform Eltolth into his former self...~
+
+
+
+
+
+
+/* new contents: v9 */
+
+
+@62   = ~Hamster~
+@63   = ~This is the hamster from the pet vendor that "stayed" with Minsc, or rather Boo... You have the strong suspicion that it has the opposite sex than Boo, and from what you recall concerning little rodent reproduction frequency having them both together might lead to consequences very soon.~ 
+@64   = ~This is one of the little hamsters that arose from Boo's liaison with that nameless hamster.~
+@65   = ~Edward~
+
+
+@67   = ~Fighter~
+
+@99   = ~Mage~
+@100  = ~Teodor~
+@101  = ~Egg~
+@102  = ~This is some kind of egg the delivery man gave you for his rescue. It can be worn as a ioun stone and it sure looks powerful. You have the impression there is something moving inside, though.~
+@103  = ~Egg of the Frozen Spider~
+@104  = ~This is a preserved egg of a wraith spider. Worn as a ioun stone, it surely looks disgusting, but it protects the wearer against being magically held.
+
+STATISTICS:
+ 
+
+Special: The wearer is immune to hold creature.
+Charisma:  Lowered by 3 points while equipped
+
+Weight: 2~
+
+
+/* new contents v10 */
+
+
+@106  = ~Old Mother~
+
+
+/* new content v15 */
+
+@107   = ~House of Alanna's Neighbor~
+@108   = ~Pet Vendor~
+
+
+/* new content v16 */
+@110  = ~Brage's Sword~
+@111  = ~Brage's Two-Handed Sword +1~
+/* unidentified description bg1:totsc */
+@112  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. 
+
+This is the sword Brage ordered in Waterdeep.
+
+STATISTICS:
+
+Damage:  1D10
+Damage type:  slashing
+Weight: 15
+Speed Factor: 10
+Proficiency Type: Large Sword
+Type:  2-handed
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~
+/* identified description bg1:totsc */
+@113  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage ordered in Waterdeep.
+
+STATISTICS:
+
+Damage:  1D10 +1
+THACO:  +1 bonus
+Damage type:  slashing
+Weight: 12
+Speed Factor: 9
+Proficiency Type: Large Sword
+Type:  2-handed
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~
+/* unidentified description tutu / bgt */
+@114  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+This is the sword Brage ordered in Waterdeep.
+
+STATISTICS:
+
+Damage:  1D10
+Damage type:  slashing
+Weight: 12
+Speed Factor: 10
+Proficiency Type: Two Handed sword
+Type:  2-handed
+Requires: 14 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~
+/* identified description tutu / bgt */
+@115  = ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.  This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage ordered in Waterdeep.
+
+STATISTICS:
+
+Damage:  1D10 +1
+THACO:  +1 bonus
+Damage type:  slashing
+Weight: 12
+Speed Factor: 9
+Proficiency Type: Two Handed sword
+Type:  2-handed
+Requires: 14 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage 
+ Thief~
+/* identified description bgee / eet */
+@116  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage ordered in Waterdeep.
+
+STATISTICS:
+
+THAC0: +1
+Damage: 1d10+1 (slashing)
+Speed Factor: 9
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 14 Strength
+
+Weight: 12~
+@117  = ~Hick~
+@118  = ~My servant Mulahey,
+Your stupid carelessness has made D. to interfere. He sent a nice surprise to the Nashkel Commander, who found his new sword to be more special than he expected. Amnish forces are weakened for now and will not come into the deeper mine levels. Nevertheless, prepare for intruders, as numerous forces feel obliged to investigate the sightings of your stupid kobolds. Do not fail me again. 
+
+TAZOK~
+@119  = ~Borda,
+We don't care whether you put all your effort into the task we ordered you to do. It's not our fault that the Commander went alone on his investigation and therefore found the new sword while being alone on the road instead of being inside the barracks. It is your oversight the whole thing nearly failed. You are lucky as it is that this fool went back to Nashkel at all, so the gold we spent on this blade with its special curse is not lost altogether. No, you will not receive the second amount of the payment. You can still keep the original sword that Brage was supposed to receive. That is enough compensation. Be glad we don't hunt you down.
+
+TAZOK~
+@120  = ~Tazok,
+I demand you pay me the second half of what we agreed upon - the Commander only butchering his own family and not half of the garrison is not my fault. The Nashkel forces are weakened and that was the deal! You can send any letters for me to my contact at Nashkel Carnival. I found a merchant desperate enough to buy some of my special potions, he will pass on any letters, as well.
+
+Borda~
+@121  = ~Letter to Captain Tollar Kieres~
+@122  = ~This letter bears the official signet of the Merchants' League of Baldur's Gate. It was handed to you by Aldeth Sashenstar and is addressed to Captain Kieres who currently resides in the League's Counting House in the north-eastern part of town.~ 
+
+@123  =  ~Signet Ring of the Merchants' League~
+@124  =  ~These rings are only handed to people who enjoy the full trust of the Merchants' League. They serve as identification and should grant you free and full access to the normally restricted Counting House. 
+Rumors are that these rings are one of the reasons for the League's success, apparently being enchanted in some way.
+
+STATISTICS:
+
+Luck 3 times per day
+Charm Person 3 times per day~
+@125  = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. This one is particularly good at its job as it has been enchanted with a few magical properties.
+
+This is the sword Brage ordered in Waterdeep.
+
+STATISTICS:
+
+THAC0: +1
+Damage: 1d10+1 (slashing)
+Speed Factor: 9
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 14 Strength
+
+Weight: 12~
+
+
+@126  = ~House of a worried Farmer~
+
+
+
+
+
+
+@2002    = ~Ghoul~
+@2003    = ~Farmer~
+@2004	   = ~A Worried Farmer
+
+A farmer asked me to come over to his house, if we want to take care of a matter that's been bothering him.~
+@2005	 = ~A Worried Farmer
+
+The farmer from Beregost does not need to worry anymore, the ghoul who haunted him every night is now truly dead.~
+@2006	 = ~A Worried Farmer
+
+A farmer told us that he has seen something moving about close to his home. He doesn't know what it was though.~
+
+@2007	   = ~A Worried Farmer~
+
+@9002   = ~Sylar~
+@9003	  = ~Bodies for a good Cause
+
+In Silence's Shop I met an elven necromancer called Sylar. Apparently he has discovered a new method that uses necromancy to resurrect creatures like a cleric. Should he do that, he can improve the image of the necromantic arts, or so he says. For his research, however, he needs corpses that I should get for him out of the sewers.
+He is willing to pay 150 gold pieces per delivered corpse. 
+
+So I can kill three birds with one stone: helping science, getting some extra gold and doing something for the environment!~
+
+@9004	= ~Bodies for a good Cause
+
+In Silence's Shop I met an elven necromancer called Sylar. Apparently he has discovered a new method that uses necromancy to resurrect creatures like a cleric. Should he do that, he can improve the image of the necromantic arts, or so he says. For his research, however, he needs dead bodies that I should get for him out of the sewers.
+He is willing to pay 150 gold pieces per delivered corpse. 
+
+However, I was not interested in helping him. Should I change my mind, I know where I can find him.~
+
+@9005	= ~Bodies for a good Cause~
+
+
+//////////////////////////////////////////////////////////////////////////////
+//Journal entries...
+//////////////////////////////////////////////////////////////////////////////
+
+//slime quest
+
+@10000  = ~Beregost: Alanna's Neighbor in Trouble~
+
+//@63 (c#q01001.tra)
+@10001  = ~Beregost: Alanna's Neighbor in Trouble
+
+A desperate woman named Alanna approached me in Beregost. There's something wrong with her neighbor. I should go and take a look.~
+
+//@64 (c#q01001.tra)
+@10002  = ~Beregost: Alanna's Neighbor in Trouble
+
+A desperate woman named Alanna approached me in Beregost. There's something wrong with her neighbor.~
+
+//@65 (c#q01001.tra)
+@10003  = ~Beregost: Alanna's Neighbor in Trouble
+
+Eltolth gave me 200 gp for our help. I left his house knowing I made two people happy.~
+
+
+//@66 (c#q01001.tra)
+@10004  = ~Beregost: Alanna's Neighbor in Trouble
+
+I found the elixir vendor of Eltolth's transformation potion, but I'll need proof of his guilt.~
+
+//@67 (c#q01001.tra)
+@10005  = ~Beregost: Alanna's Neighbor in Trouble
+
+The transformation elixir for Eltolth will cost 100 gold pieces!~
+
+//@96 (c#q01001.tra)
+@10006  = ~Beregost: Alanna's Neighbor in Trouble
+
+The alternative potion didn't work. Well, I guess they will find help elsewhere.~
+
+//@103 (c#q01001.tra)
+@10064   = ~Beregost: Alanna's Neighbor in Trouble
+
+The alternative potion didn't work. But it was worth the sight, the woman kissing that slime!~
+
+//@110 (c#q01001.tra)
+@10007  = ~Beregost: Alanna's Neighbor in Trouble
+
+Oops. Looks like Alanna and her neighbor are peacefully united... as (dead) slimes. Tulbor did not lie when he warned about possible unwanted side effects of this cheap potion.~
+
+//@7 (c#q01003.tra)
+@10008  = ~Beregost: Alanna's Neighbor in Trouble
+
+Seems this Eltolth can't take a joke. I had to kill him... it.~
+
+
+//family treasure: c#q02005.tra
+
+
+@10009  = ~Family Quarrel in Beregost~
+
+//@4 
+@10010  = ~Family Quarrel in Beregost
+
+I met a strange couple in one of the houses in Beregost. Apparently, the husband and wife don't talk to each other any more. Maybe I should investigate this further.~
+
+//@25
+@10011  = ~Family Quarrel in Beregost
+
+I bought the necklace from the Dudley family for the promised 500 gp. Their money problem should be solved now.~
+
+//@27
+@10012  = ~Family Quarrel in Beregost
+
+I bought the necklace from the Dudley family. Instead of giving only the promised 500 gp, I succeeded in "smuggling" another 50 gp into Mr. Dudley's money bag. Hope the family is doing well now.~
+
+//@29
+@10013  = ~Family Quarrel in Beregost
+
+I bought the necklace from the Dudley family. Instead of giving only the promised 500 gp, I succeeded in "smuggling" another 100 gp into Mr. Dudley's money bag. Hope the family is doing well now.~
+
+//@110
+@10014  = ~Family Quarrel in Beregost
+
+I promised the Dudleys in Beregost to buy their pearl necklace for 500 gp.~
+
+//@114
+@10015  = ~Family Quarrel in Beregost
+
+The problem is solved. The daughter took the necklace so that it can't be sold... She will return it now.~
+
+//@145
+@10016  = ~Family Quarrel in Beregost
+
+Mr. Dudley brought back the extra gold... The Dudleys are an honest and proud people. Well, their money problem should be solved anyhow.~
+
+//@146
+@10017  = ~Family Quarrel in Beregost
+
+Mr. Dudley wanted to bring back the extra gold... The Dudleys are an honest and proud people. I could talk him into accepting it, though. Their money problem should be solved now.~
+
+//@155
+@10018  = ~Family Quarrel in Beregost
+
+I solved the problem, in a way.~
+
+//@160
+@10019  = ~Family Quarrel in Beregost
+
+The problem is solved. The daughter took the necklace so that it couldn't be sold... I gave it back to them.~
+
+
+/* Babysitting in Nashkel: c#q03008_9_10_11.tra */
+
+
+@10020  = ~Babysitting in Nashkel~
+
+//@10
+@10021  = ~Babysitting in Nashkel
+
+The mother came to collect her two children. Everything went well, as far as I can tell.~
+
+//@49
+@10022  = ~Babysitting in Nashkel
+
+I offered to babysit two children in Nashkel, but the mother didn't accept. Seems I don't look trustworthy enough... yet.~
+
+//@54
+@10023  = ~Babysitting in Nashkel
+
+I agreed to babysit two children in Nashkel. The mother is waiting with the children until I have time to fulfill my offer.~
+ 
+//@56
+@10024  = ~Babysitting in Nashkel
+
+I offered to babysit two children in Nashkel, but I withdrew my offer. The mother looks desperate enough to accept if I might offer it again, though.~
+
+//@66
+@10025  = ~Babysitting in Nashkel
+
+I agreed to babysit two children in Nashkel. The mother should be back in half an hour and expects us to meet in the same area. I shouldn't leave the area to prevent any misunderstandings.~
+
+@10065  = ~Babysitting in Nashkel
+
+There was a mother with two... brats in Nashkel. I bullied them away. I can't stand childrens' wailing!~
+
+@10066  = ~Babysitting in Nashkel
+
+Huh, seems that mother from Nashkel met a couple of good-hearted burly berserkers who thought they had to teach me a lesson. Guess they didn't live long enough to learn theirs...~
+
+/* Nashkel Monster: c#q04001_3_4_5.tra */
+
+
+//@1 (c#q04001_3_4_5.tra)
+@10026  = ~Nashkel Monster
+
+I killed a baby wyvern in Nashkel that was chasing a young boy...~
+
+@10027  = ~Nashkel Monster~
+
+//@16 (c#q04001_3_4_5.tra)
+@10028  = ~Nashkel Monster
+
+The boy's family wanted to make the soldiers arrest me. The boy obviously lied about our first encounter. I decided to fight the city authorities.~
+
+//@49 (c#q04001_3_4_5.tra)
+@10029  = ~Nashkel Monster
+
+The boy's family wanted to make the soldiers arrest me. The boy obviously lied about our first encounter because he was frightened of his father's anger about the lost "exotic pet." Fortunately, I could talk myself out of it.~
+
+@10030   = ~The Unknown Egg~
+
+@10031   = ~The Unknown Egg
+
+We met the mage that was supposed to get the egg "stone". He said some weird things, about a nasty surprise I would get if I won't show the egg to a powerful mage...~
+
+@10032   = ~The Unknown Egg
+
+The egg is permanently preserved now. It is still a magical item and might be of some use. It was the egg of a wraith spider, ready to hatch! That danger is over now.~
+
+@10033   = ~The Unknown Egg
+
+I freed a delivery man that was held captive in a cave by a bandit training wyverns! He gave me some strange egglike stone. He said the mage who was supposed to get it might be still on his way to Baldur's Gate. Maybe I should return it to him.~
+
+@10034   = ~The Unknown Egg
+
+The egg is destroyed now. It was the egg of a wraith spider, ready to hatch! That danger is over now.~
+
+@10035   = ~The Unknown Egg
+
+The egg was of a wraith spider, and it hatched in my backpack!~
+
+@10067   = ~The Unknown Egg
+
+I freed a delivery man that was held captive in a cave by a bandit training wyverns! He gave me a prepared but still living egg of a wraith spider! He said the mage who was supposed to get it might be still on his way to Baldur's Gate. Maybe I should return it to him.~
+
+
+/* Fallen Paladin: from c#q05001.tra */
+
+
+@10036   = ~The Fallen Paladin in the Temple of Helm~
+
+//@19
+@10037   = ~The Fallen Paladin in the Temple of Helm
+
+The fallen paladin said he was tricked by a demon that possessed the little girl. The demon's power was too great for him to see the truth of it before he killed her.~
+
+//@33
+@10038      = ~The Fallen Paladin in the Temple of Helm
+
+I met a woman who was talking about a child that suddenly developed strong magical powers, strong enough to teleport her from Luskan to Baldur's Gate! This very much sounds like the story of the child the paladin killed. Maybe I should talk to him about it, if I want to help him.~
+
+//@34
+@10039   = ~The Fallen Paladin in the Temple of Helm
+
+The mother of the slain child confirmed the paladin's story about the demonic possession. She said her daughter suddenly developed strong magical powers. This reminds me of the nanny I met recently in the city. Might the child in Luskan that she spoke of show the same "symptoms?" Maybe I should talk to the paladin about it, if I want to help him.~
+
+//@35
+@10040   = ~The Fallen Paladin in the Temple of Helm
+
+The mother of the slain child confirmed the paladin's story about the demonic possession. She said her daughter suddenly developed strong magical powers. She asked me not to spread that information.~
+
+//@36
+@10041   = ~The Fallen Paladin in the Temple of Helm
+
+In the temple of Helm in Baldur's Gate stands a fallen paladin accused of slaughtering a young child!~
+
+//@37
+@10042   = ~The Fallen Paladin in the Temple of Helm
+
+The girl the paladin killed lived in a house adjacent to the palace entrance. Maybe I should go there, if I want to hear details about what happened.~
+
+//@38
+@10043   = ~The Fallen Paladin in the Temple of Helm
+
+Fallen Sir Dauron left in search of the nanny of the Luskan child I recently met, hoping she can direct him to another child who might be the subject of demonic possession. Maybe he will be successful and defeat this demon in Luskan... It really would be a happy ending to this sad story.~
+
+//@63
+@10044   = ~The Fallen Paladin in the Temple of Helm
+
+I decided to solve the problem in a... very definite way.~
+
+
+////////////////////////////////////////////////
+/* Undying Love: c#q06001_2.tra */
+
+@10045   = ~Frightened Widow in the Fishing Village~
+
+//@6
+@10046    = ~Frightened Widow in the Fishing Village
+
+In the fishing village a woman is theatened by a monster lurking behind her house. She wants me to kill it.~
+
+//@25
+@10047   = ~Frightened Widow in the Fishing Village
+
+I killed the woman's undead husband. She should be able to live in peace now.~
+
+//@36
+@10048   = ~Frightened Widow in the Fishing Village
+
+I killed the undead creature that was threatening the woman. She should be able to live in peace now.~
+
+//@88
+@10049   = ~Frightened Widow in the Fishing Village
+
+I suggested the widow should keep to the contract, and the woman left the village.~
+
+
+/* Ork Lover: c#q07001.tra */
+
+@10050   = ~Orc Attacks in Baldur's Gate~
+
+//@56
+@10051   = ~Orc Attacks in Baldur's Gate
+
+The rumor about orc attacks at a house in Baldur's Gate was exactly that... a rumor. It was just poor half-orc, Uguth, whose appearance was causing talk to spread. It's always the same with rumors!~
+
+//@65
+@10052   = ~Orc Attacks in Baldur's Gate
+
+There is a rumor that a house near the Elfsong tavern was attacked by orcs and the inhabitants need help.~
+
+
+/////////////////////////////////////////
+/* Unexpected Help: c#q08001.tra */
+
+
+@10053   = ~Linda and Sir Trun~
+
+//@57
+@10054   = ~Linda and Sir Trun
+
+I helped Sir Trun overcome his problem. He will train Linda in swordplay. Hopefully they can overcome the horrible adventure they had.~
+
+//@98
+@10055   = ~Linda and Sir Trun
+
+I met Linda in the Candlekeep Inn. She is the fiancée of Sir Trun, who is recovering from his wounds in the Candlekeep infirmary. They had a traumatic encounter and haven't talked since.~
+
+
+///////////////////////////////////////////////////////////
+/* Hamster Business */
+
+@10056   = ~Hamster Dilemma~
+
+@10057   = ~Hamster Dilemma
+
+We did get rid of the second hamster... I hope Boo isn't too heartbroken.~
+
+@10058   = ~Hamster Dilemma
+
+Minsc somehow managed to keep a hamster from that pet-vendor, and refuses to get rid of it other than to give it back to him. I guess I have to search where that vendor has his whereabouts now.~
+
+@10059   = ~Hamster Dilemma
+
+We did get rid of the second hamster... I hope Boo isn't too heartbroken. That leaves only the little ones. I have to get rid of those before they are grown... Wasn't there this boy at the Nashkel Carnival who wanted a hamster so desperately?~
+
+@10060   = ~Hamster Dilemma
+
+We did get rid of the second hamster... and all little ones.~
+
+/* new for v16 */
+
+@10069   = ~Hamster Dilemma
+
+The boy at Nashkel Carnival took all the little hamsters. I have a feeling he will take even more of them if it ever comes to that.~
+
+
+/////////////////////////////////////////////////////////
+/* Drunk Near Beregost Temple */
+
+@10061   = ~Drunk Near Beregost Temple~
+
+@10062   = ~Drunk Near Beregost Temple
+
+I met a drunk near the Beregost Temple. I am sure he isn't capable of helping himself if attacked by any wild creature, but he doesn't let me help him, either. Maybe I could inform someone about his presence here.~
+
+@10063   = ~Drunk Near Beregost Temple
+
+The priests of Lathander will watch over the drunk Polus. He should be safe then.~
+
+/* @10064 - @10067 used above */ 
+
+@10068   = ~Drunk Near Beregost Temple
+
+I saved the drunk from any more conveniences. So to say.~
+
+/* @10069 used above */
+
+
+@10100   = ~Legal Sea Chart Sources~
+// @25 from calabald.tra
+@10101   = ~Legal Sea Chart Sources
+
+Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He will be back to Ulgoth's Beard in two days.~
+// @26 from calabald.tra
+@10102   = ~Legal Sea Chart Sources
+
+Calahan in Ulgoth's Beard want to have another 3.000 gold pieces for the sea charts!~
+@10103   = ~Legal Sea Chart Sources
+
+I received the sea charts from Calahan.~
+@10104   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
+@10105   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
+@10106   = ~Legal Sea Chart Sources
+
+I received the sea charts from Captain Kieres using the help of Aldeth without having to steal them.~
+//part of @24 from aldeth_seacharts.tra
+@10107   = ~Legal Sea Chart Sources
+
+Aldeth gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain.~
+@10108   = ~Legal Sea Chart Sources
+
+Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He wants 5000 gold!~
+@10109   = ~Legal Sea Chart Sources
+
+I told Calahan I will not buy the sea charts from him.~
+@10110   = ~Legal Sea Chart Sources
+
+In the end, I stole the sea charts from Captain Kieres.~

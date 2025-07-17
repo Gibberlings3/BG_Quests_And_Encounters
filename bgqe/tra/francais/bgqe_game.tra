@@ -1,0 +1,670 @@
+/* All unused numbers are used in setup.tra! */
+
+@3    = ~Bouteille vide~
+@4    = ~Il s'agit de la bouteille vide qu'Alanna a trouvée dans la maison d'Eltolth métamorphosé. On peut lire sur l'étiquette :
+"Magnifique surprise :
+Temps d'attente avant déclenchement des effets : de 5 secondes à 1 minute. Durée d'effet pour un dosage normal : jusqu'à une heure.
+Attention à ne pas dépasser la dose, des effets secondaires inattendus sont possibles !!
+Aucune garantie en cas d'échec !"
+L'étiquette porte une signature illisible qui commence par un T.~
+@5    = ~Notes d'Eltolth~
+@6    = ~Ceci semble être une sorte de journal intime appartenant au voisin d'Alanna, Eltolth. En feuilletant ses pages, vous trouvez quelques éléments qui pourraient donner des indices de ce qui s'est passé avant sa transformation :
+"... J'ai de nouveau parlé à Tulbor. Je l'ai rencontré à l'endroit habituel. Comme toujours il a voulu s'asseoir loin du comptoir, et j'ai dû lui payer à boire (...) Il dit que ses potions sont tout aussi efficaces que celles de Juoma, mais beaucoup moins chères. (...) Il m'a encore une fois proposé sa "spéciale". Elle coûte une fortune, mais je pense qu'elle vaut le coup ! Cette fois, j'ai décidé de l'essayer."
+Les notes se terminent ici.~
+@7    = ~Élixir de transformation~
+@8    = ~Il s'agit de l'élixir qui devrait redonner au malheureux Eltolth sa forme habituelle. S'il est administré en surdose, il devrait donner un bonus en force bien agréable. Boire la bouteille entière devrait donner cet effet.~
+
+@10   = ~Alanna~
+@11   = ~Eltolth~
+@12   = ~Tulbor~
+
+@14   = ~Mme Dudley~
+@15   = ~M. Dudley~
+@16   = ~Annie Dudley~
+@17   = ~Collier de la famille Dudley~
+@18   = ~Ce collier de perles est le bijou de famille tant recherché des Dudley.~
+
+@20   = ~Mme Boisnoir~
+@21   = ~Sarah~
+@22   = ~Tom~
+@23   = ~Tina~
+@24   = ~Poupée de Sarah~
+@25   = ~Il s'agit de la poupée de Sarah. Les couleurs de son visage se fanent déjà, mais elle est habillée avec une robe et des chaussures tricotées avec soin.~
+@26   = ~Nounours de Tom~
+@27   = ~C'est l'ours en peluche de Tom. Il a l'air vieux, élimé, sale et collant, exactement ce à quoi on peut s'attendre pour le nounours adoré d'un enfant.~
+@28   = ~Bouteille de Sarah~
+@29   = ~Il s'agit de la bouteille de Sarah, que Mme Boisnoir vous a donnée. Elle est couverte de traces d'un liquide gluant, avec évidemment du sable et de la poussière en sus. Vous n'avez pas la moindre envie d'en boire.~
+@30   = ~Bouteille de Tom~
+@31   = ~Il s'agit de la bouteille de Tom, que Mme Boisnoir vous a donnée. Elle est couverte de traces d'un liquide gluant, avec évidemment du sable et de la poussière en sus, ainsi que quelques feuilles, graines et une fourmi morte. Vous n'avez pas la moindre envie d'en boire.~
+@32   = ~Sucreries~
+@33   = ~Ce sont des bonbons que Mme Boisnoir vous a donnés pour les enfants. Il s'agit de bonbons de couleur, sucrés et collants.~
+@34   = ~Bonbons~
+@35   = ~Ce sont des bonbons que Mme Boisnoir vous a donnés pour les enfants. Ils ressemblent à des amandes enrobées de sucre candi.~
+@36   = ~Manteau de Sarah~
+@37   = ~Il s'agit du manteau de Sarah.~
+
+@40   = ~Arnim~
+@41   = ~Dame von Undenzieht~
+@42   = ~Sire von Undenzieht~
+
+@44   = ~Dauron~
+@45   = ~Badaud~
+@46   = ~Mère de Luisa~
+@47   = ~Nounou~
+
+@49   = ~Leila~
+
+@51   = ~Uguth~
+@52   = ~Viola~
+@53   = ~Mme Kenn~
+@54   = ~M. Kenn~
+//@55   = ~Installation de la rencontre étendue de Bjornin...~
+
+@57   = ~Sir Trun~
+@58   = ~Linda~
+@59   = ~Antidote de substitution~
+@60   = ~Ceci est l'antidote bon marché. Il devrait redonner à Eltolth sa forme habituelle...~
+
+
+/* new contents: v9 */
+
+
+@62   = ~Hamster~
+@63   = ~Il s'agit du hamster du vendeur du magasin d'animaux, qui est "resté" avec Minsc ou plutôt Bouh... Vous le soupçonnez fortement d'être de sexe opposé à Bouh, et vu ce dont vous vous souvenez au sujet de la fréquence de reproduction chez les petits rongeurs, les garder ensemble pourrait avoir des "conséquences" très bientôt.~ 
+@64   = ~Il s'agit d'un des petits hamsters nés de la liaison entre Bouh et l'autre hamster anonyme.~
+@65   = ~Edward~
+
+
+@67   = ~Combattant~
+
+@99   = ~Mage~
+@100  = ~Teodor~
+@101  = ~Œuf~
+@102  = ~Il s'agit d'une sorte d'œuf que le coursier vous a donné en remerciement de l'avoir secouru. Il se porte comme une pierre ionique et donne une véritable impression de puissance. Vous avez la sensation que quelque chose bouge à l'intérieur.~
+@103  = ~Œuf de l'araignée gelée~
+@104  = ~Il s'agit de l'œuf conservé d'une nécro-araignée. Il se porte comme une pierre ionique ; il a certes l'air assez dégoûtant, mais il protège son porteur contre la paralysie magique.
+
+PARAMÈTRES :
+
+Spécial : le porteur est immunisé aux sorts de paralysie.
+Charisme : abaissé de 3 points lorsqu'il est porté.
+
+Poids : 2~
+
+/* new contents v10 */
+
+
+@106  = ~La vieille mère~
+
+/* new content v15 */
+
+@107 = ~Maison du voisin d'Alanna~
+@108 = ~Vendeur d'animaux de compagnie~
+
+/* new content v16 */
+
+@110  = ~L'épée de Brage~
+@111  = ~Épée à deux mains +1 de Brage~
+/* unidentified description bg1:totsc */
+@112  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+
+C'est l'épée que Brage a commandée à Eauprofonde.
+
+PARAMÈTRES :
+
+Dégâts : 1d10
+Type de dégâts : tranchant
+Poids : 15
+Facteur de vitesse : 10
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+/* identified description bg1:totsc */
+@113  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
+
+C'est l'épée que Brage a commandée à Eauprofonde.
+
+PARAMÈTRES :
+
+Dégâts : 1d10 +1
+TAC0 : +1 bonus
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+/* unidentified description tutu / bgt */
+@114  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+
+C'est l'épée que Brage a commandée à Eauprofonde.
+
+PARAMÈTRES :
+
+Dégâts : 1d10
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 10
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite : 14 en Force
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur
+ Moine
+ Belluaire~
+/* identified description tutu / bgt */
+@115  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
+
+C'est l'épée que Brage a commandée à Eauprofonde.
+
+PARAMÈTRES :
+
+Dégâts : 1d10 +1
+TAC0 : +1 bonus
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite : 14 en Force
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur
+ Moine
+ Belluaire~
+/* identified description bgee / eet */
+@116  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
+
+C'est l'épée que Brage a commandée à Eauprofonde.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : 1d10+1 (tranchant)
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite :
+ 14 en Force
+
+Poids : 12~
+@117  = ~Hick~
+@118  = ~Mon serviteur Mulahey,
+
+Votre stupide négligence à poussé D. à intervenir. Il a envoyé une belle surprise au commandant de Nashkel, qui trouvera sa nouvelle épée plus particulière qu'il ne s'y attendait. Les forces amniennes sont affaiblies pour le moment et ne viendront pas dans les niveaux inférieurs des mines. Quoi qu'il en soit, préparez-vous à des intrusions, car bon nombre de groupes sont suffisamment motivés pour enquêter sur les rapports d'observation de vos imbéciles de kobolds. Ne me décevez pas une nouvelle fois. 
+
+TAZOK~
+@119  = ~Borda,
+
+Nous nous moquons que vous accomplissiez de votre mieux la tâche que nous vous avons confiée. Ce n'est pas de notre faute si le commandant est parti enquêter seul et a ainsi trouvé la nouvelle épée alors qu'il voyageait au lieu d'être à l'intérieur de sa caserne. C'est votre incompétence qui a failli tout faire échouer. Vous avez de la chance que cet imbécile soit finalement retourné à Nashkel, de sorte que l'or que nous avons dépensé pour cette lame maudite n'a pas été entièrement perdu. Non, vous ne recevrez pas le deuxième montant de votre paiement. Vous pouvez toujours garder l'épée originale que Brage était censé recevoir. C'est une compensation suffisante. Soyez heureux que nous ne lancions pas à votre poursuite.
+
+TAZOK~
+@120  = ~Tazok,
+
+Je demande à ce que vous me payiez la deuxième moitié de ce que nous avons convenu, le commandant ne massacrant que sa propre famille et non la moitié de la garnison n'est pas de mon fait. Les forces de Nashkel sont affaiblies et c'était l'accord convenu ! Vous pouvez envoyer toutes les lettres qui me sont destinées à mon contact au festival de Nashkel. J'ai trouvé un marchand assez désespéré pour acheter certaines de mes potions spéciales, il me transmettra également toutes les lettres.
+
+Borda~
+@121  = ~Lettre au Capitaine Tollar Kieres~
+@122  = ~Cette lettre porte le sigle officiel du Consortium des Marchands de la Porte de Baldur. Elle vous a été remise par Aldeth Sashenstar, elle est adressée au capitaine Kieres qui réside actuellement dans le bureau des comptes du Consortium dans la partie nord-est de la ville.~ 
+
+@123  =  ~Chevalière du Consortium des Marchands~
+@124  =  ~Ces anneaux ne sont remis qu'aux personnes qui jouissent de la pleine confiance du Consortium des Marchands. Ils servent d'identification et doivent vous permettre d'accéder librement au bureau des comptes, dont l'accès est normalement restreint.
+On raconte que ces anneaux sont l'une des raisons du succès du Consortium, car ils sont apparemment enchantés.
+
+PARAMÈTRES :
+
+Capacités de charges :
+- Chance 3 fois par jour
+- Charme-personne 3 fois par jour~
+@125  = ~L'épée à deux mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leurs temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. Cette arme est particulièrement efficace, car elle a reçu des propriétés magiques.
+
+C'est l'épée que Brage a commandée à Eauprofonde.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : 1d10+1 (tranchant)
+Facteur de vitesse : 9
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite :
+ 14 en Force
+
+Poids : 12~
+
+
+
+@126  = ~Maison du fermier inquiet~
+
+
+
+
+
+
+@2002    = ~Goule~
+@2003    = ~Fermier~
+@2004	 = ~Un fermier inquiet
+
+Un fermier m'a demandé de le rejoindre à son domicile, si nous souhaitons nous occuper de ce qui le tracasse.~
+@2005	 = ~Un fermier inquiet
+
+Le fermier de Bérégost n'a plus à s'inquiéter désormais, la goule qui le hantait chaque nuit est maintenant vraiment morte.~
+@2006	 = ~Un fermier inquiet
+
+Un fermier nous à dit qu'il a vu une chose rôder près de sa maison, cependant il ignore ce que c'est.~
+
+@2007	 = ~Un fermier inquiet~
+
+@9002    = ~Sylar~
+@9003	 = ~Des corps pour une bonne cause
+
+Dans le Magasin de Silence j'ai rencontré un nécromancien elfe nommé Sylar. Apparemment il a découvert une nouvelle méthode de nécromancie pour ressusciter à la manière d'un clerc. S'il fait ça, il pourra améliorer l'image des arts nécromantiques, enfin c'est ce qu'il prétend. Quoi qu'il en soit, pour ses recherches, il a besoin de corps que je pourrais récupérer pour lui dans les égouts.
+Il est prêt à me payer 150 pièces d'or par corps livré.
+
+Je peux donc faire d'une pierre trois coups : Aider la science, acquérir davantage d'or et faire quelque chose pour l'environnement !~
+
+@9004	= ~Des corps pour une bonne cause
+
+Dans le Magasin de Silence j'ai rencontré un nécromancien elfe nommé Sylar. Apparemment il a découvert une nouvelle méthode de nécromancie pour ressusciter à la manière d'un clerc. S'il fait ça, il pourra améliorer l'image des arts nécromantiques, enfin c'est ce qu'il prétend. Quoi qu'il en soit, pour ses recherches, il a besoin de cadavres que je pourrais récupérer pour lui dans les égouts.
+Il est prêt à me payer 150 pièces d'or par corps livré.
+
+Cependant, je n'ai pas envie de lui porter assistance. Si je change d'avis, je sais où je peux le trouver.~
+
+@9005	= ~Des corps pour une bonne cause~
+
+
+
+//Journal entries...
+
+//slime quest
+
+@10000  = ~Bérégost : le voisin d'Alanna a des ennuis~
+@10001  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+Une femme désespérée nommée Alanna m'a abordé à Bérégost. Il y a quelque chose qui ne va pas chez son voisin. Je devrais aller voir.~
+@10002  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+Une femme désespérée nommée Alanna m'a abordé à Bérégost. Il y a quelque chose qui ne va pas chez son voisin.~
+@10003  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+Eltolth m'a donné 200 pièces d'or en récompense. J'ai quitté sa maison en sachant que j'avais rendu deux personnes heureuses.~
+@10004  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+J'ai trouvé la personne qui a vendu la potion de transformation à Eltolth, mais j'ai besoin d'une preuve de sa culpabilité.~
+@10005  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+L'élixir de transformation pour Eltolth va coûter 100 pièces d'or !~
+@10006  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+L'autre potion n'a pas fonctionné. Bon, je présume qu'ils trouveront de l'aide ailleurs.~
+@10064   = ~Bérégost : le voisin d'Alanna a des ennuis
+
+La potion alternative n'a pas fonctionné. Mais le spectacle en valait la peine, cette femme en train d'embrasser le limon !~
+@10007  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+Oups. On dirait qu'Alanna et son voisin sont paisiblement unis... en tant que limons (morts). Tulbor ne mentait pas quand il m'avait averti des effets secondaires indésirables possibles de cet antidote bon marché.~
+@10008  = ~Bérégost : le voisin d'Alanna a des ennuis
+
+On dirait que cet Eltolth n'a aucun sens de l'humour. Il a fallu que je le... la tue.~
+
+
+//family treasure: c#q02005.tra
+
+
+@10009  = ~Querelle de famille à Bérégost~
+@10010  = ~Querelle de famille à Bérégost
+
+J'ai rencontré un drôle de couple dans l'une des maisons de Bérégost. Apparemment, l'homme et son épouse ne se parlent plus. Je devrais peut-être m'intéresser à cette histoire.~
+@10011  = ~Querelle de famille à Bérégost
+
+J'ai acheté le collier à la famille Dudley pour les 500 pièces d'or promises. Leurs problèmes pécuniaires devraient être résolus maintenant.~
+@10012  = ~Querelle de famille à Bérégost
+
+J'ai acheté le collier à la famille Dudley. Au lieu de leur donner seulement les 500 pièces d'or promises, j'ai réussi à "glisser" 50 pièces d'or supplémentaires dans la bourse de M. Dudley. J'espère que toute la famille va bien maintenant.~
+@10013  = ~Querelle de famille à Bérégost
+
+J'ai acheté le collier à la famille Dudley. Au lieu de leur donner seulement les 500 pièces d'or promises, j'ai réussi à "glisser" 100 pièces d'or supplémentaires dans la bourse de M. Dudley. J'espère que toute la famille va bien maintenant.~
+@10014  = ~Querelle de famille à Bérégost
+
+J'ai promis aux Dudley à Bérégost d'acheter leur collier de perles pour 500 pièces d'or.~
+@10015  = ~Querelle de famille à Bérégost
+
+Le problème est résolu. Leur fille avait pris le collier, pour ne pas qu'il soit vendu... Elle va le rendre.~
+@10016  = ~Querelle de famille à Bérégost
+
+M. Dudley m'a rendu l'argent supplémentaire... Les Dudley sont des gens honnêtes et fiers. Bon, leurs problèmes pécuniaires doivent être résolus maintenant.~
+@10017  = ~Querelle de famille à Bérégost
+
+M. Dudley voulait me rendre l'argent supplémentaire... Les Dudley sont des gens honnêtes et fiers. Cependant j'ai pu le convaincre de le garder. Leurs problèmes pécuniaires doivent être résolus maintenant.~
+@10018  = ~Querelle de famille à Bérégost
+
+J'ai résolu le problème, en quelque sorte.~
+@10019  = ~Querelle de famille à Bérégost
+
+Le problème est résolu. Leur fille avait pris le collier pour ne pas qu'il soit vendu... Je le leur ai rendu.~
+
+
+/* Babysitting in Nashkel: c#q03008_9_10_11.tra */
+
+
+@10020  = ~Garde d'enfants à Nashkel~
+@10021  = ~Garde d'enfants à Nashkel
+
+La mère est revenue chercher ses deux enfants. Pour autant que je sache, tout s'est bien passé.~
+@10022  = ~Garde d'enfants à Nashkel
+
+J'ai proposé de garder deux enfants à Nashkel, mais leur mère a refusé. On dirait que je n'inspire pas assez confiance... Pour l'instant.~
+@10023  = ~Garde d'enfants à Nashkel
+
+J'ai accepté de garder deux enfants à Nashkel. Leur mère attend avec ses enfants que je trouve un peu de temps pour m'acquitter de mon offre.~
+@10024  = ~Garde d'enfants à Nashkel
+
+J'avais proposé de garder deux enfants à Nashkel, mais j'ai finalement retiré mon offre. Cependant leur mère semble assez désespérée et accepterait sans doute mon aide si je changeais d'avis à nouveau.~
+@10025  = ~Garde d'enfants à Nashkel
+
+J'ai accepté de garder deux enfants à Nashkel. Leur mère devrait être de retour dans une demi-heure et s'attend à nous retrouver au même endroit. Pour éviter tout malentendu, je dois rester dans le coin.~
+@10065  = ~Garde d'enfants à Nashkel
+
+J'ai rencontré à Nashkel une mère avec deux... garnements. Je les ai envoyés paître. Je ne supporte pas les jérémiades des enfants !~
+@10066  = ~Garde d'enfants à Nashkel
+
+Hum, on dirait que cette mère à Nashkel a rencontré une paire de solides guerriers au grand cœur, qui pensaient devoir me donner une leçon. Je crois qu'ils n'ont pas vécu assez longtemps pour apprendre les leurs...~
+
+
+/* Nashkel Monster: c#q04001_3_4_5.tra */
+
+@10026  = ~Le monstre de Nashkel
+
+J'ai tué un bébé wiverne à Nashkel, qui poursuivait un petit garçon...~
+@10027  = ~Le monstre de Nashkel~
+@10028  = ~Le monstre de Nashkel
+
+Les parents du petit garçon voulaient me faire arrêter par les soldats. Ce garçon avait, à l'évidence, menti au sujet de notre première rencontre. J'ai décidé de combattre les représentants de l'ordre locaux.~
+@10029  = ~Le monstre de Nashkel
+
+Les parents du petit garçon voulaient me faire arrêter par les soldats. Ce garçon avait, à l'évidence, menti au sujet  de notre première rencontre parce qu'ayant perdu son animal "domestique exotique", il avait peur de la colère de son père. Fort heureusement, j'ai réussi à m'expliquer.~
+@10030   = ~L'œuf mystérieux~
+@10031   = ~L'œuf mystérieux
+
+Nous avons rencontré le mage qui était supposé recevoir l'œuf de pierre. Il a dit des choses étranges, il a parlé d'une mauvaise surprise si je ne montrais pas l'œuf à un mage puissant...~
+@10032   = ~L'œuf mystérieux
+
+L'œuf a été neutralisé pour de bon. Il reste cependant magique et pourrait nous être utile. C'était un œuf de nécro-araignée, prêt à éclore ! Il n'y a plus de danger maintenant.~
+@10033   = ~L'œuf mystérieux
+
+J'ai libéré un homme retenu prisonnier dans une caverne par un brigand qui dressait des wivernes ! Il m'a donné une étrange pierre en forme d'œuf. Il a dit que le mage à qui elle était censée être livrée était peut-être encore en route vers la Porte de Baldur. Peut-être devrais-je la lui rendre.~
+@10034   = ~L'œuf mystérieux
+
+L'œuf a été détruit. C'était l'œuf d'une nécro-araignée, prêt à éclore ! Maintenant il n'y a plus de danger.~
+@10035   = ~L'œuf mystérieux
+
+L'œuf était celui d'une nécro-araignée, et il a éclos dans mon sac à dos !~
+@10067   = ~L'œuf mystérieux
+
+J'ai libéré un coursier retenu prisonnier dans une caverne par un brigand qui dressait des wivernes ! Il m'a donné un œuf de nécro-araignée, mis en conserve mais toujours vivant ! Il a dit que le mage à qui il était censé être livré était peut-être encore en route vers la Porte de Baldur. Peut-être devrais-je le lui rendre.~
+
+
+/* Fallen Paladin: from c#q05001.tra */
+
+@10036   = ~Le paladin déchu du temple de Heaum~
+@10037   = ~Le paladin déchu du temple de Heaum
+
+Le paladin déchu a dit qu'il avait été dupé par un démon qui avait envoûté la petite fille. Le pouvoir de ce démon était trop grand de sorte qu'il ne s'en est rendu compte qu'après avoir tué la petite fille.~
+@10038   = ~Le paladin déchu du temple de Heaum
+
+J'ai rencontré une femme qui parlait d'un enfant qui avait soudain développé de grands pouvoirs magiques, suffisamment pour la téléporter de Luskan à la Porte de Baldur ! Cette histoire ressemble énormément à celle de l'enfant que le paladin a tuée. Peut-être devrais-je lui en parler, si je souhaite lui venir en aide.~
+@10039   = ~Le paladin déchu du temple de Heaum
+
+La mère de l'enfant défunt a confirmé l'histoire du paladin au sujet de l'envoûtement démoniaque. Elle a dit que sa fille avait soudain développé de grands pouvoirs magiques. Cela me rappelle l'anecdote de la nounou que j'ai récemment rencontrée dans la ville. Se pourrait-il que l'enfant à Luskan dont elle parlait montre les mêmes "symptômes" ? Peut-être devrais-je en parler au paladin, si je souhaite lui venir en aide.~
+@10040   = ~Le paladin déchu du temple de Heaum
+
+La mère de l'enfant défunt a confirmé l'histoire du paladin au sujet de l'envoûtement démoniaque. Elle a dit que sa fille avait soudain développé de grands pouvoirs magiques. Elle m'a demandé de ne pas divulguer cette information.~
+@10041   = ~Le paladin déchu du temple de Heaum
+
+Il y a dans le temple de Heaum à la Porte de Baldur un paladin déchu, accusé d'avoir assassiné une jeune enfant !~
+@10042   = ~Le paladin déchu du temple de Heaum
+
+La petite fille que le paladin a tuée habitait une maison adjacente à l'entrée du palais ducal. Je devrais peut-être aller là-bas si je souhaite obtenir des détails au sujet de ce qui s'est produit.~
+@10043   = ~Le paladin déchu du temple de Heaum
+
+Sir Dauron, le paladin déchu, est parti à la recherche de la nounou de Luskan que j'ai rencontrée récemment, dans l'espoir qu'elle le mène à un autre enfant qui pourrait aussi être soumis à l'envoûtement d'un démon. Peut-être réussira-t-il à vaincre ce démon à Luskan... Ce serait vraiment un épilogue heureux à cette triste histoire.~
+@10044   = ~Le paladin déchu du temple de Heaum
+
+J'ai décidé de résoudre le problème... d'une manière tout-à-fait irrévocable.~
+
+
+////////////////////////////////////////////////
+/* Undying Love: c#q06001_2.tra */
+
+@10045   = ~Une veuve effrayée dans le village de pêcheurs~
+@10046   = ~Une veuve effrayée dans le village de pêcheurs
+
+Dans le village de pêcheurs, une femme est menacée par un monstre qui se cache derrière sa maison. Elle veut que je le tue.~
+@10047   = ~Une veuve effrayée dans le village de pêcheurs
+
+J'ai tué le mari mort-vivant de cette femme. Elle va enfin pouvoir vivre en paix.~
+@10048   = ~Une veuve effrayée dans le village de pêcheurs
+
+J'ai tué le mort-vivant qui menaçait cette femme. Elle devrait pouvoir vivre en paix maintenant.~
+@10049   = ~Une veuve effrayée dans le village de pêcheurs
+
+J'ai suggéré à cette veuve de respecter son contrat, et elle a quitté le village.~
+
+
+/* Ork Lover: c#q07001.tra */
+
+@10050   = ~Des attaques d'orques à la Porte de Baldur~
+@10051   = ~Des attaques d'orques à la Porte de Baldur
+
+La rumeur au sujet d'attaques d'orques dans une maison de la porte de Baldur n'était rien d'autre... qu'une rumeur, justement. Il s'agissait juste d'Uguth, un malheureux demi-orque dont la seule apparence avait suffi pour alimenter la rumeur. C'est toujours comme ça que ça se passe !~
+@10052   = ~Des attaques d'orques à la Porte de Baldur
+
+Une rumeur court comme quoi une maison proche de la taverne du Chant de l'Elfe a été attaquée par des orques et que ses habitants ont besoin d'aide.~
+
+
+/////////////////////////////////////////
+/* Unexpected Help: c#q08001.tra */
+
+
+@10053   = ~Linda et Sir Trun~
+@10054   = ~Linda et Sir Trun
+
+J'ai aidé Sir Trun à résoudre son problème. Il va former Linda au combat à l'épée. Espérons qu'ils arrivent à surmonter la terrible aventure qu'ils ont vécue.~
+@10055   = ~Linda et Sir Trun
+
+J'ai rencontré Linda à l'auberge de Château-Suif. C'est la fiancée de Sir Trun, qui récupère de ses blessures à l'infirmerie de Château-Suif. Ils ont fait une rencontre traumatisante et ne se sont pas parlés depuis.~
+
+
+///////////////////////////////////////////////////////////
+/* Hamster Business */
+
+@10056   = ~Le dilemme du hamster~
+@10057   = ~Le dilemme du hamster
+
+Nous nous sommes débarrassés du deuxième hamster... J'espère que Bouh n'a pas trop le cœur brisé.~
+@10058   = ~Le dilemme du hamster
+
+Minsc a réussi, je ne sais comment, à prendre un hamster à ce marchand d'animaux de compagnie et refuse de s'en débarrasser, il n'acceptera que de le rendre au marchand. Je présume qu'il va falloir que je me mette à sa recherche.~
+@10059   = ~Le dilemme du hamster
+
+Nous nous sommes débarrassés du deuxième hamster... J'espère que Bouh n'a pas trop le cœur brisé. Il ne nous reste que les petits. Il faut que je m'en débarrasse avant qu'ils n'aient grandi... N'y avait-il pas un garçon au festival de Nashkel, qui voulait à tout prix un hamster ?~
+@10060   = ~Le dilemme du hamster
+
+Nous nous sommes débarrassés du deuxième hamster... et de tous les petits.~
+
+/* new for v16 */
+
+@10069   = ~Le dilemme du hamster
+
+Le garçon au festival de Nashkel a pris tous les petits hamsters. J'ai le sentiment qu'il en fera de même à l'avenir, si cette situation se présente à nouveau.~
+
+
+
+/////////////////////////////////////////////////////////
+/* Drunk near Beregost Temple */
+
+@10061   = ~L'ivrogne près du temple de Bérégost~
+@10062   = ~L'ivrogne près du temple de Bérégost
+
+J'ai rencontré un homme ivre près du temple de Bérégost. Il est évident qu'il sera incapable de s'en sortir si une quelconque bête sauvage l'attaque, mais il refuse pourtant mon aide. Peut-être devrais-je informer quelqu'un de sa présence.~
+@10063   = ~L'ivrogne près du temple de Bérégost
+
+Les prêtres de Lathandre vont s'occuper de Polus l'ivrogne. Comme ça, il sera en sécurité.~
+
+/* @10064 - @10067 used above */ 
+
+@10068   = ~L'ivrogne près du temple de Bérégost
+
+J'ai évité à cet ivrogne de futurs ennuis supplémentaires. En quelque sorte.~
+
+/* @10069 used above */
+
+
+@10100   = ~Legal Sea Chart Sources~
+// @25 from calabald.tra
+@10101   = ~Legal Sea Chart Sources
+
+Calahan, un marin de la Barbe d'Ulgoth a proposé de m'apporter les cartes maritimes dont j'ai besoin pour l'excursion de Mendas. Il sera de retour à la Barbe d'Ulgoth dans deux jours.~
+// @26 from calabald.tra
+@10102   = ~Legal Sea Chart Sources
+
+Calahan, à la Barbe d'Ulgoth veut 3 000 pièces d'or supplémentaires pour les cartes maritimes !~
+@10103   = ~Legal Sea Chart Sources
+
+I received the sea charts from Calahan.~
+@10104   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
+@10105   = ~Legal Sea Chart Sources
+
+Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
+@10106   = ~Legal Sea Chart Sources
+
+I received the sea charts from Captain Kieres using the help of Aldeth without having to steal them.~
+//part of @24 from aldeth_seacharts.tra
+@10107   = ~Legal Sea Chart Sources
+
+Aldeth gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain.~
+@10108   = ~Legal Sea Chart Sources
+
+Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He wants 5000 gold!~
+@10109   = ~Legal Sea Chart Sources
+
+I told Calahan I will not buy the sea charts from him.~
+@10110   = ~Legal Sea Chart Sources
+
+In the end, I stole the sea charts from Captain Kieres.~
+
+
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on ? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES"
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+
+@-1036= "Saute le GROUPE ["
+@-1037= "] pour cause d'absence des pre-requis."
+
+@-1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@-1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@-1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@-1041= "Tcheque"
+@-1042= "Allemand"
+@-1043= "Anglais"
+@-1044= "Espagnol"
+@-1045= "Francais"
+@-1046= "Italien"
+@-1047= "Polonais"
+@-1048= "Portugais"
+@-1049= "Turc"
+@-1050= "Japonais"
+@-1051= "Coreen"
+@-1052= "Chinois simplifie"
+@-1053= "Russe"
+@-1054= "Ukrainien"
+
+@-1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@-1061= "
+Utilisation de"
+@-1062= " et "
+
+@-1063= "INSTALLATION ABANDONNEE"
+@-1064= "Abandon de l'installation de ["
+@-1065= "], retour a l'etat anterieur"

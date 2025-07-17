@@ -1,0 +1,244 @@
+/* This file is the same as in Brage Redemption mod. Please check if an existing translation in your language is not already available */
+@0    = ~¡Puede que seamos una guarnición sin Comandante, pero no hemos perdido nuestra habilidad para defender esta ciudad!~
+@1    = ~Guau, eso fue impresionante. ¡Sabíamos que nuestro Comandante no se había vuelto loco! El pobre hombre tiene mucho que enfrentar ahora. ¡No me gustaría seguir viviendo, sabiendo que masacré a mi familia! Aún así, gracias por encontrar evidencias. No debería ser recordado como un asesino loco.~
+@2    = ~Guau, nunca hubiera pensado que Brage realmente había perdido la cabeza. Supongo que será recordado como un asesino loco.~
+@3    = ~Siento haberos gritado allí. Es por nuestro Comandante. Si no lo hubieramos dejado ir solo a esa misión... Pero insistió, porque se suponía que era un solo cadáver. Pero cuando finalmente llegamos allí, todo lo que encontramos fue un carro destrozado y la vieja espada del Comandante en el medio, así que pensamos que estaría en problemas. Y luego volvimos aquí y... y encontramos a su familia y... No le diréis nada a nuestro teniente sobre mis gritos, ¿verdad? Sin resentimientos, ¿eh?~
+@4    = ~Se os busca por asesinato, Comandante Brage. Estoy aquí para llevaros ante la justicia. Acompañadme a las autoridades de Nashkel, para recibir vuestra sentencia final.~
+@5    = ~Presento mi culpa ante vos. Muchas vidas he tomado... y no sé por qué. Haced vuestro juicio sobre mí. Estoy listo para recibir la sentencia que he traído sobre mí mismo con mis malas acciones.~
+@6    = ~Brage, ¿qué pasó esa noche?~
+@7    = ~Adiós.~
+@8    = ~¿Los rumores no lo dicen todo? ¿No lo oísteis decir en los cuarteles, en las posadas? ¿Oublek no os dijo lo que hice con estas manos? ¿Por qué queréis que os cuente cómo masacré a mi familia, a mi querida esposa e hijas... Mis camaradas, ¡vienen a rescatarme! ¿Cómo masacré y destruí toda una caravana, esas personas inocentes que apenas lograron evitar a los bandidos del camino? Cómo incluso... incluso ataqué a un hombre que ya estaba muerto hasta que no quedó nada...~
+@9    = ~¿No os preguntáis qué os hizo hacer eso? ¿No sospecháis que podría haber sido algo más que perder el control?~
+@10   = ~Er, quise decir *antes* de eso.~
+@11   = ~Algo os hizo enloquecer. ¿Qué recordáis de lo que pasó antes?~
+@12   = ~Ah, no, no necesito escuchar eso de nuevo. ¡Sois un asesino, y por suerte el templo os cogió!~
+@13   = ~No creo que quiera escuchar más.~
+@14   = ~No perdáis vuestro tiempo conmigo, amigos. No valgo vuestro aliento, a menos que sea para maldecirme por lo que he hecho.~
+@15   = ~¿Antes? Nada especial sucedió antes. Un borracho reportó un cadáver en las carreteras. Dijo que parecía un comerciante, con muchas mercancías todavía encima. Yo... yo sospeché y fui a investigar. Si el cadáver no fue saqueado, entonces no podrían ser los bandidos los que mataron. Y si fuera el comerciante que estaba buscando, necesitaría asegurarme de que las mercancías estuvieran seguras, como mínimo. Había encargado una nueva espada hacía un tiempo. Y con la crisis de hierro y todo eso, había estado esperando mucho tiempo por una espada fiable de la lejana Aguas Profundas.~
+@16   = ~Y de hecho, era el comerciante que estábamos esperando. Revisé la mercancía y encontré una espada a mi nombre. La cogí...~
+@17   = ~El resto es un borrón. Recuerdo haber hecho lo que hice, pero por qué... el por qué no lo sé.~
+@18   = ~Bueno, ahora sabemos que la espada estaba maldita.~
+@19   = ~Bueno, algo andaba mal con esa espada. Eso es seguro.~
+@20   = ~¿No recordáis nada más? ¿Algo especial? ¿Alguna pista sobre lo que le pasó a ese comerciante?~
+@21   = ~Dijisteis que la mercancía todavía estaba con él. ¿Qué lo mató entonces?~
+@22   = ~No creo que esto lleve a ninguna parte. Adiós.~
+@23   = ~Amigo, si hubierais recordado haber hecho todas estas cosas como yo... ¡Ver el miedo en los ojos de los que amabais, escuchar sus gritos mientras los masacrabais! No hay duda de que *yo* hice todo esto, y lo recuerdo todo... claramente...~
+@24   = ~Maldito... No cambia estos horribles recuerdos en mi cabeza, ni la carnicería que he provocado.~
+@25   = ~Sí, ¡yo empuñándola era lo que estaba mal con esa espada!~
+@26   = ~Desafortunadamente, con toda esta actividad de los bandidos, encontrar un cadáver no es nada raro hoy en día. Pero ver el carro de empuje todavía lleno de mercancías... Eso era realmente inusual. Primero pensé que debía haber sido un ataque animal, pero fue una espada la que hizo eso. Ese comerciante fue asesinado por bandidos, pero no tocaron su mercancía.~
+@27   = ~Bueno, ya no lo son. Lo primero que hice después de levantar la espada fue destruir todo lo que había en ese camino... Eso, amigo mío, es todo lo que puedo deciros.~ ~Bueno, ya no lo son. Lo primero que hice después de levantar la espada fue destruir todo lo que había en ese camino... Eso, amiga mía, es todo lo que puedo deciros.~
+@28   = ~Por favor, dejadme en paz. Necesito expiar mis pecados.~
+@29   = ~No perdáis vuestro tiempo. La horca es todo lo que me espera. Es el único lugar para un asesino como yo.~
+@30   = ~Os agradezco que hayáis creído en mí, <CHARNAME>. Ahora veo que ese es el castigo correcto: vivir con toda la sangre en mis manos. Expiaré mis obras. Muchas son las familias que han perdido a un padre... a un ser querido como resultado de mis actos, y me ocuparé de que al menos sean compensados con algo de oro... todo lo que pueda reunir. Nalin me ofreció un lugar aquí en el templo, así que aquí me quedaré, por ahora.~
+@31   = ~Aprecio la oportunidad de trabajar por la expiación y agradezco a los dioses la misericordia que me han mostrado. Y vos, <CHARNAME>. Que vuestro camino sea pacífico.~
+@32   = ~Trabajaré duro para esto. Nunca olvidaré el esfuerzo que pusisteis para darme esta oportunidad.~
+@33   = ~Brage, encontré la espada que se suponía que debíais recibir. Es una espada de dos manos muy fina. Tomadla, es vuestra.~
+@34   = ~Brage. Esta espada es vuestra, vos pagasteis por ella. ¡Cogedla!~
+@35   = ~Brage. La espada es vuestra y quiero que la cojáis.~
+@36   = ~¿Qué? No. No, nunca volveré a tomar una espada en mis manos. Quedárosla vos, buen hombre. Hará mucho más bien en vuestras manos.~ ~¿Qué? No. No, nunca volveré a tomar una espada en mis manos. Quedárosla vos, buena mujer. Hará mucho más bien en vuestras manos.~
+@37   = ~¿Por qué me atormentáis, <CHARNAME>? ¡Seguro que veis que no puedo volver a empuñar una espada! Vendedla si no la necesitáis, pero no la tocaré.~
+@38   = ~Pero... ¿por qué? ¿Por qué insistís? ¿No está claro que nunca más debería tocar una espada?~
+@39   = ~Dijisteis que queríais ganar la mayor cantidad de oro posible para pagar por las viudas y los huérfanos. Bueno, luchar y proteger a la gente es todo lo que habéis aprendido, Brage. Estoy seguro de que limpiar el templo es un trabajo importante, pero ¿no creéis que podríais recolectar más oro trabajando como mercenario o como guardia personal?~
+@40   = ~Bueno, vendedla vos mismo si no queréis quedárosla. De cualquier manera, es vuestra.~
+@41   = ~Bueno... Todavía hay muchos bandidos por ahí, ¿no? Podría... Podría proteger a los débiles en el camino...~
+@42   = ~No, no la venderé. No me beneficiaré de esa espada. Os la dejo a vos, <CHARNAME>, porque os será más útil.~
+@43   = ~De acuerdo, si ese es vuestro último deseo, os lo agradezco.~
+/* Do not change line 44, it needs to be the same as in Brage Redemption mod */
+@44   = ~Es un pensamiento intrigante, pero no tengo la confianza en mí mismo para hacer esto ahora. Lo haré... cogeré la espada. ¡Helm dame fuerzas! Sé que vuestras palabras son ciertas, pero yo... no estoy listo para enfrentarlo ahora. Me quedaré aquí y haré todo lo que pueda... por ahora.~
+@45   = ~Os lo agradezco, <CHARNAME>.~
+@46   = ~Entonces, trajisteis a Brage con vida. No me importan las lágrimas que los demás derramen por este 'Comandante'. ¡Toda esta charla sobre el honor y la rectitud de Brage y las sospechas de que hay una mala magia involucrada!~
+@47   = ~La sentencia para este asesino será rápida y fácil, considerando todo lo que apunta a su culpabilidad. Es casi una pena que el juicio de Brage tenga que esperar un tiempo, con la guardia actualmente reducida y ocupada como está. ¡Bueno, no importa, de esta manera el asesino tendrá algo de tiempo para 'prepararse' para su último día!~
+@48   = ~Ah, pero ¿por qué dejasteis que se escondiera en el templo?~
+@49   = ~El sacerdote Nalin confirmó que no estaba hechizado cuando lo trajisteis. Brage dijo que os dio su espada. Debo pediros un favor, que vayáis aver a Nalin y le permitais demostrar que no hay nada sospechoso en esta espada. De esa manera, este rumor de que Braga es en realidad inocente puede finalmente llegar a su fin. Vamos, ¿qué más pruebas necesitáis de que es un asesino? ¡¿No es suficiente la masacre que Brage cometió contra su propia familia y camaradas?!~
+@50   = ~Ah, <CHARNAME>. Me han llegado las noticias sobre vuestros esfuerzos por probar la inocencia de Brage y os apoyaré en todo lo que pueda. Dejadme echar un vistazo a esa espada.~
+@51   = ~(Mostrar la espada correcta) Aquí está.~
+@52   = ~No la llevo encima.~
+@53   = ~Bueno... Tengo la espada correcta, y estoy muy seguro de que hay algo tenebroso en ella. Pero, ¿por qué os lo tendría que enseñar? ¿Por qué se lo tendría que enseñar a nadie? ¿Me vais a dar algo a cambio?~
+@54   = ~(Mostrar una espada de dos manos diferente) Aquí está.~
+@55   = ~Por ahora no, primero necesito vuestros servicios.~
+@56   = ~Por favor traédmela. Todos necesitamos saber la verdad.~
+@57   = ~¿Esta sería la espada?~
+@58   = ~¡Oh, qué torpe soy! No, no es esta. Esta de aquí es la espada (Mostrar la espada correcta).~
+@59   = ~(Seguís mostrando otra espada) Absolutamente. Esta es la espada que blandía Brage, y quiero que vuestro juicio se base en ella.~
+@60   = ~¿Por qué no lo posponemos para otro momento? Adiós.~
+@61   = ~Vos... ¡comadreja! ¿Es oro lo que queréis? ¿Estamos hablando de evitar la ejecución de un hombre honorable y vos estáis tratando de sacar algo de eso? Bueno, supongo que hay gente que solo trabaja por oro. Muy bien. Reunid pruebas de que Brage es inocente y os pagaré otras 400 piezas de oro. 200 ahora, 200 cuando se demuestre su inocencia. ¿Qué decís?~
+@62   = ~(Mostrar la espada correcta) Seguro que puede ser un poco más, y acepto.~
+@63   = ~(Mostrar la espada correcta) Suena bien. Acepto.~
+@64   = ~Dejadme que lo piense.~
+@65   = ~Hmph. ¡500 piezas de oro es entonces!~
+@66   = ~Ah, <CHARNAME>. Habéis probado la inocencia de Brage, y acordamos un pago. Respetar los contratos es el deber del clero de Helm.~
+@67   = ~Aquí están las 200 piezas de oro que faltan. Que Helm os guíe siempre.~
+@68   = ~Aquí están las 250 piezas de oro que faltan. Que Helm os guíe siempre.~
+@69   = ~...Esto está maldito.~
+@70   = ~Una espada maldita, Brage. Eso es lo que fue puesto en vuestras confiadas manos.~
+@71   = ~M... ¿maldito? ¿Fue entonces otro mal el que empujó mis manos y mis pensamientos hacia la matanza? Ah, no levantéis una esperanza tan débil en el corazón de un guerrero caído. No con toda esa sangre en mis manos.~
+@72   = ~¡¿Desmayado?!~
+@73   = ~Esto, amigo mío, lo cambia *todo*. No fueron vuestros largos años de lucha lo que os volvió cruel e insensible al dolor de los demás. Tendréis que expiar lo que hicisteis, pero no el por qué lo hicisteis. ¡Siempre y cuando <CHARNAME> logre probar el engaño!~
+@74   = ~Una espada maldita fue puesta en las confiadas manos del Comandante Brage. Esto, amigo mío, lo cambia todo. No fueron largos años de lucha lo que convirtió a un buen hombre en cruel e insensible al dolor de los demás. Brage tendrá que expiar lo que hizo, pero no el por qué lo hizo. ¡Siempre y cuando logréis probar el engaño!~
+@75   = ~Bueno... tengo que creer en vuestra palabra. Brage no recuerda la espada que empuñaba y os la dio, así que...~
+@76   = ~(suspiro) No, no hay nada especial con esta hoja. Es una espada normal...~
+@77   = ~Tenéis que afrontarlo, sacerdote. Le estáis dando refugio a un asesino. Si tan solo supiera por qué lo hice...~
+@78   = ~Tenéis un lugar aquí en el templo, y con razón. Expiaréis vuestros crímenes, Brage. Helm os dará la fuerza para hacerlo.~
+@79   = ~No hay nada que añadir. Es una espada normal y Brage es culpable de sus crímenes. Responderé por ello cuando llegue el juicio.~
+@80   = ~Saludos. Nos conocimos antes. Soy Laryssa, prima de Brage. Lograsteis atraparlo con vida, y os estoy muy agradecida por ello. Me escapé la última vez que nos vimos porque esperaba que asesinaseis a mi primo, o él a vos, y no quería formar parte de eso.~
+@81   = ~Yo... entiendo por qué lo trajisteis a las autoridades.~
+@82   = ~Yo... muchas gracias por entregarlo a la protección del templo en lugar de entregarlo a las autoridades.~
+@83   = ~Él cometió todos esos asesinatos, por los cuales habría sido ahorcado, y merecidamente, pero su mente estaba nublada. Si hay algo que sé, es que estaba completamente loco. El Brage que conozco es un hombre amable, veraz y leal. Nunca levantaría un arma contra los débiles o los inocentes. Y menos aún contra su propia familia.~
+@84   = ~Parece que no hay nada que hacer, oficialmente, para liberarlo de su culpa. Sin embargo, os agradezco vuestros esfuerzos y la segunda oportunidad que le disteis. Que los dioses os bendigan.~
+@85   = ~Parece que no hay nada que podamos hacer para salvarlo. Sin embargo, os agradezco vuestros esfuerzos. Que los dioses os bendigan.~
+@86   = ~Observé vuestras investigaciones con gran interés, <CHARNAME>. Volví a encontrar esperanza para mi primo. Que los dioses os bendigan.~
+@87   = ~Lo que nos lleva a por qué estoy aquí. Noté que mostrasteis cierto... interés en probar la inocencia de Brage. Podréis imaginar porqué es de mi interés. Investigué un poco, y de hecho encontré algo. Localicé al borracho que informó sobre el cadáver en el camino que comenzó todo este calvario. A través de él, identifiqué a otros que estaban en el camino aquella noche. Parece que había un comerciante en los caminos, uno con una reputación muy sombría.~
+@88   = ~Encontramos esta carta con un comerciante falso. Establece claramente que la espada que encargó Brage fue cambiada por una maldita.~
+@89   = ~Encontramos esta carta con los bandidos en las minas. Establece claramente que fue planeado para debilitar a la Guarnición de Nashkel a través de algún tipo de sucio engaño con la espada de Brage.~
+@90   = ~Acerca de Brage...~
+@91   = ~Sí, decidme.~
+@92   = ~Brage está en prisión, como sabéis. Estoy investigando lo que pasó y me gustaría hacerle algunas preguntas. ¿Podría hablar con él?~
+@93   = ~El clérigo Nalin del templo de Helm confirma la sospecha de que la espada estaba maldita.~
+@94   = ~Nada, adiós.~
+@95   = ~Efectivamente, la guarnición fue debilitada. Y sí, la espada maldita de Brage impactó aún más eso, ¿no es así?, con la forma en que la usó. Sin embargo, esto no prueba que Brage no sea el asesino que parece ser, si vuestra intención era demostrarlo.~
+@96   = ~Hm, así que la espada con la que Brage cometió sus crímenes *estaba* maldita, al parecer.~
+@97   = ~Aún así, eso no prueba que el 'Comandante' no cogió esa espada intencionadamente, ¡para llevar a cabo esas malas acciones como había planeado!~
+@98   = ~Hm, sí, eso prueba que se había *planeado* cambiar la espada de Brage por una maldita.~
+@99   = ~¡Sin embargo, no prueba que *fuera* una espada maldita con la que el endiablado Brage comenzó a masacrar a inocentes y a sus propios camaradas!~
+@100  = ~Eso significa que hay pruebas de que Brage tenía una espada maldita y que fue engañado para que la blandiera. Hablaré con el alcalde Ghastkill sobre esto, aunque me duele el corazón saber que un asesino así puede quedar libre. Muy bien, podría ser que hubiese un juicio la próxima vez que vengáis.~
+@101  = ~Oh, ahora resulta que se trata de una espada maldita, ¿verdad? Sí, yo también llamaría maldita a una espada que se usó para matar inocentes. Sin embargo, si os referís a que estuviera encantada, es una pena que *no tengamos* ni a Brage ni a la espada aquí para comprobarlo, ¿no es así?~
+@102  = ~Hmph. Supongo que no hay ninguna razón por la que no. Pero os advierto, no penséis en hacer una estupidez. Y escoged bien vuestras preguntas, porque no habrá otra oportunidad.~
+@103  = ~Qué...~
+@104  = ~Ah, <CHARNAME> tiene algunas preguntas para vos, Brage. Contadle a él lo que pasó.~ ~Ah, <CHARNAME> tiene algunas preguntas para vos, Brage. Contadle a ella lo que pasó.~
+@105  = ~Ah, <CHARNAME>. El alcalde Ghastkill está listo para presidir el juicio del asesino Brage.~
+@106  = ~Considerando las buenas posibilidades, Nalin ha accedido a que se celebre el juicio, y el cobarde de Brage ha salido del templo.~
+@107  = ~Puesto que fue usted quien recopiló las pruebas, puede asistir. Seguidme.~
+@108  = ~Ah, <CHARNAME>. Hicisteis un buen trabajo reuniendo las pruebas contra el asesino Brage. Todos hemos escuchado los rumores de una espada maldita, que algo andaba mal. Pero yo digo, "¡No!" No era nada de eso. Brage no es más que un simple asesino, y la ciudad no lo olvidará. Este apestoso cobarde puede esconderse en el templo, pero estaremos listos cuando salga, os lo aseguro.~
+@109  = ~Comandante Brage, las acusaciones en su contra son serias. Está acusado de matar a su familia, a cinco de nuestros soldados y a los viajeros de una caravana. ¿Qué tenéis que decir en vuestra propia defensa?~
+@110  = ~Culpable en todas las acusaciones.~
+@111  = ~Bueno, <CHARNAME> recolectó diversas evidencias sobre vuestra culpabilidad. Oublek, ¿podríais resumir los hallazgos?~
+@112  = ~Sí. Según lo confirmado por el clérigo Nalin, la espada que el acusado usó para los asesinatos estaba maldita. Esta carta de aquí indica que la espada maldita fue colocada intencionalmente en las manos del Comandante Brage, para debilitar a la guarnición de Nashkel.~
+@113  = ~Yo... no sé qué decir.~
+@114  = ~Entonces lo diré yo por vos, Brage. Quedáis absuelto de estas acusaciones de cometer asesinato intencionalmente y por vuestra propia voluntad. Por la presente queda liberado de la pena de muerte.~
+@115  = ~No... no, después de lo que he hecho, no hay manera de seguir viviendo con esta culpa...~
+@116  = ~La sentencia está hecha. Con el poder que me ha sido conferido, os encargo de compensar por las vidas que habéis tomado y el daño que habéis hecho. Se os despoja de todos vuestros títulos y se os libera de las fuerzas de Amn. Podéis iros como un hombre libre, Brage, aunque me temo que seréis un hombre pobre y arruinado. Lamento mucho lo sucedido.~
+@117  = ~Sí. Como lo confirmó el clérigo Nalin, la espada que usó el acusado para los asesinatos era normal. ¡Ninguna fuerza del mal guió las manos de este asesino!~
+@118  = ~(suspiro) Entonces está confirmado. Brage, con el poder que me ha sido otorgado, os sentencio a muerte en la horca. Lamento mucho lo sucedido.~
+@119  = ~Yo... os lo agradezco. Esto servirá a la justicia... Mi pobre familia.~
+@120  = ~Estoy impresionado con vuestros esfuerzos por probar la inocencia del Comandante. Él y el resto del pueblo os deben esto. Al menos los soldados están mucho menos inquietos ahora que sabemos que alguien provocó todo esto. Eso no significa que no estemos en alerta máxima, por supuesto. Parece que Nashkel tiene muchos enemigos.~
+@121  = ~Gracias por ayudar a nuestro Comandante. (suspiro) Qué triste historia. Mi corazón se encoge solo de pensar en su familia. La guarnición perdió cinco hombres a causa de esa magia repugnante... ¡No, seis en total, si contamos al Comandante Brage!~
+@122  = ~¡¿Y todo esto está relacionado con los bandidos que ocuparon nuestras minas?!~
+@123  = ~¡Una intriga para debilitar nuestra guarnición! ¡Increíble!~
+@124  = ~Las autoridades tienen que saber sobre estos acontecimientos. Me gustaría mucho ayudaros a encontrar a los culpables de ese plan, pero no puedo dejar mi puesto, y un soldado de Nashkel investigando en la Costa de la Espada no creo que fuese una buena idea. Todo lo que puedo hacer es desearos suerte en la búsqueda de quién está detrás de todo esto.~
+@125  = ~Pociones extrañas, ¿eh? Mira, estoy buscando el contacto de un criminal y asesino, un 'comerciante lo suficientemente desesperado' como para comprar 'pociones especiales'. ¿Creéis que esa descripción se acerca a vos?~
+@126  = ~Estamos buscando a un comerciante que ofrezca pociones y objetos malditos. Fue visto por última vez aquí en el carnaval. Vuestras pociones se parecen muchísimo, así que será mejor que habléis, y rápido.~
+@127  = ~Ja, haced algo, ¡y veremos a quién se llevan los guardias con ellos! Mirad, estoy buscando el contacto de un criminal y asesino, un 'comerciante lo suficientemente desesperado' como para comprar 'pociones especiales'. ¿Creéis que esa descripción se acerca a vos?~
+@128  = ~Mirad, estoy buscando el contacto de un criminal y asesino. Un 'comerciante lo suficientemente desesperado' para comprar 'pociones especiales'. ¿Creéis que esa descripción se acerca a vos?~
+@129  = ~¡¿Qué?! ¿Cómo os atrevéis...? Ah, pero soy lo suficientemente sabio como para provocar a gente tan fuertemente armada como vos. Sí, le compré las pociones a un comerciante ambulante que apenas conocía... ¡pero eso no me convierte en un criminal! Mis pociones no están malditas, son solo, bueno, especiales. ¡No conozco al hombre, lo juro!~
+@130  = ~Bueno, lo único que puedo deciros es que fue a la tienda de loto negro la última vez que estuvo aquí, pero no puedo decir si fue por su propio consumo o para buscar más compradores.~
+@131  = ~Volvió a partir, y se fue al oeste. Tengo mis propias fuentes, especialmente para algo tan delicado como las relaciones comerciales. Mis 'fuentes' perdieron su rastro en algún lugar al oeste de la ciudad.~
+@132  = ~Si vuelve a aparecer, os lo diré. ¡Lo juro! Pero por ahora, por favor dejad mi establecimiento.~
+@133  = ~A menos que queráis probar una de mis pociones muy especiales, por supuesto. Como ya dije antes, la violeta os hará muy, muy fuerte.~
+@134  = ~No, gracias. Adiós.~
+@135  = ~Sin embargo, no lo he visto en mucho tiempo. ¡Juro que las pociones que ofrezco no están malditas! Si vuelve a aparecer, os lo diré, ¡lo prometo! Pero por ahora, por favor dejad mi establecimiento.~
+@136  = ~Hm, ¡sois un mercader turbio, escondido en el bosque! Busco a un mercader de objetos malditos. ¡¿Sois vos?!~
+@137  = ~¡Vos! ¡Vos sois el que vendió la espada maldita al Comandante de la guarnición de Nashkel!~
+@138  = ~¡¿De qué me acusáis?! Bueno, bueno, parece que no sois un comprador, después de todo, ¡sino un proveedor! Sí, ahora se va a poner complicado.~
+@139  = ~Ah, os habéis escabullido por mucho tiempo, metiendo la nariz en demasiadas cosas que no son de vuestra incumbencia. Tratando de olfatearme preguntando a mis contactos comerciales, ¿eh? Bueno, ¡felicidades! me habéis encontrado. Las malas noticias: no estoy del todo *indefenso*, ya sabéis.~
+@140  = ~El hombre dijo que solo le compró a este comerciante porque lo vio anteriormente en el Carnaval de Nashkel. ¡Pero el pergamino que compró estaba maldito! Sabiendo que la nueva espada de Brage también estaba maldita, este comerciante se presenta a sí mismo bajo una luz muy interesante. Intentaré seguir esa pista. Pero bien podría ser que me equivoque y así que deberíais continuar con vuestras propias investigaciones. Agradezco, en nombre de Brage, vuestra ayuda.~
+@141  = ~...Hm, no hay nada... ¿Estáis seguro de que esta es la espada que Brage empuñaba cuando cometió los crímenes de los que se le acusa?~ ~...Hm, no hay nada... ¿Estáis segura de que esta es la espada que Brage empuñaba cuando cometió los crímenes de los que se le acusa?~
+/* Imoen */
+@142  = ~Psst, <CHARNAME>, no me gusta este juego. Sabéis que Brage será ahorcado si mostráis una espada sencilla, ¿no?~
+/* Ajantis */
+@143  = ~No, clérigo Nalin. No es la correcta. <CHARNAME>, no jugaremos con la vida de un hombre.~ 
+/* Rasaad */
+@144  = ~No, clérigo Nalin. No es la correcta. <CHARNAME>, ¡no juguéis con la vida de un hombre!~
+/* Dynaheir */
+@145  = ~¿Es una broma desagradable? Esta no es la espada correcta, clérigo Nalin.~
+/* Minsc */
+@146  = ~Minsc está confundido. Esta no era la espada que el comandante le dio a <CHARNAME>, ¿verdad, Bu-bú?~
+/* Jaheira */
+@147  = ~¿Qué? ¡No! <CHARNAME>, no dejaré que mostréis la espada equivocada.~
+/* Khalid */
+@148  = ~Estoy seguro de que esta no era la espada que B-Brage le dio a <CHARNAME>, clérigo Nalin.~
+/* Yeslick */
+@149  = ~Joven, esto no es un juego, ¿sabéis? Esta no es la espada correcta.~
+/* Kivan */
+@150  = ~Me uní a vos para detener a los bandidos, no para actuar como tal. Esta no es la espada que usó Brage.~
+@151  = ~Escuchad, por la razón que sea, pero no os enseñaré la espada de Brage. Dejad de preguntármelo.~
+@152  = ~Ya veo. Es una pena, pero aceptaremos vuestra decisión.~
+@153  = ~<CHARNAME>, you have returned with Brage and handed him to the town's authorities. The whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+@154   = ~<CHARNAME>, thanks to you, Brage is save inside the temple now. Still, the whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+
+
+//------------------
+
+
+@1000 = ~El juicio del Capitán Brage
+
+El Teniente Bardolan mencionó algo sobre la desaparición del comandante de la guarnición de Nashkel. Las calles están plagadas de rumores de que algo muy malo ha sucedido.~
+@1001 = ~El juicio del Capitán Brage
+
+Uno de los soldados de Amn me dijo que su Comandante Brage fue a una misión solo la noche en que se volvió loco. Lo interesante de esto es que no tenía su espada vieja cuando comenzó con los asesinatos.~
+@1002 = ~El juicio del Capitán Brage
+
+Desafortunadamente, nada de lo que Brage me ha dicho podría sugerir a alguien que tuviese interés en tenderle una trampa.~
+@1003 = ~El juicio del Capitán Brage
+
+Brage me contó algo interesante sobre la noche en que se volvió loco. Parece que un comerciante fue asesinado en los caminos por manos de bandidos, pero no se llevaron sus mercancías. O los bandidos fueron perturbados después de matarlo o todo fue un montaje. De cualquier manera, estoy buscando a un asesino que dejó algunos regalos desagradables para los guardias de Amn. Desafortunadamente, nada de lo que dijo Brage me da una pista de por dónde empezar a buscar al que hizo esto.~
+@1004 = ~El juicio del Capitán Brage
+
+Traje a Brage a la guarnición para que pueda recibir el juicio que le corresponde. Pero algo parece estar mal. Las personas que lo conocen están convencidas de que hay algún cambio más en Brage de lo que parece, como si estuviera bajo algún tipo de hechizo o influencia. Oublek me pidió que dejara que Nalin echara un vistazo a la espada de Brage para "demostrar que no tiene nada de extraño". Bueno, definitivamente hay algo perturbador en la espada de Brage. Brage está en prisión ahora, esperando su juicio. Tengo la impresión de que mis acciones dictarán cómo terminará este juicio, considerando que todo depende de si le presento la espada adecuada a Nalin...~
+@1005 = ~El juicio del Capitán Brage
+
+Parece justificado que trajera a Brage al templo de Helm en lugar de a la guarnición, donde seguramente le espera una muerte segura. Algo parece estar mal con lo que le pasó. Las personas que lo conocen están convencidas de que hay algún cambio más en Brage de lo que parece, como si estuviera bajo algún tipo de hechizo o influencia. Oublek me pidió que dejara que Nalin echara un vistazo a la espada de Brage para "demostrar que no tiene nada de extraño". Bueno, definitivamente hay algo perturbador en la espada de Brage. Brage ha encontrado refugio en el templo por ahora. Tengo la impresión de que será mi decisión si Brage tiene la oportunidad de encontrar la paz allí, considerando que todo depende de si le presento la espada adecuada a Nalin...~
+@1006 = ~El juicio del Capitán Brage
+
+¡Nalin responderá sobre la maldición de la espada!~
+@1007 = ~El juicio del Capitán Brage
+
+Nalin responderá por la espada como  una espada normal. Bueno, mostrar la espada equivocada podría haber ayudado a eso... pero a veces hay que ayudar a la 'justicia' con un empujoncito. Brage irá a la horca, después de todo.~
+@1008 = ~El juicio del Capitán Brage
+
+Nalin aseguró que la espada era normal. Bueno, mostrar la espada equivocada podría haber ayudado a eso... pero a veces hay que ayudar a la 'justicia' con un empujoncito.~
+@1009 = ~El juicio del Capitán Brage
+
+Laryssa, la prima de Brage, mencionó a un comerciante que vende artículos malditos y fue visto en el Carnaval de Nashkel. Tal vez podría echar un vistazo por ahí para ver si encuentro a alguien que pudiera haberlo visto, o tal vez contactos de algún tipo. Con artículos malditos para vender, no puedo imaginar que intentase algo demasiado audaz cerca de la ciudad, con todos los soldados y eslo. Pero, tal vez probó suerte con uno de los comerciantes en el Carnaval.~
+@1010 = ~El juicio del Capitán Brage
+
+Le dije a Oublek que Nalin aceptó responder por la maldición de la espada de Brage, pero no es suficiente para probar su inocencia. Necesito pruebas de que esta espada le fue entregada sin su conocimiento.~
+@1011 = ~El juicio del Capitán Brage
+
+Oh, qué conveniente. El comerciante de objetos malditos me tendió una emboscada en el Carnaval de Nashkel. Debería registrarlo todo minuciosamente en busca de cualquier prueba relacionada con la historia de Brage.~
+@1012 = ~El juicio del Capitán Brage
+
+Encontré al mercader de artículos malditos que mencionó Laryssa. Debería inspeccionarlo todo minuciosamente en busca de cualquier prueba relacionada con la historia de Brage.~
+@1013 = ~El juicio del Capitán Brage
+
+La nota que establece explícitamente que la espada de Brage se cambió por una maldita y que se arregló para que Brage recogiera la espada maldita no es prueba suficiente para convencer a Oublek de que así fue. Todavía piensa que no hay pruebas de que Brage no haya podido hacer lo que hizo con una espada normal también. Necesito mostrarle la espada a Nalin si quiero demostrar que Brage estaba bajo un hechizo maligno.~
+@1014 = ~El juicio del Capitán Brage
+
+¡He reunido todas las pruebas necesarias para probar la inocencia de Brage! Podré presenciar su juicio la próxima vez que vaya en Nashkel.~
+@1015 = ~El juicio del Capitán Brage
+
+La nota que establece explícitamente que la espada de Brage se cambió por una maldita y que se arregló todo para que Brage recogiera la espada maldita no es prueba suficiente para convencer a Oublek de que así sucedió. Todavía piensa que no hay pruebas de que Brage no haya podido hacer lo que hizo con una espada normal también. Solo el ex Comandante puede responder a eso. Debo encontrarlo.~
+@1016 = ~El juicio del Capitán Brage
+
+Al mercader de artículos malditos le gusta visitar la carpa del Loto Negro en el Carnaval de Nashkel. Fue visto por última vez al oeste de la ciudad.~
+@1017 = ~El juicio del Capitán Brage
+
+Al mercader de artículos malditos le gusta visitar la carpa del Loto Negro en el Carnaval de Nashkel.~
+@1018 = ~El juicio del Capitán Brage
+
+Las autoridades de Nashkel creen que Brage es el asesino que parece ser. Bueno, mostrar la espada equivocada podría haber ayudado a eso... pero a veces hay que ayudar a la 'justicia' con un empujoncito. No se puede llevar a Brage al templo sin pasar por un camino muy sangriento, al menos no será redimido a los ojos de la gente del pueblo.~
+@1019 = ~El juicio del Capitán Brage
+
+¡Brage es un hombre libre! Las autoridades de Nashkel aceptaron las pruebas que encontré que demostraban que todo el incidente con la espada maldita de Brage era una conspiración de la que él no tenía conocimiento. El antiguo Comandante ahora es un hombre libre, pero considerando lo que pasó, dudo que alguna vez vuelva a ser feliz. Nalin le ofreció un lugar para quedarse, así que si quiero volver a ver a Brage, creo que el templo de Nashkel es donde podría encontrarlo.~
+@1020 = ~El juicio del Capitán Brage
+
+¡Brage fue ahorcado! Creo que lo hice bastante bien. Siempre es agradable ver a la 'justicia' tomar su parte. Y sobre todo, ¡ese tonto de Brage estaba agradecido por ello! Debo tener cuidado, o la sensación de calor en mi vientre me dará hipo.~
+@1021 = ~Captain Brage's Guilt~
+@1022 = ~Captain Brage's Guilt
+
+Nalin thinks the Brage incident should be investigated to prove his innocence. He suggested I whould ask Oublek about what the town's authorities are planning on doing in this regard.~
+@1023 = ~Captain Brage's Guilt
+
+I confronted a merchant of cursed items and found a letter with clues about a conspiracy to switch out the sword of the Nashkel Commander, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes. I should hold on to them until I figured out how they could be of use in the whole affair.~ 
+@1024 = ~Captain Brage's Guilt
+
+I confronted a mearchant of cursed items and found a letter with clues about a conspiracy to switch Brage's sword, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes.~ 
