@@ -64,3 +64,6 @@
 
 /* new for v24 */
 @5010   = ~该mod需要在执行EET_End之前安装在EET上~
+
+/* new for v30 */
+@5011   = ~Improved Borda~

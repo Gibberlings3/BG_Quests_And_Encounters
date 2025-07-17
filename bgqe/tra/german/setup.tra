@@ -56,3 +56,6 @@
 
 /* new for v24 */
 @5010   = ~Die Mod muss vor EET_End installiert werden.~
+
+/* new for v30 */
+@5011   = ~Verbesserter Borda~
