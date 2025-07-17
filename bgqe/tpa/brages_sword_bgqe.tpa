@@ -178,23 +178,6 @@ END
 
 
 
-/* Give Borda, the merchant for cursed items the quest items */
-
-COPY_EXISTING ~%tutu_var%Borda.cre~ ~override~
-ADD_CRE_ITEM ~c#q13le2~ #0 #0 #0 ~identified&unstealable~ ~inv3~
-ADD_CRE_ITEM ~c#q13swd~ #0 #0 #0 ~identified&unstealable~ ~inv4~
-
-
-
-/* custom Borda */
-COPY_EXISTING ~%tutu_var%borda.CRE~ ~override/c#q13bor.CRE~
-SAY INITIAL_MEETING ~~
-    WRITE_ASCII 0x280 ~c#q13bor~ #32 // set DV
-WRITE_EVALUATED_ASCII 0x2cc ~c#q13bor~ #8
-WRITE_EVALUATED_ASCII 0x248 ~c#q13bor~ #8   // custom Override script
-
-
-
 /* fetch original solved journal entry from delivering Brage to Nalin 4 / Oublek 3 so it can be deleted for this quest */
 
 COPY_EXISTING ~%tutu_var%NALIN.dlg~ ~override~
@@ -372,14 +355,20 @@ EXTEND_BOTTOM ~%Nashkel_Garrison%.bcs~ ~bgqe/bragesword/brage_ar4810_bs_extentio
 
 /* Patch Borda, the merchant for cursed items: mage fighting script, changed resistances, quest items */
 
-COMPILE ~bgqe/bragesword/c#q13bor.baf~
+COMPILE ~bgqe/bragesword/c#q13bo2.baf~
 
-COPY ~bgqe/bragesword/Borda.cre~ ~override/Borda.cre~
 
-/* custom Borda */
-COPY ~bgqe/bragesword/Borda.cre~ ~override/c#q13bor.CRE~
-SAY INITIAL_MEETING ~~
-    WRITE_ASCII 0x280 ~c#q13bor~ #32 // set DV
-WRITE_EVALUATED_ASCII 0x2cc ~c#q13bor~ #8
-WRITE_EVALUATED_ASCII 0x248 ~c#q13bor~ #8   // custom Override script
+/* Give Borda, the merchant for cursed items the quest items */
+
+COPY_EXISTING ~%tutu_var%borda.cre~ ~override~
+  ADD_CRE_ITEM ~c#q13le2~ #0 #0 #0 ~identified&unstealable~ ~inv~
+  ADD_CRE_ITEM ~c#q13swd~ #0 #0 #0 ~identified&unstealable~ ~inv~
+
+/* custom Borda for later confrontation */
+COPY_EXISTING ~%tutu_var%borda.cre~ ~override/c#q13bor.cre~
+  SAY INITIAL_MEETING ~~
+  WRITE_EVALUATED_ASCII 0x248 ~~ #8   // remove SHOUT
+  WRITE_ASCII 0x280 ~c#q13bor~ #32 // set DV
+  WRITE_EVALUATED_ASCII 0x2cc ~c#q13bor~ #8
+
 
