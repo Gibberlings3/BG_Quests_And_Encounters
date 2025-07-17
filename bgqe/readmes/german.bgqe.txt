@@ -13,7 +13,8 @@ Seit Version 9 ist die Bjorninerweiterung in die Mod Romantic Encounters for BG1
 
 Die Mod sollte vor bg1npc installiert werden. Wenn man sie nach bg1npc installiert, gehen bei "Breages Schwert" Antwortoptionen für eine Auslieferung an Oublek durch die NPC-Einmischdialoge verloren. 
 
-Die Komponente "Brages Schwert" muss vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, Brage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Seit Version 30 sind die Questerweiterungen der Mod "Brage's Redemption" mit zusätzlichen Hinweisen und Tagebucheinträgen in bgqe enthalten.
+Die Mod "Brage's Redemption" (ab Version 10) benötigt die Komponente "Brage's Sword" von bgqe als Voraussetzung, bevor Brage in die Gruppe aufgenommen werden kann, d.h. wenn beide Mods installiert sind, muss BGQE vor "Brage's Redemption" installiert werden.
 
 
 INHALT
@@ -81,18 +82,33 @@ Ungefähr drei Tage nach der ersten Begegnung trefft Ihr Noober - der arme Mann 
 Durch die Mod kann man die Hintergründe um Brages Schwert erkunden und nachweisen, dass Brage Opfer einer Intrige geworden ist und ihn so vor dem Galgen retten - wenn man das möchte. Es existieren böse Questlösungen.
 Voraussetzung ist, dass man Brage lebend nach Nashkell bringt. Hierzu fügt die Mod die Möglichkeit ein, ihn auch an Oublek auszuliefern, wie es im Originalspiel ursprünglich vorgesehen aber nicht realisiert war. (Hierzu die obige Warnung bzgl. Installationsreihenfolge beachten.)
 
-Hinweise: 
-Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Der Quest startet offiziell, wenn man Oublek anspricht, nachdem man Brage lebend nach Nashkel gebracht hat. Von da an sollte der Quest sich selbsterklärend entfalten.
+
+Eine Rolle spielt der Händler Borda, den man im Originalspiel auf der Karte mit dem Xvartdorf trifft. Je nach Queststatus kann man ihn hier beim ersten Treffen konfrontieren. Ansonsten gibt es ein zweites Treffen, über dessen ungefährer Ort der HC im Spiel erfahren kann.
+Brages verfluchtes Schwert spielt ebenfalls eine Rolle. Es muss zur entsprechenden Zeit dem Priester Nalin im Tempel von Nashkell zur Begutachtung vorgelegt werden. Danach spielt es keine Rolle mehr (kann also z.B. für Thalantyr's Item Upgrade Mod verwendet werden).
+Die Quest kann vollständig vor dem ersten Betreten der Mine beendet werden, kann aber auch später erledigt werden.
+
+Hinweise:
+Seit Version 30 sind die Questerweiterungen der Mod "Brage's Redemption" mit zusätzlichen Hinweisen und Tagebucheinträgen in bgqe enthalten.
+Die Mod "Brage's Redemption" (ab Version 10) benötigt die Komponente "Brage's Sword" von bgqe als Voraussetzung, bevor Brage in die Gruppe aufgenommen werden kann, d.h. wenn beide Mods installiert sind, muss BGQE vor "Brage's Redemption" installiert werden.
 Diese Komponente muss vor dem BG1NPC Projekt installiert werden, da sonst eingefügte Antwortoptionen für Brage und Borda verloren gehen.
 
+***** Walkthrough *****
+Der schnellste Weg (vor allem vor dem Betreten der Minen, damit man Brage dorthin mitnehmen kann), um die Anfangsquest zu erledigen ist wie folgt:
+- Auf der Karte mit dem Xvartdorf mit dem fahrenden Händler Borda sprechen. Wenn man ihn hier bedroht und bekämpft, erhält man sofort einen wichtigen Brief und Brages echtes Schwert. Dies ist aber nicht nötig, um die Quest vor dem Betreten der Minen abzuschließen.
+- Zu Brage gehen. Wenn Borda nicht getötet wurde, müsste Brages Kusine Laryssa am Leben gelassen werden, um den Quest vor dem Banditenlager abschließen zu können. Brage muss lebend nach Nashkell gebracht werden. Hierbei spielt es keine Rolle, ob er in den Tempel zu Nalin gebracht wird oder die durch die Mod eingefügte Möglichkeit genutzt wird, ihn Oublek auszuliefern.
+- Im Gespräch mit Oublek die Quest "Captain Brages Schuld" erhalten.
+- Den verfluchten Zweihänder dem Priester Nalin im Tempel von Nashkell zeigen um von ihm bestätigt zu bekommen, dass er verflucht ist.
+- Wenn der Händler Borda noch nicht getötet wurde, trifft man nun Laryssa vor dem Tempel, die einen Hinseis zu einem Händler auf dem Karneval in Nashkell gibt. Dieser Händler befindet sich im südlichsten Zelt.
+- Oublek vom Fluch auf dem Zweihänder erzählen, den Nalin bestätigt hat.
+- Wenn der fahrende Händler Borda noch am Leben ist, nun zu dem Händler auf dem Karneval (im südlichsten Zelt) gehen und ihn mit den Vorwürfen konfrontieren, bis er verrät, wo man Borda finden könnte.
+- Auf die Suche nach Borda begeben: wenn er noch nie geroffen wurde, befindet er sich auf der Karte mit dem Xvartdortf. Wenn er dort bereits vorher getrofffen wurde, dann nun einmal das Lotuszelt auf dem Karneval betreten (westlichstes Zelt). Beim Verlassen des Zeltes wird Borda die Gruppe ansprechen. Borda mit den Vorwürfen konfrontieren und den Brief und Brages echtes Schwert einsammeln.
+- Oublek den Brief geben, um Brages Unschuld zu beweisen.
+- Noch einmal mit Oublek sprechen, um Brages Gerichtsszene zu triggern.
+- Nachdem seine Unschuld festgestellt wurde, kann Brage im Tempel in Nashkell gefunden werden. Er muss überredet werden, sein richtiges Schwert anzunehmen.
+- Nachdem Brage sein richtiges Schwert angenommen hat und er einmal im Tempel alleine gelassen wurde, wird der Priester Nalin der Gruppe sagen, dass Brage mit dem HC sprechen möchte. Brage wird nun darum bitten, in die Gruppe aufgenommen zu werden.
 
-***** Spoiler *****
-Tipp:
--Eine Rolle spielt der Händler Borda, den man auf der Karte mit dem Xvartdorf trifft. Je nach Queststatus kann man ihn hier beim ersten Treffen konfrontieren. Ansonsten gibt es ein zweites Treffen, über dessen ungefährer Ort der HC im Spiel erfahren kann.
--Brages Schwert spielt ebenfalls eine Rolle. Es muss zur entsprechenden Zeit Nalin zur Begutachtung vorgelegt werden. Danach spielt es keine Rolle mehr (kann also z.B. für Thalantyr's Item Upgrade Mod verwendet werden.).
--Der Quest kann vollständig vor dem Räumen der Mine beendet werden. Falls Laryssa als Infogeberin ausfällt (man sie also vor der Konfrontation mit Brage getötet hat), findet man den letzten Hinweis (erst) in Tazoks Zelt.
-
--Ansonsten startet der Quest offiziell, wenn man Oublek anspricht, nachdem man Brage lebend nach Nashkel gebracht hat. Von da an sollte der Quest sich selbsterklärend entfalten.
+Hinweis: Falls man Borda bei der Originalbegegnung beim Xvartdorf nicht getötet hat, Laryssa jedoch als Infogeberin ausfällt (weil man sie also vor der Konfrontation mit Brage getötet hat), findet man den letzten Hinweis (erst) in Tazoks Zelt im Banditenlager.
 
 
 
@@ -127,6 +143,16 @@ Mit dieser Komponente kann man Cordils Quest bzw. seine Bitte, dass die Gruppe s
 Geichzeitig wird die Tür zu Cordyrs Haus aufgeschlossen und Cordyrs Dialog so geändert, dass jeder HC den Quest erhält (im Originalspiel war das nur für Gruppen niederen Rufes möglich).
 
 Die Komponente ist kompatibel mit den Änderungen an Sil und ihren Sirenen durch bg1re und Lure of Sirine's Call. 
+
+
+18. Improved Borda (BGT, BG:EE, EET)
+------
+Diese Komponente macht den Kampf mit dem Händler Borda schwieriger.
+Änderungen sind: Zauberstab des Schlafs (5 Ladungen), Trank der Unsichtbarkeit, Trank der Macht und ein eigenes Magier-Skript, das die Gegenstände verwendet. Áls auch: Magieresistenz auf 0% reduziert, Entfernung des Skripts, das ihn die Gruppe von sich aus ansprechen lässt.
+
+Diese Änderungen waren Teil der Komponente "Brages Schwert", sind nun aber eine eigene Komponente, die auch unabhängig installiert werden kann.
+
+Die Komponente ist kompatibel mit Komponente 12: "Brages Schwert".
 
 
 
@@ -172,13 +198,14 @@ Englisches Forum: https://www.gibberlings3.net/forums/forum/148-baldurs-gate-min
 
 Deutscher Thread im Kerzenburgforum: https://baldurs-gate.de/index.php?threads/baldurs-gate-mini-quests-und-begegnungen-mod.36870/
 
+
 KOMPATIBILITÄT 
 
 Die Modifikation wurde mit einem WeiDU-Installer gepackt und überschreibt keine existierenden Spieldateien (es werden nur neue Inhalte zum Spiel hinzugefügt). Technisch sollte daher Kompatibilität mit anderen WeiDU-Modifikationen gegeben sein. 
 
 BG1NPC Projekt: Die Komponente "Brages Schwert" muss vor dem BG1NPC Projekt installiert werden, damit die von BGQE neu eingefügten Antwortoptionen angezeigt werden.
 
-Brage's Redemption: Die Komponente "Brages Schwert" sollte vor Brage's Redemption Modifikation installiert werden. Brage's Redemption Mod fügt denselben Quest ein und erweitert ihn mit zusätzlichen Hinweisen und Tagebucheinträgen. Es wird empfohlen, BRage's Redemption zu installieren, um die zusätzlichen Inhalte zu sehen, dies ist aber nicht nötig, um den Quest zu spielen.
+Brage's Redemption: Die Komponente "Brage's Sword" ist eine Vorbedingung für die Mod "Brage's Redemption". BGQE muss vor "Brage's Redemption" installiert werden.
 
 
 Für klassisches BG1 müsste die Modifikation technisch kompatibel sein mit (das heißt nicht unbedingt, dass alle aufgelisteten Mods untereinander kompatibel sind):
@@ -396,6 +423,16 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 30:
+-improvements (extentions) of Brage's Sword quest is now integrated here.
+-new component: Improved Borda. Was part of "Brage's Sword" is now an own, optional component.
+-removed workaround, BG:EE AR4300 has area script now ("Babysitting" quest).
+-Brage's Sword quest: added XP to solved quest (after trial) and when giving him his sword.
+-Mrs. Kenn from quest "Orklover" should not have items from Tom & Sarah (Babysitting quest).
+-journal entry upon finding Brage's sword should not happen if Brage is dead.
+-"Nashkel Monster": Removed bug where the hatching timer wouldn't start if egg was shown to Halbazzer or Thalantyr before meeting the mage on the road: timer for egg starts when it is handed to the group. If egg is treated or destroyed or hatches, the mage can no longer be moet on the road. -"Nashkel Monster": Reply option to destroy the egg added to Thalantyr's first dialogue so he doesn't have to be spoken to again.
+-"Legal Seacharts": revised flow of dialogues and journal entries.
 
 Version 29:
 -Turkish version added, by İlhan Bilaloğlu.

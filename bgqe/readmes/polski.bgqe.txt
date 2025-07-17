@@ -1,4 +1,5 @@
-			   	Baldur's Gate Mini-Questy i Spotkania
+Since Version 30, the quest extensions by Brage's Redemption mod with additional hints and journal entries are now included in bgqe.
+The mod "Brage's Redemption" (v10 and higher) requires bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party, i.e. if both mods are installed, BGQE has to be installed before Brage's Redemption.			   	Baldur's Gate Mini-Questy i Spotkania
 				   		Modyfikacja 
 				do BGT, BG:EE, lub EET 
 						autorstwa jastey
@@ -12,7 +13,8 @@ Od wydania wersji 9 modu "Rozszerzenie spotkania z Bjorninem" zosta³o przeniesi
 
 Mod nale¿y instalowaæ przed BG1NPC Project. W przeciwnym razie pewne opcje odpowiedzi bêd¹ niewidoczne.
 
-Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a" jako wstêpny warunek przy³¹czenia Brage'a do dru¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. Uwaga: w przypadku instalacji obu modów BGQE musi byæ zainstalowane przed "Brage's Redemption".
+Since Version 30, the quest extensions by Brage's Redemption mod with additional hints and journal entries are now included in bgqe.
+The mod "Brage's Redemption" (v10 and higher) requires bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party, i.e. if both mods are installed, BGQE has to be installed before Brage's Redemption.
  
 
 ZAWARTOŒÆ
@@ -93,12 +95,31 @@ Brage musi zostaæ dostarczony ¿ywy do Nashkel. Modyfikacja dodaje te¿ mo¿liw
 
 Zadanie dotycz¹ce miecza Brage'a rozpoczyna siê od rozmowy z Oublekiem po doprowadzeniu Brage'a ¿ywego do Nashkel.
 
-Uwaga: Modyfikacja "Brage's Redemption" wprowadza takie samo zadanie jak komponent BGQE "Miecz Brage'a", jako wstêpny warunek przy³¹czenia Brage'a do dru¿yny. Zadanie to zostaje rozszerzone przez "Brage's Redemption" o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. BGQE musi byæ zainstalowane przed "Brage's Redemption". BGQE powinno byæ te¿ zainstalowane przed BG1NPC Project, inaczej niektóre z dodanych odpowiedzi Brage'a oraz Bordy siê nie wyœwietl¹.
+Note: Since Version 30, the quest extensions by Brage's Redemption mod with additional hints and journal entries are now included in bgqe.
+The mod "Brage's Redemption" (v10 and higher) requires bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party, i.e. if both mods are installed, BGQE has to be installed before Brage's Redemption.
+Brage's Redemption: The component "Brage's Sword" is a prerequirement for the mod "Brage's Redemption". BGQE needs to be installed before Brage's Redemption.BGQE musi byæ zainstalowane przed "Brage's Redemption". BGQE powinno byæ te¿ zainstalowane przed BG1NPC Project, inaczej niektóre z dodanych odpowiedzi Brage'a oraz Bordy siê nie wyœwietl¹.
 
-***** Spoiler *****
 - Kupiec Borda (postaæ z oryginalnej gry) odgrywa rolê w tym zadaniu. Normalnie mo¿na go spotkaæ w lokacji z wiosk¹ xvartów. W zale¿noœci od stadium zadania gracz mo¿e go spotkaæ w³aœnie tam. Je¿eli gracz spotka³ go ju¿ wczeœniej, dojdzie do drugiego spotkania. 
 - Miecz Brage'a równie¿ odgrywa wa¿n¹ rolê. W pewnym momencie nalezy go pokazaæ Nalinowi. Potem jest ju¿ zbêdny dla fabu³y modu (i mo¿e byæ np. u¿yty przez Thalantyr's Item Upgrade Mod). 
 - Zadanie mo¿e zostaæ ukoñczone przed oczyszczeniem Kopalñ Nashkel. W przypadku, gdy Laryssa, kuzynka Brage'a, zosta³a zabita przy pierwszym spotkaniu, ostatni¹ wskazówkê wymagan¹ do ukoñczenia zadania bêdzie mo¿na znaleŸæ nie wczeœniej ni¿ w namiocie Tazoka.
+
+***** Walkthrough *****
+For the quickest way of solving the quest (especially before going into the mines), the walkthrough is as follows:
+
+- On the map with the Xvart village, talk to the merchant Borda. For the quickest way, you can confront him and kill him to get the needed note and Brage's real sword. This is not necessary to solve the quest before the Nashkel mines, though.
+- Go to Brage. If Borda is not killed, let Laryssa live to be able to solve the quest before clearing the Nashkel mines. Bring Brage to Nashkel alive (either to the temple or to Oublek does not matter)
+- Talk to Oublek and receive the quest "Captain Brage's Guilt".
+- Show the cursed two-handed sword to priest Nalin in Nashkel temple to prove it is cursed.
+- If Borda was not killed yet, meet Laryssa outside the temple and receive a clue about a merchant at the Nashkel Carnival. He is located in the tent far south.
+- Tell Oublek about the cursed sword.
+- If Borda is still alive, go to the potions merchant at the Nashkel Carnival (far south tent) and confront him with the accusations until he tells where to meet Borda.
+- Search for Borda. If not met yet, he will be in the area with the Xvart village. If already met there, go into the Lotus tent in the far west of the Carnival once. Upon leaving the tent, Borda will confront the group. Take the letter and the sword after defeating him.
+- Give Oublek the letter to prove Brage's innocence.
+- Talk to Oublek again to trigger the Brage's trial cutscene.
+- After clearing his name, Brage will be inside the temple in Nashkel. Persuade him to take his real sword.
+- After Brage took his sword and the PC left the temple once and returns, Nalin will address the PC that Brage wants to speak with them. Brage will ask to join and can be taken into the group.
+
+Note: For the case that the merchant Borda was not killed upon the first meeting but Laryssa, Brage's cousin, was killed upon the first confrontation, the last needed quest clue will be found no sooner than Tazok's tent in the bandits' camp.
 
 
 13. Legalne Pozyskanie Map Morskich (nie dla oryginalnego BG1) (bgqe_seacharts)
@@ -133,6 +154,15 @@ Ten komponent zmienia zadanie Cordyra na dwa sposoby:
 - Konflikt mo¿na teraz rozwi¹zaæ bez koniecznoœci zabicia Sil i pozosta³ych sirin.
 
 Komponent jest kompatybilny ze zmianami dotycz¹cymi Sil i jej sirin, które wprowadzaj¹ takie mody jak "BG1 Romantic Encounters" oraz "Lure of Sirine's Call".
+
+
+18. Improved Borda (BGT, BG:EE, EET)
+------
+This component makes the fight with the merchant Borda more difficult. Changes are: wand of sleep (5 charges), potion of invisibility, Potion of power, and a custom mage script that makes use of the items. On the other hand: magic resistance reduced to 0%, removing of the script that lets him initiate dialogue.
+
+These changes were part of the component "Brage's Sword" but are now an own component that can also be installed independently.
+
+The component is compatible with component 12: "Brage's Sword".
 
 
 
@@ -185,7 +215,7 @@ Ta modyfikacja zosta³a utworzona z pomoc¹ instalatora WeiDU i nie nadpisuje is
 
 BG1NPC Project: komponent "Miecz Brage'a" musi byæ instalowany przed BG1NPC Project, ¿eby opcje odpowiedzi dodane przez BGQE wyœwietla³y siê prawid³owo.
 
-Brage's Redemption: komponent "Miecz Brage'a" powinien by¿ zainstalowany przed Brage's Redemption. Mod ten dodaje to samo zadanie, ale rozszerza je o dodatkowe wskazówki i wpisy do dziennika. Zaleca siê zainstalowanie "Brage's Redemption" dla zapoznania siê z now¹ zawartoœci¹, ale nie jest to wymagane do rozegrania zadania. 
+Brage's Redemption: The component "Brage's Sword" is a prerequirement for the mod "Brage's Redemption". BGQE needs to be installed before Brage's Redemption.
 
 Dla klasycznego BG1 mod powinien byæ kompatybilny z (co nie znaczy, ¿e wszystkie wymienione mody s¹ na pewno kompatybilne miêdzy sob¹):
 -BG1 Unfinished Business
@@ -402,6 +432,16 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 30:
+-improvements (extentions) of Brage's Sword quest is now integrated here.
+-new component: Improved Borda. Was part of "Brage's Sword" is now an own, optional component.
+-removed workaround, BG:EE AR4300 has area script now ("Babysitting" quest).
+-Brage's Sword quest: added XP to solved quest (after trial) and when giving him his sword.
+-Mrs. Kenn from quest "Orklover" should not have items from Tom & Sarah (Babysitting quest).
+-journal entry upon finding Brage's sword should not happen if Brage is dead.
+-"Nashkel Monster": Removed bug where the hatching timer wouldn't start if egg was shown to Halbazzer or Thalantyr before meeting the mage on the road: timer for egg starts when it is handed to the group. If egg is treated or destroyed or hatches, the mage can no longer be moet on the road. -"Nashkel Monster": Reply option to destroy the egg added to Thalantyr's first dialogue so he doesn't have to be spoken to again.
+-"Legal Seacharts": revised flow of dialogues and journal entries.
 
 Version 29:
 -Turkish version added, by İlhan Bilaloğlu.
