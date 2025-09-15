@@ -33,7 +33,7 @@
 @31   = ~I cherish the chance to work for atonement, and I thank the gods for the mercy they have shown me. And you, <CHARNAME>. May your path be a peaceful one.~
 @32   = ~I will work hard for this. Never will I forget the effort you had put into giving me this chance.~
 @33   = ~Brage, I found the sword you were supposed to receive. It's a very fine two-handed sword. Take it, it's yours.~
-@34   = ~Brage. This sword is yours, you payed for it. Take it!~
+@34   = ~Brage. This sword is yours, you paid for it. Take it!~
 @35   = ~Brage. The sword is yours, and I want you to take it.~
 @36   = ~Wha-? No. No, I will never take a sword into my hands again. You keep it, good <PRO_MANWOMAN>. It will do much more good in your hands.~
 @37   = ~Why are you tormenting me, <CHARNAME>? Surely you see that I cannot take up a sword again! Sell it if you don't need it, but I will not touch it.~
@@ -87,7 +87,7 @@
 @84   = ~There seems there is nothing to be done, officially, to free him from his guilt. I do thank you for your efforts, though, and for the second chance you granted him. May the gods bless you.~
 @85   = ~There seems to be nothing we can do to save him. I do thank you for your efforts, though. May the gods bless you.~
 @86   = ~I watched your investigations with great interest, <CHARNAME>. I found hope again for my cousin. May the gods bless you.~
-@87   = ~Which brings us to why I am here. I noticed you showed a certain... interest in proving Brage's innocence. You can imagine how this is to my interest, as well. I did a bit of investigation, and indeed found something. I located the drunk who report on the corpse on the road that started this whole ordeal. Through him, I identified others who were on the Way that night. It seems there was a merchant on the roads - one with a very shady reputation.~
+@87   = ~Which brings us to why I am here. I noticed you showed a certain... interest in proving Brage's innocence. You can imagine how this is to my interest, as well. I did a bit of investigation, and indeed found something. I located the drunk who reported on the corpse on the road that started this whole ordeal. Through him, I identified others who were on the Way that night. It seems there was a merchant on the roads - one with a very shady reputation.~
 @88   = ~We found this letter with a fake merchant. It clearly states that the sword Brage ordered was swapped with a cursed one.~
 @89   = ~We found this letter with the bandits in the mines. It clearly states that it was planned to weaken the Nashkel Garrison through some foul trickery with Brage's sword.~
 @90   = ~About Brage...~
@@ -177,7 +177,7 @@
 Lieutenant Bardolan mentioned something about the Commander of the Nashkel garrison being missing. The streets are rife with rumours that something very bad has happened.~
 @1001 = ~Captain Brage's Guilt
 
-One of the Amnish soldiers told me that his Commander Brage went on a mission alone the night he went berserk. The interesting thing about it was that he didn't have is old sword when he started these murders.~
+One of the Amnish soldiers told me that his Commander Brage went on a mission alone the night he went berserk. The interesting thing about it was that he didn't have his old sword when he started these murders.~
 @1002 = ~Captain Brage's Guilt
 
 Unfortunately, nothing that Brage has told me might suggest who had an interest in setting him up.~
