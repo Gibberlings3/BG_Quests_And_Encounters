@@ -52,7 +52,8 @@ END
 IF ~~ calab.7
 SAY @17
 IF ~~ DO ~TakePartyGold(3000) DestroyGold(0) GiveItemCreate("%tutu_var%MISC1C",Player1,1,0,0) SetGlobal("C#q14_CalGetMap","GLOBAL",5)
-EraseJournalEntry(@10102)~ SOLVED_JOURNAL @10103 EXIT
+EraseJournalEntry(@10102)
+EraseJournalEntry(%journalentry_menda1_11_0%)~ SOLVED_JOURNAL @10103 EXIT
 END
 
 IF ~~ calab.8
