@@ -274,7 +274,7 @@
 
 他愿意为每具尸体支付150枚金币。但我并没有兴趣帮助他。不过如果我改变心意，我知道该去哪里找到他。~
 
-@9005	= ~理由正当的尸体。~
+@9005	= ~理由正当的尸体~
 
 
 //////////////////////////////////////////////////////////////////////////////
@@ -283,7 +283,7 @@
 
 //slime quest
 
-@10000  = ~贝尔苟斯特：阿拉娜的邻居有麻烦了。~
+@10000  = ~贝尔苟斯特：阿拉娜的邻居有麻烦了~
 
 //@63 (c#q01001.tra)
 @10001  = ~贝尔苟斯特：阿拉娜的邻居有麻烦了
@@ -334,7 +334,7 @@
 //family treasure: c#q02005.tra
 
 
-@10009  = ~贝尔苟斯特家庭的争吵。~
+@10009  = ~贝尔苟斯特家庭的争吵~
 
 //@4 
 @10010  = ~贝尔苟斯特家庭的争吵
@@ -390,7 +390,7 @@
 /* Babysitting in Nashkel: c#q03008_9_10_11.tra */
 
 
-@10020  = ~那西凯的临时保姆。~
+@10020  = ~那西凯的临时保姆~
 
 //@10
 @10021  = ~那西凯的临时保姆
@@ -433,7 +433,7 @@
 
 我杀掉了一只在那西凯追逐一个小男孩的幼年飞龙……~
 
-@10027  = ~那西凯的怪物。~
+@10027  = ~那西凯的怪物~
 
 //@16 (c#q04001_3_4_5.tra)
 @10028  = ~那西凯的怪物
@@ -445,7 +445,7 @@
 
 那个男孩的家人想让士兵们逮捕我。那个男孩显然说了有关我们第一次见面的谎话，因为他害怕他的父亲会由于“珍奇宠物”的遗失而发火。幸运的是，我终于可以脱身而出了。~
 
-@10030   = ~未知的卵。~
+@10030   = ~未知的卵~
 
 @10031   = ~未知的卵
 
@@ -475,7 +475,7 @@
 /* Fallen Paladin: from c#q05001.tra */
 
 
-@10036   = ~海姆神殿的堕落圣武士。~
+@10036   = ~海姆神殿的堕落圣武士~
 
 //@19
 @10037   = ~海姆神殿的堕落圣武士
@@ -521,7 +521,7 @@
 ////////////////////////////////////////////////
 /* Undying Love: c#q06001_2.tra */
 
-@10045   = ~渔村中受惊的寡妇。~
+@10045   = ~渔村中受惊的寡妇~
 
 //@6
 @10046    = ~渔村中受惊的寡妇
@@ -546,7 +546,7 @@
 
 /* Ork Lover: c#q07001.tra */
 
-@10050   = ~博德之门里的兽人袭击。~
+@10050   = ~博德之门里的兽人袭击~
 
 //@56
 @10051   = ~博德之门里的兽人袭击
@@ -563,7 +563,7 @@
 /* Unexpected Help: c#q08001.tra */
 
 
-@10053   = ~琳达和楚恩爵士。~
+@10053   = ~琳达和楚恩爵士~
 
 //@57
 @10054   = ~琳达和楚恩爵士
@@ -579,7 +579,7 @@
 ///////////////////////////////////////////////////////////
 /* Hamster Business */
 
-@10056   = ~仓鼠悖论。~
+@10056   = ~仓鼠悖论~
 
 @10057   = ~仓鼠悖论
 
@@ -607,7 +607,7 @@
 /////////////////////////////////////////////////////////
 /* Drunk near Beregost Temple */
 
-@10061   = ~贝尔苟斯特神殿附近的醉鬼。~
+@10061   = ~贝尔苟斯特神殿附近的醉鬼~
 
 @10062   = ~贝尔苟斯特神殿附近的醉鬼
 
@@ -626,37 +626,37 @@
 /* @10069 used above */
 
 
-@10100   = ~Legal Sea Chart Sources~
+@10100   = ~海图的合法来源~
 // @25 from calabald.tra
-@10101   = ~Legal Sea Chart Sources
+@10101   = ~海图的合法来源
 
 卡拉汉，乌葛斯胡渣的一位水手，可以帮我搞到曼达斯远行所需要的那张海图。他会在两天后回到乌葛斯胡渣。~
 // @26 from calabald.tra
-@10102   = ~Legal Sea Chart Sources
+@10102   = ~海图的合法来源
 
 乌葛斯胡渣的卡拉汉还要我为那张海图再支付3000枚金币！~
-@10103   = ~Legal Sea Chart Sources
+@10103   = ~海图的合法来源
 
-I received the sea charts from Calahan.~
-@10104   = ~Legal Sea Chart Sources
+我从卡拉汉那里拿到了海图。~
+@10104   = ~海图的合法来源
 
-Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
-@10105   = ~Legal Sea Chart Sources
+住在乌葛斯胡渣海滩附近小屋里的曼达斯提议打捞一艘沉船，他说那是博德安的船。他不仅想骗取行商联盟的文物，还要我去偷远航必需的海图！我绝不会干这种事。一定有其他方法获得海图。~
+@10105   = ~海图的合法来源
 
-Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
-@10106   = ~Legal Sea Chart Sources
+住在乌葛斯胡渣海滩附近小屋里的曼达斯提议打捞一艘沉船，他说那是博德安的船。他不仅想骗取行商联盟的文物，还要我去偷远航必需的海图！我虽然答应了，但这不妨碍我寻找其他无需偷窃就能获得海图的途径。~
+@10106   = ~海图的合法来源
 
-I received the sea charts from Captain Kieres using the help of Aldeth without having to steal them.~
+我在艾德斯的帮助下，我从基里斯船长手里拿到了海图，避免了行窃。~
 //part of @24 from aldeth_seacharts.tra
-@10107   = ~Legal Sea Chart Sources
+@10107   = ~海图的合法来源
 
-Aldeth gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain.~
-@10108   = ~Legal Sea Chart Sources
+艾德斯给了我一枚戒指，使我得以自由出入行商联盟的记账房，并让我带封信给那位船长，以便从他手中拿到那张海图。~
+@10108   = ~海图的合法来源
 
-Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He wants 5000 gold!~
-@10109   = ~Legal Sea Chart Sources
+卡拉汉，乌葛斯胡渣的一位水手，可以帮我搞到曼达斯远行所需要的那张海图。他张口就要5000枚金币！~
+@10109   = ~海图的合法来源
 
-I told Calahan I will not buy the sea charts from him.~
-@10110   = ~Legal Sea Chart Sources
+我告诉卡拉汉，我不会从他那里购买海图。~
+@10110   = ~海图的合法来源
 
-In the end, I stole the sea charts from Captain Kieres.~
+最终，我从基里斯船长那里偷到了海图。~
