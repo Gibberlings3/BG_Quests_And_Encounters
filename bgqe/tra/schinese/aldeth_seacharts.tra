@@ -24,9 +24,9 @@
 @23   = ~祝你好运，我的朋友。喔，如果你确实拿到了博德安的航海日志或者他的文物，并且把它们带回来的话，你就真的帮了行商联盟一个大忙了。如果你办到这件事，我一定会充分地奖赏你！~
 @24   = ~交给行商联盟的博德安文物
 
-我把曼达斯和他对那座岛屿以及博德安遇难船的关注告诉给了行商联盟的艾德思。后者同意这件事看上去很奇怪。
+我把曼达斯和他对那座岛屿以及博德安遇难船的关注告诉给了行商联盟的艾德斯。后者同意这件事看上去很奇怪。
 
-艾德思向我许诺他将帮助我揭开曼达斯的真实意图。他给了我一枚戒指，使我得以自由出入行商联盟的记账房，并从那位船长手中拿到那张海图。~
+艾德斯向我许诺他将帮助我揭开曼达斯的真实意图。他给了我一枚戒指，使我得以自由出入行商联盟的记账房，并从那位船长手中拿到那张海图。~
 @25   = ~谢谢你！很高兴在这些天还能看到值得信任的人。~
 @26   = ~这真是美妙的消息，我的朋友！你都能告诉我些什么？~
 @27   = ~曼达斯是只狼人！他在研究办法把他们的族群带到大陆上来，好传播兽化症！~
@@ -49,9 +49,9 @@
 @44   = ~这件物品将为行商联盟带来极大的荣誉！我感谢你，<CHARNAME>！这些金币是对你功劳的小奖赏。~
 @45   = ~我很荣幸，艾德斯。再见。~
 @46   = ~好吧，至少这些报酬还是合适的。我要上路了。~
-@47   = ~一把博德安的奶油刀！~
+@47   = ~一把博德安的黄油刀！~
 @48   = ~或许有人会嘲笑这件珍品，但我看重它的价值。我会给予你适当的酬劳，我的朋友！~
-@49   = ~博德安的传奇佩剑，还有他的奶油刀！或许有人会嘲笑这件珍品，但我看重它的价值。我会给予你适当的酬劳。我的朋友，你交给我的这些文物将会帮助行商联盟恢复往日的荣光。~
+@49   = ~博德安的传奇佩剑，还有他的黄油刀！或许有人会嘲笑这件珍品，但我看重它的价值。我会给予你适当的酬劳。我的朋友，你交给我的这些文物将会帮助行商联盟恢复往日的荣光。~
 @50   = ~我能做的全部就是感谢你，并给予你丰厚的报酬。~
 @51   = ~博德安的传奇佩剑？这绝对具有极高的历史价值。~
 @52   = ~这里，拿上这些你应得的金币。~
@@ -68,7 +68,7 @@
 @63   = ~嗯，你确实拥有联盟的图章戒指……好吧，那位船长在二楼。过去找他吧！~
 @64   = ~我代表艾德斯·萨森斯达到此而来，船长。这封信是给你的。~
 @65   = ~你就是基里斯船长吗？我代表艾德斯·萨森斯达到此而来，他有信要交给你。~
-@66   = ~看上去我忘记了艾德思要给你的信。我一会儿再回来。~
+@66   = ~看上去我忘记了艾德斯要给你的信。我一会儿再回来。~
 @67   = ~信？你把它给我……（嘀咕）……（嘀咕）……特殊订单……（嘀咕）……立刻向联盟汇报……~
 @68   = ~啊，就是这样了！？萨森斯达长官认为我不足以独自面对那座岛上的人，所以要我把那张海图交给你？……嗯，随便吧，反正海图也是联盟的。就在这里，给你。~
 @69   = ~好吧，你这只旱鸭子！祝你寻宝愉快，哈哈哈！（这种事该找真正的水手来做，而不是随便什么人！）很好，让我看看萨森斯达长官到底有什么新“订单”给我。哼。~
@@ -76,40 +76,40 @@
 @71   = ~现在又如何？~
 @72   = ~没什么。我要走了。~
 @73   = ~呸，快滚吧，旱鸭子。~
-@74   = ~I'm not sure I like where this is going, but please, continue.~
-@75   = ~We did, indeed.~
+@74   = ~我还不太确定是否希望朝这方向发展，但无妨，请继续说。~
+@75   = ~确实，我们有所发现。~
 @76   = ~你都有些什么？~
-@77   = ~I have artifacts from Balduran.~
-@78   = ~Balduran's Artifacts for the Merchants' League
+@77   = ~我拿到了博德安的文物。~
+@78   = ~交给行商联盟的博德安文物
 
-I gave Aldeth Sashenstar a report of what was up with Mendas.~
-@79   = ~Balduran's Artifacts for the Merchants' League
+我向艾德斯·萨森斯达汇报了曼达斯的情况。~
+@79   = ~交给行商联盟的博德安文物
 
-Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
-@80   = ~Balduran's Artifacts for the Merchants' League
+艾德斯·萨森斯达委托我调查那艘沉船，带回所有能找到的博德安文物——尤其是航海日志。他在博德之门西南边的行商联盟。~
+@80   = ~交给行商联盟的博德安文物
 
-Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
-@81   = ~Balduran's Artifacts for the Merchants' League
+艾德斯·萨森斯达仍然对曼达斯的真实意图感兴趣。我应该先去找曼达斯对质，然后回来找他谈谈。~
+@81   = ~交给行商联盟的博德安文物
 
-Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+艾德斯·萨森斯达鼓励我接受曼达斯的提议，以查明他的真实意图。我该同意曼达斯的要求，然后回到博德之门西南边的行商联盟大楼向艾德斯汇报。~
 //@82
 //@83
-@84   = ~Balduran's Artifacts for the Merchants' League
+@84   = ~交给行商联盟的博德安文物
 
-Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
-@85   = ~Balduran's Artifacts for the Merchants' League~
-@86   = ~Balduran's Artifacts for the Merchants' League
+曼达斯声称行商联盟只想利用文物牟利，而他希望将沉船中的文物用于科学研究。也许我该亲自听听行商联盟对这事的看法？我相信能与艾德斯达成令双方都满意的协议。~
+@85   = ~交给行商联盟的博德安文物~
+@86   = ~交给行商联盟的博德安文物
 
-I told Aldeth that I do not have any more items I am willing to sell him.~
-@87   = ~Balduran's Artifacts for the Merchants' League
+我告诉艾德斯，没有什么东西可以卖给他了。~
+@87   = ~交给行商联盟的博德安文物
 
-I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
-@88   = ~Balduran's Artifacts for the Merchants' League
+我把沉船遗址找到的所有博德安文物都卖给了艾德斯。~
+@88   = ~交给行商联盟的博德安文物
 
-I sold Aldeth the logbook of Balduran.~
-@89   = ~Balduran's Artifacts for the Merchants' League
+我把博德安的航海日志卖给了艾德斯。~
+@89   = ~交给行商联盟的博德安文物
 
-I sold Aldeth Balduran's butterknife.~
-@90   = ~Balduran's Artifacts for the Merchants' League
+我把博德安的黄油刀卖给了艾德斯。~
+@90   = ~交给行商联盟的博德安文物
 
-I sold Aldeth Balduran's golden sword.~
+我把博德安之剑卖给了艾德斯。~
