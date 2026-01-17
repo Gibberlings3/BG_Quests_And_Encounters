@@ -315,6 +315,8 @@ Ilhan Bilaloglu: Turkish translation
 
 Miloch: Alpha- und Betatester, Ideen für die Questentwicklung bzw. NPC-Reaktionen, Korrekturlesen der englischen Übersetzung
 
+Neoko5: Russian translation
+
 Pt: Korrekturlesen der deutschen Version
 
 Shai Hulud: proofreader (German)
@@ -349,6 +351,7 @@ v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
 
 Russische Übersetzung: v8 von hawkmoon & arcanecoast.ru team, Vervollständigung für v20 von d0lphin, v22 Überarbeitung und Korrektur von d0lphin. Neue Komponente v23 von yota13, Korrekturlesen von Austin.
+v31 von Neoko5.
 
 Italian translation: Heavy revision of Italian translation and translations of new component for v23 by Coland.
 Updates v12 - 22 completed by ilot, mapnotes by jojo678.
@@ -358,13 +361,13 @@ First translation of the slimequest by Jakkus & Lord Hagen (GIMT).
 Polnische Übersetzung: Aristo and Zed Nocear
 
 Spanish translation:
+full revised by ElGamerViejuno (v31)
 by Melmoth, revised and fixed by davoker (v26)
-full revised by ElGamerViejuno (v27)
 (v8) Excalibur (slime quest), Immortality (proofreading) 
 
 Simplified Chinese:
+updated by yoshimo0417 (v31)
 by lzw104522773 (v27)
-updated by yoshimo0417 (v28)
 
 Turkish translation:
 by İlhan Bilaloğlu (v29)
@@ -423,6 +426,16 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 31:
+-Spider hatch timer increased to 50 ingame days.
+-Brage's Sword: Cursed Berserking Sword +3 (sw2H03.itm) now tagged as critical item.
+-Brage's Sword: Letters and Brage's custom sword now tagged as critical items, too.
+-Brage's Sword: Laryssa should not appear in front of temple if she was killed.
+-Slime Quest: Removed reputation increase if Eltoth was rescued.
+-Spanish version completed and updated, by ElGamerViejuno.
+-Russian version completed and updated, by Neoko5.
+-Simplified Chinese version completed and updated, by yoshimo0417.
 
 Version 30:
 -improvements (extentions) of Brage's Sword quest is now integrated here.
