@@ -227,17 +227,17 @@ InParty("BAELOTH") Detect("BAELOTH") !StateCheck("BAELOTH",CD_STATE_NOTVALID)~ T
 == C#Q04008 @32
 END
 IF ~~ THEN DO ~GiveItemCreate("C#Q04001",[PC],0,0,0)
-SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS)
+SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",FIFTY_DAYS)
 SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
 ActionOverride("C#Q04008",EscapeArea())~ %UNSOLVED_JOURNAL% @10033 EXIT
 
 IF ~InParty("VICONIA") Detect("VICONIA") !StateCheck("VICONIA",CD_STATE_NOTVALID)~ THEN DO ~GiveItemCreate("C#Q04001",[PC],0,0,0)
-SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS)
+SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",FIFTY_DAYS)
 SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
 ActionOverride("C#Q04008",EscapeArea())~ %UNSOLVED_JOURNAL% @10067 EXIT
 
 IF ~InParty("BAELOTH") Detect("BAELOTH") !StateCheck("BAELOTH",CD_STATE_NOTVALID)~ THEN DO ~GiveItemCreate("C#Q04001",[PC],0,0,0)
-SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",TWELVE_DAYS)
+SetGlobalTimer("c#q04_SpiderTimer","GLOBAL",FIFTY_DAYS)
 SetGlobal("C#Q04_WyvernDeliverer","GLOBAL",3)
 ActionOverride("C#Q04008",EscapeArea())~ %UNSOLVED_JOURNAL% @10067 EXIT
 

@@ -6,7 +6,7 @@
 @5    = ~También encontré esta espada y esta daga. Os las podría dar, si queréis.~
 @6    = ~Esta espada también es uno de los artefactos de Balduran. ¿La queréis?~
 @7    = ~Os traigo las cartas de navegación que la Liga tan generosamente nos prestó. ¡Gracias de nuevo!~
-@8    = ~Saludos, Aldeth: ¡encontramos los artefactos de Balduran en la isla!~
+@8    = ~Saludos, Aldeth: ¡Encontramos los artefactos de Balduran en la isla!~
 @9    = ~¿La Liga de Comerciantes estaría interesada en los artefactos de Balduran?~
 @10   = ~Aldeth, ¿podríais mostrarme vuestra mercancía especial?~
 @11   = ~Os deseo mucha suerte con vuestra empresa.~
@@ -24,7 +24,7 @@
 @23   = ~Buena suerte, amigos míos. Ah, y si por casualidad conseguís el libro de registro de Balduran o cualquier otro de sus artefactos, haríais un gran favor a la Liga de Comerciantes si los trajerais aquí. ¡Me encargaré de que seáis recompensados en consecuencia si lo hacéis!~
 @24   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-Le hablé a Aldeth de la Liga de Comerciantes sobre Mendas y sus planes con respecto a la isla del naufragio de Balduran y Aldeth está de acuerdo en que todo parece un poco extraño. Aldeth me prometió su ayuda para averiguar las verdaderas intenciones de Mendas y me entregó un sello que me otorgaría acceso libre a la Tesorería de la Liga Mercantil y una carta para recibir las cartas de navegación del Capitán.~
+Le hablé a Aldeth de la Liga de Comerciantes sobre Mendas y sus planes con respecto a la isla del naufragio de Balduran y Aldeth está de acuerdo en que todo parece un poco extraño. Aldeth me prometió su ayuda para averiguar las verdaderas intenciones de Mendas.~
 @25   = ~¡Os lo agradezco! Es bueno ver gente de confianza hoy en día.~
 @26   = ~¡Maravillosas noticias, amigos míos! ¿Que me podéis decir?~
 @27   = ~¡Mendas era un hombre lobo! ¡Estaba buscando una manera de llevar a su manada a tierra firme y tenía la intención de difundir la licantropía!~
@@ -74,39 +74,44 @@ Le hablé a Aldeth de la Liga de Comerciantes sobre Mendas y sus planes con respe
 @71   = ~¿Y ahora qué?~
 @72   = ~Nada. Seguiremos nuestro camino.~
 @73   = ~Pff, iros entonces, gente de tierra.~
-@74   = ~I'm not sure I like where this is going, but please, continue.~
-@75   = ~We did, indeed.~
+@74   = ~No estoy seguro de que me guste cómo va esto, pero por favor, continuad.~
+@75   = ~Así es, lo hicimos.~
 @76   = ~¿Qué tenéis?~
-@77   = ~I have artifacts from Balduran.~
-@78   = ~Balduran's Artifacts for the Merchants' League
+@77   = ~Tengo artefactos de Balduran.~
+@78   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-I gave Aldeth Sashenstar a report of what was up with Mendas.~
-@79   = ~Balduran's Artifacts for the Merchants' League
+Le di a Aldeth Sashenstar un informe sobre lo que pasaba con Mendas.~
+@79   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
-@80   = ~Balduran's Artifacts for the Merchants' League
+Aldeth Sashenstar me pidió que investigara este naufragio y recuperara todos los artefactos de Balduran que pudiéramos encontrar, especialmente el diario de navegación. Él está en la Liga de Comerciantes, al suroeste de Puerta de Baldur.~
+@80   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
-@81   = ~Balduran's Artifacts for the Merchants' League
+Aldeth Sashenstar sigue interesado en las verdaderas intenciones de Mendas. Debería hablar con él después de enfrentarme a Mendas.~
+@81   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+Aldeth Sashenstar me animó a aceptar la propuesta de Mendas para que podamos descubrir cuáles son sus verdaderas intenciones. Debería aceptar la petición de Mendas e informar a Aldeth en el edificio de la Liga de Comerciantes, en el suroeste de Puerta de Baldur.~
+//@82
+//@83
+@84   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-@84   = ~Balduran's Artifacts for the Merchants' League
+Mendas quiere los artefactos del naufragio para la ciencia, mientras que afirma que la Liga de Comerciantes solo quiere sacar provecho de ellos. ¿Quizás debería escuchar por mí mismo lo que la Liga de Comerciantes piensa de todo esto? Estoy seguro de que puedo llegar a un acuerdo con Aldeth que nos satisfaga a ambos.~ ~Artefactos de Balduran para la Liga de Comerciantes
 
-Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
-@85   = ~Balduran's Artifacts for the Merchants' League~
-@86   = ~Balduran's Artifacts for the Merchants' League
+Mendas quiere los artefactos del naufragio para la ciencia, mientras que afirma que la Liga de Comerciantes solo quiere sacar provecho de ellos. ¿Quizás debería escuchar por mí misma lo que la Liga de Comerciantes piensa de todo esto? Estoy segura de que puedo llegar a un acuerdo con Aldeth que nos satisfaga a ambos.~
+@85   = ~Artefactos de Balduran para la Liga de Comerciantes~
+@86   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-I told Aldeth that I do not have any more items I am willing to sell him.~
-@87   = ~Balduran's Artifacts for the Merchants' League
+Le dije a Aldeth que no tengo más objetos que esté dispuesto a venderle.~ ~Artefactos de Balduran para la Liga de Comerciantes
 
-I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
-@88   = ~Balduran's Artifacts for the Merchants' League
+Le dije a Aldeth que no tengo más objetos que esté dispuesta a venderle.~
+@87   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-I sold Aldeth the logbook of Balduran.~
-@89   = ~Balduran's Artifacts for the Merchants' League
+Le vendí a Aldeth todas las posesiones de Balduran que encontré en el lugar del naufragio.~
+@88   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-I sold Aldeth Balduran's butterknife.~
-@90   = ~Balduran's Artifacts for the Merchants' League
+Le vendí a Aldeth el diario de navegación de Balduran.~
+@89   = ~Artefactos de Balduran para la Liga de Comerciantes
 
-I sold Aldeth Balduran's golden sword.~
+Le vendí a Aldeth el cuchillo de mantequilla de Balduran.~
+@90   = ~Artefactos de Balduran para la Liga de Comerciantes
+
+Le vendí a Aldeth la espada dorada de Balduran.~

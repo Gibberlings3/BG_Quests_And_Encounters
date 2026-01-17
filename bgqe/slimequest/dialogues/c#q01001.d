@@ -740,7 +740,9 @@ END
 
 IF ~~ THEN elto_01
 SAY @56 
-IF ~~ THEN DO ~SetGlobal("C#Q01_EltoFriendly","GLOBAL",1) ReputationInc(1) GiveGoldForce(200) AddexperienceParty(500)~ %SOLVED_JOURNAL% @10003 + elto_02
+IF ~~ THEN DO ~SetGlobal("C#Q01_EltoFriendly","GLOBAL",1)
+//ReputationInc(1)
+GiveGoldForce(200) AddexperienceParty(500)~ %SOLVED_JOURNAL% @10003 + elto_02
 END
 
 CHAIN

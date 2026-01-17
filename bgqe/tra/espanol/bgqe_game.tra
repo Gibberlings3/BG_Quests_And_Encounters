@@ -207,16 +207,13 @@ Requisitos:
 Peso: 12~
 @117  = ~Paleto~
 @118  = ~Mi siervo Mulahey,
-
-vuestro estúpido descuido ha hecho que D. interfiera. Envió una agradable sorpresa al Comandante de Nashkel, quien descubrió que su nueva espada era más especial de lo que esperaba. Las fuerzas de Amn están debilitadas por ahora y no entrarán en los niveles más profundos de la mina. Sin embargo, preparaos para los intrusos, ya que numerosas fuerzas se sienten obligadas a investigar los avistamientos de vuestros estúpidos kobolds. No me volváis a fallar. 
+Vuestro estúpido descuido ha hecho que D. interfiera. Envió una agradable sorpresa al Comandante de Nashkel, quien descubrió que su nueva espada era más especial de lo que esperaba. Las fuerzas de Amn están debilitadas por ahora y no entrarán en los niveles más profundos de la mina. Sin embargo, preparaos para los intrusos, ya que numerosas fuerzas se sienten obligadas a investigar los avistamientos de vuestros estúpidos kobolds. No me volváis a fallar. 
 
 TAZOK~
 @119  = ~Borda,
-
-no nos importa si pones todo vuestro esfuerzo en la tarea que os ordenamos hacer. No es nuestra culpa que el Comandante fuera solo en su investigación y por lo tanto encontrara la nueva espada mientras estaba solo en el camino en lugar de estar dentro del cuartel. Es vuestro descuido y casi lo hecha todo a perder. Tenéis suerte de que ese tonto haya regresado a Nashkel, por lo que el oro que gastamos en esa hoja con su maldición especial no se perderá por completo. No, no recibiréis el segundo importe del pago. Todavía podéis conservar la espada original que se suponía que recibiría Brage. Eso será suficiente compensación. Alegraos de que no os persigamos.
+No nos importa si ponéis todo vuestro esfuerzo en la tarea que os ordenamos hacer. No es nuestra culpa que el Comandante fuera solo en su investigación y por lo tanto encontrara la nueva espada mientras estaba solo en el camino en lugar de estar dentro del cuartel. Es vuestro descuido y casi lo hecha todo a perder. Tenéis suerte de que ese tonto haya regresado a Nashkel, por lo que el oro que gastamos en esa hoja con su maldición especial no se perderá por completo. No, no recibiréis el segundo importe del pago. Todavía podéis conservar la espada original que se suponía que recibiría Brage. Eso será suficiente compensación. Alegraos de que no os persigamos.
 TAZOK~
 @120  = ~Tazok,
-
 Exijo que me pague la segunda mitad de lo que acordamos: el Comandante mató a su propia familia y no a la mitad de la guarnición, no es culpa mía. ¡Las fuerzas de Nashkel están debilitadas y ese fue el trato! Puede enviar cualquier carta para mí a mi contacto en el Carnaval de Nashkel. Encontré a un mercader lo suficientemente desesperado como para comprar algunas de mis pociones especiales, también me entregará cualquier carta.
 
 Borda~
@@ -638,37 +635,39 @@ Salvé al borracho de más comodidades. Por asi decirlo.~
 
 /* @10069 used above */
 
-@10100   = ~Legal Sea Chart Sources~
+@10100   = ~Fuentes legales de cartas náuticas~
 // @25 from calabald.tra
-@10101   = ~Legal Sea Chart Sources
+@10101   = ~Fuentes legales de cartas náuticas
 
-Calahan, un marinero de la Barba de Ulgoth me ha ofrecido traerme las cartas de navegación que necesito para la excursión de Mendas. Volverá a Barba de Ulgoth en dos días.~
+Calahan, un marinero de Barba de Ulgoth me ha ofrecido traerme las cartas de navegación que necesito para la excursión de Mendas. Volverá a Barba de Ulgoth en dos días.~
 // @26 from calabald.tra
-@10102   = ~Legal Sea Chart Sources
+@10102   = ~Fuentes legales de cartas náuticas
 
-Calahan en Ulgoth's Beard quiere tener otras 3,000 piezas de oro por las cartas de navegación.~
-@10103   = ~Legal Sea Chart Sources
+¡Calahan en Barba de Ulgoth quiere tener otras 3.000 piezas de oro por las cartas de navegación!~
+@10103   = ~Fuentes legales de cartas náuticas
 
-I received the sea charts from Calahan.~
-@10104   = ~Legal Sea Chart Sources
+Recibí las cartas náuticas de Calahan.~
+@10104   = ~Fuentes legales de cartas náuticas
 
-Mendas in one of the houses near the beach in Ulgoth's Beard suggested the salvage of a shipwreck he claims is Balduran's. Not only does he want to cheat the League of Merchants out of the artifacts - he also wants me to steal the necessary sea charts from them! There's no way I'm going to do that. There must be another way to get the charts.~
-@10105   = ~Legal Sea Chart Sources
+Mendas, en una de las casas cerca de la playa en Barba de Ulgoth, sugirió el rescate de un naufragio que, según él, es de Balduran. No solo quiere engañar a la Liga de Comerciantes para quedarse con los artefactos, ¡también quiere que les robe las cartas náuticas necesarias! Ni loco voy a hacer eso. Tiene que haber otra forma de conseguir las cartas.~ ~Fuentes legales de cartas náuticas
 
-Mendas in one of the houses near the beach in Ulgoth' Beard proposed a raid of a shipwreck he claims would be Balduran's. Not only does he want to cheat the Merchants' League out of the artifacts - he also wants me to steal the necessary sea charts from them! I agreed but this doesn't mean I can't search for another way to receive the charts without stealing.~
-@10106   = ~Legal Sea Chart Sources
+Mendas, en una de las casas cerca de la playa en Barba de Ulgoth, sugirió el rescate de un naufragio que, según él, es de Balduran. No solo quiere engañar a la Liga de Comerciantes para quedarse con los artefactos, ¡también quiere que les robe las cartas náuticas necesarias! Ni loca voy a hacer eso. Tiene que haber otra forma de conseguir las cartas.~
+@10105   = ~Fuentes legales de cartas náuticas
 
-I received the sea charts from Captain Kieres using the help of Aldeth without having to steal them.~
+Mendas, en una de las casas cerca de la playa de Barba de Ulgoth, propuso saquear un naufragio que, según él, es de Balduran. No solo quiere estafar a la Liga de Comerciantes con los artefactos, ¡también quiere que les robe las cartas náuticas necesarias! Acepté, pero eso no significa que no pueda buscar otra forma de conseguir las cartas sin robarlas.~
+@10106   = ~Fuentes legales de cartas náuticas
+
+Recibí las cartas náuticas del capitán Kieres con la ayuda de Aldeth sin tener que robarlas.~
 //parts of @24 from aldeth_seacharts.tra
-@10107   = ~Legal Sea Chart Sources
+@10107   = ~Fuentes legales de cartas náuticas
 
-Aldeth gave me a ring that should grant free access to the League's Counting House and a letter to receive the sea charts from the Captain.~
-@10108   = ~Legal Sea Chart Sources
+Aldeth me dio un anillo que debería concederme libre acceso a la oficina de contabilidad de la Liga y una carta para recibir las cartas náuticas del capitán.~
+@10108   = ~Fuentes legales de cartas náuticas
 
-Calahan, a sailor in Ulgoth's Beard has offered me to bring me the sea charts I need for Mendas' excursion. He wants 5000 gold!~
-@10109   = ~Legal Sea Chart Sources
+Calahan, un marinero de Barba de Ulgoth, me ha ofrecido traerme las cartas náuticas que necesito para la excursión de Mendas. ¡Quiere 5.000 piezas de oro!~
+@10109   = ~Fuentes legales de cartas náuticas
 
-I told Calahan I will not buy the sea charts from him.~
-@10110   = ~Legal Sea Chart Sources
+Le dije a Calahan que no le compraría las cartas náuticas.~
+@10110   = ~Fuentes legales de cartas náuticas
 
-In the end, I stole the sea charts from Captain Kieres.~
+Al final, le robé las cartas náuticas al capitán Kieres.~

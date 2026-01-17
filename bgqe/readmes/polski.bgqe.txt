@@ -1,3 +1,5 @@
+
+v31 von Neoko5.
 Since Version 30, the quest extensions by Brage's Redemption mod with additional hints and journal entries are now included in bgqe.
 The mod "Brage's Redemption" (v10 and higher) requires bgqe's component "Brage's Sword" as a prerequirement before Brage can be taken into the party, i.e. if both mods are installed, BGQE has to be installed before Brage's Redemption.			   	Baldur's Gate Mini-Questy i Spotkania
 				   		Modyfikacja 
@@ -321,6 +323,8 @@ Melmoth: Spanish translation
 
 Miloch: alpha and beta testing, ideas for quest developpment / NPC-reactions, proofreading of English translation
 
+Neoko5: Russian translation
+
 Pt: proof-reading of German translation
 
 Shai Hulud: proofreader (German)
@@ -353,7 +357,9 @@ French translation: v23 completed by Jazira.
 v22 completed by Jazira (proof readings by Le Marquis and Elisabeth).
 v21 by Le Marquis (des d'Oghmatiques) and Jazira.
  
-Russian translation: New component in v23 by yota13, proofreading by Austin.
+Russian translation: 
+Updated to v31 by Neoko5.
+New component in v23 by yota13, proofreading by Austin.
 v22 revised, corrected, and updated by d0lphin.
 v20 completed by d0lphin.
 v8 by hawkmoon & arcanecoast.ru team.
@@ -366,13 +372,13 @@ First translation of the slimequest by Jakkus & Lord Hagen (GIMT).
 Polish translation: Aristo and Zed Nocear
 
 Spanish translation:
+fully revised by ElGamerViejuno (v31)
 by Melmoth, revised and fixed by davoker (v26)
-full revised by ElGamerViejuno (v27)
 (v8) Excalibur (slime quest), Immortality (proofreading) 
 
 Simplified Chinese:
+updated by yoshimo0417 (v31)
 by lzw104522773 (v27)
-updated by yoshimo0417 (v28)
 
 Turkish translation:
 by İlhan Bilaloğlu (v29)
@@ -432,6 +438,16 @@ MAINTENANCE NOTE: This mod accepts bug fixes, compatibility fixes, and translati
 
 
 HISTORIE
+
+Version 31:
+-Spider hatch timer increased to 50 ingame days.
+-Brage's Sword: Cursed Berserking Sword +3 (sw2H03.itm) now tagged as critical item.
+-Brage's Sword: Letters and Brage's custom sword now tagged as critical items, too.
+-Brage's Sword: Laryssa should not appear in front of temple if she was killed.
+-Slime Quest: Removed reputation increase if Eltoth was rescued.
+-Spanish version completed and updated, by ElGamerViejuno.
+-Russian version completed and updated, by Neoko5.
+-Simplified Chinese version completed and updated, by yoshimo0417.
 
 Version 30:
 -improvements (extentions) of Brage's Sword quest is now integrated here.

@@ -39,6 +39,7 @@ IF
 	OR(2)
 		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
 		Global("C#Q13_BragesSwordQuest","GLOBAL",6)
+	!Dead("laryssa")
 THEN
 	RESPONSE #100
 		SetGlobal("C#q13_LarissaSpawn","MYAREA",1)
@@ -56,6 +57,7 @@ IF
 	OR(2)
 		GlobalLT("C#Q13_BragesSwordQuest","GLOBAL",4)
 		Global("C#Q13_BragesSwordQuest","GLOBAL",6)
+	!Dead("laryssa")
 THEN
 	RESPONSE #100
 		SetGlobal("C#q13_LarissaSpawn","MYAREA",1)

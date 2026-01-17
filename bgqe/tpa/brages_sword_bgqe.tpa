@@ -14,8 +14,8 @@ COPY_EXISTING ~%tutu_var%oublek.cre~ ~override~ EVALUATE_BUFFER
 
 /* remove initial_meeting sound from brage2.cre */
 COPY_EXISTING ~%tutu_var%brage2.cre~ ~override~ EVALUATE_BUFFER 
-SAY INITIAL_MEETING ~~
-SAY SELECT_COMMON1 ~~
+ SAY INITIAL_MEETING ~~
+ SAY SELECT_COMMON1 ~~
 
 
 /* Fix colors - only for BGT */
@@ -30,18 +30,22 @@ ACTION_IF GAME_IS ~bgt~ BEGIN
    WRITE_BYTE 0x32 0 // Hair color
 END
 
+/* make berserker sword a critical item (because it is a quest item now) */
+COPY_EXISTING ~%tutu_var%SW2H03.itm~ ~override~ EVALUATE_BUFFER
+  WRITE_LONG 0x18 (THIS | BIT0)
+
 /* need custom Amnish soldier for cutscene */
 COPY_EXISTING ~%tutu_var%amnis.CRE~ ~override/c#q13amn.CRE~
 SAY INITIAL_MEETING ~~
-    WRITE_ASCII 0x280 ~c#q13amn~ #32 // set DV
-WRITE_EVALUATED_ASCII 0x2cc ~c#q13amn~ #8
+  WRITE_ASCII 0x280 ~c#q13amn~ #32 // set DV
+  WRITE_EVALUATED_ASCII 0x2cc ~c#q13amn~ #8
 
 /* need custom Berrun for cutscene */
 COPY_EXISTING ~%tutu_var%berrun.CRE~ ~override/c#q13brn.CRE~
 SAY INITIAL_MEETING ~~
-    WRITE_ASCII 0x280 ~c#q13brn~ #32 // set DV
-WRITE_EVALUATED_ASCII 0x2cc ~c#q13brn~ #8
-WRITE_EVALUATED_ASCII 0x250 ~~ #8   // erase Class script
+  WRITE_ASCII 0x280 ~c#q13brn~ #32 // set DV
+  WRITE_EVALUATED_ASCII 0x2cc ~c#q13brn~ #8
+  WRITE_EVALUATED_ASCII 0x250 ~~ #8   // erase Class script
 
 /* need custom Oublek for trial cutscene */
 COPY_EXISTING ~%tutu_var%oublek.CRE~ ~override/c#q13oub.CRE~
@@ -70,6 +74,7 @@ EXTEND_BOTTOM ~larys.bcs~ ~bgqe/bragesword/c#q13lar.baf~ EVALUATE_BUFFER
 ACTION_IF GAME_IS ~bg1 totsc~ BEGIN
 /* TotSC */
 COPY_EXISTING ~SW2H02.itm~ ~override/c#q13swd.itm~
+  WRITE_LONG 0x18 (THIS | BIT0)
 SAY NAME1 @110 /* ~Brage's Sword~ */
 SAY NAME2 @111 /* ~Brage's Two-Handed Sword +1~ */
 SAY UNIDENTIFIED_DESC @112 /* ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations. 
@@ -112,6 +117,7 @@ END
 ACTION_IF GAME_IS ~tutu tutu_totsc bgt~ BEGIN
 /* Tutu */
 COPY_EXISTING ~SW2H02.itm~ ~override/c#q13swd.itm~
+  WRITE_LONG 0x18 (THIS | BIT0)
 SAY NAME1 @110 /* ~Brage's Sword~ */
 SAY NAME2 @111 /* ~Brage's Two-Handed Sword +1~ */
 SAY UNIDENTIFIED_DESC @114 /* ~The two-handed sword is a derivative of the long sword.  Weaponsmiths have always looked for ways to improve existing weapons.  In an effort to improve the long sword, the blade was lengthened.  Eventually, the handle had to be extended and two hands became necessary to properly swing the sword.  The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
@@ -156,6 +162,7 @@ END
 ACTION_IF GAME_IS ~bgee eet~ BEGIN
 /* BG:EE */
 COPY_EXISTING ~SW2H02.itm~ ~override/c#q13swd.itm~
+  WRITE_LONG 0x18 (THIS | BIT0)
 SAY NAME1 @110 /* ~Brage's Sword~ */
 SAY NAME2 @111 /* ~Brage's Two-Handed Sword +1~ */
 SAY UNIDENTIFIED_DESC @125 
