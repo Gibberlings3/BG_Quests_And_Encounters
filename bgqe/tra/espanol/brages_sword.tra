@@ -162,8 +162,8 @@
 @150  = ~Me uní a vos para detener a los bandidos, no para actuar como tal. Esta no es la espada que usó Brage.~
 @151  = ~Escuchad, por la razón que sea, pero no os enseñaré la espada de Brage. Dejad de preguntármelo.~
 @152  = ~Ya veo. Es una pena, pero aceptaremos vuestra decisión.~
-@153  = ~<CHARNAME>, you have returned with Brage and handed him to the town's authorities. The whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
-@154   = ~<CHARNAME>, thanks to you, Brage is save inside the temple now. Still, the whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+@153  = ~<CHARNAME>, habéis regresado con Brage y lo habéis entregado a las autoridades de la ciudad. Todo este trágico suceso apunta a que hay magia negra involucrada. Por favor, tened la amabilidad de preguntarle a Oublek sobre esto. Sería una pena llamar asesino a este hombre honesto sin investigar más a fondo lo que realmente ocurrió.~
+@154  = ~<CHARNAME>, gracias a vos, Brage está a salvo dentro del templo. Sin embargo, todo este trágico suceso apunta a que hay magia negra involucrada. Por favor, sed tan amable de preguntarle a Oublek sobre esto. Sería una pena llamar asesino a este hombre honesto sin investigar más a fondo lo que realmente ocurrió.~
 
 
 //------------------
@@ -232,13 +232,13 @@ Las autoridades de Nashkel creen que Brage es el asesino que parece ser. Bueno, 
 @1020 = ~El juicio del Capitán Brage
 
 ¡Brage fue ahorcado! Creo que lo hice bastante bien. Siempre es agradable ver a la 'justicia' tomar su parte. Y sobre todo, ¡ese tonto de Brage estaba agradecido por ello! Debo tener cuidado, o la sensación de calor en mi vientre me dará hipo.~
-@1021 = ~Captain Brage's Guilt~
-@1022 = ~Captain Brage's Guilt
+@1021 = ~El juicio del Capitán Brage~
+@1022 = ~El juicio del Capitán Brage
 
-Nalin thinks the Brage incident should be investigated to prove his innocence. He suggested I whould ask Oublek about what the town's authorities are planning on doing in this regard.~
-@1023 = ~Captain Brage's Guilt
+Nalin cree que el incidente de Brage debería investigarse para demostrar su inocencia. Me sugirió que le preguntara a Oublek qué piensan hacer las autoridades de la ciudad al respecto.~
+@1023 = ~El juicio del Capitán Brage
 
-I confronted a merchant of cursed items and found a letter with clues about a conspiracy to switch out the sword of the Nashkel Commander, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes. I should hold on to them until I figured out how they could be of use in the whole affair.~ 
-@1024 = ~Captain Brage's Guilt
+Me enfrenté a un comerciante de objetos malditos y encontré una carta con pistas sobre una conspiración para cambiar la espada del comandante de Nashkel, junto con una espada de dos manos que parece ser la que el comandante debía recibir originalmente. Estos dos objetos parecen ser pruebas importantes relacionadas con los crímenes del comandante. Debería conservarlos hasta averiguar cómo podrían ser útiles en todo este asunto.~ 
+@1024 = ~El juicio del Capitán Brage
 
-I confronted a mearchant of cursed items and found a letter with clues about a conspiracy to switch Brage's sword, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes.~ 
+Me enfrenté a un comerciante de objetos malditos y encontré una carta con pistas sobre una conspiración para cambiar la espada de Brage, junto con una espada de dos manos que parece ser la que el comandante debía recibir originalmente. Estos dos objetos parecen ser pruebas importantes relacionadas con los crímenes del comandante.~
