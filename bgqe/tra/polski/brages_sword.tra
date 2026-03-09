@@ -1,12 +1,12 @@
 @0    = ~Mo¿e i garnizon w Nashkel nie ma dowódcy, ale to nie znaczy, ¿e nie potrafimy obroniæ miasta!~ 
-@1    = ~Œwietna robota. WIEDZIELIŒMY, ¿e nasz kapitan nie postrada³ zmys³ów. Biedak ma teraz przed sob¹ ciê¿ki czas. Sam nie chcia³bym d³u¿ej ¿yæ, gdybym wiedzia³, ¿e wymordowa³em w³asn¹ rodzinê! W ka¿dym razie dziêkujê wam, ¿e zebraliœcie dowody jego niewinnoœci. Dziêki temu nie bêdzie siê o nim pamiêtaæ jak o szalonym mordercy.~
+@1    = ~Œwietna robota. WIEDZIELIŒMY, ¿e nasz kapitan nie postrada³ zmys³ów. Biedak ma teraz przed sob¹ ciê¿ki czas. Sam nie chcia³bym d³u¿ej ¿yæ ze œwiadomoœci¹, ¿e wymordowa³em w³asn¹ rodzinê! W ka¿dym razie dziêkujê wam, ¿e zebraliœcie dowody jego niewinnoœci. Dziêki temu nie bêdzie siê o nim pamiêtaæ jak o szalonym mordercy.~
 @2    = ~Do licha, wcale bym nie pomyœla³, ¿e Brage rzeczywiœcie postrada³ tylko zmys³y. Wygl¹da wiêc na to, ¿e pozostanie w pamiêci wszystkich jako oszala³y morderca.~ 
-@3    = ~Przepraszam, ¿e tak na was naskoczy³em tam w œrodku. To tylko z powodu naszego dowódcy, kapitana Brage'a. Nie powinniœmy byli pozwalaæ mu iœæ na tê misjê w pojedynkê... Ale on sam nalega³, bo mia³o chodziæ tylko o jakieœ zw³oki le¿¹ce przy drodze. Kiedy jednak w koñcu tam poszliœmy, znaleŸliœmy jedynie potrzaskany wóz, a w œrodku stary miecz kapitana. Pomyœleliœmy wiêc, ¿e wpad³ w jakieœ tarapaty. Potem tu wróciliœmy i... znaleŸliœmy jego rodzinê i... Nie mówcie porucznikowi, ¿e by³em wobec was nieuprzejmy, dobrze? Bez urazy.~
+@3    = ~Przepraszam, ¿e tak na was naskoczy³em tam w œrodku. To tylko z powodu naszego dowódcy, kapitana Brage'a. Nie powinniœmy byli pozwalaæ mu iœæ tam w pojedynkê... Ale on sam nalega³, bo mia³o chodziæ tylko o jakieœ zw³oki le¿¹ce przy drodze. Kiedy jednak w koñcu tam poszliœmy, znaleŸliœmy jedynie potrzaskany wóz, a w œrodku stary miecz kapitana. Pomyœleliœmy wiêc, ¿e wpad³ w jakieœ tarapaty. Potem tu wróciliœmy... znaleŸliœmy jego rodzinê i... Nie mówcie porucznikowi, ¿e by³em wobec was nieuprzejmy, dobrze? Bez urazy.~
 @4    = ~Jesteœ poszukiwany za pope³nienie morderstwa, kapitanie Brage. Jesteœmy tu, bo doprowadziæ ciê przed oblicze sprawiedliwoœci. ChodŸ z nami do Nashkel, gdzie czeka ciê proces.~ 
 @5    = ~Stojê przed tob¹ jako winny. Zabi³em tak wielu ludzi... nie wiedz¹c nawet, dlaczego to robiê. Pójdê z tob¹ do aresztu. Jestem gotów ponieœæ sprawiedliw¹ karê za te straszliwe zbrodnie, które pope³ni³em.~
 @6    = ~Brage, co siê wydarzy³o tamtej nocy?~
 @7    = ~¯egnaj.~ 
-@8    = ~Czy¿ nie doœæ siê o tym mówi? Czy nie dowiedzieliœcie siê ju¿ tego w koszarach i karczmach? Czy nie s³yszeliœcie od Oubleka, co takiego uczyni³em w³asnymi rêkami? Dlaczego zmuszacie mnie, bym opowiada³, jak zaszlachtowa³em moj¹ rodzinê... ukochan¹ ¿onê i córkê. Jak zabi³em moich towarzyszy, którzy przybyli mi na ratunek! Jak wymordowa³em karawanê kupców i rozbi³em ich wóz, kiedy im dopiero co uda³o siê unikn¹æ bandytów? Jak... jak r¹ba³em mieczem nie¿ywego ju¿ cz³owieka, dopóki nic z niego nie zosta³o...~
+@8    = ~Czy¿ nie doœæ siê o tym mówi? Czy nie dowiedzieliœcie siê ju¿ tego w koszarach i karczmach? Czy nie s³yszeliœcie od Oubleka, co takiego uczyni³em w³asnymi rêkami? Dlaczego zmuszacie mnie, bym o tym opowiada³? Jak zaszlachtowa³em moj¹ rodzinê... ukochan¹ ¿onê i córkê. Jak zabi³em moich towarzyszy, którzy przybyli mi na ratunek! Jak wymordowa³em karawanê kupców i rozbi³em ich wóz, kiedy im dopiero co uda³o siê unikn¹æ bandytów? Jak... jak r¹ba³em mieczem nie¿ywego ju¿ cz³owieka, dopóki nic z niego nie zosta³o...~
 @9    = ~Nie zastanawiasz siê, co ciê do tego popchnê³o? Nie podejrzewasz, ¿e mog³o tu chodziæ o coœ wiêcej ni¿ tylko o utratê panowania nad sob¹?~ 
 @10   = ~Mam na myœli to, co wydarzy³o siê przed tym wszystkim.~
 @11   = ~Coœ spowodowa³o, ¿e utraci³eœ kontrolê nad swoimi dzia³aniami niczym jakiœ berserker. Przypominasz sobie, co zdarzy³o siê wczeœniej?~
@@ -15,39 +15,39 @@
 @14   = ~Nie traæcie na mnie swojego czasu, przyjaciele. Nie wart jestem ani chwili waszej uwagi, chyba ¿e chcecie przekl¹æ mnie za to, co uczyni³em.~ 
 @15   = ~Wczeœniej? Nic szczególnego. Jakiœ pijak zg³osi³ nam, ¿e na poboczu drogi le¿¹ zw³oki. Powiedzia³, ¿e trup wygl¹da na kupca i ¿e jest przy nim du¿a iloœæ towarów. Ja... chcia³em zbadaæ to sam. Jeœli towary rzeczywiœcie by tam by³y, to by znaczy³o, ¿e nie mogli tego zrobiæ bandyci. A gdyby by³ to kupiec, na którego czeka³em, to musia³em przynajmniej zadbaæ o to, ¿eby towary zosta³y zabezpieczone. Ju¿ jakiœ czas temu zamówi³em sobie nowy miecz. Przez ten kryzys ¿elazny czeka³em ju¿ doœæ d³ugo na dobry miecz z odleg³ego Waterdeep.~
 @16   = ~I rzeczywiœcie, by³ to ten kupiec, na którego czekaliœmy. Przeszuka³em jego towary i znalaz³em miecz wys³any dla mnie. Wzi¹³em go...~
-@17   = ~Resztê pamiêtam jak przez mg³ê. Przypominam sobie, co zrobi³em, ale dlaczego... dlaczego - tego nie wiem.~
+@17   = ~Resztê pamiêtam jak przez mg³ê. Przypominam sobie, co zrobi³em, ale dlaczego... dlaczego... tego nie wiem.~
 @18   = ~Có¿, jak ju¿ wiemy, miecz by³ przeklêty.~ 
 @19   = ~Hmm, coœ z tym mieczem by³o nie w porz¹dku, na razie przynajmniej tyle mo¿na powiedzieæ.~
 @20   = ~I poza tym niczego sobie nie przypominasz? Niczego szczególnego? Jakiejœ wskazówki, co mog³o siê przydarzyæ temu kupcowi?~ 
 @21   = ~Powiedzia³eœ, ¿e przy zw³okach kupca nadal znajdowa³y siê towary. Kto w takim razie móg³ go zabiæ?~ 
 @22   = ~Nie s¹dzê, ¿eby to coœ wnios³o do sprawy. ¯egnaj.~
-@23   = ~Przyjaciele, gdybyœcie zrobili to wszystko co ja i jeszcze o tym pamiêtali... O przera¿eniu w oczach tych, których kochaliœcie, o ich krzykach, kiedy ich mordowaliœcie! Nie ulega w¹tpliwoœci, ¿e to ja to uczyni³em i wszystko to pamiêtam... jasno i wyraŸnie...~ 
-@24   = ~Przeklêty... To nie zmienia tych przera¿aj¹cych wspomnieñ w mojej g³owie ani moich uczynków, których one dotycz¹.~
+@23   = ~Przyjaciele, gdybyœcie zrobili to wszystko co ja i jeszcze o tym pamiêtali... O przera¿eniu w oczach tych, których kochaliœcie, o ich krzykach, kiedy ich mordowaliœcie! Nie ulega w¹tpliwoœci, ¿e to w³aœnie ja to uczyni³em i wszystko to pamiêtam... jasno i wyraŸnie...~ 
+@24   = ~Przeklêty... To nie zmienia tych przera¿aj¹cych wspomnieñ w mojej g³owie ani czynów, które pope³ni³em.~
 @25   = ~Tak, to, ¿e ten miecz znalaz³ siê w moich rêkach, to by³o z nim nie w porz¹dku!~
-@26   = ~Przez te wszystkie napady bandytów widok zw³ok le¿¹cych na poboczu drogi nie jest niestety niczym niezwyk³ym. Ale jednoczeœnie wóz pe³en towaru... to w istocie by³o dziwne. Przypuszcza³em pocz¹tkowo, ¿e zrobi³y to dzikie zwierzêta, ale potem zauwa¿y³em, ¿e œmiertelne rany pochodzi³y od ostrza. Kupiec zosta³ zamordowany przez bandytów, ale nie zabrali oni towarów.~
-@27   = ~Co nie znaczy, ¿e jeszcze tam s¹. Pierwsz¹ rzecz¹, jak¹ zrobi³em po wziêciu tego przeklêtego miecza w swoje rêce, by³o zniszczenie wszystkiego wokó³ siebie. To, moi przyjaciele, jest wszystko, co mogê wam powiedzieæ.~
+@26   = ~Przez te wszystkie napady bandytów widok zw³ok le¿¹cych przy szlaku nie jest niestety niczym niezwyk³ym. Ale jednoczeœnie wóz pe³en towaru... to w istocie by³o dziwne. Przypuszcza³em pocz¹tkowo, ¿e zrobi³y to dzikie zwierzêta, ale potem zauwa¿y³em, ¿e œmiertelne rany pochodzi³y od ostrza. Kupiec zosta³ zamordowany przez bandytów, ale nie zabrali oni towarów.~
+@27   = ~Co nie znaczy, ¿e d³ugo tam by³y. Pierwsz¹ rzecz¹, jak¹ zrobi³em po wziêciu tego przeklêtego miecza w swoje rêce, by³o zniszczenie wszystkiego wokó³ siebie. To, moi przyjaciele, jest wszystko, co mogê wam powiedzieæ.~
 @28   = ~Proszê, zostawcie mnie w spokoju. Muszê odkupiæ swe grzechy.~
 @29   = ~Szkoda na to waszego czasu. Na mnie czeka ju¿ szubienica i po prawdzie jest to najodpowiedniejsze miejsce dla takiego mordercy jak ja.~
 @30   = ~<CHARNAME>, dziêkujê ci za twoj¹ wiarê we mnie. Teraz rozumiem, ¿e to sprawiedliwa kara - musieæ ¿yæ z ca³¹ t¹ krwi¹ na moich rêkach. Zdam rachunek ze swoich czynów i odpokutujê za nie. Wiele rodzin utraci³o przeze mnie ojców, jedynych ¿ywicieli, ukochanych cz³onków rodziny... a ja postaram siê, ¿eby wszyscy oni otrzymali pieni¹dze... niewielkie kwoty oczywiœcie, tyle, ile bêdê w stanie zdobyæ. Kap³an Nalin zaoferowa³ mi schronienie w tej œwi¹tyni, wiêc tu na razie zostanê. A co bêdzie dalej, zobaczymy.~
-@31   = ~Jestem wdziêczny, ¿e dano mi mo¿liwoœæ pracy, by potem wszystko rozdaæ i odpokutowaæ moje winy. Chwa³a niech bêdzie bogom za ³askê, której mi udzielili. Tobie równie¿ dziêkujê, <CHARNAME>. Oby na twej drodze towarzyszy³ ci pokój.~
-@32   = ~Bêdê pracowa³ bez wytchnienia i rozdam wszystko. Nigdy te¿ nie zapomnê, ¿e umo¿liwiliœcie mi tê szansê.~
+@31   = ~Jestem wdziêczny, ¿e dano mi mo¿liwoœæ pracy. Bêdê móg³ potem wszystko rozdaæ i czêœciowo odpokutowaæ moje winy. Chwa³a niech bêdzie bogom za ³askê, której mi udzielili. Tobie równie¿ dziêkujê, <CHARNAME>. Oby na twej drodze towarzyszy³ ci pokój.~
+@32   = ~Bêdê pracowa³ bez wytchnienia i rozdam wszystko. Nigdy te¿ nie zapomnê, ¿e daliœcie mi tê szansê.~
 @33   = ~Brage, znaleŸliœmy miecz, który mia³eœ faktycznie otrzymaæ. To œwietnie wykonany miecz oburêczny. Proszê, jest twój.~
 @34   = ~Brage, ten miecz nale¿y do ciebie, zap³aci³eœ za niego. WeŸ go.~
 @35   = ~Brage, ten miecz nale¿y do ciebie i chcemy, byœ go wzi¹³.~
 @36   = ~Co...? Nie, nigdy wiêcej nie wezmê miecza do rêki. Zachowajcie go. Wam lepiej siê on przys³u¿y.~
 @37   = ~Dlaczego tak mnie drêczycie?! Z pewnoœci¹ rozumiecie, ¿e nie chcê ju¿ nigdy wiêcej dzier¿yæ miecza! Sprzedajcie go, jeœli nie jest wam potrzebny. Ja go nawet nie dotknê.~
 @38   = ~Ale... dlaczego? Dlaczego na to nalegacie? Czy to nie a¿ nazbyt oczywiste, ¿e nie powinienem ju¿ nigdy dzier¿yæ miecza?~
-@39   = ~Powiedzia³eœ, ¿e chcesz zarobiæ tyle z³ota, ile to mo¿liwe, ¿eby wesprzeæ wdowy i sieroty. Walka i obrona ludzi jest w³aœnie tym, co potrafisz, Brage. Utrzymanie tej œwi¹tyni w czystoœci jest na pewno wa¿nym zadaniem, ale czy nie s¹dzisz, ¿e móg³byœ zarobiæ wiêcej z³ota pracuj¹c jako ¿o³nierz? Albo ochroniarz karawany, jeœli wolisz?~
+@39   = ~Powiedzia³eœ, ¿e chcesz zarobiæ tyle z³ota, ile to mo¿liwe, ¿eby wesprzeæ wdowy i sieroty. Walka i obrona ludzi jest w³aœnie tym, co potrafisz. Utrzymanie tej œwi¹tyni w czystoœci jest na pewno wa¿nym zadaniem, ale czy nie s¹dzisz, ¿e móg³byœ zarobiæ wiêcej z³ota pracuj¹c jako ¿o³nierz? Albo ochroniarz karawany, jeœli wolisz?~
 @40   = ~Sam go sprzedaj, jeœli nie chcesz go zatrzymaæ. Mimo wszystko to twój miecz.~
 @41   = ~No có¿... Na drogach wci¹¿ jeszcze grasuje wielu bandytów, prawda? Móg³bym... móg³bym ochraniaæ podró¿nych...~
 @42   = ~Nie, nie sprzedam go. Nie chcê mieæ korzyœci z ¿adnego miecza. WeŸcie go, wam bardziej siê przyda.~
 @43   = ~No dobrze, jeœli to twoje ostatnie s³owo, to zatrzymamy miecz.~
 @44   = ~Co za wspania³a myœl, ale... nie ufam sobie jeszcze na tyle, ¿eby w ten sposób s³u¿yæ bliŸnim, jeszcze nie teraz. Jednak¿e... wezmê miecz. Helmie, b¹dŸ przy mnie! Wiem, ¿e mówicie prawdê, ale nie jestem jeszcze gotowy, by tak uczyniæ. Pozostanê tutaj i zrobiê, ile bêdê móg³... jeszcze przez jakiœ czas.~
 @45   = ~Dziêkuje ci, <CHARNAME>.~
-@46   = ~A zatem pojmaliœcie Brage'a ¿ywego. Nie obchodzi mnie ta ca³a gadka, ¿e przy jego honorze i prawoœci to jakiœ z³y czarnoksiê¿nik musi byæ odpowiedzialny za jego zachowanie. W mieœcie wylano tyle ³ez z powodu tego mordercy!~
-@47   = ~Wyrok dla niego bêdzie sprawiedliwy i szybki, jeœli weŸmie siê pod uwagê, ¿e wszystko wskazuje na jego winê. Trochê szkoda, ¿e bêdzie musia³ trochê poczekaæ na proces, kiedy wszyscy s¹ tak zajêci innymi sprawami. Choæ z drugiej strony bêdzie mia³ wiêcej czasu, by "przygotowaæ siê" na swój ostatni dzieñ.~
-@48   = ~Ach, ale dlaczego pozwoliliœcie mu ukryæ siê w œwi¹tyni?~
-@49   = ~Kap³an Nalin stwierdzi³ ju¿, ¿e Brage nie znajdowa³ siê pod wp³ywem ¿adnego czaru, gdy go tu dostarczyliœcie. Brage powiedzia³, ¿e da³ wam jakiœ miecz. Mam do was proœbê: zanieœcie miecz do œwi¹tyni i niech Nalin potwierdzi, ¿e nie ma w nim niczego niezwyk³ego. Wreszcie skoñczy siê to gadanie, ¿e tak naprawdê musi byæ niewinny! No bo czego jeszcze trzeba, by wykazaæ, ¿e jest bezwzglêdnym zabójc¹, skoro zamordowa³ w³asn¹ rodzinê i kompanów?~
+@46   = ~A zatem pojmaliœcie Brage'a ¿ywego. Nie obchodzi mnie ta ca³a gadka o jego honorze i prawoœci, i ¿e to jakiœ z³y czarnoksiê¿nik musi byæ odpowiedzialny za jego zachowanie. W mieœcie wylano wiele ³ez z powodu tego mordercy!~
+@47   = ~Wyrok dla niego bêdzie sprawiedliwy i szybki, jeœli wzi¹æ pod uwagê, ¿e wszystko wskazuje na jego winê. Szkoda, ¿e bêdzie musia³ trochê poczekaæ na proces, kiedy wszyscy s¹ tak zajêci innymi sprawami. Choæ z drugiej strony bêdzie mia³ wiêcej czasu, by „przygotowaæ siê” na swój ostatni dzieñ.~
+@48   = ~Ach, ale dlaczego pozwoliliœcie ukryæ mu siê w œwi¹tyni?~
+@49   = ~Kap³an Nalin stwierdzi³ ju¿, ¿e Brage nie znajdowa³ siê pod wp³ywem ¿adnego czaru, gdy go tu dostarczyliœcie. Brage powiedzia³, ¿e da³ wam jakiœ miecz. Mam do was proœbê: zanieœcie miecz do œwi¹tyni i niech Nalin potwierdzi, ¿e nie ma w nim niczego niezwyk³ego. Wreszcie skoñczy siê to gadanie, ¿e tak naprawdê musi byæ niewinny! Czego wiêcej trzeba, by wykazaæ, ¿e jest bezwzglêdnym zabójc¹, skoro zamordowa³ w³asn¹ rodzinê i kompanów?~
 @50   = ~Ach, <CHARNAME>. Dosz³y mnie s³uchy, ¿e próbujecie dowieœæ niewinnoœci Brage'a. Pomogê wam w ka¿dy mo¿liwy sposób, jeœli bêdê w stanie. Pozwólcie mi obejrzeæ ten miecz.~
 @51   = ~(poka¿ w³aœciwy miecz) Proszê.~
 @52   = ~Nie mam go przy sobie.~
@@ -71,7 +71,7 @@
 @70   = ~To przeklêty miecz, Brage. Oto, co dosta³o siê w twoje pe³ne zaufania rêce.~
 @71   = ~Prze... przeklêty? A zatem to inne z³o popchnê³o moje myœli i dzia³ania do zbrodni? Ach, nie rozbudzaj tak nik³ej nadziei w sercu upad³ego wojownika. Nie w sytuacji, gdy mam na rêkach tak wiele krwi.~
 @72   = ~Nik³ej?!~
-@73   = ~To, mój przyjacielu, WSZYSTKO zmienia. To nie d³ugie lata walki sprawi³y, ¿e sta³eœ siê okrutnikiem nieczu³ym na ból i krzywdê. Bêdziesz musia³ odpokutowaæ za swoje czyny, ale nie za powód, dla którego je pope³ni³eœ. Nie, jeœli <CHARNAME> udowodni, ¿e by³y one skutkiem plugawych czarów!~
+@73   = ~To, mój przyjacielu, wszystko zmienia. To nie d³ugie lata walki sprawi³y, ¿e sta³eœ siê okrutnikiem nieczu³ym na ból i krzywdê. Bêdziesz musia³ odpokutowaæ za swoje czyny, ale nie za powód, dla którego je pope³ni³eœ. Nie, jeœli <CHARNAME> udowodni, ¿e by³y one skutkiem plugawych czarów!~
 @74   = ~Przeklêty miecz znalaz³ siê w rêkach niczego nie podejrzewaj¹cego Brage'a. To, moi przyjaciele, wszystko zmienia. To nie d³ugie lata walki sprawi³y, ¿e Brage sta³ siê okrutnikiem nieczu³ym na ból i krzywdê. Bêdzie musia³ odpokutowaæ za swoje czyny, ale nie za powód, dla którego je pope³ni³. Nie, jeœli uda siê wam dowieœæ, ¿e to wszystko skutek plugawych czarów!~
 @75   = ~No có¿... Nie pozostaje mi nic innego, jak tylko wam uwierzyæ. Brage nie pamiêta, jak wygl¹da³ tamten miecz, a potem da³ go wam, zatem...~
 @76   = ~(wzdycha) Nie, nie dostrzegam w nim niczego szczególnego. To zwyk³y miecz oburêczny...~
@@ -80,12 +80,12 @@
 @79   = ~Nie ma tu nic do dodania. To zwyk³y miecz, a Brage jest winny czynów, o które siê go oskar¿a. Tak w³aœnie zaœwiadczê podczas jego procesu.~
 @80   = ~Witajcie. Spotkaliœmy siê ju¿ wczeœniej. Jestem Laryssa, kuzynka Brage'a. Jestem wam bardzo wdziêczna za to, ¿e doprowadziliœcie go ¿ywego do Nashkel. Gdy siê ostatnim razem spotkaliœmy, uciek³am, bo spodziewa³am siê, ¿e albo wy zabijecie mojego kuzyna, albo on was, a ja w ¿adnym wypadku nie chcia³am braæ w tym udzia³u.~
 @81   = ~Ja... rozumiem, dlaczego wydaliœcie go w³adzom.~
-@82   = ~Ja... dziêkujê wam serdecznie za to, ¿e pozwoliliœcie mu schroniæ siê w œwi¹tyni.~
+@82   = ~Ja... dziêkujê wam serdecznie, ¿e pozwoliliœcie mu schroniæ siê w œwi¹tyni.~
 @83   = ~Pope³ni³ te wszystkie zbrodnie, które mu siê zarzuca, i zapewne czeka go za to szubienica. Z ca³¹ pewnoœci¹ mogê jednak powiedzieæ, ¿e nie by³ wtedy przy zdrowych zmys³ach. Jeœli jest coœ, czego jestem pewna, to w³aœnie tego, ¿e jest wiernym, szlachetnym i dobrym cz³owiekiem. Nigdy nie podniós³by broni przeciwko s³abym czy niewinnym. A ju¿ na pewno nie przeciwko w³asnej rodzinie!~
 @84   = ~Nie ma chyba mo¿liwoœci, by oficjalnie oczyœciæ go z zarzutów. Mimo to dziêkujê wam za wasze starania i za to, ¿e dziêki wam otrzyma³ drug¹ szansê. Niech ³aska bogów bêdzie z wami.~
 @85   = ~Nie ma chyba mo¿liwoœci, by oficjalnie oczyœciæ go z zarzutów. Mimo to dziêkujê wam za wasze starania. Niech ³aska bogów bêdzie z wami.~
 @86   = ~Obserwujê wasze dochodzenie z wielkim zainteresowaniem. Daje mi to nadziejê, ¿e dla mojego kuzyna jest jeszcze jakaœ szansa. Niech towarzyszy wam ³aska bogów!~
-@87   = ~I to jest w³aœnie powód, dla którego tu jestem. Jak s³ysza³am, macie interes w tym, ¿eby dowieœæ niewinnoœci Brage'a. Nietrudno siê domyœliæ, ¿e i mnie bardzo na tym zale¿y. Przeprowadzi³am w³asne œledztwo i odnalaz³am cz³owieka, który z³o¿y³ doniesienie o zw³okach le¿¹cych przy drodze. Od niego dowiedzia³am siê o innych osobach, które tamtego wieczora podró¿owa³y t¹ drog¹. Jedn¹ z nich by³ pewien handlarz, który wydaje siê byæ mocno podejrzanym osobnikiem.~
+@87   = ~I to jest w³aœnie powód, dla którego tu jestem. Jak s³ysza³am, staracie siê dowieœæ niewinnoœci Brage'a. Nietrudno siê domyœliæ, ¿e i mnie bardzo na tym zale¿y. Przeprowadzi³am w³asne œledztwo i odnalaz³am cz³owieka, który z³o¿y³ doniesienie o zw³okach le¿¹cych przy drodze. Od niego dowiedzia³am siê o innych osobach, które tamtego wieczora tamtêdy podró¿owa³y. Jedn¹ z nich by³ pewien handlarz, który wydaje siê byæ mocno podejrzanym osobnikiem.~
 @88   = ~ZnaleŸliœmy u pewnego fa³szywego kupca ten list, z którego jednoznacznie wynika, ¿e nowy miecz Brage'a zosta³ podmieniony na przeklêty.~
 @89   = ~ZnaleŸliœmy ten list przy jednym z bandytów w kopalni. Wynika z niego, ¿e os³abienie garnizonu w Nashkel zosta³o ukartowane. W tym celu zaplanowano te¿ pewien podstêp dotycz¹cy nowego miecza Brage'a.~
 @90   = ~Odnoœnie Brage'a...~
@@ -98,13 +98,13 @@
 @97   = ~To jednak nie dowodzi, ¿e kapitan nie wzi¹³ tego miecza celowo, by dokonaæ zbrodni, które byæ mo¿e zaplanowa³!~
 @98   = ~Hmm, tak, to potwierdza, ¿e zaplanowano zamianê miecza Brage'a na przeklêty egzemplarz.~
 @99   = ~Nie dowodzi jednak, ¿e Brage u¿ywa³ przeklêtego miecza w chwili, gdy mordowa³ niewinnych!~
-@100  = ~Mamy zatem dowody na to, ¿e miecz Brage'a by³ przeklêty oraz na to, ¿e pod³o¿ono mu go bez jego wiedzy. Poinformujê o tym naszego burmistrza Ghastkilla, choæ nie podoba mi siê myœl, ¿e taki morderca mo¿e unikn¹æ kary! No dobrze. Kiedy nastêpnym razem pojawicie siê w Nashkel, byæ mo¿e bêdziecie œwiadkami og³oszenia wyroku w sprawie Brage'a.~
+@100  = ~Mamy zatem dowody na to, ¿e miecz Brage'a by³ przeklêty oraz na to, ¿e pod³o¿ono mu go bez jego wiedzy. Poinformujê o tym burmistrza Ghastkilla, choæ nie podoba mi siê myœl, ¿e taki morderca mo¿e unikn¹æ kary! No dobrze, kiedy nastêpnym razem pojawicie siê w Nashkel, byæ mo¿e bêdziecie œwiadkami og³oszenia wyroku w sprawie Brage'a.~
 @101  = ~Och, a wiêc to by³ przeklêty miecz, tak? A pewnie, pewnie... Miecz, którym pope³niono tyle zbrodni mo¿na œmia³o nazwaæ przeklêtym. Szkoda tylko, ¿e nie ma tu ani Brage'a, ani tego miecza, by to sprawdziæ.~
-@102  = ~Hmpf, nie widzê przeciwwskazañ. Ostrzegam tylko, bez ¿adnych g³upstw. I dobrze siê zastanówcie, o co chcecie go zapytaæ, bo drugiej mo¿liwoœci ju¿ nie bêdzie.~
+@102  = ~Hmpf, nie widzê przeciwwskazañ. Ostrzegam tylko, bez ¿adnych g³upstw. I dobrze siê zastanówcie, o co chcecie go zapytaæ, bo drugiej mo¿liwoœci nie bêdzie.~
 @103  = ~Co...~
 @104  = ~<CHARNAME> chce ci zadaæ kilka pytañ, Brage. Opowiedz o tym, co siê wydarzy³o.~
 @105  = ~Ach, <CHARNAME>. Burmistrz Ghastkill jest ju¿ gotowy do przeprowadzenia procesu w sprawie Brage'a.~
-@106  = ~Spodziewaj¹c siê korzystnego wyroku Nalin zgodzi³ siê na przeprowadzenie procesu, a tchórzliwy Brage oœmieli³ siê opuœciæ œwi¹tyniê.~
+@106  = ~Spodziewaj¹c siê korzystnego wyroku, Nalin zgodzi³ siê na przeprowadzenie procesu, a tchórzliwy Brage oœmieli³ siê opuœciæ œwi¹tyniê.~
 @107  = ~Poniewa¿ to wy zebraliœcie materia³ dowodowy, mo¿ecie uczestniczyæ w procesie. ChodŸcie za mn¹.~
 @108  = ~Ach, <CHARNAME>. Dziêkujê wam, ¿e wreszcie zrobiliœcie porz¹dek z tymi plotkami. Szemrano coœ o przeklêtym mieczu, mówiono, ¿e coœ tu siê nie zgadza... Nic z tego, Brage to pospolity morderca i miasto nigdy tego nie zapomni. Ten tchórz mo¿e siê nadal ukrywaæ w œwi¹tyni, ale kiedy tylko z niej wyjdzie, bêdziemy na to przygotowani.~
 @109  = ~Kapitanie Brage, oskar¿enia, jakie przeciwko tobie wniesiono, s¹ bardzo powa¿ne. Oskar¿a siê ciebie o to, ¿e zabi³eœ swoj¹ rodzinê, piêciu z twoich ¿o³nierzy oraz osoby podró¿uj¹ce karawan¹. Co masz do powiedzenia na swoj¹ obronê?~
@@ -114,7 +114,7 @@
 @113  = ~Ja... nie wiem, co powiedzieæ.~
 @114  = ~Wobec tego ja to powiem, Brage. Zosta³eœ oczyszczony z zarzutu umyœlnego zabójstwa. Nie grozi ci ju¿ kara œmierci.~
 @115  = ~Nie... nie. Po tym wszystkim, co uczyni³em... jak móg³bym dalej ¿yæ z takim poczuciem winy...~
-@116  = ~Faktycznie jednak wyrz¹dzi³eœ wiele krzywd. Z mocy powierzonej mi w³adzy zobowi¹zujê ciê do zap³aty odszkodowañ na rzecz rodzin pomordowanych oraz do naprawienia wyrz¹dzonych szkód. Zostajesz wydalony z amnijskiej armii trac¹c przy tym wszelkie tytu³y i zas³ugi. Mo¿esz opuœciæ ten budynek jako wolny cz³owiek, choæ obawiam siê, ¿e pozostaniesz ju¿ na zawsze kimœ biednym i z³amanym. Wspó³czujê ci.~
+@116  = ~Faktycznie jednak wyrz¹dzi³eœ wiele krzywd. Z mocy powierzonej mi w³adzy zobowi¹zujê ciê do zap³aty odszkodowañ na rzecz rodzin pomordowanych oraz do naprawienia wyrz¹dzonych szkód. Zostajesz wydalony z amnijskiej armii, trac¹c przy tym wszelkie tytu³y i zas³ugi. Mo¿esz opuœciæ ten budynek jako wolny cz³owiek, lecz obawiam siê, ¿e pozostaniesz ju¿ na zawsze kimœ biednym i z³amanym. Wspó³czujê ci.~
 @117  = ~Oczywiœcie. Zgodnie ze stwierdzeniem kap³ana Nalina miecz, którego u¿ywa³ oskar¿ony, by³ zwyk³ym mieczem oburêcznym. ¯aden z³y czar nie kierowa³ tym morderc¹!~
 @118  = ~(wzdycha) A zatem to postanowione. Brage, z mocy powierzonej mi w³adzy skazujê ciê na œmieræ przez powieszenie. Przykro mi, ¿e do tego dosz³o.~
 @119  = ~Ja... dziêkujê wam. To bêdzie sprawiedliwa kara... Moja biedna rodzina...~
@@ -122,11 +122,11 @@
 @121  = ~Dziêkujê, ¿e pomogliœcie naszemu kapitanowi. (wzdycha) Co za przygnêbiaj¹ca historia. Jest mi szalenie przykro z powodu jego rodziny i ¿o³nierzy. Garnizon straci³ piêciu ludzi przez ten plugawy urok... Nie, nawet szeœciu, jeœli liczyæ kapitana Brage'a.~
 @122  = ~I to wszystko ukartowali ci sami bandyci, którzy zajêli kopalnie?~
 @123  = ~Spisek, by os³abiæ nasz garnizon! Kto by pomyœla³.~
-@124  = ~W³adze musz¹ siê dowiedzieæ o tych machinacjach. Z chêci¹ pomóg³bym wam odszukaæ ludzi stoj¹cych za tym spiskiem, ale nie mogê opuœciæ mojego posterunku. Poza tym natychmiast dosz³oby do napiêæ pomiêdzy Amnem a Wrotami Baldura, gdyby zauwa¿ono, ¿e amnijski ¿o³nierz myszkuje po Wybrze¿u Mieczy... Mogê wam tylko ¿yczyæ powodzenia w dog³êbnym zbadaniu tej sprawy.~
-@125  = ~Mikstury z odleg³ych krain, hm? Widzisz, szukamy tu poœrednika, kupca "na tyle zdesperowanego", ¿e sprzedaje mikstury pewnego mordercy. Nie zaprzeczysz chyba, ¿e ten opis pasuje do ciebie?~
+@124  = ~W³adze musz¹ siê dowiedzieæ o tych machinacjach. Z chêci¹ pomóg³bym wam odszukaæ ludzi stoj¹cych za tym spiskiem, ale nie mogê opuœciæ mojego posterunku. Poza tym natychmiast dosz³oby do napiêæ pomiêdzy Amn a Wrotami Baldura, gdyby zauwa¿ono, ¿e amnijski ¿o³nierz myszkuje po Wybrze¿u Mieczy... Mogê wam tylko ¿yczyæ powodzenia w dog³êbnym zbadaniu tej sprawy.~
+@125  = ~Mikstury z odleg³ych krain, hm? Widzisz, szukamy tu poœrednika, kupca „na tyle zdesperowanego”, ¿e sprzedaje mikstury pewnego mordercy. Nie zaprzeczysz chyba, ¿e ten opis pasuje do ciebie?~
 @126  = ~Szukamy kupca, który sprzedaje przeklête mikstury i przedmioty. Ostatnio by³ widziany tu, na jarmarku. Twoje mikstury wygl¹daj¹ podobnie jak jego, wiêc lepiej nam to wyt³umacz!~
-@127  = ~Zrób to, a przekonamy siê, kogo z nas zabior¹! Widzisz, szukamy tu poœrednika, kupca "na tyle zdesperowanego", ¿e sprzedaje mikstury pewnego mordercy. Nie zaprzeczysz chyba, ¿e ten opis pasuje do ciebie?~
-@128  = ~Widzisz, szukamy tu poœrednika, kupca "na tyle zdesperowanego", ¿e sprzedaje mikstury pewnego mordercy. Nie zaprzeczysz chyba, ¿e ten opis pasuje do ciebie?~
+@127  = ~Zrób to, a przekonamy siê, kogo z nas zabior¹! Widzisz, szukamy tu poœrednika, kupca „na tyle zdesperowanego”, ¿e sprzedaje mikstury pewnego mordercy. Nie zaprzeczysz chyba, ¿e ten opis pasuje do ciebie?~
+@128  = ~Widzisz, szukamy tu poœrednika, kupca „na tyle zdesperowanego”, ¿e sprzedaje mikstury pewnego mordercy. Nie zaprzeczysz chyba, ¿e ten opis pasuje do ciebie?~
 @129  = ~Co?! Jak œmiecie... Ale... mam na tyle rozs¹dku, by nie prowokowaæ uzbrojonych po zêby ludzi. Tak, posiadam eliksiry od pewnego wêdrownego kupca, ale to przecie¿ nie czyni ze mnie przestêpcy! Moje mikstury nie s¹ przeklête, a jedynie bardzo... specjalne. Poza tym nie znam tego cz³owieka, przysiêgam!~
 @130  = ~Mogê wam o nim powiedzieæ tylko to, ¿e ostatnio by³ w namiocie, w którym ci nieszczêœnicy pal¹ czarny lotos. Nie wiem jednak, czy sam go za¿ywa, czy tylko szuka³ tam nowych klientów.~
 @131  = ~Teraz znowu gdzieœ wyby³. O ile mi wiadomo, to pokierowa³ siê na zachód. Mam w³asne Ÿród³a informacji, szczególnie gdy chodzi o takich w³aœnie nieznajomych dostawców. Moi informatorzy zgubili jego trop gdzieœ na zachód od miasta.~
@@ -137,8 +137,8 @@
 @136  = ~Hmm, podejrzany kupiec w³ócz¹cy siê po lasach. Szukamy pewnego sprzedawcy przeklêtych przedmiotów. Mo¿e to ty?~
 @137  = ~To ty! Ty sprzeda³eœ kapitanowi garnizonu w Nashkel przeklêty miecz!~
 @138  = ~Co mi zarzucacie? No có¿, wygl¹da na to, ¿e trafili mi siê nie klienci, ale dostawcy towarów! Uwa¿ajcie, to nie bêdzie zbyt mi³e.~
-@139  = ~Ha, wystarczaj¹co d³ugo wtr¹caliœcie siê w nie swoje sprawy. Po to dotarliœcie do moich partnerów handlowych, ¿eby mnie wyœledziæ, tak? Moje serdeczne gratulacje, znaleŸliœcie mnie. Musicie jednak wiedzieæ, ¿e nie jestem ca³kowicie bezbronny!~
-@140  = ~Cz³owiek, który udzieli³ mi tych informacji, coœ od niego kupi³, ale tylko dlatego, ¿e wczeœniej widzia³ tego kupca tak¿e na jarmarku. Kupiony przez niego zwój okaza³ siê jednak przeklêty. A poniewa¿ miecz Brage'a tak¿e jest przeklêty, te informacje wydaj¹ mi siê teraz szczególnie interesuj¹ce. Bêdê próbowa³a sama go odszukaæ. Mo¿liwe jednak, ¿e ten trop donik¹d nas nie zawiedzie, zatem wy kontynuujcie wasze œledztwo niezale¿nie od mojego. W imieniu Brage'a dziêkujê wam za wasze wysi³ki!~
+@139  = ~Ha, wystarczaj¹co d³ugo wtr¹caliœcie siê w nie swoje sprawy. Nawet dotarliœcie do moich partnerów handlowych, ¿eby mnie wyœledziæ, tak? Moje serdeczne gratulacje, znaleŸliœcie mnie. Musicie jednak wiedzieæ, ¿e nie jestem ca³kowicie bezbronny!~
+@140  = ~Cz³owiek, który udzieli³ mi tych informacji, coœ od niego kupi³, poniewa¿ wczeœniej widzia³ tego kupca na jarmarku. Kupiony przez niego zwój okaza³ siê jednak przeklêty. A poniewa¿ miecz Brage'a tak¿e jest przeklêty, te informacje wydaj¹ mi siê teraz szczególnie interesuj¹ce. Bêdê próbowa³a sama go odszukaæ. Mo¿liwe jednak, ¿e ten trop donik¹d nas nie zawiedzie, zatem wy kontynuujcie wasze œledztwo niezale¿nie od mojego. W imieniu Brage'a dziêkujê wam za wasze wysi³ki!~
 @141  = ~...Hmm, niczego tu nie widzê... Jesteœcie pewni, ¿e to ten miecz, którego u¿ywa³ Brage, kiedy pope³nia³ zarzucane mu czyny?~
 @142  = ~Psst, <CHARNAME>, nie podoba mi siê ta zabawa. Wiesz, ¿e w ten sposób bawisz siê ¿yciem Brage'a, prawda?~
 @143  = ~Nie, Nalinie, to nie jest w³aœciwy miecz. <CHARNAME>, nie bêdziemy bawiæ siê ¿yciem cz³owieka.~
@@ -151,8 +151,8 @@
 @150  = ~Przy³¹czy³em siê do ciebie, ¿ebyœmy razem polowali na bandytów, a nie zachowywali siê jak oni. To nie jest miecz, którego u¿ywa³ Brage.~
 @151  = ~S³uchaj, mniejsza o powody, ale nie poka¿ê ci ¿adnego miecza. Przestañ o to pytaæ.~
 @152  = ~Rozumiem. Choæ bardzo tego ¿a³ujê, to uszanujê twoj¹ decyzjê.~
-@153  = ~<CHARNAME>, you have returned with Brage and handed him to the town's authorities. The whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
-@154  = ~<CHARNAME>, thanks to you, Brage is save inside the temple now. Still, the whole tragic occurrance screams of evil magics being involved. Please, be so kind and ask Oublek about this. It would be a shame to call this honest man a murderer without any further investigation to what really happened.~
+@153  = ~<CHARNAME>, Brage znajduje siê ju¿ w rêkach w³adz. Trudno jednak nie odnieœæ wra¿enia, ¿e w ca³e to tragiczne zdarzenie wpl¹tana jest jakaœ z³a magia. Proszê ciê, zapytaj Oubleka o dalsze dochodzenie w tej sprawie. Szkoda by by³o skazywaæ uczciwego cz³owieka za morderstwo bez udowodnienia jego winy.~
+@154  = ~<CHARNAME>, dziêki tobie Brage znalaz³ bezpieczne schronienie w œwi¹tyni. Trudno jednak nie odnieœæ wra¿enia, ¿e w ca³e to tragiczne zdarzenie wpl¹tana jest jakaœ z³a magia. Proszê ciê, zapytaj Oubleka o dalsze dochodzenie w tej sprawie. Szkoda by by³o skazywaæ uczciwego cz³owieka za morderstwo bez udowodnienia jego winy.~
 
 
 @1000 = ~Wina kapitana Brage'a
@@ -178,10 +178,10 @@ Wydaje siê, ¿e post¹piliœmy s³usznie dostarczaj¹c Brage'a do œwi¹tyni Helma zami
 Nalin stwierdzi³, ¿e miecz jest przeklêty!~
 @1007 = ~Wina kapitana Brage'a
 
-Nalin stwierdzi³, ¿e miecz Brage'a to zwyczajny miecz oburêczny. Co prawda pokazaliœmy mu nie ten miecz, który trzeba, i to mog³o byæ powodem... ale "sprawiedliwoœci" trzeba czasem dopomóc. Brage zatem z ca³¹ pewnoœci¹ zostanie powieszony.~
+Nalin stwierdzi³, ¿e miecz Brage'a to zwyczajny miecz oburêczny. Co prawda pokazaliœmy mu nie ten miecz, który trzeba, i to mog³o byæ powodem... ale „sprawiedliwoœci” trzeba czasem dopomóc. Brage zatem z ca³¹ pewnoœci¹ zostanie powieszony.~
 @1008 = ~Wina kapitana Brage'a
 
-Nalin stwierdzi³, ¿e miecz Brage'a to zwyczajny miecz oburêczny. Co prawda pokazaliœmy mu nie ten miecz, który trzeba, i to mog³o byæ powodem... ale "sprawiedliwoœci" trzeba czasem dopomóc.~
+Nalin stwierdzi³, ¿e miecz Brage'a to zwyczajny miecz oburêczny. Co prawda pokazaliœmy mu nie ten miecz, który trzeba, i to mog³o byæ powodem... ale „sprawiedliwoœci” trzeba czasem dopomóc.~
 @1009 = ~Wina kapitana Brage'a
 
 Laryssa, kuzynka Brage'a, opowiedzia³a nam o handlarzu sprzedaj¹cym przewa¿nie przeklête przedmioty. Ostatnio widziano go na jarmarku. Moglibyœmy siê tam rozejrzeæ i wypytaæ, czy ktoœ go tam nie widzia³. Mo¿e znajdziemy jakiegoœ innego kupca, który mia³ z nim kontakt? Trudno sobie wyobraziæ, ¿eby próbowa³ sprzedawaæ przeklête przedmioty w mieœcie pod okiem ¿o³nierzy, prêdzej próbowa³by siê wmieszaæ pomiêdzy innych kupców na jarmarku.~
@@ -196,7 +196,7 @@ Co za po¿yteczny zbieg okolicznoœci. Kupiec handluj¹cy przeklêtymi towarami zaat
 ZnaleŸliœmy kupca handluj¹cego przeklêtymi towarami, o którym wspomina³a Laryssa. Trzeba dok³adnie przeszukaæ jego zw³oki. Przy odrobinie szczêœcia mo¿e mieæ przy sobie coœ, co potwierdzi niewinnoœæ Brage'a.~
 @1013 = ~Wina kapitana Brage'a
 
-Listy, które stwierdzaj¹ wprost, ¿e miecz Brage'a zosta³ bez jego wiedzy podmieniony na przeklêty, nie stanowi¹ dla Oubleka wystarczaj¹cego dowodu na niewinnoœæ kapitana. Zamiast tego stwierdzi³ on, ¿e Brage móg³ dokonaæ zabójstw zwyczajnym mieczem. Musimy wiêc pokazaæ miecz Brage'a Nalinowi, ¿eby dowieœæ, ¿e Brage dzia³a³ pod wp³ywem z³ego uroku.~
+Listy, które stwierdzaj¹ wprost, ¿e miecz Brage'a zosta³ bez jego wiedzy podmieniony na przeklêty, nie stanowi¹ dla Oubleka wystarczaj¹cego dowodu na niewinnoœæ. Zamiast tego stwierdzi³ on, ¿e Brage móg³ dokonaæ zabójstw zwyczajnym mieczem. Musimy wiêc pokazaæ miecz Brage'a Nalinowi, aby dowieœæ, ¿e kapitan dzia³a³ pod wp³ywem z³ego uroku.~
 @1014 = ~Wina kapitana Brage'a
 
 Zebraliœmy wszystkie dowody niezbêdne do uniewinnienia Brage'a! Podczas naszej kolejnej wizyty w Nashkel bêdziemy byæ mo¿e œwiadkami og³oszenia wyroku.~
@@ -211,20 +211,20 @@ Kupiec handluj¹cy przeklêtymi przedmiotami chêtnie odwiedza palarniê czarnego lo
 Kupiec handluj¹cy przeklêtymi przedmiotami chêtnie odwiedza palarniê czarnego lotosu na Jarmarku Nashkel.~
 @1018 = ~Wina kapitana Brage'a
 
-Brage zosta³ uznany za winnego pope³nionych morderstw. Powodem mog³o byæ to, ¿e pokazaliœmy Nalinowi niew³aœciwy miecz... Có¿, "sprawiedliwoœci" trzeba czasem dopomóc. Tego, ¿e Brage ukrywa siê w œwi¹tyni, nie da siê co prawda zmieniæ bez rozlewu krwi, ale przynajmniej w oczach ludzi pozostanie morderc¹.~
+Brage zosta³ uznany za winnego pope³nionych morderstw. Powodem mog³o byæ to, ¿e pokazaliœmy Nalinowi niew³aœciwy miecz... Có¿, „sprawiedliwoœci” trzeba czasem dopomóc. Tego, ¿e Brage ukrywa siê w œwi¹tyni, nie da siê co prawda zmieniæ bez rozlewu krwi, ale przynajmniej w oczach ludzi pozostanie morderc¹.~
 @1019 = ~Wina kapitana Brage'a
 
-Brage zosta³ uniewinniony! Dowody dotycz¹ce spisku, który doprowadzi³ do tych smutnych wydarzeñ, znalaz³y uznanie w oczach s¹du. By³y kapitan mo¿e dalej ¿yæ jako wolny cz³owiek, jednak w¹tpiê, ¿eby po tych wszystkich zdarzeniach jego ¿ycie mog³o byæ szczêœliwe. Nalin zaoferowa³ mu miejsce w œwi¹tyni i tam bêdzie mo¿na go znaleŸæ, gdybyœmy chcieli siê z nim widzieæ. ~
+Brage zosta³ uniewinniony! Dowody dotycz¹ce spisku, który doprowadzi³ do tych smutnych wydarzeñ, znalaz³y uznanie w oczach s¹du. By³y kapitan mo¿e dalej ¿yæ jako wolny cz³owiek, w¹tpliwe jednak, ¿eby po tych wszystkich zdarzeniach jego ¿ycie mog³o byæ szczêœliwe. Nalin zaoferowa³ mu miejsce w œwi¹tyni i tam bêdzie mo¿na go znaleŸæ, gdybyœmy chcieli siê z nim widzieæ. ~
 @1020 = ~Wina kapitana Brage'a
 
-Brage zosta³ powieszony! S¹dzê, ¿e dobrze to rozegraliœmy. To pokrzepiaj¹ce ujrzeæ, jak "sprawiedliwoœæ" dochodzi do g³osu. A co najlepsze, ten g³upiec jeszcze by³ nam za to wdziêczny! Muszê uwa¿aæ, bo to przyjemne mrowienie w brzuchu w koñcu przerodzi siê w zgagê.~
+Brage zosta³ powieszony! S¹dzê, ¿e dobrze to rozegraliœmy. To pokrzepiaj¹ce ujrzeæ, jak „sprawiedliwoœæ” dochodzi do g³osu. A co najlepsze, ten g³upiec jeszcze by³ nam za to wdziêczny! Muszê uwa¿aæ, bo to przyjemne mrowienie w brzuchu w koñcu przerodzi siê w zgagê.~
 @1021 = ~Wina kapitana Brage'a~
 @1022 = ~Wina kapitana Brage'a
 
-Nalin thinks the Brage incident should be investigated to prove his innocence. He suggested I whould ask Oublek about what the town's authorities are planning on doing in this regard.~
+Zdaniem Nalina sprawê zabójstw pope³nionych przez Brage'a nale¿y dog³êbnie zbadaæ. Podejrzewa on, ¿e wp³yw na zachowanie kapitana mog³a mieæ z³a magia. Poprosi³ nas, abyœmy zapytali Oubleka, jakie dzia³ania w tej sprawie zamierzaj¹ podj¹æ w³adze miasta.~
 @1023 = ~Wina kapitana Brage'a
 
-I confronted a merchant of cursed items and found a letter with clues about a conspiracy to switch out the sword of the Nashkel Commander, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes. I should hold on to them until I figured out how they could be of use in the whole affair.~ 
+Po konfronatacji z handlarzem przeklêtych przedmiotów zdobyliœmy list, w którym mowa jest o zorganizowanej zamianie miecza dowódcy garnizonu w Nashkel. Kupiec mia³ te¿ przy sobie miecz oburêczny - prawdopodobnie ten, który kapitan Brage zamówi³ w Waterdeep. Te dwie rzeczy wygl¹daj¹ na bardzo wa¿ne. Powinniœmy je zatrzymaæ do czasu, a¿ bêdzie wiadomo, jaki zrobiæ z nich u¿ytek.~ 
 @1024 = ~Wina kapitana Brage'a
 
-I confronted a mearchant of cursed items and found a letter with clues about a conspiracy to switch Brage's sword, along with a two-handed sword that seems to be the one the commander was supposed to receive originally. These two items look like they would be important pieces of evidence related to the commander's crimes.~ 
+Po konfronatacji z handlarzem przeklêtych przedmiotów zdobyliœmy list, w którym mowa jest o zorganizowanej zamianie miecza dowódcy garnizonu w Nashkel. Kupiec mia³ te¿ przy sobie miecz oburêczny - prawdopodobnie ten, który kapitan Brage zamówi³ w Waterdeep. Te dwie rzeczy wygl¹daj¹ na bardzo wa¿ne.~ 

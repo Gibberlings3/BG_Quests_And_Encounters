@@ -21,11 +21,11 @@
 @20 = ~To dobrze, ¿e mi o tym donieœliœcie. Obawiam siê, ¿e jedyny sposób, by dowiedzieæ siê czegoœ wiêcej o tym tajemniczym Mendasie, to zgodziæ siê na jego gierkê. Pokazaliœcie ju¿ nie raz, ¿e mo¿na wam zaufaæ, a tym sposobem byæ mo¿e dowiemy siê prawdy o rzeczywistych planach Mendasa. Dajcie mi znaæ, jeœli mogê wam w tym jakoœ pomóc.~ 
 @21 = ~Powiedzia³, ¿e zatroszczy siê o statek, ale by tam dop³yn¹æ, bêd¹ mu potrzebne mapy morskie znajduj¹ce siê w posiadaniu Ligi Kupieckiej... Twierdzi, ¿e ma je przy sobie jeden z twoich kapitanów, który w³aœnie zatrzyma³ siê w Domu Rozliczeniowym Ligi Kupieckiej.~ 
 @22 = ~W rzeczy samej... Proszê, weŸcie ten sygnet. Zapewni wam wstêp do Domu Rozliczeniowego bez wszczynania alarmu. A ten list dajcie kapitanowi Kieresowi. Bywa doœæ... trudny, ale z tym pismem powinno obyæ siê bez problemów.~
-@23 = ~Powodzenia, przyjaciele. Aha, a jeœli rzeczywiœcie znaleŸlibyœcie na wraku tego statku dziennik pok³adowy Baldurana b¹dŸ inne nale¿¹ce do niego rzeczy, to wyœwiadczycie Lidze Kupieckiej ogromn¹ przys³ugê przynosz¹c je do mnie. Zapewniam, ¿e nie po¿a³ujecie!~ 
+@23 = ~Powodzenia, przyjaciele. Aha, a jeœli rzeczywiœcie znaleŸlibyœcie na wraku tego statku dziennik pok³adowy Baldurana b¹dŸ inne nale¿¹ce do niego rzeczy, to wyœwiadczycie Lidze Kupieckiej ogromn¹ przys³ugê, przynosz¹c je do mnie. Zapewniam, ¿e nie po¿a³ujecie!~ 
 @24 = ~Artefakty Baldurana dla Ligi Kupieckiej
 
 Opowiedzieliœmy Aldethowi z Ligi Kupieckiej o tajemniczym Mendasie i jego planach podró¿y na wyspê, na której znajduje siê statek Baldurana. Sprawa wyda³a siê mu równie podejrzana co nam. 
-Aby dowiedzieæ siê wiêcej o rzeczywistych powodach tej wyprawy, Aldeth obieca³ sw¹ pomoc i da³ nam wszelkie dostêpne œrodki, byœmy mogli uzyskaæ wstêp do Domu Rozliczeniowego i otrzymaæ mapy morskie. ~
+Aby dowiedzieæ siê wiêcej o rzeczywistych powodach tej wyprawy, Aldeth obieca³ sw¹ pomoc i da³ nam wszelkie dostêpne œrodki, byœmy mogli uzyskaæ wstêp do Domu Rozliczeniowego i otrzymaæ mapy morskie.~
 @25 = ~Dziêkujê wam! Dobrze widzieæ, ¿e s¹ jeszcze uczciwi ludzie.~
 @26 = ~To wspaniale, moi przyjaciele! A teraz mówcie, czego siê dowiedzieliœcie?~
 @27 = ~Mendas by³ w rzeczywistoœci wilko³akiem! Chcia³ umo¿liwiæ swojemu ludowi osiedlenie siê na kontynencie, by szerzyli tu likantropiê!~
@@ -61,7 +61,7 @@ Aby dowiedzieæ siê wiêcej o rzeczywistych powodach tej wyprawy, Aldeth obieca³ s
 @57 = ~Poczekajcie! A co z Mendasem? Odkryliœcie, czego tak naprawdê chcia³?~
 @58 = ~Nie, jeszcze nie, ale widzieliœmy siê z jednym z jego ludzi. Coœ tu jest wyraŸnie nie w porz¹dku.~
 @59 = ~Musimy ponownie siê tym zaj¹æ.~
-@60 = ~Chcieliœmy najpierw dostarczyæ ci artefakty, ¿eby nie wpad³y w ³apy tego 'Mendasa'!~
+@60 = ~Chcieliœmy najpierw dostarczyæ ci artefakty, ¿eby nie wpad³y w ³apy tego „Mendasa”!~
 @61 = ~Zatem jak najszybciej udajcie siê do niego i zmuœcie do mówienia! Musimy siê dowiedzieæ, o co mu chodzi.~
 @62 = ~Jesteœmy tu z upowa¿nienia Aldetha Sashenstara. Mamy wiadomoœæ dla kapitana Kieresa.~
 @63 = ~Hmm, macie przy sobie sygnet Ligi Kupieckiej... W porz¹dku, kapitan jest na piêtrze. A teraz idŸcie!~
@@ -75,40 +75,40 @@ Aby dowiedzieæ siê wiêcej o rzeczywistych powodach tej wyprawy, Aldeth obieca³ s
 @71 = ~Co znowu?~
 @72 = ~Nic. Ju¿ sobie idziemy.~
 @73 = ~Pff, zatem precz st¹d, szczury l¹dowe.~
-@74   = ~I'm not sure I like where this is going, but please, continue.~
-@75   = ~We did, indeed.~
+@74   = ~Chyba nie podoba mi siê, dok¹d to zmierza, ale mów dalej.~
+@75   = ~W rzeczy samej.~
 @76   = ~Co takiego macie?~
-@77   = ~I have artifacts from Balduran.~
-@78   = ~Balduran's Artifacts for the Merchants' League
+@77   = ~Mamy artefakty ze statku Baldurana.~
+@78   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-I gave Aldeth Sashenstar a report of what was up with Mendas.~
-@79   = ~Balduran's Artifacts for the Merchants' League
+Poinformowaliœmy Aldetha, jak potoczy³a siê sprawa z Mendasem.~
+@79   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-Aldeth Sashenstar asked me to investigate this shipwreck and bring back all of Balduran's artifacts we might find - especially the logbook. He is in the Merchant's League in southwest Baldur's Gate.~
-@80   = ~Balduran's Artifacts for the Merchants' League
+Aldeth Sashenstar poprosi³ nas o zbadanie wraku i przywiezienie wszystkich pami¹tek po Balduranie, w szczególnoœci jego dziennika pok³adowego. Bêdzie nas oczekiwa³ w budynku Ligi Kupieckiej, w po³udniowozachodniej dzielnicy miasta.~
+@80   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-Aldeth Sashenstar is still interested in Mendas' true intentions. I should talk to him after I confronted Mendas.~
-@81   = ~Balduran's Artifacts for the Merchants' League
+Aldeth Sashenstar jest ciekaw prawdziwych intencji Mendasa. Powinniœmy z nim porozmawiaæ po skonfrontowaniu siê z Mendasem.~
+@81   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-Aldeth Sashenstar encouraged me to accept Mendas' proposal so we can learn what his true intentions are. I should agree to Mendas' request and report back to Aldeth in the Merchants' League buidling in southwest Baldur's Gate.~
+Aldeth Sashenstar zachêci³ nas do zaakceptowania propozycji Mendasa, byœmy mogli poznaæ jego prawdziwe intencje. Powinniœmy zgodziæ siê na udzia³ w wyprawie, a po powrocie zg³osiæ siê do Aldetha w budynku Ligi Kupieckiej, w po³udniowozachodniej dzielnicy miasta.~
 //@82
 //@83
-@84   = ~Balduran's Artifacts for the Merchants' League
+@84   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-Mendas wants the artifacts from the shipwreck for science, while claiming that the Merchants' League only wants to profit from them. Maybe I should hear for myself what the Merchants' League thinks of the whole thing? I'm sure I can come to an agreement with Aldeth that will satisfy us both.~
-@85   = ~Balduran's Artifacts for the Merchants' League~
-@86   = ~Balduran's Artifacts for the Merchants' League
+Mendas chce zdobyæ artefakty z wraku statku dla celów naukowych, twierdz¹c jednoczeœnie, ¿e Lidze Kupieckiej zale¿y wy³¹cznie na zysku. Mo¿e nale¿a³oby te¿ poznaæ stanowisko Ligi? Z pewnoœci¹ dojdziemy z Aldethem do porozumienia, które bêdzie zadowalaj¹ce dla wszystkich.~
+@85   = ~Artefakty Baldurana dla Ligi Kupieckiej~
+@86   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-I told Aldeth that I do not have any more items I am willing to sell him.~
-@87   = ~Balduran's Artifacts for the Merchants' League
+Poinformowaliœmy Aldetha, ¿e nie mamy ju¿ wiêcej artefaktów na sprzeda¿.~
+@87   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-I sold Aldeth all of Balduran's possessions I found at the shipwreck site.~
-@88   = ~Balduran's Artifacts for the Merchants' League
+Aldeth kupi³ od nas wszyskie przedmioty nale¿¹ce do Baldurana, jakie znaleŸliœmy we wraku statku.~
+@88   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-I sold Aldeth the logbook of Balduran.~
-@89   = ~Balduran's Artifacts for the Merchants' League
+Aldeth kupi³ od nas dziennik pok³adowy Baldurana.~
+@89   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-I sold Aldeth Balduran's butterknife.~
-@90   = ~Balduran's Artifacts for the Merchants' League
+Aldeth kupi³ od nas nó¿ do mas³a Baldurana.~
+@90   = ~Artefakty Baldurana dla Ligi Kupieckiej
 
-I sold Aldeth Balduran's golden sword.~
+Aldeth kupi³ od nas z³oty miecz Baldurana.~

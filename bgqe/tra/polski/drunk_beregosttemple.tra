@@ -2,7 +2,7 @@
 @1  = ~W ¿adnym wypadku nie powinniœmy zostawiaæ go tu samego.~
 @2  = ~(wzdycha) W jego stanie rzeczywiœcie mo¿e go uznaæ za potrzebuj¹cego pomocy. Ca³a ta zw³oka nie by³aby konieczna, gdyby ten fajt³apa tyle nie wypi³.~ 
 @3  = ~Chyba nie myœlisz dotykaæ tej karykatury cz³owieka? Niech tu le¿y. Wilki siê nim zajm¹ i k³opot z g³owy.~
-@4  = ~Zawsze chcia³em zabiæ lisza, ale œmieræ jakiegoœ idioty te¿ mnie ucieszy. To by by³a jedyna okazja spróbowaæ siê z kimœ, kto podaje siê za lisza. Przypuszczam jednak, ¿e bym siê rozczarowa³.~ 
+@4  = ~Zawsze chcia³em zabiæ lisza, ale œmieræ jakiegoœ idioty te¿ mnie ucieszy. To by by³a jedyna okazja spróbowaæ siê z kimœ, kto podaje siê za lisza. Chyba jednak bym siê rozczarowa³.~ 
 @5  = ~<CHARNAME>, j-jesteœmy odpowiedzialni z-za tego zagubionego cz³owieka.~
 @6  = ~Pomó¿my temu pijakowi wróciæ do cywilizacji, zanim podepcze tu jakieœ rzadkie zio³a albo wypró¿ni na nie swój ¿o³¹dek.~
 @7  = ~Chocia¿ smród tego cz³owieka jest dla Minsca i Boo nie do zniesienia, to jesteœmy pewni, ¿e nie powinien on zostawaæ tu sam.~ 
@@ -14,7 +14,7 @@
 @13 = ~Wygl¹da na to, ¿e siê zgubi³eœ, g³upcze.~
 @14 = ~Niochocho! Nisz nie jeszt niebesz... pieszne dla LICZA! Nie ruszajsie go... sznaszy mnie!~ 
 @16 = ~Szego sznowu chszesie? Nisz wiêszej wam nie powiem!~
-@17 = ~Niedaleko st¹d, na pó³nocny zachód od œwi¹tyni le¿y jakiœ pijaczyna. Mo¿e lepiej zabraæ go w jakieœ bezpieczne miejsce.~
+@17 = ~Niedaleko st¹d, na pó³nocny zachód od œwi¹tyni le¿y jakiœ pijaczyna. Mo¿e lepiej zabraæ go w bezpieczne miejsce.~
 @18 = ~Ach, zapewne Polus... No tak, obawiam siê, ¿e znowu robi z siebie g³upca. Wiem, ¿e potrafi byæ bardzo oporny, gdy chce mu siê pomóc.~
 @19 = ~Bêdziemy mieæ na niego oko. Nie martwcie siê, damy sobie radê. Dziêki za powiadomienie. Prawdopodobnie damy mu po prostu siê tam wyspaæ, dopilnujemy jednak, ¿eby nic mu siê nie sta³o.~ 
 @21 = ~Noo, to dopiero -hik- ciêszka szakiewka.~
@@ -27,7 +27,7 @@
 @28 = ~Och, Minsc nie jest pewien, czy to by³o m¹dre oddawaæ temu cz³owiekowi ca³e nasze z³oto. Boo myœli podobnie, ale cieszy siê, ¿e <CHARNAME> nie odda³ mu te¿ naszych krakersów.~ ~Och, Minsc nie jest pewien, czy to by³o m¹dre oddawaæ temu cz³owiekowi ca³e nasze z³oto. Boo myœli podobnie, ale cieszy siê, ¿e <CHARNAME> nie odda³a mu te¿ naszych krakersów.~
 @29 = ~Ech, wiesz, móg³bym œpiewaæ ballady o twojej hojnoœci i uczynnoœci nawet bez rozdawania ca³ego naszego z³ota.~
 @30 = ~Dok¹d to ja mia³em iszæ...~
-@31 = ~A mo¿e my "zajmiemy siê" tym pijusem i oszczêdzimy wilkom roboty?~
+@31 = ~A mo¿e my „zajmiemy siê” tym pijusem i oszczêdzimy wilkom roboty?~
 @32 = ~Jak to siê sta³o, ¿e dot¹d nie natkn¹³ siê na wilki? Czy raczej, ¿e wilki nie natknê³y siê na niego?~
 @33 = ~Ach, có¿ za zasmucaj¹cy widok. Ale myœl o tym, ¿e temu cz³owiekowi mog³oby siê coœ staæ przez nasze zaniechanie, jest jeszcze gorsza. Wilki normalnie nie podchodz¹ tak blisko œwi¹tyni, jednak on nie bêdzie tu zbyt d³ugo bezpieczny.~
 @34 = ~Nie mo¿emy jednak zabraæ go ze sob¹. Mo¿e powinniœmy poprosiæ o pomoc w œwi¹tyni.~
@@ -36,4 +36,4 @@
 @37 = ~Jesteœ kompletnie pijany. Zobaczê, czy nie znajdzie siê ktoœ chêtny, by siê tob¹ zaj¹æ.~
 @38 = ~Szo? Nienie, nie moszesie... eeech...~
 @39 = ~Mo¿e trzeba trochê tob¹ potrz¹sn¹æ?~
-@40 = ~Chyba powinniœmy siê tob¹ "zaj¹æ", g³upcze! Przygotuj siê na œmieræ!~
+@40 = ~Chyba powinniœmy siê tob¹ „zaj¹æ”, g³upcze! Przygotuj siê na œmieræ!~
