@@ -11,7 +11,7 @@
 @10  = ~Ehm... Masz na myœli ten szlam? To jest... by³ twój s¹siad Eltold?~
 @11  = ~Obawiam siê, ¿e tak. Patrzcie... (Kobieta podaje wam pust¹ butelkê.)~
 @12  = ~Znalaz³am tê pust¹ butelkê na pod³odze. Obawiam siê, ¿e on chyba coœ za¿y³...~ 
-@13  = ~(leko siê rumieni) Normalnie nie wchodzê tak po prostu do jego domu, ale byliœmy umówieni, a kiedy nie otwiera³, zaczê³am siê martwiæ...~
+@13  = ~(lekko siê rumieni) Normalnie nie wchodzê tak po prostu do jego domu, ale byliœmy umówieni, a kiedy nie otwiera³, zaczê³am siê martwiæ...~
 @14  = ~Proszê, rozejrzyjcie siê. Jestem pewna, ¿e Eltold nie mia³by nic przeciwko temu. Mo¿e znajdziecie coœ, co wam pomo¿e. I b³agam, znajdŸcie sposób, aby go odmieniæ!~ 
 @15  = ~ZnaleŸliœcie ju¿ coœ?~
 @16  = ~Niestety, jeszcze nie, przykro mi.~
@@ -61,8 +61,8 @@
 @60  = ~Kupi³em antidotum, ale nie mam go teraz przy sobie. Jak tylko je przyniosê, uratujê Eltolda.~ ~Kupi³am antidotum, ale nie mam go teraz przy sobie. Jak tylko je przyniosê, uratujê Eltolda.~
 @61  = ~Co... co wyœcie zrobili! Alanna... Alanna, ona nie ¿yje!~
 @62  = ~Co... co wyœcie zrobili! Eltold! Zabiliœcie Eltolda!~
-@68  = ~Tak, znaleŸliœmy tutaj ten dziennik, w którym wspomniany jest niejaki "Tulbor". Nie wiesz przypadkiem, kto to mo¿e byæ?~
-@69  = ~"Tulbor"...? Nie, niestety. Nigdy nie s³ysza³am o takiej osobie. Ale b³agam, nie ustawajcie w poszukiwaniach!~
+@68  = ~Tak, znaleŸliœmy tutaj ten dziennik, w którym wspomniany jest niejaki „Tulbor”. Nie wiesz przypadkiem, kto to mo¿e byæ?~
+@69  = ~Tulbor...? Nie, niestety. Nigdy nie s³ysza³am o takiej osobie. Ale b³agam, nie ustawajcie w poszukiwaniach!~
 @70  = ~Zrobiê to. Nie martw siê!~
 @71  = ~Zaczekaj chwilê. A co mi za to wpadnie?~
 @72  = ~Niestety, nie mam na to czasu.~
@@ -77,7 +77,7 @@
 @81  = ~Hmm... wielka szkoda. Zrobi³em wszystko, co by³o mo¿na... mniej wiêcej.~ ~Hmm... wielka szkoda. Zrobi³am wszystko, co by³o mo¿na... mniej wiêcej.~
 @82  = ~(Sk³am) To by³o tylko przygotowanie w³aœciwego czaru. Teraz musisz go poca³owaæ, aby dosz³o do przemiany.~
 @83  = ~Nic wiêcej nie mogê zrobiæ.~
-@84  = ~Ta "powinna zadzia³aæ"? Co w takim razie mia³a uczyniæ tamta? Ach, wszystko jedno. Nie mam innego wyjœcia jak wypróbowaæ tak¿e ten œrodek.~
+@84  = ~Ta „powinna zadzia³aæ”? Co w takim razie mia³a uczyniæ tamta? Ach, wszystko jedno. Nie mam innego wyjœcia jak wypróbowaæ tak¿e ten œrodek.~
 @85  = ~Obawia³am siê, ¿e to w³aœnie powiesz. Zabiorê go zatem do mojego rodzinnego domu, jak to zamierza³am przed waszym przybyciem, i sama poszukam ratunku.~
 @86  = ~(Podaj w³aœciwe antidotum) Zaczekaj chwilê. U¿yj tej mikstury, powinna zadzia³aæ.~
 @87  = ~(Sk³am) Zaczekaj! To by³o tylko przygotowanie w³aœciwego czaru. Teraz musisz go poca³owaæ, aby dosz³o do przemiany.~
@@ -120,7 +120,7 @@
 @127 = ~Co za okropna myœl - przemierzaæ œwiat jako szlam! (Nic nie jest bardziej poni¿aj¹ce od tego. Nic!) Na szczêœcie ten tutaj jest nikim i niczym. Niewa¿ne, jak to siê skoñczy, nie bêdzie to mia³o istotnych konsekwencji.~
 @128 = ~Musimy go w ogóle gdzieœ dotykaæ, co? <CHARNAME>, jeœli tak, to ty to zrobisz, dobrze?~
 @129 = ~Pfuuj, nie zbli¿ê siê do tego czegoœ!~
-@130 = ~To "coœ" jest cz³owiekiem, Skie.~
+@130 = ~To „coœ” jest cz³owiekiem, Skie.~
 @131 = ~Mam na myœli to, ¿e bêdê siê trzyma³a z dala od tego cz³owieka... ach, nie, mam na myœli tê rzecz! Bêdê siê trzyma³a z dala tak d³ugo, jak ten cz³owiek pozostaje tym czymœ!~
 @132 = ~Nie zapominajmy, ¿e ten szlam to raczej doœæ zamo¿ny cz³owiek. Powinniœmy otrzymaæ za to niez³¹ nagrodê.~
 @133 = ~Interesowa³oby mnie rozwi¹zanie tej zagadki, jako ¿e wydaje siê ona niebanalna. Muszê przyznaæ, ¿e nigdy wczeœniej nie zetkn¹³em siê z czymœ takim. Co za szczêœliwy zbieg okolicznoœci dla tych, powiedzmy, prostszych umys³ów, ¿e przychodzimy im z pomoc¹.~
@@ -160,8 +160,8 @@
 @167 = ~Có¿, spróbowaliœmy niepewnego sposobu i wszystko posz³o Ÿle. Nie jestem z nas dumny.~
 @168 = ~Och, teraz to... jakoœ tak... niezbyt mi siê podoba.~
 @169 = ~Ufam, ¿e w przysz³oœci bêdziesz wykorzystywaæ czas rozs¹dniej.~
-@170 = ~<CHARNAME>, wiadomo by³o, ¿e ta mikstura mo¿e nie zadzia³aæ! Nie ¿yczê sobie, abyœmy "pomagali" komuœ w taki sposób. Jeœli nie masz zamiaru udzieliæ pomocy, to nastêpnym razem lepiej jej odmówmy i niech ten ktoœ szuka osoby, która rzeczywiœcie pragnie pomóc!~
-@171 = ~"Skutki uboczne", ha! Wiedzia³em, ¿e ta mikstura nie zadzia³a tak, jak on mówi³.~
+@170 = ~<CHARNAME>, wiadomo by³o, ¿e ta mikstura mo¿e nie zadzia³aæ! Nie ¿yczê sobie, abyœmy „pomagali” komuœ w taki sposób. Jeœli nie masz zamiaru udzieliæ pomocy, to nastêpnym razem lepiej jej odmówmy i niech ten ktoœ szuka osoby, która rzeczywiœcie pragnie pomóc!~
+@171 = ~„Skutki uboczne”, ha! Wiedzia³em, ¿e ta mikstura nie zadzia³a tak, jak on mówi³.~
 @172 = ~<CHARNAME>, nie popieram sposobu, w jaki pomagasz ludziom w potrzebie!~
 @173 = ~T-to nie by³o m-mi³e zakoñczenie.~
 @174 = ~<CHARNAME>, czy zawsze okazujesz innym tak ma³o troski? W takim razie wola³bym, abyœ zaj¹³ siê czym innym.~ ~<CHARNAME>, czy zawsze okazujesz innym tak ma³o troski? W takim razie wola³bym, abyœ zajê³a siê czym innym.~
@@ -210,7 +210,7 @@
 @217 = ~Ach, taki widok naprawdê raduje serce. ¯yczê wszystkiego dobrego im obojgu. Miejmy nadziejê, ¿e nigdy wiêcej nie bêd¹ musieli uciekaæ siê do magii, by bardziej siê sobie podobaæ.~
 @218 = ~Nadal dr¿ê na myœl o tej scenie mi³oœci. ChodŸmy st¹d czym prêdzej.~
 @219 = ~Czy naprawdê tylko ja siê zastanawiam, jak szlam mo¿e po³kn¹æ miksturê?~
-@220 = ~"Po³kn¹æ" t-to z³e okreœlenie, Imoen. Szlam wci¹ga m-miksturê do wewn¹trz i j¹, m-mo¿na powiedzieæ, wch³ania.~
+@220 = ~„Po³kn¹æ” t-to z³e okreœlenie, Imoen. Szlam wci¹ga m-miksturê do wewn¹trz i j¹, m-mo¿na powiedzieæ, wch³ania.~
 @221 = ~Szczerze mówi¹c, to nie mam ochoty d³u¿ej siê zastanawiaæ, w jaki sposób szlam trawi po¿ywienie.~
 @222 = ~Nie b-bêdê siê na ten temat d-d³u¿ej rozwodzi³.~
 @223 = ~¯eby tak kpiæ sobie z tej damy... ¯adna piêkna kobieta nie powinna byæ obiektem drwin.~
@@ -219,7 +219,7 @@
 @226 = ~Ci ludzie s¹ zdesperowani. Nie wolno nam zostawiæ ich samym sobie.~
 @227 = ~<CHARNAME>, upewnij siê, ¿e to bêdzie siê nam op³aca³o. Przynajmniej spróbuj.~
 @228 = ~Dobra kobieto! Jeœli jeszcze nie zauwa¿y³aœ, to tam w rogu masz wielki ZACIEK!~
-@229 = ~Nie patrz tak na mnie, jestem ¿artownisiem! MUSZÊ robiæ sobie ¿arty, choæby kiepskie.~
+@229 = ~Nie patrz tak na mnie, jestem ¿artownisiem! MUSZÊ sobie robiæ ¿arty, choæby kiepskie.~
 @230 = ~Co? <CHARNAME>, chyba nie myœlisz... Dobra pani, <CHARNAME> ma poczucie humoru, które trudno czasem poj¹æ. Poca³owanie tego szlamu nie wyzwoli ¿adnej dodatkowej mocy, a tylko wystawi ciê na poœmiewisko.~
 @231 = ~Hmf. To by³a kompletna strata czasu!~
 @232 = ~<CHARNAME>, nasz udzia³ w tym wszystkim bardzo mnie zawstydza.~
